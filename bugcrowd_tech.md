@@ -1,24 +1,26 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-02-12 16:48:43.634197
+Updated 2023-02-12 19:08:25.433863
+Filtered with: sort[]=promoted-desc&vdp[]=false
+Note: Out of scope targets is not filtered out
 
 ## Gearset: Managed Bug Bounty
 ### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
+- ```PostgreSQL```
+- ```C#```
+- ```.NET```
+- ```ReactJS```
+- ```AWS```
+- ```TypeScript```
+- ```Redux```
+- ```Amazon S3```
+- ```Javascript```
 
 
 ### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
+- ```API Testing```
+- ```C#```
+- ```.NET```
 
 
 ### api.gearset.com
@@ -26,57 +28,57 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Indeed
 ### https://*.indeed.com
-- ReactJS
-- nginx
+- ```ReactJS```
+- ```nginx```
 
 
 ### https://www.indeed.com
 
 
 ### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://analytics.indeed.com
-- nginx
-- Website Testing
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://resumes.indeed.com
-- nginx
-- Website Testing
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://m5.apply.indeed.com
@@ -86,24 +88,24 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://apis.indeed.com/graphql
-- GraphQL
+- ```GraphQL```
 
 
 ### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://*.indeed.tech
 
 
 ### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
+- ```Browser Extension```
 
 
 ### https://employer.simplyhired-staging.com
@@ -124,153 +126,101 @@ Updated 2023-02-12 16:48:43.634197
 ### https://t.indeed.com (Open Redirects)
 
 
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
 ## Aruba Networks Product Ongoing BB
 ### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
+- ```Network Testing```
+- ```WiFi```
+- ```Binary Analysis```
+- ```Hardware Testing```
 
 
 ### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
+- ```Network Testing```
+- ```WiFi```
+- ```Hardware Testing```
+- ```Desktop Application Testing```
 
 
 ### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
+- ```Network Testing```
+- ```API Testing```
+- ```Binary Analysis```
 
 
 ### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
+- ```Network Testing```
+- ```Linux```
+- ```Website Testing```
+- ```Hardware Testing```
 
 
 ### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
+- ```Network Testing```
+- ```Linux```
+- ```IoT```
+- ```Website Testing```
+- ```Binary Analysis```
 
 
 ### *central.arubanetworks.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
+- ```Network Testing```
+- ```API Testing```
+- ```AWS```
+- ```Binary Analysis```
 
 
 ### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
+- ```Network Testing```
+- ```Perl```
+- ```Hardware Testing```
 
 
 ### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
+- ```Network Testing```
+- ```Linux```
+- ```AWS```
+- ```Binary Analysis```
+- ```Hardware Testing```
 
 
 ### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
+- ```Website Testing```
 
 
 ## ThousandEyes Bug Bounty
 ### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
+- ```Java```
+- ```Vue.js```
+- ```Angular```
+- ```Website Testing```
 
 
 ### https://www.thousandeyes.com/
-- Java
-- Moment.js
-- jQuery
-- Website Testing
+- ```Java```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://api.thousandeyes.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### ThousandEyes Enterprise Agent
-- Linux
+- ```Linux```
 
 
 ### ThousandEyes Endpoint Agent 
-- Windows
+- ```Windows```
 
 
 ### https://blog.thousandeyes.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://app.thousandeyes.com/sfdc/community
@@ -278,103 +228,103 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Redox
 ### 10x.redoxengine.com
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://testapi.redoxengine.com
-- API Testing
+- ```API Testing```
 
 
 ### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
+- ```API Testing```
+- ```ExpressJS```
+- ```HTTP```
+- ```NodeJS```
 
 
 ### testftp.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://docs.redoxengine.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://fhir.redoxengine.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://explore.redoxengine.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
+- ```Wordpress```
+- ```Website Testing```
 
 
 ### https://help.redoxengine.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://dashboard.redoxengine.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### candi.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### api.redoxengine.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Contact forms on https://www.redoxengine.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://sso.redoxengine.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://jobs.lever.co/redoxengine/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://redox.slack.com
@@ -386,813 +336,15 @@ Updated 2023-02-12 16:48:43.634197
 ### https://docs.redoxengine.com/feedback
 
 
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
 ## Step Public Applications
 ### Step Android App
-- Finance
-- Android
+- ```Finance```
+- ```Android```
 
 
 ### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Bureau of Indian Affairs 
-### *.bia.gov
-
-
-## The Bureau of Indian Education Vulnerability Disclosure Program
-### www.bie.edu
+- ```Finance```
+- ```iOS```
 
 
 ## Rarible
@@ -1212,205 +364,205 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### rarible.com
-- Cloudflare CDN
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### api.rarible.com
-- API Testing
+- ```API Testing```
 
 
 ### admin.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### test.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### temp.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### static.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### logging.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### log.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### links.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### fs.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### data.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ### beta.rarible.com
-- ReactJS
-- Website Testing
-- Kotlin
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
+- ```NodeJS```
 
 
 ###  https://rari.foundation
-- Cloudflare CDN
-- ReactJS
-- Website Testing
-- Kotlin
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Website Testing```
+- ```Kotlin```
 
 
 ## Chia Network
 ### Chia core
-- Cryptography
-- Static Code Analysis
-- Cryptocurrency
-- Python
+- ```Cryptography```
+- ```Static Code Analysis```
+- ```Cryptocurrency```
+- ```Python```
 
 
 ### Chia desktop
-- Cryptography
-- Static Code Analysis
-- Cryptocurrency
+- ```Cryptography```
+- ```Static Code Analysis```
+- ```Cryptocurrency```
 
 
 ### Chia Plotter
-- Cryptography
-- Cryptocurrency
-- Python
+- ```Cryptography```
+- ```Cryptocurrency```
+- ```Python```
 
 
 ### Chia BLS Signatures
-- Cryptography
-- Static Code Analysis
-- Cryptocurrency
+- ```Cryptography```
+- ```Static Code Analysis```
+- ```Cryptocurrency```
 
 
 ### Chia Verifiable Delay Functions (VDF)
-- Static Code Analysis
-- Cryptocurrency
-- Python
+- ```Static Code Analysis```
+- ```Cryptocurrency```
+- ```Python```
 
 
 ## Ibotta
 ### Chrome Extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### http://market.android.com/details?id=com.ibotta.android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### http://itunes.apple.com/us/app/ibotta/id559887125
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://content-server.ibotta.com/graphql
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://api.ibotta.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://api.ibops.net
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://api.int.ibops.net
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://api.int.ibops.net/customer-loyalty-service
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ###  https://api.ibops.net/ad-management
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Ibotta App Data & Memory
 
 
 ### Web v2
-- Website Testing
+- ```Website Testing```
 
 
 ### http://ibotta.com
-- Wordpress
-- AWS
-- Bootstrap
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```AWS```
+- ```Bootstrap```
+- ```MySQL```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://backend.ibotta.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### http://sampling.ibotta.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://backend.ibotta.com/duplicate_receipt_moderation
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ## Registrar.gov: Bug Bounty Program
@@ -1431,659 +583,155 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### www.verisign.com (Website; non-DNS related)
-- Java
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### *.youcouldbe.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.domainscope.com
-- Website Testing
+- ```Website Testing```
 
 
 ### blog.verisign.com (Website; non-DNS related)
-- Website Testing
+- ```Website Testing```
 
 
 ### *.namestudioforsocial.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.namestudio.com
-- Website Testing
+- ```Website Testing```
 
 
 ### 64.6.64.6, 64.6.65.6 (DNS Service: DNS related)
 
 
-## LifterLMS
-### LifterLMS Core Plugin
-- ReactJS
-- Wordpress
-- jQuery
-- PHP
-- Javascript
-
-
-### Advanced Course Add-on Plugins (Assignments and Quizzes)
-- Wordpress
-- jQuery
-- PHP
-- Javascript
-
-
-### Advanced Videos Add-On Plugin
-- Wordpress
-- jQuery
-- PHP
-- Javascript
-
-
-### Custom Fields Add-On Plugin
-- ReactJS
-- Wordpress
-- PHP
-- Javascript
-
-
-### Distributed REST API
-- Wordpress
-- PHP
-
-
-### Groups Add-On Plugin
-- ReactJS
-- Wordpress
-- jQuery
-- PHP
-
-
-### Payment Gateway Add-On Plugins (Stripe, PayPal, and Authorize.Net)
-- Paypal
-- Stripe
-- ReactJS
-- Wordpress
-- jQuery
-- PHP
-
-
-### PDFs Add-On Plugin
-- ReactJS
-- Wordpress
-- PHP
-
-
-### Social Learning Add-On Plugin
-- Wordpress
-- jQuery
-- PHP
-- Javascript
-
-
-### https://lifterlms.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://myliftersite.com
-- API Testing
-- Wordpress
-- PHP
-
-
-### *.lifterlms.com
-
-
-### lifterlms.com/xmlrpc.php
-
-
-### *.lifterlms.com/xmlrpc.php
-
-
-### *.myliftersite.com
-
-
-### academy.lifterlms.com
-
-
-### dev.lifterlms.com
-
-
-### test.lifterlms.com
-
-
-## Telstra VDP
-### https://www.telstra.com.au/
-- Java
-- Lodash
-- Website Testing
-
-
-### https://www.telstra.com/
-- Java
-- Lodash
-- Website Testing
-
-
-### https://purple.telstra.com/
-- Java
-- Lodash
-- Website Testing
-
-
-### My Telstra Android App
-- Android
-
-
-### My Telstra iOS app
-- iOS
-
-
-### Telstra APIs
-- API Testing
-
-
-### *.mobile.telstra.com
-
-
-## Blackbaud Vulnerability Disclosure Program
-### http://community.blackbaud.com/
-
-
-### https://app.blackbaud.com/hostnet
-
-
-### https://*.blackbaud.com/*
-- ASP.NET
-- Website Testing
-- Microsoft IIS
-
-
-### https://*.justgiving.com/
-- Website Testing
-
-
-### https://*.blackbaudhosting.com/*
-- Website Testing
-
-
-### https://*.blackbaudondemand.com/*
-- Website Testing
-
-
-### https://*.blackbaud.net/*
-- Website Testing
-
-
 ## NiceHash
 ### NiceHash Mining Platform - Public web
-- Java
-- Apache Kafka
-- PostgreSQL
-- JSON
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Apache Kafka```
+- ```PostgreSQL```
+- ```JSON```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### NiceHash Mining Platform - Private web
-- Java
-- Apache Kafka
-- PostgreSQL
-- JSON
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Apache Kafka```
+- ```PostgreSQL```
+- ```JSON```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### NiceHash Shop web
-- Java
-- Apache Kafka
-- PostgreSQL
-- JSON
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Apache Kafka```
+- ```PostgreSQL```
+- ```JSON```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### NiceHash Platform API
-- API Testing
-- PostgreSQL
-- JSON
+- ```API Testing```
+- ```PostgreSQL```
+- ```JSON```
 
 
 ### NiceHash Android Application
-- Android
-- ReactNative
+- ```Android```
+- ```ReactNative```
 
 
 ### NiceHash iOS Application
-- ReactNative
-- iOS
+- ```ReactNative```
+- ```iOS```
 
 
 ### NiceHashMiner - Mining client
-- C#
+- ```C#```
 
 
 ### NiceHashQuickMiner - Mining client
-- C#
+- ```C#```
 
 
 ### NHOS - Mining operating system
-- Linux
+- ```Linux```
 
 
 ### NiceX Crypto Exchange - Public web
-- Java
-- Apache Kafka
-- PostgreSQL
+- ```Java```
+- ```Apache Kafka```
+- ```PostgreSQL```
 
 
 ### NiceX Crypto Exchange - Private web
-- Java
-- Apache Kafka
-- PostgreSQL
+- ```Java```
+- ```Apache Kafka```
+- ```PostgreSQL```
 
 
 ### NiceX Crypto Exchange - API
-- API Testing
-- PostgreSQL
-- JSON
-
-
-## StackPath
-### Any host owned by StackPath
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### Any product/service offered by StackPath
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### control.stackpath.com
-- API Testing
-- GraphQL
-- Recon
-- Website Testing
-
-
-### cp.maxcdn.com
-- API Testing
-- Recon
-- Website Testing
-
-
-### login.serverdensity.io
-- API Testing
-- Recon
-- Website Testing
-
-
-### striketracker.highwinds.com
-- API Testing
-- Recon
-- Website Testing
-
-
-### *.stackpath.com - Any host or services
-- AWS
-- Recon
-- Amazon S3
-- jQuery
-- Website Testing
-- DNS
-
-
-### *.stackpath.net - Any host or services
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.stackpath.dev - Any host or services
-- API Testing
-- Recon
-- Website Testing
-
-
-### *.highwinds.com - Any host or services
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.maxcdn.com - Any host or services
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.maxcdn.net  - Any host or services
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.serverdensity.com - Any host or services
-- API Testing
-- Recon
-- Website Testing
-
-
-### <your-instance>.serverdensity.io
-- API Testing
-- Website Testing
-
-
-### store.stackpath.com
-- Website Testing
-
-
-### <customer>.serverdensity.com
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.stackpathdns.com
-- Recon
-- Website Testing
-- DNS
-
-
-### *.hwcdn.net
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-### *.stackpathedge.net
-- API Testing
-- Recon
-- Website Testing
-- DNS
-
-
-## HostGator VDP
-### www.hostgator.com
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
-
-
-### vps*.hosgator.com
-
-
-### Anything not explicitly listed as in scope.	
-
-
-### *.staff.hostgator.com
-
-
-## Seagate VDP
-### *.seagate.com
-- API Testing
-- Recon
-- Website Testing
-
-
-### api.seagate.com
-
-
-### apistore.seagate.com
-
-
-### apps1.seagate.com
-
-
-### appstore.seagate.com
-
-
-### appstore-us.seagate.com
-
-
-### blog.lacie.com
-
-
-### blog.seagate.com
-
-
-### blogext.seagate.com
-
-
-### bloglacieext.seagate.com
-
-
-### branding.seagate.com/
-
-
-### charitychina.seagate.com
-
-
-### codereview.seagate.com
-
-
-### collective.lacie.com
-
-
-### computex.seagate.com
-
-
-### datapulse.seagate.com
-
-
-### drivetrust.seagate.com
-
-
-### eapps.seagate.com
-
-
-### embargoed.seagate.com
-
-
-### fs1.sts.seagate.com
-
-
-### intelligent.media.seagate.com
-
-
-### is.seagate.com
-
-
-### jira.corp.lyveminds.com
-
-
-### jts.seagate.com
-
-
-### jts-ce.seagate.com
-
-
-### jtslco.seagate.com
-
-
-### labs.seagate.com
-
-
-### lacie.com
-
-
-### lyvedogfood.seagate.com
-
-
-### lyveint.seagate.com
-
-
-### lyvetst.seagate.com
-
-
-### mapps.seagate.com
-
-
-### maxtor.seagate.com
-
-
-### meterserver.seagate.com
-
-
-### mybenefits.seagate.com
-
-
-### mypayroll.seagate.com
-
-
-### myportal.seagate.com
-
-
-### nassupport.seagate.com
-
-
-### partnerreg.seagate.com
-
-
-### pia.seagate.com
-
-
-### plm.dothill.com
-
-
-### portal-us.seagate.com
-
-
-### realtime-ext.okla.seagate.com
-
-
-### sca.seagate.com
-
-
-### seagate.com
-
-
-### seagategov.seagate.com
-
-
-### secureauth.sing.seagate.com
-
-
-### sftp.seagate.com
-
-
-### sftptest.seagate.com
-
-
-### sgbenefit.seagate.com
-
-
-### sgmedical.seagate.com
-
-
-### sgpayroll.seagate.com
-
-
-### http://solo.seagate.com/
-- Website Testing
-
-
-### solo.sing.seagate.com
-- Website Testing
-
-
-### solo-beta.seagate.com
-
-
-### ssl.seagate.com
-
-
-### tableauonline.seagate.com
-
-
-### verify.seagate.com
-
-
-## Dfinity Vulnerability Disclosure Program
-### Core Internet Computer Protocol stack
-
-
-### Network Nervous System canisters
-
-
-### Network Nervous System Frontend Dapp
-
-
-### Internet Identity: Internet Computer Authentication System
-
-
-### SDK, CDK, Candid & Motoko smart contract language
-
-
-### Internet Computer Infrastructure
+- ```API Testing```
+- ```PostgreSQL```
+- ```JSON```
 
 
 ## CyberGhost
 ### CyberGhost VPN servers
-- Linux
-- Cryptography
+- ```Linux```
+- ```Cryptography```
 
 
 ### CyberGhost iOS application
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### CyberGhost Android application
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### CyberGhost Linux application
-- Linux
-- Desktop Application Testing
+- ```Linux```
+- ```Desktop Application Testing```
 
 
 ### CyberGhost macOS application
-- macOS
-- Desktop Application Testing
+- ```macOS```
+- ```Desktop Application Testing```
 
 
 ### CyberGhost Windows application
-- Windows
-- Desktop Application Testing
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### CyberGhost Firefox extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### CyberGhost Chrome extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### CyberGhost APIs
-- API Testing
+- ```API Testing```
 
 
 ### CyberGhost PS3+PS4 apps
@@ -2093,164 +741,153 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### cyberghost.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### *.cyberghost.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### cyberghost.app
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### *.cyberghostvpn.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ## Private Internet Access
 ### PIA VPN servers
-- Cryptography
+- ```Cryptography```
 
 
 ### PIA iOS application
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### PIA Android application
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### PIA Linux application
-- Linux
-- Desktop Application Testing
+- ```Linux```
+- ```Desktop Application Testing```
 
 
 ### PIA macOS application
-- macOS
-- Desktop Application Testing
+- ```macOS```
+- ```Desktop Application Testing```
 
 
 ### PIA Windows application
-- Windows
-- Desktop Application Testing
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### PIA Firefox extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### PIA Chrome extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### PIA Opera extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### PIA Router Firmware
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### PIA APIs
-- API Testing
+- ```API Testing```
 
 
 ### privateinternetaccess.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### *.privateinternetaccess.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### piaservers.com
-- Website Testing
-
-
-## Lucid Motors Vulnerability Disclosure Program
-### www.lucidmotors.com
-- Gatsby
-- ReactJS
-- Website Testing
-
-
-### All Internal Applications
-- Website Testing
+- ```Website Testing```
 
 
 ## You Need a Budget (YNAB)
 ### https://staging-app.youneedabudget.com/
-- Ruby
-- Ruby on Rails
-- jQuery
-- Heroku
-- Website Testing
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Heroku```
+- ```Website Testing```
 
 
 ### Other youneedabudget.com domains not listed
-- Website Testing
+- ```Website Testing```
 
 
 ### https://support.youneedabudget.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://app.youneedabudget.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://docs.youneedabudget.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://forum.youneedabudget.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### Any previous version of the desktop apps: YNAB 4, YNAB 3, YNAB Pro, YNAB Basic (Spreadsheet)
 
 
 ### https://develop-app.youneedabudget.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Lightspeed Retail (X-Series)
 ### yourstore.vendhq.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### secure.vendhq.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ###  developers.vendhq.com
-- nginx
-- Website Testing
+- ```nginx```
+- ```Website Testing```
 
 
 ### www.vendhq.com
-- jQuery
-- nginx
-- Website Testing
-- PHP
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
 
 
 ### payment-connectors.vendhq.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### partners.vendhq.com
@@ -2276,297 +913,277 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata
 ### https://opendata.test-socrata.com
-- Ruby on Rails
-- jQuery
-- nginx
-- Website Testing
+- ```Ruby on Rails```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://opendata-demo.test-socrata.com
-- Ruby on Rails
-- jQuery
-- nginx
-- Website Testing
+- ```Ruby on Rails```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://opendata.test-socrata.com/admin/gateway
-- Website Testing
+- ```Website Testing```
 
 
 ## BigCommerce
 ### https://*.YOUR-TESTING-STORE.mybigcommerce.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bigcommerce.com
-- jQuery
-- nginx
-- Lodash
-- Website Testing
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### *.bigcommerce.net
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- PHP
+- ```Angular```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://bigcommerce.com/make-it-big
-- Website Testing
+- ```Website Testing```
 
 
 ### https://bigcommerce.com/blog
-- Website Testing
+- ```Website Testing```
 
 
 ### https://STORE-YOURSTOREHash.mybigcommerce.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### BigCommerce iOS
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### BigCommerce Android
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ## Rec Room Video Games
 ### https://rec.net/
-- C#
-- Website Testing
-- Azure
+- ```C#```
+- ```Website Testing```
+- ```Azure```
 
 
 ### https://*.rec.net/*
-- API Testing
-- Website Testing
-- Azure
+- ```API Testing```
+- ```Website Testing```
+- ```Azure```
 
 
 ### https://api.rec.net/
-- API Testing
+- ```API Testing```
 
 
 ### iOS
-- Games
-- Mobile Application Testing
-- iOS
+- ```Games```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Android
-- Games
-- Android
-- Mobile Application Testing
+- ```Games```
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### PlayStation 4
-- Games
+- ```Games```
 
 
 ### PlayStation 5
-- Games
+- ```Games```
 
 
 ### Xbox
-- Games
+- ```Games```
 
 
 ### Oculus Quest: All-in-one gaming system for VR
-- Games
+- ```Games```
 
 
 ### Oculus Rift: VR headset
-- Games
+- ```Games```
 
 
 ### Steam: PC Game for Windows
-- Games
-- C#
-- Windows
+- ```Games```
+- ```C#```
+- ```Windows```
 
 
 ### Rec Room PC Standalone App
-- Games
-- Windows
-
-
-## Office of Natural Resources Revenue
-### *.onrr.gov
-
-
-### revenuedata.doi.gov
-
-
-## Office of Wildland Fire - Vulnerability Disclosure Program
-### *.nfpors.gov	
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### *.firenet.gov
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Games```
+- ```Windows```
 
 
 ## Electroneum
 ### https://electroneum.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://my.electroneum.com/
-- Bootstrap
-- jQuery
-- nginx
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://api.electroneum.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Electroneum iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Electroneum Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://www.anytask.com/
-- Vue.js
-- Amazon S3
-- Amazon Cloudfront
-- Website Testing
+- ```Vue.js```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```Website Testing```
 
 
 ### https://api.anytask.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://anytask.thesecurityteam.rocks/
-- Vue.js
-- AWS
-- Amazon S3
-- Amazon Cloudfront
-- Website Testing
+- ```Vue.js```
+- ```AWS```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```Website Testing```
 
 
 ### https://my.thesecurityteam.rocks/
-- Bootstrap
-- jQuery
-- nginx
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ## Dropbox
 ### *.dropbox.com    
-- Website Testing
+- ```Website Testing```
 
 
 ### *.hellosign.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.helloworks.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.hellofax.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.dropboxforum.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.docsend.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Dropbox Sign (formerly HelloSign) Android App
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Dropbox Android App
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Dropbox Paper Android App
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Dropbox iOS app
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Dropbox Paper iOS app
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Dropbox EMM iOS
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Dropbox Desktop Application
-- Binary Analysis
-- Desktop Application Testing
+- ```Binary Analysis```
+- ```Desktop Application Testing```
 
 
 ### Paper Desktop Application
-- Binary Analysis
-- Desktop Application Testing
+- ```Binary Analysis```
+- ```Desktop Application Testing```
 
 
 ### Dropbox Capture Windows Desktop App 
-- Binary Analysis
-- Desktop Application Testing
+- ```Binary Analysis```
+- ```Desktop Application Testing```
 
 
 ### Dropbox Capture macOS Desktop App
-- Binary Analysis
-- Desktop Application Testing
+- ```Binary Analysis```
+- ```Desktop Application Testing```
 
 
 ## Bybit
 ### https://www.bybit.com/
-- Akamai CDN
-- ReactJS
-- nginx
-- Website Testing
-- Cryptocurrency
-- NodeJS
+- ```Akamai CDN```
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
+- ```Cryptocurrency```
+- ```NodeJS```
 
 
 ## Sophos
 ### XG Firewall - Pre-auth RCE
-- Network Testing
-- Penetration Testing
+- ```Network Testing```
+- ```Penetration Testing```
 
 
 ### XG Firewall
@@ -2579,38 +1196,38 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### *.sophos.com
-- Akamai CDN
-- ASP.NET
-- jQuery
-- Microsoft IIS
+- ```Akamai CDN```
+- ```ASP.NET```
+- ```jQuery```
+- ```Microsoft IIS```
 
 
 ### *.hitmanpro.com
-- ReactJS
-- Select2
-- ASP.NET
-- jQuery
-- Microsoft IIS
+- ```ReactJS```
+- ```Select2```
+- ```ASP.NET```
+- ```jQuery```
+- ```Microsoft IIS```
 
 
 ### *.reflexion.net
-- ASP.NET
-- jQuery
-- Microsoft IIS
+- ```ASP.NET```
+- ```jQuery```
+- ```Microsoft IIS```
 
 
 ### *.astaro.com
-- Akamai CDN
-- ASP.NET
-- jQuery
-- Windows
-- Lodash
-- Website Testing
-- Microsoft IIS
+- ```Akamai CDN```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Lodash```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.cyberoam.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any Other Sophos Product or Service
@@ -2620,19 +1237,19 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### app.reflexion.net
-- Website Testing
+- ```Website Testing```
 
 
 ### community.sophos.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.ddns.cyberoam.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *eventreg.sophos.com
-- Website Testing
+- ```Website Testing```
 
 
 ### events.sophos.com
@@ -2642,15 +1259,15 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### mev.hitmanpro.com
-- Website Testing
+- ```Website Testing```
 
 
 ### tickets.reflexion.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.releaseportal.cyberoam.com
-- Website Testing
+- ```Website Testing```
 
 
 ### shop.hitmanpro.com
@@ -2666,7 +1283,7 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### surveys.sophos.com
-- Website Testing
+- ```Website Testing```
 
 
 ### SPF/DKIM/DMARC issues
@@ -2677,88 +1294,21 @@ Updated 2023-02-12 16:48:43.634197
 
 ## CoolBitX
 ### CoolWallet Pro
-- Android
-- ReactNative
-- Mobile Application Testing
+- ```Android```
+- ```ReactNative```
+- ```Mobile Application Testing```
 
 
 ### CoolWallet Pro App
-- Android
-- ReactNative
-- Cryptocurrency
-
-
-## Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program
-### *.cigie.gov
-
-
-### *.ignet.gov
-
-
-### *.oversight.gov
-
-
-### *.pandemicoversight.gov
-
-
-## National Transportation Safety Board: Vulnerability Disclosure Program
-### *.ntsb.gov
-- Website Testing
-
-
-## Federal Trade Commission: Vulnerability Disclosure Program
-### https://*.alertaenlinea.gov
-
-
-### https://*.consumer.gov
-
-
-### https://*.consumersentinel.gov
-
-
-### https://*.consumidor.gov
-
-
-### https://*.donotcall.gov
-
-
-### https://*.dontserveteens.gov
-
-
-### https://*.econsumer.gov
-
-
-### https://*.ftc.gov
-
-
-### https://*.hsr.gov
-
-
-### https://*.identitytheft.gov
-
-
-### https://*.idtheft.gov
-
-
-### https://*.militaryconsumer.gov
-
-
-### https://*.onguardonline.gov
-
-
-### https://*.protecciondelconsumidor.gov
-
-
-### https://*.robodeidentidad.gov
-
-
-### https://*.sentinel.gov
+- ```Android```
+- ```ReactNative```
+- ```Cryptocurrency```
 
 
 ## Netflix
 ### api*.netflix.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### *.prod.ftl.netflix.com
@@ -2771,149 +1321,149 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### www.netflix.com
-- Akamai CDN
-- Paypal
-- Mailchimp
-- Java
-- Amazon SES
-- ReactJS
-- Perl
-- Amazon S3
-- jQuery
-- nginx
-- Lodash
-- Website Testing
-- PHP
+- ```Akamai CDN```
+- ```Paypal```
+- ```Mailchimp```
+- ```Java```
+- ```Amazon SES```
+- ```ReactJS```
+- ```Perl```
+- ```Amazon S3```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
+- ```PHP```
 
 
 ### secure.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### ichnaea.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.nflxvideo.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.nflxext.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.nflximg.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.nflxso.net
 
 
 ### help.netflix.com
-- Backbone
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Backbone```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### dockhand.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### beacon.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### presentationtracking.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### nmtracking.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### customerevents.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ###  meechum.netflix.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Open Source - Consoleme
-- Github
+- ```Github```
 
 
 ### Open Source - Weep
-- Github
+- ```Github```
 
 
 ### Open Source - Zuul
-- Github
+- ```Github```
 
 
 ### Netflix Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Netflix Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Corporate Targets
-- Website Testing
+- ```Website Testing```
 
 
 ### Content Authorization Findings
 
 
 ### Secondary Targets (read below)
-- Website Testing
+- ```Website Testing```
 
 
 ### Microsites
-- Website Testing
+- ```Website Testing```
 
 
 ### Open Source - Atlas
-- Github
+- ```Github```
 
 
 ### Open Source - Conductor
-- Github
+- ```Github```
 
 
 ### Open Source - Dispatch
-- Github
+- ```Github```
 
 
 ### Open Source - Spectator
-- Github
+- ```Github```
 
 
 ## Bitget
 ### *.bitget.com
-- Java
-- Apache Tomcat
-- Website Testing
+- ```Java```
+- ```Apache Tomcat```
+- ```Website Testing```
 
 
 ### Bitget Android App
-- Java
-- Android
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Kotlin```
 
 
 ### Bitget iOS App
-- Swift
-- iOS
+- ```Swift```
+- ```iOS```
 
 
 ### Bitget API
@@ -2922,495 +1472,423 @@ Updated 2023-02-12 16:48:43.634197
 ### https://affiliates.bitget.com/login
 
 
-## Constant Contact, Inc.
-### Any asset not explicitly listed as 'In Scope' above is explicitly out of scope
-- Website Testing
-
-
-### community.constantcontact.com
-
-
-### Constant Contact mobile applications [iOS and Android]
-- Android
-- Mobile Application Testing
-- iOS
-
-
-### All Constant Contact APIs - api.constantcontact.com
-- API Testing
-
-
-### All API SDKs
-- API Testing
-
-
-### All Constant Contact websites - *.constantcontact.com
-- Java
-- Cloudflare CDN
-- jQuery
-- Newrelic
-- Modernizr
-
-
 ## NameJet
 ### namejet.com
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- Modernizr
-
-
-## HostGator Brazil VDP
-### Hostgator.com.br 
-- Website Testing
+- ```Bootstrap```
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ## USAA
 ### www.usaa.com
-- Stripe
-- ReactJS
-- YUI
-- Website Testing
+- ```Stripe```
+- ```ReactJS```
+- ```YUI```
+- ```Website Testing```
 
 
 ### mobile.usaa.com
-- Akamai CDN
-- Java
-- ReactJS
-- RequireJS
-- YUI
-- Website Testing
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
 
 
 ### https://api.usaa.com/
-- Akamai CDN
-- API Testing
+- ```Akamai CDN```
+- ```API Testing```
 
 
 ### partners.usaa.com
-- Akamai CDN
-- Java
-- ReactJS
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
 
 
 ### USAA Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### USAA Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://content.usaa.com
-- Akamai CDN
-- CSS
-- Website Testing
-- Javascript
+- ```Akamai CDN```
+- ```CSS```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://l.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://login.usaa.com/
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### https://mapi.usaa.com/
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://mobileapps.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://my.usaa.com/
-- Akamai CDN
-- Java
-- ReactJS
-- RequireJS
-- YUI
-- Website Testing
-- Javascript
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://s.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://wsmbr.usaa.com/
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://guest.usaa.com/
-- Akamai CDN
-- Java
-- ReactJS
-- RequireJS
-- YUI
-- Website Testing
-- Javascript
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://mguest.usaa.com/
-- Akamai CDN
-- Java
-- ReactJS
-- RequireJS
-- YUI
-- Website Testing
-- Javascript
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://nvoice.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://www.usaainsurance.com/
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### https://liveassist.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://liveassist11.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://liveassist12.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://liveassist21.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://liveassist22.usaa.com/
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### empauthn.usaa.com
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### externalconnect.usaa.com
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### mam-prod-dfw.usaa.com
-- Mobile Application Testing
+- ```Mobile Application Testing```
 
 
 ### mam-prod-itc.usaa.com
-- Mobile Application Testing
+- ```Mobile Application Testing```
 
 
 ### mam-vpn-itc.usaa.com
-- Mobile Application Testing
+- ```Mobile Application Testing```
 
 
 ### mdm1.usaa.com
-- Mobile Application Testing
+- ```Mobile Application Testing```
 
 
 ### mydesktop.usaa.com
-- Akamai CDN
-- SSL/TLS
-- Cryptography
-- Website Testing
+- ```Akamai CDN```
+- ```SSL/TLS```
+- ```Cryptography```
+- ```Website Testing```
 
 
 ### myvpn.usaa.com
-- Akamai CDN
-- SSL/TLS
-- Cryptography
-- Website Testing
+- ```Akamai CDN```
+- ```SSL/TLS```
+- ```Cryptography```
+- ```Website Testing```
 
 
 ### webmail.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### utv.usaa.com
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### https://api2.usaa.com/
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://b2bapi.usaa.com
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://b2blsapi.usaa.com
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://nicewfm.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://service2.usaa.com
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://vlagg.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://vlapi.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://ws.usaa.com
-- Akamai CDN
-- API Testing
-- Java
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
 
 
 ### https://vendorss.usaa.com
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### ww2.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### vanityocp.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### utvqa.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### static.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### mstatic.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### mcontentapi.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### external.connect.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### contentapi.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ### https://authn.usaa.com/
-- Akamai CDN
-- Website Testing
+- ```Akamai CDN```
+- ```Website Testing```
 
 
 ### api-life.usaa.com
-- Akamai CDN
+- ```Akamai CDN```
 
 
 ## Octopus Deploy
 ### Octopus Server
-- C#
-- .NET
+- ```C#```
+- ```.NET```
 
 
 ### Octopus Tentacle
-- C#
-- .NET
+- ```C#```
+- ```.NET```
 
 
 ## Wyze Bug Bounty
 ### https://auth.wyze.com
-- Java
-- AWS
-- Website Testing
-- Spring
+- ```Java```
+- ```AWS```
+- ```Website Testing```
+- ```Spring```
 
 
 ### https://api.wyzecam.com
-- API Testing
-- AWS
-- ASP.NET
+- ```API Testing```
+- ```AWS```
+- ```ASP.NET```
 
 
 ### Wyze Cam V3
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### Wyze Cam V2
-- Hardware Testing
-
-
-## State Farm VDP
-### www.statefarm.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### State Farm Drive Safe and Save Mobile Application (iOS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### State Farm Drive Safe and Save Mobile Application (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### State Farm Steer Clear Mobile Application (iOS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### State Farm Steer Clear Mobile Application (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Hardware Testing```
 
 
 ## Blue Jeans Network
 ### https://bluejeans.com/
-- AWS
-- Drupal
-- jQuery
-- nginx
-- Website Testing
-- PHP
+- ```AWS```
+- ```Drupal```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://api.bluejeans.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://a2m.bluejeans.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://huddle.bluejeans.com
-- nginx
+- ```nginx```
 
 
 ### https://primetime.bluejeans.com
-- AWS
-- Drupal
-- jQuery
-- nginx
-- Website Testing
-- Newrelic
-- PHP
+- ```AWS```
+- ```Drupal```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### https://static.bluejeans.com/
-- AWS
-- Drupal
-- jQuery
-- nginx
-- Newrelic
-- PHP
+- ```AWS```
+- ```Drupal```
+- ```jQuery```
+- ```nginx```
+- ```Newrelic```
+- ```PHP```
 
 
 ### https://www.bluejeans.com/
-- AWS
-- jQuery
-- nginx
-- Website Testing
-- Newrelic
-- PHP
+- ```AWS```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### BlueJeans Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### BlueJeans iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### BlueJeans Mac Client
-- macOS
+- ```macOS```
 
 
 ### BlueJeans Windows Client
-- Windows
+- ```Windows```
 
 
 ### BlueJeans Browser-based Web Meeting Clients
-- Browser Extension
+- ```Browser Extension```
 
 
 ### https://github.com/bluejeans/android-client-sdk
-- Android
+- ```Android```
 
 
 ### https://a.bluejeans.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://community.bluejeans.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://hub.bluejeans.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www-a.bluejeans.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www-dev.bluejeans.com/
-- Website Testing
+- ```Website Testing```
 
 
 ## Atlassian-Built Apps
@@ -4211,122 +2689,122 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Keeper Security Public Bounty Program
 ### Keeper Security Website
-- ReactJS
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
+- ```ReactJS```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### Keeper for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Binary Analysis
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```iOS```
 
 
 ### Keeper for Android
-- Java
-- Android
-- Mobile Application Testing
-- Binary Analysis
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```Kotlin```
 
 
 ### Keeper for Mac, PC, Linux
-- Electron
-- ReactJS
-- Desktop Application Testing
+- ```Electron```
+- ```ReactJS```
+- ```Desktop Application Testing```
 
 
 ### Keeper Web Vault (US)
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Keeper Web Vault (EU)
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Keeper Web Vault (AU)
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Keeper Admin Console (US)
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Keeper Admin Console (EU)
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Keeper Browser Extension
-- ReactJS
-- Browser Extension
+- ```ReactJS```
+- ```Browser Extension```
 
 
 ### Keeper Secrets Manager
-- API Testing
+- ```API Testing```
 
 
 ### KeeperChat for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Binary Analysis
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```iOS```
 
 
 ### KeeperChat for Android
-- Java
-- Android
-- Mobile Application Testing
-- Binary Analysis
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```Kotlin```
 
 
 ### KeeperChat for Windows
-- Windows
-- Binary Analysis
+- ```Windows```
+- ```Binary Analysis```
 
 
 ### KeeperChat for Mac
-- macOS
-- Binary Analysis
+- ```macOS```
+- ```Binary Analysis```
 
 
 ### Keeper SSO Connect On-Prem
-- Java
+- ```Java```
 
 
 ### SSO Connect Cloud
-- ReactJS
+- ```ReactJS```
 
 
 ### Keeper AD / LDAP Bridge
-- .NET
+- ```.NET```
 
 
 ### Glyptodon Enterprise
-- Dockerfile
-- Apache Tomcat
-- nginx
-- Apache Guacamole
+- ```Dockerfile```
+- ```Apache Tomcat```
+- ```nginx```
+- ```Apache Guacamole```
 
 
 ## OneTrust
 ### https://pentest-app.onetrust.com/
-- Angular
-- Lodash
-- Website Testing
-- Zone.js
+- ```Angular```
+- ```Lodash```
+- ```Website Testing```
+- ```Zone.js```
 
 
 ### https://*.onetrust.com
@@ -4407,140 +2885,100 @@ Updated 2023-02-12 16:48:43.634197
 ### https://*.trustweek2021.com
 
 
-## NameJet VDP
-### *.namejet.com
-- API Testing
-- Website Testing
-
-
-## SnapNames VDP
-### *.snapnames.com
-- Website Testing
-
-
 ## Web.com
 ###  www.web.com
-- Bootstrap
-- MySQL
-- Moment.js
-- Select2
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- Modernizr
+- ```Bootstrap```
+- ```MySQL```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ###  www.register.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### www.networksolutions.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### uk.web.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.web.com
-- Bootstrap
-- MySQL
-- Moment.js
-- Select2
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- Modernizr
+- ```Bootstrap```
+- ```MySQL```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### *.register.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.networksolutions.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
-
-
-## Newfold Builder VDP
-### *.websitebuilder.com
-- Lodash
-- Website Testing
-
-
-### Anything not explicitly listed as in scope
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ## Bluehost 
 ### www.bluehost.com
-- ReactJS
-- Amazon Cloudfront
-- nginx
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### my.bluehost.com
-- Website Testing
+- ```Website Testing```
 
 
 ### helpchat.bluehost.com
-- Bootstrap
-- jQuery
-- nginx
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ### kb.bluehost.com
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
-- NodeJS
-
-
-## Reseller Club VDP Pro
-### *.resellerclub.com
-- Java
-- jQuery
-- Website Testing
-
-
-### https://httpapi.com
-- API Testing
-- Website Testing
-
-
-### https://obmobileapp.com
-- Cloudflare CDN
-- Website Testing
-
-
-### Anything not explicitly listed as in scope
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ## HostGator Latam Bug Bounty
 ### Hostgator.com.br 
-- Website Testing
+- ```Website Testing```
 
 
 ### cliente.hostgator.com.br/
-- Website Testing
+- ```Website Testing```
 
 
 ### cart.hostgator.com.br
-- Website Testing
+- ```Website Testing```
 
 
 ### Anything not explicitly listed as in scope 
@@ -4548,31 +2986,31 @@ Updated 2023-02-12 16:48:43.634197
 
 ## HostGator
 ### www.hostgator.com
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### www.portal.hostgator.com
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### www.checkout.hostgator.com 
-- ReactJS
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### ebook.hostgator.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.staff.hostgator.com
@@ -4581,285 +3019,19 @@ Updated 2023-02-12 16:48:43.634197
 ### vps*.hostgator.com
 
 
-## Newfold Vdeck VDP
-### ipage.com
-- ReactJS
-- Website Testing
-- NodeJS
-
-
-### www.ipage.com
-- ReactJS
-- Website Testing
-- NodeJS
-
-
-### members.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### images.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### www1.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### secure.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### origin-www.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### origin-secure.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### origin-members.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### origin-images.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### ca.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### vdeck.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### www-origin.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### www.mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### members.mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### members.domain.com
-- ReactJS
-- Amazon Cloudfront
-- nginx
-- Website Testing
-- NodeJS
-
-
-### images.domain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### images.mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### www1.domain.com
-- Backbone
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### www1.mydomain.com
-- Backbone
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### secure.domain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### secure.mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### controlpanel.domain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### controlpanel.mydomain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### vdeck.domain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### origin.domain.com
-- ReactJS
-- AWS
-- Amazon S3
-- Website Testing
-- NodeJS
-
-
-### Anything not explicitly listed as in scope
-
-
-## Web.com VDP
-### *.web.com
-- Bootstrap
-- MySQL
-- Moment.js
-- Select2
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- Modernizr
-
-
-### *.register.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
-
-
-### *.networksolutions.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
-
-
-### calltracker.web.com
-
-
-### htadmin.register.com
-
-
-### a.mx.b.e.register.com
-
-
-### a.mx.m.e.register.com
-
-
-### b.e.register.com
-
-
-### b.mx.b.e.register.com
-
-
-### b.mx.m.e.register.com
-
-
-### c.mx.b.e.register.com
-
-
-### c.mx.m.e.register.com
-
-
-### d.mx.b.e.register.com
-
-
-### d.mx.m.e.register.com
-
-
-### ebm.e.register.com
-
-
-### raf.e.register.com
-
-
-### totalchat.web.com
-
-
-### cp.web.com
-
-
-### cp.networksolutions.com
-
-
 ## 1Shoppingcart.com
 ### 1shoppingcart.com
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### mcssl.com
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.mcssl.com
@@ -4873,152 +3045,123 @@ Updated 2023-02-12 16:48:43.634197
 
 ## SnapNames
 ### https://snapnames.com/
-- Java
-- jQuery
-- Website Testing
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
 
 
 ## Newfold Vdeck Bug Bounty
 ### ipage.com
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### www.ipage.com
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### members.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### images.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### www1.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-- Modernizr
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### secure.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### origin-www.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### origin-secure.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### origin-members.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### origin-images.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### ca.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### vdeck.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### www-origin.ipage.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-## ANZ Responsible Disclosure Program
-### anz.com
-- Website Testing
-
-
-### anz.com.au
-- Website Testing
-
-
-### ANZ Plus Android App
-- Android
-- Mobile Application Testing
-
-
-### ANZ Australia iOS App
-- Mobile Application Testing
-- iOS
-
-
-### ANZ Australia Android App
-- Android
-- Mobile Application Testing
-
-
-### ANZ Plus iOS App
-- Mobile Application Testing
-- iOS
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ## Western Union
 ### https://www.westernunion.com
-- Akamai CDN
-- Java
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www2.westernunion.com 
 
 
 ### https://www.westernunion.fr
-- Akamai CDN
-- Vue.js
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Vue.js```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.de
-- Akamai CDN
-- Java
-- Vue.js
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
 
 
 ### https://www.westernunion.no
@@ -5028,13 +3171,13 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://www.westernunion.ca
-- Akamai CDN
-- Java
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- Zone.js
+- ```Akamai CDN```
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```Zone.js```
 
 
 ### https://www.westernunion.nl
@@ -5044,35 +3187,35 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://www.westernunion.ie
-- Akamai CDN
-- Java
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
+- ```Akamai CDN```
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
 
 
 ### https://www.westernunion.ch
-- Akamai CDN
-- Java
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
+- ```Akamai CDN```
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
 
 
 ### https://www.westernunion.pt
 
 
 ### https://www.westernunion.be
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
 
 
 ### https://www.westernunion.dk
@@ -5082,136 +3225,136 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://www.westernunion.pl
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
 
 
 ### https://www.westernunion.ee
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.lu
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.gr
-- Wordpress
-- MySQL
-- jQuery
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```PHP```
 
 
 ### https://www.westernunion.at
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.it
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.co.nz
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://www.westernunion.co.uk
 
 
 ### https://www.westernunion.com.au
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://cuba.westernunion.com
 
 
 ### https://egypt.westernunion.com
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://hk.westernunion.com
 
 
 ### https://india.westernunion.com
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://jamaica.westernunion.com
 
 
 ### https://location.westernunion.com
-- Scala
-- jQuery
-- nginx
-- Lua
+- ```Scala```
+- ```jQuery```
+- ```nginx```
+- ```Lua```
 
 
 ### https://m.westernunion.com
@@ -5221,508 +3364,386 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://sg.westernunion.com
-- Akamai CDN
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
+- ```Akamai CDN```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
 
 
 ### https://wuagentportal.westernunion.com
-- Java
-- jQuery
-- Website Testing
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://agentportal.westernunion.com
-- Java
-- jQuery
-- Website Testing
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://westernunionbank.com
-- Bootstrap
-- jQuery
-- Website Testing
-- PHP
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://ebanking.westernunionbank.com
-- jQuery
-- Website Testing
-- PHP
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### transvision.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### partnernet.westernunion.com
-- Java
-- Adobe Experience Manager
-- jQuery
-- Handlebars
-- RequireJS
-- Website Testing
+- ```Java```
+- ```Adobe Experience Manager```
+- ```jQuery```
+- ```Handlebars```
+- ```RequireJS```
+- ```Website Testing```
 
 
 ### iwgo.westernunion.com
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Lodash
-- Website Testing
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### https://business.westernunion.com/
-- Bootstrap
-- Select2
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```Bootstrap```
+- ```Select2```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### http://agenttraining.westernunion.com
-- Bootstrap
-- jQuery
-- RequireJS
-- YUI
-- Website Testing
-- PHP
+- ```Bootstrap```
+- ```jQuery```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://paymentstatus.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://foundation.westernunion.com
-- Akamai CDN
-- Wordpress
-- Bootstrap
-- MySQL
-- Moment.js
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
+- ```Akamai CDN```
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### https://partners.westernunion.com 
-- Akamai CDN
-- Java
-- Vue.js
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Lodash
-- RequireJS
-- Website Testing
-- Zone.js
+- ```Akamai CDN```
+- ```Java```
+- ```Vue.js```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Lodash```
+- ```RequireJS```
+- ```Website Testing```
+- ```Zone.js```
 
 
 ### wucare.westernunion.com
-- Bootstrap
-- Moment.js
-- Website Testing
+- ```Bootstrap```
+- ```Moment.js```
+- ```Website Testing```
 
 
 ### secure.westernunion.com
-- ASP.NET
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```ASP.NET```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### corporate.westernunion.com
-- Akamai CDN
-- jQuery
-- Website Testing
-- Modernizr
+- ```Akamai CDN```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### Western Union iOS app (link below)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Western Union Android app (link below)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### wuinsights.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### remoteaccess.westernunion.com
-- Java
-- jQuery
-- Website Testing
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### secureauth.westernunion.com
-- ASP.NET
-- Website Testing
+- ```ASP.NET```
+- ```Website Testing```
 
 
 ### mydesktop.wu.com
 
 
 ### payments.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any asset not listed above as 'In Scope'
-- Website Testing
+- ```Website Testing```
 
 
 ### www.wuprepaid.de
-- Website Testing
+- ```Website Testing```
 
 
 ### https://rewardcircle.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.wuprepaid.at/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://onlinefx.westernunion.com/
-- Bootstrap
-- Select2
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```Bootstrap```
+- ```Select2```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### https://online.westernunion.com/mp.en/pages/loginform.aspx
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### http://globalpay.westernunion.com
-- Bootstrap
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```Bootstrap```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### payee.globalpay.westernunion.com
-- ASP.NET
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```ASP.NET```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### https://auth.globalpay.westernunion.com
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
+- ```Bootstrap```
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### https://gpfi.globalpay.westernunion.com
-- Akamai CDN
-- Java
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- RequireJS
-- Website Testing
+- ```Akamai CDN```
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```RequireJS```
+- ```Website Testing```
 
 
 ### www.wuedge.com
-- Akamai CDN
-- Java
-- Bootstrap
-- Mustache
-- jQuery
-- Website Testing
+- ```Akamai CDN```
+- ```Java```
+- ```Bootstrap```
+- ```Mustache```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### trackpayments.westernunion.com
-- Java
-- Website Testing
+- ```Java```
+- ```Website Testing```
 
 
 ### masspay.api.westernunion.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.Convera.com
 
 
 ### *.internationalpayments.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.westernunion.*
-- Java
-- Angular
-- Bootstrap
-- Recon
-- RequireJS
-- Website Testing
-- DNS
+- ```Java```
+- ```Angular```
+- ```Bootstrap```
+- ```Recon```
+- ```RequireJS```
+- ```Website Testing```
+- ```DNS```
 
 
 ### *.wu.*
-- Website Testing
+- ```Website Testing```
 
 
 ### Any host or verified to be owned by Western Union (domains/IP space/etc.)
 
 
-## Service NSW Vulnerability Disclosure Program
-### *service.nsw.gov.au
-- Drupal
-- Website Testing
-- DNS
-
-
-### api.service.nsw.gov.au
-- API Testing
-- HTTP
-
-
-### *.nsw.gov.au
-- Website Testing
-
-
-## Stryker
-### All public facing Stryker assets 
-- API Testing
-- Website Testing
-
-
-## Santos Vulnerability Disclosure Program
-### santos.com
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- PHP
-
-
-### 103.252.190.0/24
-- Network Testing
-- Recon
-- Windows
-- Penetration Testing
-
-
-### 13.73.192.151
-- Network Testing
-
-
-### 13.75.189.223
-- Network Testing
-
-
-### 13.70.109.59
-- Network Testing
-
-
-### 52.243.79.77
-- Network Testing
-
-
-### 52.255.37.39
-- Network Testing
-
-
-### 103.55.32.0/24
-- Network Testing
-
-
-### 203.0.2.0/23
-- Network Testing
-
-
-### 192.84.89.0/24
-- Network Testing
-
-
-### 103.196.194.0/24
-- Network Testing
-
-
-### 121.200.234.0/29
-- Network Testing
-
-
-### 45.115.48.0/24
-- Network Testing
-
-
-### 45.115.48.5/32
-- Network Testing
-
-
-### 103.54.238.0/23
-- Network Testing
-
-
-### 103.6.116.0/24
-- Network Testing
-
-
-### 103.199.96.0/24
-- Network Testing
-
-
-### 103.199.96.236/30
-- Network Testing
-
-
-### 103.199.96.244/30
-- Network Testing
-
-
-### 103.199.96.200/29
-- Network Testing
-
-
-### 103.199.96.220/30
-- Network Testing
-
-
-### 103.199.96.128/27
-- Network Testing
-
-
-### 103.199.96.192/29
-- Network Testing
-
-
 ## Monash MBB
 ### www.monash.edu
-- jQuery
-- Handlebars
-- Website Testing
-- PHP
-- Lua
+- ```jQuery```
+- ```Handlebars```
+- ```Website Testing```
+- ```PHP```
+- ```Lua```
 
 
 ### identity.monash.edu
-- Java
-- Backbone
-- Website Testing
+- ```Java```
+- ```Backbone```
+- ```Website Testing```
 
 
 ### VPN: vpn.monash.edu
 
 
 ### eassessment.monash.edu
-- Bootstrap
-- jQuery
-- RequireJS
-- YUI
-- PHP
+- ```Bootstrap```
+- ```jQuery```
+- ```RequireJS```
+- ```YUI```
+- ```PHP```
 
 
 ### fileshare.ze.monash.edu
-- API Testing
-- Apache httpd
-- Website Testing
+- ```API Testing```
+- ```Apache httpd```
+- ```Website Testing```
 
 
 ### cms.mobile.monash
-- jQuery
-- Lodash
-- Website Testing
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### mobile.monash
-- Website Testing
+- ```Website Testing```
 
 
 ### status.mobile.monash
-- Website Testing
+- ```Website Testing```
 
 
 ### my.monash
-- Website Testing
+- ```Website Testing```
 
 
 ### https://monashcollege.edu.au
-- nginx
-- Website Testing
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://online.monash.edu/
-- Wordpress
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### Monash Study iOS App
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Monash Study Android app
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### https://myapp.monash.edu/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://alumni-friends.monash.edu
-- Website Testing
+- ```Website Testing```
 
 
 ### https://agent.apps.monash.edu/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://compulsoryunits.monash.edu/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://study.abroad.monash.edu/
-- Website Testing
+- ```Website Testing```
 
 
 ### monash.app.nutrip.com
 
 
 ### mix.monash.edu/*
-- API Testing
+- ```API Testing```
 
 
 ### mix-qat.monash.edu/*
-- API Testing
+- ```API Testing```
 
 
 ### mix-dev.monash.edu/*
-- API Testing
+- ```API Testing```
 
 
 ## ClickHouse
@@ -5733,172 +3754,172 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://github.com/ClickHouse/ClickHouse
-- C++
+- ```C++```
 
 
 ## Code.org
 ### adhoc-bugcrowd.cdn-code.org
-- ReactJS
-- Ruby on Rails
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```nginx```
+- ```Website Testing```
 
 
 ### adhoc-bugcrowd-studio.cdn-code.org
-- ReactJS
-- Ruby on Rails
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```nginx```
+- ```Website Testing```
 
 
 ### advocacy.code.org
-- Website Testing
+- ```Website Testing```
 
 
 ### hourofcode.com
-- Website Testing
+- ```Website Testing```
 
 
 ## SEEK 
 ### *.seek.com.au
-- ReactJS
-- AWS
-- Amazon Cloudfront
-- nginx
-- Lodash
-- Website Testing
+- ```ReactJS```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### *.seek.com
-- Cloudflare CDN
-- Ruby
-- ReactJS
-- AWS
-- Ruby on Rails
-- Moment.js
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
-- nginx
-- Lodash
-- Website Testing
+- ```Cloudflare CDN```
+- ```Ruby```
+- ```ReactJS```
+- ```AWS```
+- ```Ruby on Rails```
+- ```Moment.js```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### https://seekcdn.com
-- Amazon S3
+- ```Amazon S3```
 
 
 ### SEEK mobile app for iOS
-- Objective-C
-- Swift
-- Mobile Application Testing
-- Cocoa
-- iOS
+- ```Objective-C```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Cocoa```
+- ```iOS```
 
 
 ### SEEK mobile app for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### *.skinfra.xyz
-- Website Testing
+- ```Website Testing```
 
 
 ### *.outfra.xyz
-- Website Testing
+- ```Website Testing```
 
 
 ### *.sol-data.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### *.jobapi.net
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### *.jobapi.io
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### *.certsy.com
-- Stripe
-- ReactJS
-- Website Testing
+- ```Stripe```
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### *.certsynonprod.com
-- Stripe
-- Moment.js
-- Amazon Cloudfront
-- Website Testing
+- ```Stripe```
+- ```Moment.js```
+- ```Amazon Cloudfront```
+- ```Website Testing```
 
 
 ### *.aips-internal.com
-- API Testing
-- Website Testing
-- HTTP
+- ```API Testing```
+- ```Website Testing```
+- ```HTTP```
 
 
 ### graphql.seek.com
-- API Testing
-- GraphQL
+- ```API Testing```
+- ```GraphQL```
 
 
 ### auth.seek.com
-- API Testing
+- ```API Testing```
 
 
 ## Origin Energy
 ### https://www.originenergy.com.au/
-- nginx
-- Website Testing
-- Javascript
+- ```nginx```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### dataportal.originenergy.com.au
-- Website Testing
+- ```Website Testing```
 
 
 ### *.origindigital-pac.com.au
-- Website Testing
+- ```Website Testing```
 
 
 ### *.odcdn.com.au
-- Website Testing
+- ```Website Testing```
 
 
 ### *.support.originenergy.com.au
-- Website Testing
+- ```Website Testing```
 
 
 ### *.api.originenergy.com.au
-- API Testing
+- ```API Testing```
 
 
 ### *.download.originenergy.com.au
-- Website Testing
+- ```Website Testing```
 
 
 ### https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-- GraphQL
+- ```GraphQL```
 
 
 ### https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
-- GraphQL
+- ```GraphQL```
 
 
 ### https://api.rx.originenergy.com.au/v1/lpg/graphql
-- GraphQL
+- ```GraphQL```
 
 
 ### https://auth.api.originenergy.com.au/**
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.originenergy.com.au/moving/
@@ -5909,46 +3930,46 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Upwork
 ### www.upwork.com
-- Cloudflare CDN
-- Vue.js
-- Fastly
-- Angular
-- Wordpress
-- AWS
-- Amazon Cloudfront
-- jQuery
-- nginx
-- Mailgun
-- NodeJS
-- Modernizr
+- ```Cloudflare CDN```
+- ```Vue.js```
+- ```Fastly```
+- ```Angular```
+- ```Wordpress```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```nginx```
+- ```Mailgun```
+- ```NodeJS```
+- ```Modernizr```
 
 
 ### Upwork - Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Upwork - iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### www.upwork.com/api 
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Direct Contracts
-- Website Testing
+- ```Website Testing```
 
 
 ### Social media hijacking
@@ -5958,31 +3979,31 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Any Third-party Services
-- Website Testing
+- ```Website Testing```
 
 
 ### support.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### community.stage.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### community.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### stage.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### e.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### signature.upwork.com
@@ -5995,367 +4016,242 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### tip.upwork.com 
-- Website Testing
+- ```Website Testing```
 
 
 ### pardot.upwork.com
-- Website Testing
+- ```Website Testing```
 
 
 ### api.upwork.com/graphql
-- API Testing
-- GraphQL
-
-
-## Ostrom Vulnerability Disclosure Program
-### https://www.ostrom.de/
-
-
-### Ostrom Android application
-
-
-### Ostrom iOS Application
-
-
-## IOOF Vulnerability Disclosure Program
-### www.ioof.com.au
-- Backbone
-- Moment.js
-- ASP.NET
-- jQuery
-- Lodash
-- Website Testing
-
-
-### www.insigniafinancial.com.au
-- Backbone
-- Moment.js
-- ASP.NET
-- jQuery
-- Lodash
-
-
-### *.insigniafinancial.com.au
-- Website Testing
-
-
-### *.ioof.com.au
-
-
-## MediaLab - WorldStar Hip Hop Vulnerability Disclosure Program
-### Worldstar Hip Hop iOS App
-- Objective-C
-- Swift
-- Go
-- Mobile Application Testing
-- PHP
-- iOS
-
-
-### Worldstar Hip Hop Android App
-- Android
-- Go
-- Mobile Application Testing
-- PHP
-- Kotlin
-
-
-### api.worldstarhiphop.com
-- API Testing
-
-
-### epi.worldstarhiphop.com
-- Website Testing
-- PHP
-- Javascript
-
-
-### worldstarhiphop.com
-- Go
-- Website Testing
-- PHP
-- Firebase
-- Javascript
-
-
-### live.worldstarhiphop.com
-- Bootstrap
-- Website Testing
-- PHP
-
-
-### Legacy API
-- API Testing
-
-
-### http://api-legacy.worldstar.com
-- API Testing
-
-
-### https://api-mobile.worldstar.com
-- API Testing
-
-
-### https://flagr.worldstarhiphop.com
-- API Testing
+- ```API Testing```
+- ```GraphQL```
 
 
 ## MediaLab - Kik Vulnerability Disclosure Program
 ### www.kik.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### kik.me
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### help.kik.com
-- Bootstrap
-- Website Testing
+- ```Bootstrap```
+- ```Website Testing```
 
 
 ### home.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### kinpreview.kik.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### link.kik.com
-- Website Testing
+- ```Website Testing```
 
 
 ### m.kik.com
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### meme.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### my.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### sketch.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### mobile.kik.com
-- Website Testing
+- ```Website Testing```
 
 
 ### reddit.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### youtube.kik.com
-- Heroku
-- Website Testing
+- ```Heroku```
+- ```Website Testing```
 
 
 ### profiles.kik.com
-- API Testing
+- ```API Testing```
 
 
 ### Kik iOS App
-- Java
-- Objective-C
-- Go
-- Mobile Application Testing
-- iOS
+- ```Java```
+- ```Objective-C```
+- ```Go```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Kik Android App
-- Java
-- Android
-- Go
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Go```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ## Quizlet
 ### 2.0 API
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ###  help.quizlet.com (zendesk)
 
 
 ### https://*.quizlet.com
-- Apache Kafka
-- Cloudflare CDN
-- ReactJS
-- Algolia
-- Braintree
-- Google Cloud Storage
-- jQuery
-- Website Testing
+- ```Apache Kafka```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Algolia```
+- ```Braintree```
+- ```Google Cloud Storage```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://*.slader.com
-- API Testing
-- Cloud
-- Website Testing
+- ```API Testing```
+- ```Cloud```
+- ```Website Testing```
 
 
 ### IoS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### 3.0 API
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ## Akeyless
 ### https://console.akeyless.io/ - Akeyless Application
-- ReactJS
-- MySQL
-- Go
-- Website Testing
+- ```ReactJS```
+- ```MySQL```
+- ```Go```
+- ```Website Testing```
 
 
 ### http://api.akeyless.io/ - API
-- API Testing
+- ```API Testing```
 
 
 ### https://www.akeyless.io/ - Marketing pages
-- Website Testing
+- ```Website Testing```
 
 
 ## Pinterest
 ### api.pinterest.com
-- API Testing
-- Flask
+- ```API Testing```
+- ```Flask```
 
 
 ### *.pinterest.com Web Apps
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### Pinterest iOS Mobile Application
-- Objective-C
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Pinterest Android Mobile Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
-- Browser Extension
-- Javascript
+- ```Browser Extension```
+- ```Javascript```
 
 
 ### Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
-- Browser Extension
-- Javascript
+- ```Browser Extension```
+- ```Javascript```
 
 
 ### Safari extension (download at: assets.pinterest.com/ext/Pinterest-Safari.safariextz)
-- Browser Extension
-- Javascript
+- ```Browser Extension```
+- ```Javascript```
 
 
 ### Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-- Browser Extension
-- Javascript
+- ```Browser Extension```
+- ```Javascript```
 
 
 ### Open source projects listed at github.com/pinterest/
-- Static Code Analysis
-
-
-## Gusto VDP
-### api.gusto-demo.com
-- API Testing
-
-
-### https://dev.gusto.com/
-
-
-### app.gusto-demo.com
-- Ruby on Rails
-- jQuery
-- Website Testing
-
-
-### https://github.com/Gusto/apollo-federation-ruby
-- Github
-- Website Testing
-
-
-### https://github.com/Gusto/grpc-web-ruby
-- Github
-- Website Testing
-
-
-### Android App:  Gusto Wallet
-- Mobile Application Testing
-
-
-### iOS App:  Gusto Wallet
-- Mobile Application Testing
+- ```Static Code Analysis```
 
 
 ## Contrast Security
 ### Contrast TeamServer - See "Testing Instructions" below
-- Java
-- Linux
-- Amazon EC2
+- ```Java```
+- ```Linux```
+- ```Amazon EC2```
 
 
 ### www.contrastsecurity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### contrastsecurity.dev
-- Website Testing
+- ```Website Testing```
 
 
 ### Any Contrast Corporate Asset
-- Website Testing
+- ```Website Testing```
 
 
 ### *.contrast.ninja
-- Website Testing
+- ```Website Testing```
 
 
 ### runner.contrastsecurity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.contrastsecurity.com
@@ -6385,166 +4281,34 @@ Updated 2023-02-12 16:48:43.634197
 ### WebGoat with Contrast Agent 
 
 
-## Latitude Financial Services Vulnerability Disclosure Program
-### *.28degreescard.com.au
-- ReactJS
-- AWS
-- Lodash
-- Website Testing
-
-
-### *.buyersedge.com.au
-- ReactJS
-- AWS
-- Lodash
-- Website Testing
-
-
-### *.carecredit.com.au
-- AWS
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### *.gemcreditline.co.nz
-- AWS
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### *.gemfinance.co.nz
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.gemvisa.com.au
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.genoapay.co.nz
-- ReactJS
-- MySQL
-- Website Testing
-- PHP
-
-
-### *.genoapay.com
-- ReactJS
-- MySQL
-- Website Testing
-- PHP
-
-
-### *.gomastercard.com.au
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.interestfree.com.au
-- AWS
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### *.latitudefinancial.co.nz
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.latitudefinancial.com
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.latitudefinancial.com.au
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.latitudeinfinity.com.au
-- ReactJS
-- AWS
-- Bootstrap
-- Website Testing
-
-
-### *.latitudepay.com
-- ReactJS
-- MySQL
-- Website Testing
-- PHP
-
-
-### *.latitudepay.com.au
-- ReactJS
-- MySQL
-- Website Testing
-- PHP
-
-
-### *.umiloans.com.au
-- AWS
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### images.latitudepayapps.com
-- API Testing
-
-
-### app.latitudepayapps.com
-- API Testing
-
-
-### Sympleloans.com.au
-- Website Testing
-
-
 ## Digistorm
 ### http://app.sandbox.digistorm.com
-- Laravel
-- PostgreSQL
-- Elasticsearch
-- Moment.js
-- Amazon S3
-- nginx
-- Lodash
-- Website Testing
-- PHP
+- ```Laravel```
+- ```PostgreSQL```
+- ```Elasticsearch```
+- ```Moment.js```
+- ```Amazon S3```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://{account-code}.app.sandbox.digistorm.com-2/*
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}.app.sandbox.digistorm.com-1/forms/enrol-form
-- Website Testing
+- ```Website Testing```
 
 
 ### https://app.sandbox.digistorm.com/graphql
-- API Testing
-- GraphQL
+- ```API Testing```
+- ```GraphQL```
 
 
 ### https://app.sandbox.digistorm.com/
-- API Testing
+- ```API Testing```
 
 
 ### Digistorm Funnel Staging
@@ -6563,125 +4327,116 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://{account-code}-0.app.pentest.digistorm.com/admin
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}-1.app.pentest.digistorm.com/admin
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}-1.app.pentest.digistorm.com/forms/enrol-form/start
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}-0.app.pentest.digistorm.com/forms/group-tours
-- Website Testing
+- ```Website Testing```
 
 
 ### https://{account-code}-1.app.pentest.digistorm.com/forms/group-tours
-- Website Testing
+- ```Website Testing```
 
 
 ### https://app.pentest.digistorm.com/graphql
-- API Testing
+- ```API Testing```
 
 
 ### https://app.pentest.digistorm.com
-- Website Testing
-
-
-## Monash University
-### *.monash.edu
-- API Testing
-- Website Testing
-
-
-### *.erc.monash.edu
+- ```Website Testing```
 
 
 ## CoinDCX Managed Bug Bounty
 ### https://coindcx.com/ - Main Webapp
-- Website Testing
+- ```Website Testing```
 
 
 ### https://*.coindcx.com
-- Cloudflare CDN
-- Ruby
-- Angular
-- Cryptocurrency
-- NodeJS
+- ```Cloudflare CDN```
+- ```Ruby```
+- ```Angular```
+- ```Cryptocurrency```
+- ```NodeJS```
 
 
 ### https://*.dcxstage.com
-- Website Testing
+- ```Website Testing```
 
 
 ### api.coindcx.com
-- API Testing
+- ```API Testing```
 
 
 ### CoinDCX: Crypto Investment
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### CoinDCX: Bitcoin & Crypto Investment app
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### CoinDCX Pro:Crypto Trading App
-- Mobile Application Testing
+- ```Mobile Application Testing```
 
 
 ### Trading App For Advanced Traders: CoinDCX Pro
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### https://dcxlearn.com/ - Crypto Investment Guide
-- Website Testing
+- ```Website Testing```
 
 
 ### https://blog.coindcx.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://info.coindcx.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Bullish exchange
 ### https://bugbounty.bullish-test.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### https://api.bugbounty.bullish-test.com
-- API Testing
+- ```API Testing```
 
 
 ### *.bullish.com/
-- API Testing
-- Cloudflare CDN
-- Website Testing
+- ```API Testing```
+- ```Cloudflare CDN```
+- ```Website Testing```
 
 
 ## Asana
 ### app.asana.com
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### asana.com
-- ReactJS
-- jQuery
-- Website Testing
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.asana.plus
@@ -6691,23 +4446,23 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Asana Desktop App
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### Asana iOS app
-- iOS
+- ```iOS```
 
 
 ### Asana Android app
-- Android
+- ```Android```
 
 
 ### form.asana.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.app.asana.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Other subdomains of asana.com
@@ -6740,254 +4495,196 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Kaleido
 ### *.remove.bg
-- Cloudflare CDN
-- Vue.js
-- jQuery
-- Google Cloud
-- Website Testing
+- ```Cloudflare CDN```
+- ```Vue.js```
+- ```jQuery```
+- ```Google Cloud```
+- ```Website Testing```
 
 
 ### *.designify.com
-- Cloudflare CDN
-- ReactJS
-- Google Cloud
-- Website Testing
-- NodeJS
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Google Cloud```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### *.kaleido.ai
-- Cloudflare CDN
-- Website Testing
+- ```Cloudflare CDN```
+- ```Website Testing```
 
 
 ### *.unscreen.com
-- Cloudflare CDN
-- Vue.js
-- jQuery
-- Google Cloud
-- Website Testing
+- ```Cloudflare CDN```
+- ```Vue.js```
+- ```jQuery```
+- ```Google Cloud```
+- ```Website Testing```
 
 
 ## WOO Network: Bug Bounty Program
 ### https://x.woo.org/spot
-- Java
-- ReactJS
-- Website Testing
+- ```Java```
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### https://api.woo.org/
-- API Testing
-- Java
+- ```API Testing```
+- ```Java```
 
 
 ##  1Password
 ### <Your own 1Password subdomain --> https://<your account domain>.1password.com/
-- Moment.js
-- Lodash
+- ```Moment.js```
+- ```Lodash```
 
 
 ### <Account (Business, Family) signup page --> https://start.1password.com
-- Moment.js
-- Lodash
+- ```Moment.js```
+- ```Lodash```
 
 
 ### <White Box Test team --> https://bugcrowd-test.1password.com
 
 
 ### *.agilebits.com
-- Website Testing
-
-
-## American Battle Monuments Commission
-### https://abmc.gov
-- Drupal
-- ASP.NET
-- jQuery
-- PHP
-- Microsoft IIS
+- ```Website Testing```
 
 
 ## Backblaze
 ### Backblaze Website (*.backblaze.com)
-- API Testing
-- Recon
-- jQuery
-- Website Testing
+- ```API Testing```
+- ```Recon```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### B2 APIs (*.backblazeb2.com)
-- API Testing
+- ```API Testing```
 
 
 ### Backblaze Android mobile application
-- Android
+- ```Android```
 
 
 ### Backblaze iOS mobile application
-- iOS
+- ```iOS```
 
 
 ### Mac Personal Backup Clients
-- macOS
-- Desktop Application Testing
+- ```macOS```
+- ```Desktop Application Testing```
 
 
 ### Mac Restore Downloaders
-- macOS
-- Desktop Application Testing
+- ```macOS```
+- ```Desktop Application Testing```
 
 
 ### Windows Personal Backup Clients
-- Windows
-- Desktop Application Testing
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### Windows Restore Downloaders
-- Windows
-- Desktop Application Testing
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### Git Repositories (b2-sdk-java & B2 Command Line Tool)
-- Github
-- Static Code Analysis
+- ```Github```
+- ```Static Code Analysis```
 
 
 ## Lime
 ### https://apps.apple.com/us/app/lime/id1199780189
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://play.google.com/store/apps/details?id=com.limebike
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://api.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://webviews.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://juicer.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://admintool.lime.bike
-- Cloudflare CDN
-- ReactJS
-- Varnish
-- Amazon S3
-- Website Testing
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Varnish```
+- ```Amazon S3```
+- ```Website Testing```
 
 
 ### proxy-production.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://ops.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### *.lime.bike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://li.me (hubspot)
-- Website Testing
+- ```Website Testing```
 
 
 ### https://help.li.me (zendesk)
-- Website Testing
+- ```Website Testing```
 
 
 ### https://*.li.me
-- Website Testing
+- ```Website Testing```
 
 
 ### *.limeinternal.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://airflow.limeinternal.com
-- API Testing
-- HTTP
-
-
-## Gorillas
-### Gorillas Android Application
-- Android
-
-
-### Gorillas iOS Application
-- iOS
-
-
-### Gorillas.io
-- Website Testing
-
-
-### Any Gorillas asset on the Internet
-
-
-## Pretrial Services Agency for the District of Columbia
-### *.psa.gov
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-- Microsoft IIS
-
-
-### *.pretrialservices.gov
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-- Microsoft IIS
-
-
-### pretrialservices.gov
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-- Microsoft IIS
-
-
-### psa.gov
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-- Microsoft IIS
+- ```API Testing```
+- ```HTTP```
 
 
 ## Flourish
 ### flo.uri.sh
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### *.flourish.studio
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### *.xyzbmojn.net
@@ -6999,116 +4696,103 @@ Updated 2023-02-12 16:48:43.634197
 ### flourish-user-preview.com
 
 
-## Digital Shadows VDP
-### digitalshadows.com
-- Website Testing
-
-
-### portal-digitalshadows.com
-- Website Testing
-
-
-## Railroad Retirement Board - Vulnerability Disclosure Program
-### *.rrb.gov
-
-
 ## Cloudinary
 ### https://cloudinary.com/console
-- Ruby on Rails
-- jQuery
-- Website Testing
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://api.cloudinary.com
-- API Testing
-- Ruby on Rails
-- JSON
-- HTTP
+- ```API Testing```
+- ```Ruby on Rails```
+- ```JSON```
+- ```HTTP```
 
 
 ### https://res.cloudinary.com
-- API Testing
-- Ruby on Rails
-- JSON
-- HTTP
+- ```API Testing```
+- ```Ruby on Rails```
+- ```JSON```
+- ```HTTP```
 
 
 ### widget.cloudinary.com
-- AWS
-- Amazon S3
-- Website Testing
+- ```AWS```
+- ```Amazon S3```
+- ```Website Testing```
 
 
 ### wiki.cloudinary.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://support.cloudinary.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Elementor: Bug Bounty Program
 ### https://elementor.com/*
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://my.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://go.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://translate.elementor.com/
-- Wordpress
-- MySQL
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://developers.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://he.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://code.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://library.elementor.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ###  app.strattic.com
@@ -7116,167 +4800,167 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Nextup.ai
 ### https://marketplace.atlassian.com/apps/1219324/slack-integration-for-jira?hosting=cloud&tab=overview
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1227628/microsoft-teams-integration-for-jira?hosting=cloud&tab=overview
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1227656/docs-slack-for-confluence?hosting=cloud&tab=overview
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1224706/slack-first-support-helpdesk?hosting=cloud&tab=overview
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1224706/helpdesk-intuitive-slack-first-support?hosting=cloud&tab=overview
-- Website Testing
+- ```Website Testing```
 
 
 ## Xfinity Home & xFi
 ### Home.xfinity.com (see below)
-- Website Testing
+- ```Website Testing```
 
 
 ### Internet.xfinity.com
-- API Testing
-- IoT
-- Radiofrequency Testing
-- WiFi
-- Hardware Testing
+- ```API Testing```
+- ```IoT```
+- ```Radiofrequency Testing```
+- ```WiFi```
+- ```Hardware Testing```
 
 
 ### *-cvr-aws-*.sys.comcast.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *signalservice.comcast.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.dh-commerce.com 
-- Website Testing
+- ```Website Testing```
 
 
 ### *.ssr.ccp.xcal.tv 
-- Website Testing
+- ```Website Testing```
 
 
 ### orc-xfi.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.xfiplatform.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Xfinity Home iOS mobile app
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Xfinity iOS mobile app
-- API Testing
-- IoT
-- Radiofrequency Testing
-- WiFi
-- Hardware Testing
+- ```API Testing```
+- ```IoT```
+- ```Radiofrequency Testing```
+- ```WiFi```
+- ```Hardware Testing```
 
 
 ### Xfinity Home Android mobile app
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Xfinity Android mobile app
-- Website Testing
+- ```Website Testing```
 
 
 ### xhomeapi-*.codebig2.net
-- API Testing
+- ```API Testing```
 
 
 ### xhomeapi-*.cloud.comcast.net
-- API Testing
+- ```API Testing```
 
 
 ### Xfinity Home Hardware (items listed below in brief)
-- API Testing
-- IoT
-- Radiofrequency Testing
-- WiFi
-- Hardware Testing
+- ```API Testing```
+- ```IoT```
+- ```Radiofrequency Testing```
+- ```WiFi```
+- ```Hardware Testing```
 
 
 ### Xfinity Home cameras
-- API Testing
-- IoT
-- Radiofrequency Testing
-- WiFi
-- Hardware Testing
+- ```API Testing```
+- ```IoT```
+- ```Radiofrequency Testing```
+- ```WiFi```
+- ```Hardware Testing```
 
 
 ### speedtest.xfinity.com
-- Angular
-- JSON
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
+- ```Angular```
+- ```JSON```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```jQuery```
 
 
 ### siorc.xfinity.com
-- API Testing
+- ```API Testing```
 
 
 ### smartinet.xfinity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### gw.api.dh.comcast.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### xFi Gateways (e.g., XB3, XB6, XB7)
-- Computer Hardware
-- Hardware Testing
+- ```Computer Hardware```
+- ```Hardware Testing```
 
 
 ### xFi Pods
-- Computer Hardware
-- Hardware Testing
+- ```Computer Hardware```
+- ```Hardware Testing```
 
 
 ### https://csp-prod.codebig2.net
-- API Testing
+- ```API Testing```
 
 
 ### csp-pci.prod.codebig2.net
-- API Testing
+- ```API Testing```
 
 
 ### aiq-prod.codebig2.net
-- API Testing
+- ```API Testing```
 
 
 ### 3rd Party Devices (known as Works with Xfinity)
-- IoT
+- ```IoT```
 
 
 ### oauth.xfinity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### login.xfinity.com
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.xerxessecure.com
@@ -7289,15 +4973,15 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### \*\business.comcast.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.hfc.comcastbusiness.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.hsd1.*.comcast.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.pulseinsights.com
@@ -7338,141 +5022,141 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Prosus
 ### dealflow.prosus.com
-- ReactJS
+- ```ReactJS```
 
 
 ### dealflowapi.prosus.com
-- ReactJS
+- ```ReactJS```
 
 
 ### analytics-admin.prosus.com
-- ReactJS
+- ```ReactJS```
 
 
 ### analytics.prosus.com
-- Angular
+- ```Angular```
 
 
 ### prosus.com
-- C#
-- .NET
+- ```C#```
+- ```.NET```
 
 
 ### legal.prosus.com
-- PHP
+- ```PHP```
 
 
 ### azreporting.naspers.com/vpn/index.html
 
 
 ### publicpolicy.naspers.com
-- ASP.NET
+- ```ASP.NET```
 
 
 ### www.naspers.com
-- ASP.NET
+- ```ASP.NET```
 
 
 ### tracker.naspers.com
-- Angular
+- ```Angular```
 
 
 ### brandportal.naspers.com
-- C#
-- .NET
+- ```C#```
+- ```.NET```
 
 
 ### dashboard.naspers.com
-- Angular
+- ```Angular```
 
 
 ### cfc.naspers.com
-- Django
-- Python
+- ```Django```
+- ```Python```
 
 
 ### peopleview.naspers.com
-- Java
+- ```Java```
 
 
 ## Dell Technologies' Products Bug Bounty Program
 ### Actively Supported, Bounty Eligible Dell Products
-- Computer Hardware
-- Hardware Testing
+- ```Computer Hardware```
+- ```Hardware Testing```
 
 
 ### Actively Supported, Non-Reward Eligible Dell Products
-- Computer Hardware
-- Hardware Testing
+- ```Computer Hardware```
+- ```Hardware Testing```
 
 
 ### *.dell.com/*
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-- Modernizr
+- ```Bootstrap```
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
+- ```Modernizr```
 
 
 ### *.delltechnologies.com/*
-- Java
-- Adobe Experience Manager
-- Varnish
-- Bootstrap
-- Recon
-- jQuery
-- Website Testing
-- DNS
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Varnish```
+- ```Bootstrap```
+- ```Recon```
+- ```jQuery```
+- ```Website Testing```
+- ```DNS```
+- ```Modernizr```
 
 
 ## Dell Technologies Application Bug Bounty
 ### *.dell.com/*
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-- Modernizr
+- ```Bootstrap```
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
+- ```Modernizr```
 
 
 ### *.delltechnologies.com/* 
-- Website Testing
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/administration
-- Website Testing
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/invoice
-- Website Testing
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/billing
-- Website Testing
+- ```Website Testing```
 
 
 ### Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 
 
 ### https://console.delltechnologies.com/ 
-- Akamai CDN
-- ReactJS
-- nginx
-- Website Testing
+- ```Akamai CDN```
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/catalog
-- Website Testing
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/support
-- Website Testing
+- ```Website Testing```
 
 
 ### https://console.delltechnologies.com/nav/subscriptions
-- Website Testing
+- ```Website Testing```
 
 
 ### prm.dell.com
@@ -7498,126 +5182,68 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Kiteworks
 ### https://bugcrowd-pub.bounty.kiteworks.dev/
-- API Testing
-- Linux
-- Flask
-- Angular
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- Python
-- Javascript
+- ```API Testing```
+- ```Linux```
+- ```Flask```
+- ```Angular```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```PHP```
+- ```Python```
+- ```Javascript```
 
 
 ## Halp
 ### Halp application for Slack
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Halp application for Microsoft Teams
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Atlassian Assist - Cloud - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=cloud
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Atlassian Assist- Server - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=server
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Confluence Slack Automation Integration by Halp - Cloud - https://marketplace.atlassian.com/apps/1222365/confluence-slack-automation-integration-by-halp?hosting=cloud
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
-- TypeScript
-- NodeJS
+- ```TypeScript```
+- ```NodeJS```
 
 
 ### Atlassian Assist - DataCenter - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=datacenter
-- TypeScript
-- NodeJS
-
-
-## Northwestern Mutual VDP
-### *.northwesternmutual.com	
-- AWS
-- Amazon S3
-- Amazon Cloudfront
-- Website Testing
-- Newrelic
-
-
-### Anything Owned by Northwestern Mutual on the Public Internet
-- Website Testing
-
-
-### northwesternmutual.com/find-a-financial-advisor/
-- Website Testing
-
-
-### northwesternmutual.com/careers-apply/
-- Website Testing
-
-
-### northwesternmutual.com/financial/advisor/*
-- Website Testing
-
-
-### northwesternmutual.com/financial-professionals/?name=*
-- Website Testing
-
-
-### northwesternmutual.com/report-a-death/
-- Website Testing
-
-
-### northwesternmutual.com/notice-of-disability-form/
-- Website Testing
-
-
-### northwesternmutual.com/notice-of-group-disability-form/
-- Website Testing
-
-
-### northwesternmutual.com/notice-of-long-term-care-form/
-- Website Testing
-
-
-### Emerald Publications - Anything That Resolves to 199.59.136.0 - 199.59.139.255 (CIDR: 199.59.136.0/22)
-- Website Testing
-
-
-### *.nm.com
-- Website Testing
-
-
-## Sportradar VDP Pro
-### https://www.sportradar.com/
-- Website Testing
+- ```TypeScript```
+- ```NodeJS```
 
 
 ## Phemex Bug Bounty
 ### Phemex Website
-- ReactJS
-- Amazon Cloudfront
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```Website Testing```
 
 
 ### Phemex Android app
-- Android
+- ```Android```
 
 
 ### Phemex iOS app
-- iOS
+- ```iOS```
 
 
 ### Phemex Blog
@@ -7637,69 +5263,69 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Just Eat - Managed Bug Bounty
 ### *.just-eat.co.uk - UK food ordering
-- .NET
-- Angular
-- Website Testing
+- ```.NET```
+- ```Angular```
+- ```Website Testing```
 
 
 ### *.menulog.co.nz - New Zealand food ordering
-- .NET
-- Website Testing
+- ```.NET```
+- ```Website Testing```
 
 
 ### *.menulog.com.au - Australia food ordering
-- .NET
-- Website Testing
+- ```.NET```
+- ```Website Testing```
 
 
 ### *.just-eat.ie - Ireland food ordering
-- .NET
-- Angular
-- Website Testing
+- ```.NET```
+- ```Angular```
+- ```Website Testing```
 
 
 ### *.just-eat.it - Italy food ordering
-- .NET
-- Website Testing
+- ```.NET```
+- ```Website Testing```
 
 
 ### *.just-eat.es - Spain food ordering
-- .NET
-- Website Testing
+- ```.NET```
+- ```Website Testing```
 
 
 ### *.skipthedishes.com - Canada food ordering
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### *.je-apis.com - UK legacy API
-- API Testing
-- .NET
+- ```API Testing```
+- ```.NET```
 
 
 ### *.just-eat.com 
-- API Testing
-- .NET
+- ```API Testing```
+- ```.NET```
 
 
 ### *.justeat-int.com
-- API Testing
-- .NET
+- ```API Testing```
+- ```.NET```
 
 
 ### *.just-eat.io
-- API Testing
-- .NET
+- ```API Testing```
+- ```.NET```
 
 
 ### *.just-data.io
-- Website Testing
+- ```Website Testing```
 
 
 ### *.business.just-eat.co.uk - Just Eat for Business 
-- Google Cloud
-- Website Testing
+- ```Google Cloud```
+- ```Website Testing```
 
 
 ### api.skipthedishes.com
@@ -7728,92 +5354,92 @@ Updated 2023-02-12 16:48:43.634197
 
 ## ExpressVPN
 ### VPN servers
-- Cryptography
+- ```Cryptography```
 
 
 ### ExpressVPN iOS application
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### ExpressVPN Android application
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### ExpressVPN Linux application
-- Linux
-- Desktop Application Testing
+- ```Linux```
+- ```Desktop Application Testing```
 
 
 ### ExpressVPN macOS application
-- macOS
-- Desktop Application Testing
+- ```macOS```
+- ```Desktop Application Testing```
 
 
 ### ExpressVPN Windows application
-- Windows
-- Desktop Application Testing
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### ExpressVPN Router
-- Linux
-- Website Testing
+- ```Linux```
+- ```Website Testing```
 
 
 ### ExpressVPN Firefox extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### ExpressVPN Chrome extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ### MediaStreamer DNS servers
-- DNS
+- ```DNS```
 
 
 ### ExpressVPN APIs
-- API Testing
+- ```API Testing```
 
 
 ### www.expressvpn.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### *.expressvpn.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.xvservice.net
-- Website Testing
+- ```Website Testing```
 
 
 ### *.xvtest.net
-- Website Testing
+- ```Website Testing```
 
 
 ### expressobutiolem.onion
-- Website Testing
+- ```Website Testing```
 
 
 ### Google Play (com.expressvpn.vpn)
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Apple App Store (886492891)
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Lightway Core
-- Static Code Analysis
+- ```Static Code Analysis```
 
 
 ### ExpressVPN Keys Browser Extension
-- Browser Extension
+- ```Browser Extension```
 
 
 ## NEOGOV Public Assets
@@ -7824,137 +5450,89 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://secure.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://login.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://performance.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://www.governmentjobs.com
-- Moment.js
-- jQuery
-- RequireJS
+- ```Moment.js```
+- ```jQuery```
+- ```RequireJS```
 
 
 ### https://learn.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://analytics.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://onboard.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://unified.neogov.com
-- jQuery
-- Modernizr
+- ```jQuery```
+- ```Modernizr```
 
 
 ### https://eforms.neogov.com
-- jQuery
-- Modernizr
-
-
-## US Environmental Protection Agency Vulnerability Disclosure 
-### *.epa.gov
-- Drupal
-- jQuery
-- nginx
-- Website Testing
-- PHP
-
-
-### *.airnow.gov
-- Website Testing
-
-
-### *.airknowledge.gov
-- Website Testing
-
-
-### *.energystar.gov
-- Website Testing
-
-
-### *.foiaonline.gov
-- Website Testing
-
-
-### *.FEDCENTER.GOV
-
-
-### *.FRTR.GOV
-
-
-### *.GLNPO.GOV
-
-
-### *.URBANWATERS.GOV
-
-
-### *.SUSTAINABILITY.GOV
-
-
-## Deutsche Bank Vulnerability Disclosure Program
-### Any Deutsche Bank Asset
-
-
-### Trackit DB
-- Website Testing
+- ```jQuery```
+- ```Modernizr```
 
 
 ## HubSpot
 ### *.hubapi.com
-- API Testing
-- Cloudflare CDN
+- ```API Testing```
+- ```Cloudflare CDN```
 
 
 ### *.hubspot.com
-- Java
-- Cloudflare CDN
-- ReactJS
-- jQuery
+- ```Java```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```jQuery```
 
 
 ### *.hubspot.net
-- Cloudflare CDN
-- jQuery
+- ```Cloudflare CDN```
+- ```jQuery```
 
 
 ### *.hs-sites.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.hubspotemail.net
 
 
 ### HubSpot Mobile Application: Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### HubSpot Mobile Application: iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### *.getsidekick.com
@@ -7983,116 +5561,116 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Under Armour Corporate
 ### apphouse.underarmour.com
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### ourhouse.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### snc.underarmour.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### snctest-s.underarmour.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### snctest-c.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### supplier.underarmour.com
-- AWS
-- Website Testing
+- ```AWS```
+- ```Website Testing```
 
 
 ### transfer.underarmour.com
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### vpe-us.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### vtxapp9p.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### vtxapp9q.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### vtxapp9d.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### vtxappd.underarmour.com
-- Website Testing
+- ```Website Testing```
 
 
 ### 204.29.196.0/23
-- Network Testing
+- ```Network Testing```
 
 
 ### 3.223.149.182
-- Network Testing
+- ```Network Testing```
 
 
 ### 3.230.219.249
-- Network Testing
+- ```Network Testing```
 
 
 ### 34.237.130.2
-- Network Testing
+- ```Network Testing```
 
 
 ### 34.239.5.227
-- Network Testing
+- ```Network Testing```
 
 
 ### 52.220.158.49
-- Network Testing
+- ```Network Testing```
 
 
 ### 52.76.174.107
-- Network Testing
+- ```Network Testing```
 
 
 ### 13.238.112.7
-- Network Testing
+- ```Network Testing```
 
 
 ### 52.67.69.35
-- Network Testing
+- ```Network Testing```
 
 
 ### 52.44.176.187
-- Network Testing
+- ```Network Testing```
 
 
 ### 52.86.17.52
-- Network Testing
+- ```Network Testing```
 
 
 ### 54.83.32.16
-- Network Testing
+- ```Network Testing```
 
 
 ### 13.58.121.166
-- Network Testing
+- ```Network Testing```
 
 
 ### 3.133.230.28
-- Network Testing
+- ```Network Testing```
 
 
 ### 3.19.172.158
-- Network Testing
+- ```Network Testing```
 
 
 ### underarmournext.com
@@ -8137,116 +5715,72 @@ Updated 2023-02-12 16:48:43.634197
 ### www.plankindustries.com
 
 
-## DICK'S Sporting Goods
-### *.dickssportinggoods.com
-- Website Testing
-
-
-### Android App:  Dicks Sporting Goods
-- Android
-
-
-### iOS App:  Dicks Sporting Goods
-- iOS
-
-
-### *.golfgalaxy.com
-- Website Testing
-
-
-### *.fieldandstreamshop.com
-- Website Testing
-
-
-### *.dcsg.com
-- Website Testing
-
-
-### *.publiclands.com
-- Website Testing
-
-
-### *.goinggoinggone.com
-- Angular
-- ReactJS
-- TypeScript
-- jQuery
-
-
-### *.vrst.com
-- Website Testing
-
-
-### *.calia.com
-- Website Testing
-
-
 ## iFood: Bug Bounty Program
 ### https://www.ifood.com.br
-- ReactJS
-- jQuery
-- Website Testing
-- NodeJS
-- Modernizr
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```NodeJS```
+- ```Modernizr```
 
 
 ### iFood Customer iOS Application
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### iFood Customer Android Application
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://marketplace.ifood.com.br
-- Java
-- Go
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Go```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### https://wsloja.ifood.com.br
-- Java
-- Go
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Go```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### https://wslatam.ifood.com.br
-- Java
-- Go
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Go```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### https://static-images.ifood.com.br
-- Java
-- Go
-- Website Testing
-- Spring
-- Javascript
+- ```Java```
+- ```Go```
+- ```Website Testing```
+- ```Spring```
+- ```Javascript```
 
 
 ### https://shop.ifood.com.br
-- Java
-- Website Testing
+- ```Java```
+- ```Website Testing```
 
 
 ### https://api.fstr.rocks
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### https://rc.fstr.rocks
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### blog-empresas.ifood.com.br
@@ -8263,323 +5797,146 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Craft Coders Marketplace Bug Bounty
 ### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
-- Java
-- AWS
-- Website Testing
-- Javascript
+- ```Java```
+- ```AWS```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
-- Java
-- Website Testing
-- Javascript
+- ```Java```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
-- Java
-- Website Testing
-- Javascript
+- ```Java```
+- ```Website Testing```
+- ```Javascript```
 
 
 ## Caffeine
 ### https://www.caffeine.tv/
-- Stripe
-- ReactJS
-- Varnish
-- AWS
-- Amazon S3
-- Website Testing
+- ```Stripe```
+- ```ReactJS```
+- ```Varnish```
+- ```AWS```
+- ```Amazon S3```
+- ```Website Testing```
 
 
 ### https://api.caffeine.tv/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://payments.caffeine.tv
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://realtime.caffeine.tv/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://preview.caffeine.tv/
-- Stripe
-- ReactJS
-- Varnish
-- AWS
-- Amazon S3
-- Website Testing
+- ```Stripe```
+- ```ReactJS```
+- ```Varnish```
+- ```AWS```
+- ```Amazon S3```
+- ```Website Testing```
 
 
 ### https://images.caffeine.tv/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://static.caffeine.tv/
 
 
 ### https://v-cf.caffeine.tv
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://build.caffeine.tv/
-- Website Testing
+- ```Website Testing```
 
 
 ### caffeine.exe
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### caffeine-helper.x86.exe
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### caffeine-helper.x64.exe
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### Caffeine iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Caffeine Android Application	
-- Android
+- ```Android```
 
 
 ### *.rtcdn.caffeine.tv
 
 
 ### https://events.caffeine.tv/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Any Third Party Software Applications (Zendesk, etc)
-- Website Testing
+- ```Website Testing```
 
 
 ### Caffeine.custhelp.com
-- Website Testing
-
-
-## Geotab: VDP
-### *.geotab.com (some exceptions for out of scope)
-- C#
-- .NET
-- Javascript
-
-
-### *.geotab.ca
-
-
-### *.geotabinc.com
-
-
-### *.lat-lon.com
-
-
-### *.intendia.com
-
-
-### *.mobicorp.com
-
-
-### *.bsmtechnologies.com
-
-
-### *.smartchargerewards.com (Note: exceptions below)
-
-
-### *.bsmwireless.com
-
-
-### *.webtechwireless.com
-
-
-### *.neutralvehicle.com
-
-
-### my*.geotab.com
-
-
-### mypreview*.geotab.com
-
-
-### myadmin.geotab.com
-
-
-### *.geotabgov.us
-
-
-### gov*.geotab.com
-
-
-### gofleet*.geotab.com
-
-
-### consumersenergy.smartchargerewards.com
-
-
-### smartchargenewyork.smartchargerewards.com
-
-
-### saskatchewan.smartchargerewards.ca
-
-
-### smartchargenewbrunswick.smartchargerewards.com
-
-
-### ne-wed.smartchargerewards.com
-
-
-### ne-hmlp.smartchargerewards.com
-
-
-### *.sentinelfm.com
+- ```Website Testing```
 
 
 ## Skroutz Public Managed Bug Bounty
 ### https://www.skroutz.gr/
-- ReactJS
-- Ruby on Rails
-- Website Testing
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ## Imperva Bug Bounty
 ### https://*.imperva.com
-- Website Testing
-- WAF/RASP Bypass
+- ```Website Testing```
+- ```WAF/RASP Bypass```
 
 
 ### https://*.cloudvector.com/
-- Website Testing
-- WAF/RASP Bypass
+- ```Website Testing```
+- ```WAF/RASP Bypass```
 
 
 ### https://*.incapsula.com
-- Website Testing
-- WAF/RASP Bypass
-
-
-## NAB's Responsible Disclosure Program
-### *.nab.com.au
-- Website Testing
-
-
-### *.jbwere.com.au
-- Website Testing
-
-
-### *.jbwere.co.nz
-- Website Testing
-
-
-### *.medfin.com.au
-- Website Testing
-
-
-### *.nabbroker.com.au
-- Website Testing
-
-
-### *.nabequitylending.com.au 
-- Website Testing
-
-
-### *.nabmarginlending.com.au
-- Website Testing
-
-
-### *.nabtrade.com.au
-- Website Testing
-
-
-### *.ubank.com.au
-- Website Testing
-
-
-### *.86400.com.au 
-- Website Testing
-
-
-### *.globalfintechlink.com
-- Website Testing
-
-
-### https://www.mlc.com.au/
-- Website Testing
-
-
-### https://garvan.mlc.com.au/
-- Website Testing
-
-
-### https://www.apogee.com.au/
-- Website Testing
-
-
-### https://www.godfreypembroke.com.au/
-- Website Testing
-
-
-### https://www.meritumfinancialgroup.com.au/
-- Website Testing
-
-
-### *.claiming.com.au
-- Website Testing
-
-
-### *.lanternpay.com
-- Website Testing
-
-
-### Any other assets that appear to belong to NAB Group
-
-
-### *.advantedge.com.au
-- Website Testing
-
-
-### *.hicaps.com.au
-- Website Testing
-
-
-## Hummingbird VDP
-### hummingbird.co
-- jQuery
-- Lodash
-- Website Testing
-
-
-### *.hummingbird.co
-- jQuery
-- Lodash
-- Website Testing
-
-
-### app.hummingbird.co
-- Website Testing
+- ```Website Testing```
+- ```WAF/RASP Bypass```
 
 
 ## Braze Public BB
 ### http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### https://security-testing-env-api.k8s.test-001.d-usw-2.braze.com/
-- API Testing
+- ```API Testing```
 
 
 ### https://bug-bounty.braze.com/
@@ -8602,412 +5959,229 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Sisu Data
 ### https://vip.sisu.ai
-- Rust
-- Java
-- ReactJS
-- Lodash
-- Website Testing
-- Python
-- Javascript
+- ```Rust```
+- ```Java```
+- ```ReactJS```
+- ```Lodash```
+- ```Website Testing```
+- ```Python```
+- ```Javascript```
 
 
 ### https://sisudata.com
-- Gatsby
-- ReactJS
-- Website Testing
-
-
-## Department of Labor
-### https://*.dol.gov
-
-
-### https://*.bls.gov
-
-
-### https://*.apprenticeship.gov
-
-
-### https://*.apprenticeships.gov
-
-
-### https://*.employer.gov
-
-
-### https://*.govloans.gov
-
-
-### https://*.hirevets.gov
-
-
-### https://*.trainingproviderresults.gov
-
-
-### https://*.unionreports.gov
-
-
-### https://*.veterans.gov
-
-
-### https://*.disability.gov
-
-
-### https://*.DOL-ESA.gov
-
-
-### https://*.DOLETA.gov
-
-
-### https://*.labor.gov
-
-
-### https://*.worker.gov
-
-
-### https://*.youthrules.gov
-
-
-### https://*.msha.gov
-
-
-### https://*.osha.gov
-
-
-### https://*.whistleblowers.gov
-
-
-### https://*.jobcorps.gov
-
-
-### https://*.wrp.gov
-
-
-### https://*.jobcorps.org
-
-
-### https://*.workforcegps.org
-
-
-### https://*.useuosh.org
-
-
-### https://*.euusosh.org
-
-
-### https://*.UI.gov
-
-
-### https://*.unemployment.gov
-
-
-### https://*.goodjobs.gov
-
-
-### https://*.jcmarketplace.com
-
-
-### https://*.joinjobcorps.com
-
-
-### https://*.backtojobcorps.com
-
-
-### https://*.jcsuccess.org
-
-
-### https://*.neapmap.com
-
-
-### https://*.jctalentworks.com
-
-
-### https://*.jcstudentsurveys.com
-
-
-### https://*.bonds4jobs.com
-
-
-### https://*.acinet.org
-
-
-### https://*.careerinfonet.org
-
-
-### https://*.careeronestop.org
-
-
-### https://*.mynextmove.org 
-
-
-### https://*.myskillsmyfuture.org
-
-
-### https://*.onetcenter.org
-
-
-### https://*.onetonline.org
-
-
-### https://*.servicelocator.org
-
-
-### https://*.ajb.org
-
-
-### https://*.askearn.org
-
-
-### https://*.askjan.org
-
-
-### https://*.epolicyworks.org
-
-
-### https://*.leadcenter.org
-
-
-### https://*.whatcanyoudocampaign.org
-
-
-### https://*.ustedquepuedehacer.org
-
-
-### https://*.capeyouth.org
-
-
-### https://*.inclusiveapprenticeship.org
-
-
-### https://*.peatworks.org
-
-
-### https://*.onetcodeconnector.org
-
-
-### https://*.miproximopaso.org 
-
-
-### https://*.benefits.gov
-
-
-### https://*.alx.org
-
-
-### https://*.persuader-reports.gov
-
-
-## Department of Interior: Vulnerability Disclosure Program
-### *.doi.gov
-- Website Testing
+- ```Gatsby```
+- ```ReactJS```
+- ```Website Testing```
 
 
 ## TripAdvisor 
 ### api.production.cde.tamg.cloud
-- API Testing
+- ```API Testing```
 
 
 ### partnerapi.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### partnerapi1.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### partnerapi2.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### walletproxy.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### walletproxy1.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### walletproxy2.tapayments.com
-- API Testing
+- ```API Testing```
 
 
 ### www.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any localized version of www.tripadvisor.com available from the site's header or footer
-- Website Testing
+- ```Website Testing```
 
 
 ### api.tripadvisor.com
-- API Testing
+- ```API Testing```
 
 
 ### service.platform.tripadvisor.com
-- API Testing
+- ```API Testing```
 
 
 ### gwapi.tripadvisor.com
-- API Testing
+- ```API Testing```
 
 
 ### gwapi1.tripadvisor.com
-- API Testing
+- ```API Testing```
 
 
 ### gwapi2.tripadvisor.com
-- API Testing
+- ```API Testing```
 
 
 ### Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below
-- Website Testing
+- ```Website Testing```
 
 
 ### TripAdvisor Android App
-- Android
-- Kotlin
+- ```Android```
+- ```Kotlin```
 
 
 ### TripAdvisor iOS App
-- Kotlin
-- iOS
+- ```Kotlin```
+- ```iOS```
 
 
 ### https://www.tripadvisor.com/Plus
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.tripadvisor.com/Hotel_Review-g52842-d730099-Reviews-Schrute_Farms-Honesdale_Pocono_Mountains_Region_Pennsylvania.html
-- Website Testing
+- ```Website Testing```
 
 
 ### rentals.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.vacationhomerentals.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.holidaylettings.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.flipkey.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.niumba.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.housetrip.com
-- Website Testing
+- ```Website Testing```
 
 
 ### TripAdvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
-- Objective-C
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### marlo.ext.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokundemo.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokuntest.com
-- Website Testing
+- ```Website Testing```
 
 
 ###  ir.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tripadviser.at
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tripadvisor.cn
-- Website Testing
+- ```Website Testing```
 
 
 ### www.tripadvisor.*/Trips
-- Website Testing
+- ```Website Testing```
 
 
 ### www.tripadvisor.*/Mobile*
-- Website Testing
+- ```Website Testing```
 
 
 ### www.tripadvisor.*/engineering
-- Website Testing
+- ```Website Testing```
 
 
 ### spotlight-dev.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### spotlight.tripadvisor.*
-- Website Testing
+- ```Website Testing```
 
 
 ### careers.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tripadvisoradexpress.*
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tripadvisorwifi.*
-- Website Testing
+- ```Website Testing```
 
 
 ### lmt.tripadvisor.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.io
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.is
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.app
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.eu
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.team
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.tools
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokun.website
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bokunmobile.website
-- Website Testing
+- ```Website Testing```
 
 
 ### *.experiences.zone
-- Website Testing
+- ```Website Testing```
 
 
 ## SpaceX/Starlink
@@ -9016,348 +6190,143 @@ Updated 2023-02-12 16:48:43.634197
 
 ## iRobot
 ### iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://play.google.com/store/apps/details?id=com.irobot.home
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ###  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
-- API Testing
-- Python
+- ```API Testing```
+- ```Python```
 
 
 ### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
-- API Testing
-- Python
+- ```API Testing```
+- ```Python```
 
 
 ### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
-- API Testing
-- Python
+- ```API Testing```
+- ```Python```
 
 
 ### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
-- API Testing
-- Python
+- ```API Testing```
+- ```Python```
 
 
 ### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
-- API Testing
-- Python
+- ```API Testing```
+- ```Python```
 
 
 ### iRobot API Endpoint
 
 
 ### https://www.irobot.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://homesupport.irobot.com
-- Website Testing
+- ```Website Testing```
 
 
 ### irobot.in
-- Website Testing
+- ```Website Testing```
 
 
 ### https://homesupport.irobot.com/app/chat/chat_launch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://global.irobot.com/My%20Privacy
-- Website Testing
-
-
-## Bureau of Reclamation
-### *.usbr.gov
-- jQuery
-- Website Testing
-- Modernizr
-
-
-## Bureau of Land Management
-### *.blm.gov
-- Drupal
-- Website Testing
-- PHP
-
-
-### *.abandonedmines.gov
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-
-
-### *.nifc.gov
-- Java
-- Drupal
-- Apache Tomcat
-- jQuery
-- Website Testing
-- PHP
-
-
-## U.S. Fish and Wildlife Service 
-### *.fws.gov
-- Website Testing
-
-
-### *.rivers.gov
-- Website Testing
-
-
-## Sky Disclosure Program
-### All internet facing Sky assets
-- API Testing
-- IoT
-- Mobile Application Testing
-- Website Testing
-- Hardware Testing
-
-
-## BlueHost VDP
-### *.bluehost.in
-- ReactJS
-- nginx
-- Website Testing
-
-
-### *.bluehost.com
-- jQuery
-- nginx
-- Website Testing
-
-
-### Anything not explicitly listed as in scope
-
-
-## Arrow Electronics VDP
-### *.arrow.com
-- Akamai CDN
-- API Testing
-- SSL/TLS
-- Angular
-- Website Testing
-- Azure
-
-
-### *.verical.com
-- Akamai CDN
-- Website Testing
-- Azure
-- Javascript
-
-
-### *.richardsonrfpd.com
-- SSL/TLS
-- .NET
-- MySQL
-- ASP.NET
-- Azure DevOps Server
-- Website Testing
-- Microsoft IIS
-
-
-### *.immixgroup.com
-- Akamai CDN
-- SSL/TLS
-- ASP.NET
-- Website Testing
-- Microsoft IIS
-
-
-### *.powerandsignal.com
-- SSL/TLS
-- C#
-- .NET
-- MySQL
-- ASP.NET
-- Azure DevOps Server
-- Website Testing
-- Microsoft IIS
-
-
-### *.einfochips.com
-- Wordpress
-- Apache Tomcat
-- Website Testing
-- PHP
-
-
-### *.siliconexpert.com
-- Wordpress
-- nginx
-- Website Testing
-
-
-### *.aepetsche.com
-- nginx
-- Website Testing
-- PHP
-
-
-### *.elektroda.pl
-- Akamai CDN
-- nginx
-- Website Testing
-- PHP
-
-
-### *.xsp.arrow.com
-- AWS
-- MySQL
-- Apache Tomcat
-- jQuery
-- PHP
-
-
-### *.arrow.cn
-- eCommerce
-- Website Testing
-
-
-### *.chip1stop.com
-- Akamai CDN
-- eCommerce
-
-
-### *.transim.com
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.aspencore.com
-- Wordpress
-- Website Testing
-
-
-### *.eetimes.com
-- Akamai CDN
-- Wordpress
-- Website Testing
-- PHP
-
-
-### *.Datasheet
-- Wordpress
-- MySQL
-- Website Testing
-- PHP
-
-
-## Department of Veterans Affairs
-### *.va.gov
-- Website Testing
-
-
-### www.vets.gov
-- Website Testing
-
-
-### www.veteranscrisisline.net
-- Website Testing
-
-
-### www.reach.gov
-- Website Testing
-
-
-### www.vaitcampus.com
-- Website Testing
-
-
-### www.vavmc.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Tamedia
 ### https://www.derbund.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.bernerzeitung.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.tagesanzeiger.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.zuonline.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.tdg.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.zsz.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.landbote.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.bazonline.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.berneroberlaender.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.thunertagblatt.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.langenthalertagblatt.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://www.24heures.ch
-- MongoDB
-- Website Testing
-- NodeJS
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### Subdomain Takeover 
@@ -9367,1239 +6336,140 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://login.inscopedomain.ch/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://auth.inscopedomain.ch/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://tgt.inscopedomain.ch/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://shop.inscopedomain.ch/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://abo.inscopedomain.ch
 
 
-## Office of Navajo and Hopi Indian Relocation (ONHIR) - Vulnerability Disclosure Program 
-### https://www.onhir.gov/
-- AWS
-- Website Testing
-
-
-### *.onhir.gov/
-- AWS
-- Website Testing
-
-
-## EXIM - Vulnerability Disclosure Program
-### *.exim.gov
-
-
-## Rakuten VDP
-### *.rakuten.com
-- Java
-- ReactJS
-- Website Testing
-- NodeJS
-
-
 ## eazyBI
 ### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
-- Website Testing
+- ```Website Testing```
 
 
 ### docs.eazybi.com
-- Java
-- Backbone
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-## The Coca-Cola Company Vulnerability Disclosure Program
-### *.coca-colacompany.com
-- Java
-- Adobe Experience Manager
-- AWS
-- Apache httpd
-- jQuery
-- Lodash
-- jQuery Mobile
-- RequireJS
-- Javascript
-- Modernizr
-
-
-### *.coke.[any ccTLD]
-- Website Testing
-
-
-### *.vebatcoke.com
-- Website Testing
-
-
-### *.coca-cola.com
-
-
-### *.coca-cola.[any ccTLD]
-- Website Testing
-
-
-### *.coca-cola.com.[any ccTLD]
-- Website Testing
-
-
-### *.coca-cola.co.[any ccTLD]
-- Website Testing
-
-
-### *.coca-colaentuhogar.com
-- Website Testing
-
-
-### *.cocacolastore.fr
-- Website Testing
-
-
-### *.cokestore.com
-- Website Testing
-
-
-### *.coca-cola-deutschland.de
-- Website Testing
-
-
-### *.cocacolabelgium.be
-- Website Testing
-
-
-### *.cocacolanederland.nl
-- Website Testing
-
-
-### *.coca-cola-france.fr
-- Website Testing
-
-
-### *.coca-colaarabia.com
-- Website Testing
-
-
-### *.cocacolaespana.es
-- Website Testing
-
-
-### *.coca-colaitalia.it
-- Website Testing
-
-
-### *.cocacola-kos.com
-- Website Testing
-
-
-### *.coca-colamaroc.ma
-- Website Testing
-
-
-### *.coca-cola-oesterreich.at
-- Website Testing
-
-
-### *.cocacolaportugal.pt
-- Website Testing
-
-
-### *.coca-colaukraine.com
-- Website Testing
-
-
-### *.powerade.com
-- Adobe Experience Manager
-- Angular
-- Backbone
-- Bootstrap
-- Amazon Cloudfront
-- jQuery
-- Handlebars
-- Modernizr
-
-
-### *.dietcoke.com
-- Adobe Experience Manager
-- Backbone
-- Bootstrap
-- Apache httpd
-- Handlebars
-- Modernizr
-
-
-### *.sprite.com
-- Java
-- Adobe Experience Manager
-- Backbone
-- AWS
-- Bootstrap
-- Apache httpd
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
-- Handlebars
-- RequireJS
-- Javascript
-- Modernizr
-
-
-### *.appletiser.com
-- Java
-- Adobe Experience Manager
-- HTML
-- jQuery
-
-
-### *.drinkaha.com
-- Adobe Experience Manager
-- Angular
-- Backbone
-- Amazon Cloudfront
-- jQuery
-- Handlebars
-- Modernizr
-
-
-### *.barqs.com
-- Java
-- Adobe Experience Manager
-- Backbone
-- Bootstrap
-- HTML
-- Modernizr
-
-
-### *.dasani.com
-- Adobe Experience Manager
-- Angular
-- Backbone
-- Bootstrap
-- Amazon Cloudfront
-- jQuery
-- Handlebars
-- Modernizr
-
-
-### *.fanta.[any ccTLD]
-- Website Testing
-
-
-### *.fresca.com
-- Adobe Experience Manager
-- Angular
-- Backbone
-- Bootstrap
-- Amazon Cloudfront
-- jQuery
-- Handlebars
-- Modernizr
-
-
-### *.hi-c.com
-
-
-### *.melloyello.com
-- Java
-- Adobe Experience Manager
-- AWS
-- Amazon S3
-- Amazon Cloudfront
-- Handlebars
-- Javascript
-- Modernizr
-
-
-### *.pibb-xtra.com
-
-
-### *.surge.com
-
-
-### *.blueskysoda.com
-- Website Testing
-
-
-### *.fuzebev.com
-- Website Testing
-
-
-### *.hansens.com
-- Website Testing
-
-
-### *.honesttea.com
-- Website Testing
-
-
-### *.drinkmoxie.com
-- Website Testing
-
-
-### *.vitaminwater.com
-- Website Testing
-
-
-### *.topochico.com
-- Website Testing
-
-
-### *.innocentdrinks.[any ccTLD]
-- Website Testing
-
-
-### *.ko.com
-
-
-### *.cokeurl.com
-
-
-### tccc-aem.com
-- API Testing
-- Website Testing
-
-
-### *.testko.com
-
-
-### Coca-Cola iOS App
-- Mobile Application Testing
-- iOS
-
-
-### Coca-Cola Android App
-- Android
-- Mobile Application Testing
-
-
-### Coca-Cola Freestyle Machines
-
-
-### Dasani Purefill Water Dispensers
-
-
-### Intelligent Vending Machines
-
-
-### Connected Coolers
-
-
-## Cengage VDP
-### https://*.cengage.com
-
-
-### https://www.cengage.com/
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Modernizr
-
-
-### https://*.cengagebrain.com/*
-- Website Testing
-
-
-### https://s-nglsync.cengage.com/rostering
-- SQL
-- .NET
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
-
-
-### https://s-nglsync.cengage.com/provisionapi/NglSyncSamlSsoInit.ashx?token=[%District Specific Token%]&amp;username=[%Username%]
-- SQL
-- .NET
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
-
-
-### https://www.ed2go.com/
-
-
-### https://milady.cengage.com/
-
-
-### http://www.chiltondiy.com/
-- Website Testing
-
-
-###  www.pmguidedreading.com
-
-
-### cengage.com.au
-
-
-### cengage.co.nz 
-
-
-### ws.cengagelearning.com.au
-
-
-### gotit.net.au/dosage-calculations
-
-
-### www.nldcomprehension.com
-
-
-### www.nelsonnet.com.au
-
-
-### video.cengagelearning.com.au
-
-
-### app.pmecollection.com.au
-
-
-### admin.iqcentral.cengage.com.au
-
-
-### api.iqcentral.cengage.com.au
-
-
-### keep-up.cengagelearning.com.au
-
-
-### pmolcards.com
-
-
-### nldcomprehension.com
-
-
-### api.nelsonhub.cengagelearning.com.au
-
-
-### examplus.cengage.com
-
-
-### pmwriting.cengagelearning.com.au
-
-
-### static.cengagelearning.com.au
-
-
-### https://www.gale.com/public/small-library-support-program/form
-
-
-### https://www.gale.com/primary-sources/digital-humanities-webinar
-
-
-### https://www.gale.com/primary-sources/need-to-know/trial-request
-
-
-### https://www.gale.com/databases/gale-analytics
-
-
-### compassprod.cengage.com
-
-
-### gpms.cengage.com
-
-
-### jobiak.cengage.com
-
-
-### 69.32.200.139
+- ```Java```
+- ```Backbone```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ## Okta
 ### bugcrowd-%username%-1.oktapreview.com
-- Backbone
-- nginx
+- ```Backbone```
+- ```nginx```
 
 
 ### bugcrowd-%username%-2.oktapreview.com
-- Backbone
-- nginx
+- ```Backbone```
+- ```nginx```
 
 
 ### Okta MDM (iOS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Okta MDM (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Okta Browser Plugin (IE / Firefox / Chrome)
 
 
 ### Okta Verify (iOS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Okta Verify (Android)
-- Java
-- Android
-- Mobile Application Testing
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
-- Java
-- .NET
+- ```Java```
+- ```.NET```
 
 
 ### Okta Agent Windows
-- Windows
-
-
-## United Airlines
-### *.united.com
-- Akamai CDN
-- ReactJS
-- jQuery
-- Windows
-- Lodash
-- Handlebars
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### *.ual.com
-
-
-### United Mobile App for iOS
-- Mobile Application Testing
-- iOS
-
-
-### United Mobile App for Android
-- Android
-- Mobile Application Testing
-
-
-### MileagePlus X App for iOS
-- Mobile Application Testing
-- iOS
-
-
-### MileagePlus X App for Android
-- Android
-- Mobile Application Testing
-
-
-### Non-production environments (preview, pre-prod, dev, qa or stage/staging)
-
-
-### Onboard Wi-Fi, entertainment systems or avionics
-
-
-### 3rd party applications/services
-
-
-### hotels.united.com
-
-
-### vacations.united.com
-
-
-### cars.united.com
-
-
-### newsroom.united.com
-
-
-### ir.united.com
-
-
-### hub.united.com
-
-
-### jobparters.united.com
-
-
-### careers.united.com
-
-
-### opinions.united.com
-
-
-### globallinks.united.com
-
-
-### dutyfree.united.com
-
-
-### bigmetalbird.united.com
-
-
-### globalservices.united.com
-
-
-### uatp.united.com
-
-
-### brand.united.com
-
-
-### thanksamillion.united.com
-
-
-### unitedmileageplus.com
-
-
-### secure.unitedmileageplus.com
-
-
-### mystatus.united.com
-
-
-### newspaper-miles.com
-
-
-### *.mileageplus.com
-
-
-### cruises.united.com
-
-
-### cardmemberoffers.united.com
-
-
-### ualmiles.com
-
-
-### uma.united.com
-
-
-### unitedshop.summitmg.com
-
-
-### united-veterans.jobs
-
-
-### clubconferencerooms.united.com/unit
-
-
-### theexplorercard.com
-
-
-### mpclubcard.com
-
-
-### myexplorercard.com
-
-
-### unitedexplorecard.com
-
-
-### unitedexplorer.com
-
-
-### unitedexplorercard.com
-
-
-### mileageplusawards.com
-
-
-### mpdining.rewardsnetwork.com
-
-
-### m.mpdining.rewardsnetwork.com
-
-
-### news.united.com/responsys
-
-
-### survey.continental.com/vovici.net
-
-
-### booking.unitedcargo.com
-
-
-### chargerback.com
-
-
-### *.unitedvacationsdive.com
-
-
-### packages.united.com
-
-
-## Lbrands Victoria's Secret - VDP Pro
-### https://www.victoriassecret.com/us/
-- ReactJS
-- Lodash
-- Website Testing
-
-
-### Pink Nation iOS app
-
-
-### Pink Nation Android app
-
-
-### Victoria's Secret iOS app
-
-
-### Victoria's Secret Android app
-
-
-## Federal Communications Commission: Vulnerability Disclosure Program
-### https://www.fcc.gov/*
-- Website Testing
-
-
-### https://consumercomplaints.fcc.gov
-- Website Testing
-
-
-### https://autodiscover.fcc.gov
-- Website Testing
-
-
-### https://fccravpn.fcc.gov
-- Website Testing
-
-
-### https://xmail.fcc.gov
-- Website Testing
-
-
-### https://gbvdi.fcc.gov
-- Website Testing
-
-
-### https://osts.fcc.gov
-- Website Testing
-
-
-### https://ecfsapi.fcc.gov
-- Website Testing
-
-
-### https://apps2.fcc.gov
-- Website Testing
-
-
-### https://apps2demo.fcc.gov
-- Website Testing
-
-
-### https://apps3.fcc.gov
-- Website Testing
-
-
-### *.exploretsp.gov
-- Website Testing
-
-
-### https://auctionapplicationdemo.fcc.gov
-- Website Testing
-
-
-### https://auctionbidding.fcc.gov
-- Website Testing
-
-
-### https://auctionbidding2.fcc.gov
-- Website Testing
-
-
-### https://auctiondata.fcc.gov
-- Website Testing
-
-
-### https://auctionfiling.fcc.gov
-- Website Testing
-
-
-### https://auctionsignon.fcc.gov
-- Website Testing
-
-
-### https://auctionsignon2.fcc.gov
-- Website Testing
-
-
-### https://data.fcc.gov
-- Website Testing
-
-
-### https://dcvdi.fcc.gov
-- Website Testing
-
-
-### https://ecfsapi-prototype.fcc.gov
-- Website Testing
-
-
-### https://enterpriseefiling.fcc.gov
-- Website Testing
-
-
-### https://esupport.fcc.gov
-- Website Testing
-
-
-### https://fccdata.fcc.gov
-- Website Testing
-
-
-### https://fjallfoss.fcc.gov
-- Website Testing
-
-
-### https://opendata.fcc.gov
-- Website Testing
-
-
-### https://p2p-mic-sasentry.fcc.gov
-- Website Testing
-
-
-### https://www3.fcc.gov
-- Website Testing
-
-
-### https://paydemo.fcc.gov
-- Website Testing
-
-
-### *.fcc.gov
-
-
-## Department of Homeland Security: Vulnerability Disclosure Program
-### *.dhs.gov
-- Website Testing
-
-
-## National Labor Relations Board: Vulnerability Disclosure Program
-### *.NLRB.gov
-- Website Testing
-
-
-## Federal Retirement Thrift Investment Board : Vulnerability Disclosure Program
-### *.tsp.gov
-- Website Testing
-
-
-### *.exploretsp.gov
-- Website Testing
-
-
-### 74.113.204.0/22
-
-
-### *.frtib.gov
-- Website Testing
-
-
-## Millennium Challenge Corporation: Vulnerability Disclosure Program
-### https://www.mcc.gov/
-- Website Testing
-
-
-### *.mcc.gov/
-- Website Testing
-
-
-## United States Department of Agriculture: Vulnerability Disclosure Program
-### https://www.fsis.usda.gov/
-- Website Testing
-
-
-### https://www.fas.usda.gov/
-- Website Testing
-
-
-### https://www.aphis.usda.gov/aphis/home/
-- Website Testing
-
-
-### https://www.agcounts.usda.gov/static/cawi/layouts/cawi/breeze/index.html
-- Website Testing
-
-
-### https://www.nass.usda.gov/
-- Website Testing
-
-
-### https://ask.usda.gov/s/
-- Website Testing
-
-
-### https://www.rma.usda.gov/
-- Website Testing
-
-
-### https://oha.usda.gov/
-- Website Testing
-
-
-### https://www.farmers.gov/
-- Website Testing
-
-
-### https://www.oem.usda.gov/
-- Website Testing
-
-
-### https://www.dietaryguidelines.gov/
-- Website Testing
-
-
-### https://professionalstandards.fns.usda.gov/
-- Website Testing
-
-
-## Privacy and Civil Liberties Oversight Board: Vulnerability Disclosure Program
-### www.pclob.gov
-- Website Testing
-
-
-## Equal Employment Opportunity Commission: Vulnerability Disclosure Program
-### eeoc.gov
-- Website Testing
-
-
-### nxg.eeoc.gov
-- Website Testing
-
-
-### ims.eeoc.gov
-- Penetration Testing
-- Website Testing
-
-
-### uat-www.eeoc.gov
-- Website Testing
-
-
-### sts.eeoc.gov
-- Website Testing
-
-
-### surveys.eeoc.gov
-- Website Testing
-
-
-### youth.eeoc.gov
-- Website Testing
-
-
-### alertus.eeoc.gov
-- Website Testing
-
-
-### arcuat.eeoc.gov
-- Website Testing
-
-
-### arctrain.eeoc.gov
-- Website Testing
-
-
-### arcdev.eeoc.gov
-- Website Testing
-
-
-### https://arc.eeoc.gov
-- Penetration Testing
-- Website Testing
-
-
-## Occupational Safety and Health Review Commission: Vulnerability Disclosure Program
-### https://www.oshrc.gov/
-- Website Testing
-
-
-### oshrc.entellirak.com
-
-
-## Court Services and Offender Supervision Agency: Vulnerability Disclosure Program
-### https://www.csosa.gov/
-- Website Testing
-
-
-### *.csosa.gov
-- Website Testing
+- ```Windows```
 
 
 ## Bullish.com
 ### https://bullish.com/
-- Cloudflare CDN
-- Website Testing
+- ```Cloudflare CDN```
+- ```Website Testing```
 
 
 ### https://investor.bullish.com
-- Cloudflare CDN
-- Website Testing
+- ```Cloudflare CDN```
+- ```Website Testing```
 
 
 ### *.bullish.com
-- API Testing
-- Cloudflare CDN
-- Website Testing
+- ```API Testing```
+- ```Cloudflare CDN```
+- ```Website Testing```
 
 
 ### https://bugbounty.bullish-test.com
-- API Testing
-- Website Testing
-
-
-## AMEX - Global Business Travel Vulnerability Disclosure Program
-### https://register.banks-sadler.com
-- Website Testing
-
-
-### ctx.amexgbt.com
-
-
-### prod1.amexgbt.com
-
-
-### sql.amexgbt.com
-
-
-### sslvpn.amexgbt.com
-
-
-### stage.amexgbt.com
-
-
-### staging.amexgbt.com
-
-
-### test1.amexgbt.com
-
-
-### testuat.amexgbt.com
-
-
-### voip.amexgbt.com
-
-
-### wordpress.amexgbt.com
-
-
-### *.amexglobalbusinesstravel.com
-- Bootstrap
-- MySQL
-- Recon
-- jQuery
-- RequireJS
-- Website Testing
-- PHP
-- DNS
-
-
-### *.amexgbt.com
-- MySQL
-- Recon
-- jQuery
-- RequireJS
-- Website Testing
-- PHP
-- DNS
-
-
-### *.banks-sadler.com
-- Website Testing
-- PHP
-
-
-### www.bienquiries.co.uk
-- Moment.js
-- ASP.NET
-- jQuery
-- Website Testing
-
-
-### https://www.ebrdevents.co.uk/
-- Moment.js
-- ASP.NET
-- jQuery
-- Website Testing
-
-
-### *.gbtad.com
-- Recon
-- Website Testing
-- DNS
-
-
-### *.gbtexternal.com
-- Recon
-- Website Testing
-- DNS
-
-
-### *GBTNTA.com
-- Website Testing
-
-
-### *.gbtspain.com
-- MySQL
-- Recon
-- jQuery
-- RequireJS
-- Website Testing
-- PHP
-- DNS
-
-
-### *.hrgnorthamerica.com
-- Recon
-- Website Testing
-- DNS
-
-
-### *.hrgworldwide.com
-- Bootstrap
-- MySQL
-- Recon
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- DNS
-
-
-### *.meetingsexpreess.com
-- Website Testing
-
-
-### *.meetingsexpress.com
-- Website Testing
-
-
-### *.meetingssource.com
-- Website Testing
-
-
-### www.mytravelsolution.com
-- Angular
-- ASP.NET
-- jQuery
-- Website Testing
-
-
-### *.mykds.com
-- Recon
-- Website Testing
-- DNS
-
-
-### https://pat.itq.in/
-- Website Testing
-
-
-### *.uathrg-isuite.com
-- Recon
-- Website Testing
-- DNS
-
-
-### *.uathrgisuite.com
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### www.winnerscircleregistration.com
-- Website Testing
-
-
-### 203.125.28.128/28
-- Network Testing
-
-
-### *.kds.com
-- Bootstrap
-- MySQL
-- Recon
-- jQuery
-- Website Testing
-- PHP
-- DNS
-
-
-### *.ovationtravel.com
-- Website Testing
-
-
-### *.lawyerstravel.com
-
-
-### *.miclientool.com/
-
-
-### *.supplierstool.com
-
-
-### *.mieventool.com
-
-
-### *.miwebtool.com
-
-
-### *.sourcingcenteramexgbt.com
-
-
-### gbt-invoicing.com
-
-
-### https://*.neo1.com/
+- ```API Testing```
+- ```Website Testing```
 
 
 ## Twilio
 ### api.twilio.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Twilio APIs
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ###  tsock.us1.twilio.com
@@ -10615,166 +6485,166 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Twilio SDKs
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### Twilio Console
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ###  Twilio Helper Libraries
-- Website Testing
+- ```Website Testing```
 
 
 ###  Twilio CDNs (static*.twilio.com)
-- Website Testing
+- ```Website Testing```
 
 
 ### twilio.com/blog
-- Django
-- jQuery
-- Website Testing
+- ```Django```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://build.twilio.com/s/
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://sendgrid.com
-- Ruby
-- ReactJS
-- Go
-- PHP
-- Python
+- ```Ruby```
+- ```ReactJS```
+- ```Go```
+- ```PHP```
+- ```Python```
 
 
 ### https://app.sendgrid.com/
-- Amazon S3
-- jQuery
+- ```Amazon S3```
+- ```jQuery```
 
 
 ### https://signup.sendgrid.com/
-- Amazon S3
+- ```Amazon S3```
 
 
 ### api.sendgrid.com
-- Ruby
-- ReactJS
-- Go
-- PHP
-- Python
+- ```Ruby```
+- ```ReactJS```
+- ```Go```
+- ```PHP```
+- ```Python```
 
 
 ### https://mc.sendgrid.com/
-- Amazon S3
-- jQuery
+- ```Amazon S3```
+- ```jQuery```
 
 
 ### smtp.sendgrid.net
-- SMTP
+- ```SMTP```
 
 
 ### Authy iOS app
-- Mobile Application Testing
-- iOS
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Authy Android App
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Authy Desktop app
-- Desktop Application Testing
+- ```Desktop Application Testing```
 
 
 ### Twilio Authy - https://api.authy.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Twilio Verify - https://verify.twilio.com
-- API Testing
+- ```API Testing```
 
 
 ### Twilio Authy API
-- API Testing
+- ```API Testing```
 
 
 ### Twilio Authy Dashboard API
-- API Testing
+- ```API Testing```
 
 
 ### Any host/web property verified to be owned by Twilio
 
 
 ### app.segment.com
-- GraphQL
-- ReactJS
-- TypeScript
-- Website Testing
-- NodeJS
+- ```GraphQL```
+- ```ReactJS```
+- ```TypeScript```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### api.segment.io
-- API Testing
+- ```API Testing```
 
 
 ### Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
-- nginx
+- ```nginx```
 
 
 ### Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 
 
 ### support.twilio.com
-- Website Testing
+- ```Website Testing```
 
 
 ### s.signal.twilio.com
-- Website Testing
+- ```Website Testing```
 
 
 ### ahoy-eloqua.twilio.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Ytica and its assets 
-- Website Testing
+- ```Website Testing```
 
 
 ### TwimlBins
 
 
 ### store.twilio.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Demo websites e.g. lab.authy.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://dashboard.authy.com
-- Website Testing
+- ```Website Testing```
 
 
 ### All Kurento domains
-- Website Testing
+- ```Website Testing```
 
 
 ### twiliotraining.com
-- Website Testing
+- ```Website Testing```
 
 
 ### www.twilio.com/labs
-- Website Testing
+- ```Website Testing```
 
 
 ### www.twilio.com/quest
-- Website Testing
+- ```Website Testing```
 
 
 ### surveys.twilio.com
@@ -10809,136 +6679,87 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Unity Technology
 ### www.unity3d.com
-- Vue.js
-- Drupal
-- jQuery
-- Website Testing
-- PHP
+- ```Vue.js```
+- ```Drupal```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### id.unity.com
-- Ruby
-- Ruby on Rails
-- jQuery
-- Website Testing
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### api.unity.com
-- API Testing
+- ```API Testing```
 
 
 ### dashboard.unity3d.com
-- jQuery
-- Website Testing
-- Modernizr
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### syncsketch.dev
-- Website Testing
+- ```Website Testing```
 
 
 ### store.unity.com
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### pay.unity.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### analytics.cloud.unity3d.com
-- Ruby
-- Ruby on Rails
-- jQuery
-- Website Testing
-- Modernizr
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### player-login.unity.com
-- API Testing
-- Go
+- ```API Testing```
+- ```Go```
 
 
 ### Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
-- macOS
-- Windows
+- ```macOS```
+- ```Windows```
 
 
 ### Unity Hub
-- macOS
-- Windows
+- ```macOS```
+- ```Windows```
 
 
 ## Smartmockups
 ### *.smartmockups.com/
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ## Pixabay
 ### *.pixabay.com/
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ## Pexels
 ### *.pexels.com
-- Ruby
-- Ruby on Rails
-- Website Testing
-
-
-## Lbrands Bath & Body Works - VDP Pro
-### https://www.bathandbodyworks.com/
-- jQuery
-- YUI
-- Website Testing
-
-
-### BBW Android app
-
-
-### BBW iOS app
-
-
-### https://customercare.bathandbodyworks.com/
-
-
-## Phrase Vulnerability Disclosure Program
-### https://cloud9.memsource.com/
-- Groovy
-- Java
-- Website Testing
-- Python
-- Javascript
-
-
-### https://cloud9.memsource.com/web/docs/api
-- API Testing
-- Groovy
-- Java
-
-
-### http://phrase.com/
-- Wordpress
-- PHP
-
-
-### http://app.phrase.com/
-- Vue.js
-- Ruby
-- MySQL
-- Elasticsearch
-- Ruby on Rails
-
-
-### http://api.phrase.com/
-- Ruby
-- Ruby on Rails
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ## K15t
@@ -11016,121 +6837,121 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Stiltsoft
 ### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
-- Confluence
-- ExpressJS
-- PostgreSQL
-- JSON
-- jQuery
-- Website Testing
-- Javascript
+- ```Confluence```
+- ```ExpressJS```
+- ```PostgreSQL```
+- ```JSON```
+- ```jQuery```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
-- Java
-- Confluence
-- PostgreSQL
-- ReactJS
-- AWS
-- Play
-- Website Testing
+- ```Java```
+- ```Confluence```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```AWS```
+- ```Play```
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
-- Git
-- Java
-- PostgreSQL
-- ReactJS
-- jQuery
-- Play
-- Website Testing
+- ```Git```
+- ```Java```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```jQuery```
+- ```Play```
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=server
-- Git
-- ReactJS
-- JSON
-- jQuery
-- Website Testing
+- ```Git```
+- ```ReactJS```
+- ```JSON```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
-- Git
-- ReactJS
-- JSON
-- jQuery
-- Website Testing
+- ```Git```
+- ```ReactJS```
+- ```JSON```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
-- Java
-- PostgreSQL
-- ReactJS
-- AWS
-- Spring
-- Javascript
+- ```Java```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```AWS```
+- ```Spring```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
-- Java
-- jQuery
-- Javascript
+- ```Java```
+- ```jQuery```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
-- Java
-- Confluence
-- jQuery
-- Javascript
+- ```Java```
+- ```Confluence```
+- ```jQuery```
+- ```Javascript```
 
 
 ### https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hosting=cloud
-- Jira
-- Java
-- PostgreSQL
-- ReactJS
-- Spring
+- ```Jira```
+- ```Java```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Spring```
 
 
 ### https://marketplace.atlassian.com/apps/1212531/customer-case-jira-support-feedback?hosting=cloud
-- Jira
-- PostgreSQL
-- AWS
+- ```Jira```
+- ```PostgreSQL```
+- ```AWS```
 
 
 ### https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
-- Jira
-- Java
-- PostgreSQL
-- Angular
-- Play
-- Website Testing
+- ```Jira```
+- ```Java```
+- ```PostgreSQL```
+- ```Angular```
+- ```Play```
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
-- Java
-- Confluence
-- PostgreSQL
-- ReactJS
-- Website Testing
-- Spring
+- ```Java```
+- ```Confluence```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Website Testing```
+- ```Spring```
 
 
 ### https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
-- Java
-- Confluence
-- PostgreSQL
-- ReactJS
-- Spring
+- ```Java```
+- ```Confluence```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Spring```
 
 
 ### https://marketplace.atlassian.com/apps/1222001/employee-performance-ratings?hosting=cloud
-- Jira
-- Java
-- PostgreSQL
-- ReactJS
-- AWS
-- Spring
-- Javascript
+- ```Jira```
+- ```Java```
+- ```PostgreSQL```
+- ```ReactJS```
+- ```AWS```
+- ```Spring```
+- ```Javascript```
 
 
 ### *.atlassian.com
@@ -11138,107 +6959,107 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Credit Karma
 ### api.creditkarma.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Credit Karma Android Mobile Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Credit Karma iOS Mobile Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Credit Karma Canada iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://*.creditkarma.com
-- ReactJS
-- Website Testing
-- Newrelic
+- ```ReactJS```
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### https://help.creditkarma.com/
-- Bootstrap
-- Website Testing
+- ```Bootstrap```
+- ```Website Testing```
 
 
 ### https://accounts.creditkarma.com
-- ReactJS
-- jQuery
-- Website Testing
-- Modernizr
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### https://tax.creditkarma.com
-- ReactJS
-- jQuery
-- Website Testing
-- Modernizr
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### https://blog.creditkarma.com/
-- Wordpress
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- Newrelic
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### https://www.creditkarma.ca/
-- Website Testing
-- Newrelic
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### https://www.creditkarma.com/all/advice
-- Website Testing
+- ```Website Testing```
 
 
 ### appsflyer.com
-- Website Testing
+- ```Website Testing```
 
 
 ### crashlytics.com
-- Website Testing
+- ```Website Testing```
 
 
 ### taplytics.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.creditkarma.com/article/*
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.creditkarma.com/reviews/
-- Website Testing
+- ```Website Testing```
 
 
 ### http://socialverification.creditkarma.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### http://socialverification.stage.creditkarma.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://taxhelp.creditkarma.com
-- Website Testing
+- ```Website Testing```
 
 
 ### taxsupport.creditkarma.com
@@ -11249,89 +7070,89 @@ Updated 2023-02-12 16:48:43.634197
 
 ## lululemon
 ### http://www.lululemon.co.kr/
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://fr.shop.lululemon.com
 
 
 ### lululemon.cn
-- Website Testing
+- ```Website Testing```
 
 
 ### shop.lululemon.com
-- Akamai CDN
-- ExpressJS
-- ReactJS
-- AWS
-- Amazon Cloudfront
-- Website Testing
-- NodeJS
+- ```Akamai CDN```
+- ```ExpressJS```
+- ```ReactJS```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### http://www.lululemon.co.uk
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.lululemon.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Whatfix
 ### whatfix.com/bugcrowd_pentest/
-- Java
-- Cloudflare CDN
-- Wordpress
-- MySQL
-- jQuery
-- Handlebars
-- Website Testing
-- PHP
-- Modernizr
+- ```Java```
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Handlebars```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### whatfix.com/bugcrowd_pentest1/
-- Java
-- Cloudflare CDN
-- Wordpress
-- MySQL
-- jQuery
-- Handlebars
-- Website Testing
-- PHP
-- Modernizr
+- ```Java```
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Handlebars```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### Whatfix Editor Extension (see below for details)
-- Website Testing
+- ```Website Testing```
 
 
 ### Whatfix Embed on website/ application (see below for details)
-- Website Testing
+- ```Website Testing```
 
 
 ### Whatfix Desktop Player
-- C#
-- .NET
-- Desktop Application Testing
+- ```C#```
+- ```.NET```
+- ```Desktop Application Testing```
 
 
 ### Whatfix Desktop Editor 
-- C#
-- .NET
-- Desktop Application Testing
+- ```C#```
+- ```.NET```
+- ```Desktop Application Testing```
 
 
 ### whatfix.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Aruba Networks Public Program
 ### *.arubanetworks.com
-- Website Testing
+- ```Website Testing```
 
 
 ### http://outdoorplanner.arubanetworks.com/
@@ -11367,105 +7188,32 @@ Updated 2023-02-12 16:48:43.634197
 ### sirt.arubanetworks.com
 
 
-## Regions Bank Vulnerability Disclosure Program 
-###  *.firststerling.com
-- Website Testing
-
-
-### *.regions.com
-- Finance
-- Bootstrap
-- jQuery
-- Handlebars
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### *.regions.us
-- Website Testing
-
-
-### *.regions6x.com
-- Website Testing
-
-
-### *.regionsapps.com
-- Website Testing
-
-
-### *.regionsdev.com
-- Website Testing
-
-
-### *.regionsmortgage.com
-- Website Testing
-
-
-### *.regionsqa.com
-- Website Testing
-
-
-### *.regionsretirement.com
-- Website Testing
-
-
-### *.regionssource.com
-- Website Testing
-
-
-### https://*.regions.com
-- Finance
-- Bootstrap
-- jQuery
-- Handlebars
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### *.rgbk.com
-- Website Testing
-
-
-### *.enerbank.com
-- Website Testing
-
-
-### *.sabal.com
-- Website Testing
-
-
-### *.clearsightadvisors.com
-- Website Testing
-
-
 ## Acorns Grow, Inc.
 ### https://app.acorns.com
 
 
 ### Acorns for iOS
-- iOS
+- ```iOS```
 
 
 ### Acorns for Android
-- Android
+- ```Android```
 
 
 ### https://signup.acorns.com/
-- Website Testing
-- Javascript
+- ```Website Testing```
+- ```Javascript```
 
 
 ### https://client.acorns.com
 
 
 ### https://help.acorns.com
-- jQuery
+- ```jQuery```
 
 
 ### https://graphql.acorns.com
-- GraphQL
+- ```GraphQL```
 
 
 ### *.acorns.com
@@ -11473,541 +7221,382 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Intercom
 ### iOS SDK
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Android SDK
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://api.intercom.io
-- API Testing
+- ```API Testing```
 
 
 ### https://app.intercom.com
-- Ruby
-- Ruby on Rails
-- Website Testing
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### https://app.intercom.io
-- Ruby
-- Ruby on Rails
-- Website Testing
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### *.intercomassets.com / *.intercomcdn.com
 
 
-## Sprout Social
-### jobboard.sproutsocial.com
-- Website Testing
-
-
-### Anything that CNAMEs to a third party
-
-
-### *.sproutsocial.com/wp-includes
-- Website Testing
-
-
-### sproutsocial.com/wp-includes
-- Website Testing
-
-
-### pagely.sproutsocial.com
-- Website Testing
-
-
-### app.sproutsocial.com
-- Cloudflare CDN
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### app.sproutsocial.com/api
-- API Testing
-- HTTP
-
-
-### media.sproutsocial.com
-- Website Testing
-
-
-### sproutsocial.com
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### sproutsocial.com/insights
-- Wordpress
-- AWS
-- MySQL
-- Amazon Cloudfront
-- Website Testing
-- PHP
-
-
-### sproutsocial.com/adapt/
-- Website Testing
-
-
-### sproutsocial.com/es/
-- Website Testing
-
-
-### sproutsocial.com/pt/
-- Website Testing
-
-
-### cms.sproutsocial.com/mktapi
-- API Testing
-- HTTP
-
-
-### Sprout Social for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### Sprout Social for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### getbambu.com
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### api.sproutsocial.com
-- API Testing
-
-
-### share.sproutsocial.com
-- Website Testing
-
-
-### sprout.link
-- Website Testing
-
-
 ## Cash App
 ### Cash App Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Cash App Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### *.cash.app
-- Ruby
-- ReactJS
-- Ruby on Rails
-- jQuery
-- Website Testing
+- ```Ruby```
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.cashstaging.app
-- Website Testing
+- ```Website Testing```
 
 
 ### *.joinverse.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### *.verse.me
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### *.verse.events
-- API Testing
-- Website Testing
-
-
-## Kistler Vulnerability Disclosure Program
-### 217.110.71.13
-
-
-### 91.223.79.0/24
-
-
-### 165.84.187.114
-
-
-### 165.84.187.115
-
-
-### 165.84.187.117
-
-
-### 165.84.187.123
-
-
-### 108.17.0.3
-
-
-### 108.17.0.6
-
-
-### 108.17.0.8
-
-
-### 108.17.0.11
-
-
-### 108.17.0.12
-
-
-### 108.17.0.26
-
-
-### 108.17.0.30
-
-
-### *.kistudiolab.kistler.com
-
-
-### *.hub.kistler.com
-
-
-### *.dsl.kistler.com
-
-
-### 176.52.204.69
+- ```API Testing```
+- ```Website Testing```
 
 
 ## Jora
 ### *.jora.com
-- Ruby
-- Ruby on Rails
-- Website Testing
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### *.jora.xyz
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### *.joralocal.com.au	
-- Website Testing
+- ```Website Testing```
 
 
 ## Opera Public Bug Bounty
 ### Opera PC
-- macOS
-- Windows
-- Binary Analysis
+- ```macOS```
+- ```Windows```
+- ```Binary Analysis```
 
 
 ### Opera GX
-- macOS
-- Windows
-- Binary Analysis
+- ```macOS```
+- ```Windows```
+- ```Binary Analysis```
 
 
 ### www.opera.com
-- Django
-- Website Testing
-- Python
+- ```Django```
+- ```Website Testing```
+- ```Python```
 
 
 ### auth.opera.com
-- Django
-- Website Testing
-- Python
+- ```Django```
+- ```Website Testing```
+- ```Python```
 
 
 ### accounts.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### speeddials.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### flow.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### autoupdate.geo.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### net.geo.opera.com
-- Website Testing
+- ```Website Testing```
 
 
 ### get.geo.opera.com
-- API Testing
-- nginx
-- Website Testing
+- ```API Testing```
+- ```nginx```
+- ```Website Testing```
 
 
 ### download.opera.com
-- Django
-- Website Testing
-- Python
+- ```Django```
+- ```Website Testing```
+- ```Python```
 
 
 ### browser-notifications.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### Opera for Android 
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Opera Mini
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Opera GX for Android
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Apex Football
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Opera News
-- Android
-- Mobile Application Testing
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### GameMaker Studio 2
-- Binary Analysis
+- ```Binary Analysis```
 
 
 ### Loomi.tv
-- Website Testing
+- ```Website Testing```
 
 
 ### www.gamemaker.io
-- Vue.js
-- Ruby
-- Ruby on Rails
-- Website Testing
+- ```Vue.js```
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### bugs.opera.com
-- Website Testing
+- ```Website Testing```
 
 
 ### cashback.opera.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.osp.opera.software
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### *.opera.software
-- Website Testing
+- ```Website Testing```
 
 
 ### *.opera.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.opera.technology
-- API Testing
+- ```API Testing```
 
 
 ### *.yoyogames.com
-- API Testing
+- ```API Testing```
 
 
 ### https://gx.games
-- Website Testing
+- ```Website Testing```
 
 
 ### https://create.gx.games
-- Website Testing
+- ```Website Testing```
 
 
 ### https://api.gx.games/gxc
-- API Testing
+- ```API Testing```
 
 
 ### https://api.gx.games/dc
-- API Testing
+- ```API Testing```
 
 
 ### *.sec-tunnel.com
-- API Testing
+- ```API Testing```
 
 
 ### weather.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### merchandise.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### blocklist.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### marketplace.yoyogames.com
-- Website Testing
+- ```Website Testing```
 
 
 ### push.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### exchange.opera.com
-- API Testing
+- ```API Testing```
 
 
 ### suggestions.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### gx.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### cdn-store.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### features.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### cryptowallet.opera-api.com
-- API Testing
+- ```API Testing```
 
 
 ### *.oleads.com
-- Vue.js
-- Website Testing
+- ```Vue.js```
+- ```Website Testing```
 
 
 ### *.dailyadvent.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.apex-football.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.operafootball.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.opera-mini.net
-- API Testing
+- ```API Testing```
 
 
 ### *.opera.news
-- API Testing
+- ```API Testing```
 
 
 ### *.operanewsapp.com
-- API Testing
+- ```API Testing```
 
 
 ### *.feednews.com
-- API Testing
+- ```API Testing```
 
 
 ### 203.89.100.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 195.189.143.0/24
-- API Testing
+- ```API Testing```
 
 
 ### 185.26.180.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 141.0.8.0/21
-- API Testing
+- ```API Testing```
 
 
 ### 107.167.96.0/19
-- API Testing
+- ```API Testing```
 
 
 ### 103.83.120.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 102.23.96.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 91.203.96.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 82.145.208.0/20
-- API Testing
+- ```API Testing```
 
 
 ### 77.111.244.0/22
-- API Testing
+- ```API Testing```
 
 
 ### 37.228.104.0/21
-- API Testing
+- ```API Testing```
 
 
 ### investor.opera.com
@@ -12060,93 +7649,93 @@ Updated 2023-02-12 16:48:43.634197
 
 ## 20 Minuten
 ### https://www.20min.ch
-- ReactJS
-- Varnish
-- AWS
-- Amazon Cloudfront
-- jQuery
-- Website Testing
-- NodeJS
-- Javascript
+- ```ReactJS```
+- ```Varnish```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```Website Testing```
+- ```NodeJS```
+- ```Javascript```
 
 
 ### https://api.20min.ch/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://amp.20min.ch
-- ReactJS
-- Amazon Cloudfront
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Amazon Cloudfront```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://comment-moderation-stats.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://coral.20min.ch/
-- ReactJS
-- nginx
-- Website Testing
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://partner-feeds.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm-api.beta.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm-admin.beta.20min.ch/
-- AWS
-- nginx
-- Website Testing
+- ```AWS```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://pcm-imaginary.beta.20min.ch/
-- API Testing
+- ```API Testing```
 
 
 ### https://pcm.beta.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm-api.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm-admin.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm-imaginary.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://pcm.20min.ch
-- Website Testing
+- ```Website Testing```
 
 
 ### https://screenplayer.20min.ch
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://videoplayer.20min.ch
-- AWS
-- Amazon Cloudfront
-- nginx
-- Website Testing
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```Website Testing```
 
 
 ### https://myshop.20min.ch
-- PHP
-- HTTP
-- Symfony
+- ```PHP```
+- ```HTTP```
+- ```Symfony```
 
 
 ### https://tgt.tamedia.ch
@@ -12199,173 +7788,173 @@ Updated 2023-02-12 16:48:43.634197
 
 ##  Comcast Xfinity Vulnerability Disclosure Program
 ### *.xfinity.com	
-- ReactJS
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.comcast.com
-- ReactJS
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.sys.comcast.net
-- Website Testing
+- ```Website Testing```
 
 
 ### https://business.comcast.com/account
-- ReactJS
-- ASP.NET
-- jQuery
-- Windows
-- Lodash
-- Website Testing
-- Microsoft IIS
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Lodash```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### Internet - All devices, including Broadband Gateways
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### TV - Xfinity hardware and services
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### Flex - Xfinity hardware and services
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### Voice - Hardware and service
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### Mobile Apps	iOS and Android
-- Java
-- Android
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Kotlin
-- iOS
+- ```Java```
+- ```Android```
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Kotlin```
+- ```iOS```
 
 
 ### Xfinity Home
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ## 23andMe
 ### you.cag.us-west-2.int.23andme.us
-- jQuery
-- Lodash
-- Website Testing
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### auth.cag.us-west-2.int.23andme.us
-- Cloudflare CDN
-- jQuery
-- Website Testing
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### api.cag.us-west-2.int.23andme.us
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### store.23andme.com
-- Django
-- jQuery
-- Website Testing
-- Python
-- Modernizr
+- ```Django```
+- ```jQuery```
+- ```Website Testing```
+- ```Python```
+- ```Modernizr```
 
 
 ### auth.23andme.com
 
 
 ### you.23andme.com
-- Website Testing
+- ```Website Testing```
 
 
 ### api.23andme.com
-- API Testing
+- ```API Testing```
 
 
 ### Open Source
-- Github
+- ```Github```
 
 
 ### mediacenter.23andme.com
-- Cloudflare CDN
-- Wordpress
-- Bootstrap
-- MySQL
-- Select2
-- jQuery
-- Website Testing
-- PHP
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```Select2```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### blog.23andme.com
-- Cloudflare CDN
-- Wordpress
-- Bootstrap
-- MySQL
-- Select2
-- jQuery
-- Website Testing
-- PHP
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```Select2```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### therapeutics.23andme.com
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### research.23andme.com
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### education.23andme.com
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### medical.23andme.com
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```Bootstrap```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### 23andme.mybrightsites.com
-- Website Testing
+- ```Website Testing```
 
 
 ### customercare.23andme.com
-- Website Testing
+- ```Website Testing```
 
 
 ### gis.us-west-2.live.23andme.us
@@ -12377,183 +7966,103 @@ Updated 2023-02-12 16:48:43.634197
 ### click.mail.23andme.com
 
 
-## SmartThings Vulnerability Disclosure
-### SmartThings Hub
-- IoT
-
-
-### SmartThings Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### SmartThings Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### SmartThings Rest APIs
-- API Testing
-- HTTP
-
-
-### SmartThings Graph Console
-- Website Testing
-
-
-## OLX Autos
-### *.olx.in
-- Akamai CDN
-- ReactJS
-- Website Testing
-- Newrelic
-
-
-### *.letgo.com
-- Website Testing
-
-
-### *.olx.id
-- Website Testing
-
-
-### *.otoplus.com
-- Akamai CDN
-
-
-### *.321sprzedane.pl
-- Website Testing
-
-
-### *.olxautos.cl
-- Akamai CDN
-- API Testing
-- Website Testing
-
-
-### *.olxautos.com.mx
-- Akamai CDN
-- Website Testing
-
-
-### *.olxautos.in
-- Website Testing
-
-
-### *.olx-autos.com.ar
-- Website Testing
-
-
-### *.olxautos.com.co
-- Website Testing
-
-
-### *.olxautos.co.id
-- Website Testing
-
-
 ## codefortynine
 ### https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1221733/external-data-for-confluence?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219288/comment-history-log-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1215055/slack-for-confluence?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219807/version-sync-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1220964/snipe-it-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-confluence?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1219994/external-data-for-jira-fields?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1222206/jamf-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ### https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?hosting=cloud
-- Website Testing
+- ```Website Testing```
 
 
 ## Canva
 ### *.canva.com
-- Java
-- MySQL
-- Recon
-- Website Testing
-- DNS
-- Javascript
+- ```Java```
+- ```MySQL```
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
+- ```Javascript```
 
 
 ### Canva (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Binary Analysis
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```Kotlin```
 
 
 ### Canva (iOS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Binary Analysis
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Binary Analysis```
+- ```iOS```
 
 
 ### Canva (Chrome Extension)
-- Browser Extension
-- Javascript
+- ```Browser Extension```
+- ```Javascript```
 
 
 ### *.canva.cn
-- Recon
-- Website Testing
-- DNS
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
 
 
 ### Canva Developer Platform
@@ -12570,20 +8079,20 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Centrify
 ### pod23.centrify.com
-- Website Testing
+- ```Website Testing```
 
 
 ### pod12.centrify.com
-- Website Testing
+- ```Website Testing```
 
 
 ###                 Centrify Privilege Service Portal
-- Website Testing
+- ```Website Testing```
 
 
 ### Centrify Service API
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Centrify Agent for Windows
@@ -12596,511 +8105,454 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### account.io.centrify.com	
-- Website Testing
+- ```Website Testing```
 
 
 ### account-api.io.centrify.com	
-- API Testing
+- ```API Testing```
 
 
 ### www.centrify.com	
-- Cloudflare CDN
-- Varnish
-- Bootstrap
-- Drupal
-- MariaDB
-- jQuery
-- nginx
-- Lodash
-- Website Testing
-- Newrelic
-- PHP
+- ```Cloudflare CDN```
+- ```Varnish```
+- ```Bootstrap```
+- ```Drupal```
+- ```MariaDB```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### Centrify  iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Centrify Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Centrify Browser Extension
 
 
-## Docusign: Vulnerability Disclosure Program
-### All Docusign apps and assets not listed under the Out of Scope list 
-
-
-### https://app.docusign.com/
-
-
-### https://www.docusign.net/Signing/
-
-
-### https://admin.docusign.com
-
-
-### https://account.docusign.com/
-
-
-### https://www.docusign.net/restapi/*
-
-
-### https://www.docusign.net/api/3.0/*
-
-
-### http://www.rooms.docusign.com/*
-
-
-### Any Docusign Customer Tenant
-
-
 ## Arlo Cash Rewards
 ### Arlo Safe Android App
-- Java
-- Android
-- Mobile Application Testing
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### Arlo Safe iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Arlo Secure Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Arlo Secure iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Arlo
-- IoT
+- ```IoT```
 
 
 ### Arlo All-In-One Sensor
-- IoT
-- Hardware Testing
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Baby
-- IoT
+- ```IoT```
 
 
 ### Arlo Base Station
-- IoT
+- ```IoT```
 
 
 ### Arlo Bridge
-- IoT
+- ```IoT```
 
 
 ### Arlo Essential
-- IoT
+- ```IoT```
 
 
 ### Arlo Floodlight
-- IoT
+- ```IoT```
 
 
 ### Arlo Go
-- IoT
+- ```IoT```
 
 
 ### Arlo Home Security System
-- IoT
-- Hardware Testing
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Pro
-- IoT
+- ```IoT```
 
 
 ### Arlo Pro 2
-- IoT
+- ```IoT```
 
 
 ### Arlo Pro 3
-- IoT
+- ```IoT```
 
 
 ### Arlo Pro 4
-- IoT
+- ```IoT```
 
 
 ### Arlo Q
-- IoT
+- ```IoT```
 
 
 ### Arlo Q+
-- IoT
+- ```IoT```
 
 
 ### Arlo Safe Button
-- IoT
-- Hardware Testing
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Security Light
-- IoT
+- ```IoT```
 
 
 ### Arlo Ultra
-- IoT
+- ```IoT```
 
 
 ### Arlo Video Doorbell
-- IoT
+- ```IoT```
 
 
 ### Arlo Wireless Video Doorbell
 
 
 ### https://arlo-device.messaging.netgear.com
-- API Testing
+- ```API Testing```
 
 
 ### https://community.arlo.com
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### https://downloads.arlo.com
-- Amazon S3
+- ```Amazon S3```
 
 
 ### https://mcs.arlo.com
-- API Testing
+- ```API Testing```
 
 
 ### https://my.arlo.com
-- API Testing
-- Java
-- Angular
-- Moment.js
-- Website Testing
-- Zone.js
+- ```API Testing```
+- ```Java```
+- ```Angular```
+- ```Moment.js```
+- ```Website Testing```
+- ```Zone.js```
 
 
 ### https://myapi.arlo.com
-- API Testing
+- ```API Testing```
 
 
 ### https://www.arlo.com
-- API Testing
-- AWS
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
+- ```API Testing```
+- ```AWS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### https://updates.arlo.com
-- API Testing
+- ```API Testing```
 
 
 ### https://updates.netgear.com/arlo
-- API Testing
+- ```API Testing```
 
 
 ## Kenna Security
 ### Any Kenna Security Platform Subdomain Not Created By You
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.kennasecurity.com
-- ReactJS
-- Website Testing
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### https://[your-subdomain].kennasecurity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://api.kennasecurity.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)
 
 
-## eero
-### eero Node
-- Hardware Testing
-
-
-### eero iOS Mobile Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### eero Android Mobile Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### eero APIs
-- API Testing
-- HTTP
-
-
-### http://foo.eero.com/
-- Website Testing
-
-
 ## PlanetHoster
 ### www.planethoster.com
-- Laravel
-- Bootstrap
-- jQuery
-- Website Testing
-- PHP
+- ```Laravel```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### my.planethoster.com
-- Ruby
-- Bootstrap
-- Ruby on Rails
-- jQuery
-- nginx
-- Website Testing
+- ```Ruby```
+- ```Bootstrap```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
 
 
 ###  world.planethoster.net
-- Angular
-- jQuery
-- nginx
-- Website Testing
-- Zone.js
+- ```Angular```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```Zone.js```
 
 
 ### api.planethoster.net
-- API Testing
-- jQuery
-- HTTP
+- ```API Testing```
+- ```jQuery```
+- ```HTTP```
 
 
 ### https://mg.n0c.com/
-- nginx
-- Website Testing
+- ```nginx```
+- ```Website Testing```
 
 
 ## Directly
 ### www.directly.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.sandbox.directly.com/schedule-a-demo/* OR /product/* OR /careers/* OR /about/* OR /legal/* OR /trust/*
-- Website Testing
+- ```Website Testing```
 
 
 ### resources.directly.com/*
-- Website Testing
+- ```Website Testing```
 
 
 ### https://sandbox.directly.com/dashboard/index
-- Java
-- AWS
-- Website Testing
+- ```Java```
+- ```AWS```
+- ```Website Testing```
 
 
 ### *.sandbox.directly.com/
-- Java
-- AWS
-- Website Testing
+- ```Java```
+- ```AWS```
+- ```Website Testing```
 
 
 ### app.sandbox.directly.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Optimizely
 ### https://app.optimizely.com/
-- jQuery
-- Lodash
-- Website Testing
-- Newrelic
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### https://api.optimizely.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://api.prod.optimizely.com
-- API Testing
+- ```API Testing```
 
 
 ### https://cdn.optimizely.com/
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://cdn-pci.optimizely.com/
-- jQuery
-- Website Testing
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://optimizely-edge.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://dxc.episerver.net/ 
-- API Testing
-- Javascript
+- ```API Testing```
+- ```Javascript```
 
 
 ### https://paasportal.episerver.net/
-- API Testing
-- Javascript
+- ```API Testing```
+- ```Javascript```
 
 
 ### https://paasportal.episerver.net/api/v1.0/
-- API Testing
-- Javascript
+- ```API Testing```
+- ```Javascript```
 
 
 ### https://app.welcomesoftware.com/
-- ReactJS
-- TypeScript
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```TypeScript```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://accounts.welcomesoftware.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://api.welcomesoftware.com/ 
-- API Testing
+- ```API Testing```
 
 
 ### https://cdn-app.welcomesoftware.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://analytics.welcomesoftware.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.optimizely.com/
-- Varnish
-- Erlang
-- jQuery
-- Lodash
-- Website Testing
+- ```Varnish```
+- ```Erlang```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
 
 
 ## Binance
 ### *.binance.com
-- ReactJS
-- AWS
-- Amazon Cloudfront
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### api.binance.com
-- API Testing
-- HTTP
-- Cryptocurrency
+- ```API Testing```
+- ```HTTP```
+- ```Cryptocurrency```
 
 
 ### *.bnbchain.org
-- ReactJS
-- AWS
-- Amazon Cloudfront
-- Website Testing
-- NodeJS
+- ```ReactJS```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### dex.binance.org
-- API Testing
-- HTTP
-- Cryptocurrency
+- ```API Testing```
+- ```HTTP```
+- ```Cryptocurrency```
 
 
 ### BNB Beacon Chain
-- Cryptocurrency
+- ```Cryptocurrency```
 
 
 ### binance.us
-- ReactJS
-- AWS
-- Amazon Cloudfront
-- Website Testing
-- UIKit
-- Cryptocurrency
-- NodeJS
+- ```ReactJS```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```Website Testing```
+- ```UIKit```
+- ```Cryptocurrency```
+- ```NodeJS```
 
 
 ### Binance Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-- Cryptocurrency
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+- ```Cryptocurrency```
 
 
 ### Binance Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Cryptocurrency
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Cryptocurrency```
+- ```iOS```
 
 
 ### Binance Desktop Application
-- Cryptocurrency
-- Desktop Application Testing
+- ```Cryptocurrency```
+- ```Desktop Application Testing```
 
 
 ### Binance macOS Application
-- macOS
-- Cryptocurrency
+- ```macOS```
+- ```Cryptocurrency```
 
 
 ### https://github.com/bnb-chain/tss-lib
-- Cryptography
-- Cryptocurrency
+- ```Cryptography```
+- ```Cryptocurrency```
 
 
 ### https://github.com/bnb-chain/bep3-smartcontracts
-- Cryptocurrency
+- ```Cryptocurrency```
 
 
 ### https://github.com/bnb-chain/bep3-deputy
-- Cryptocurrency
+- ```Cryptocurrency```
 
 
 ### https://github.com/bnb-chain/ledger-app-binance
-- Cryptocurrency
+- ```Cryptocurrency```
 
 
 ### Trustwallet Android App
@@ -13134,18 +8586,18 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Binance Connect
-- Java
-- AWS
-- HTTP
-- Cryptocurrency
+- ```Java```
+- ```AWS```
+- ```HTTP```
+- ```Cryptocurrency```
 
 
 ### support.binance.*
-- Website Testing
+- ```Website Testing```
 
 
 ### community.binance.org
-- Website Testing
+- ```Website Testing```
 
 
 ### *.trustwallet.com
@@ -13161,15 +8613,15 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### binance.sg
-- ReactJS
-- Website Testing
-- Cryptocurrency
-- NodeJS
+- ```ReactJS```
+- ```Website Testing```
+- ```Cryptocurrency```
+- ```NodeJS```
 
 
 ## Octopus
 ### *.octopus.app
-- Website Testing
+- ```Website Testing```
 
 
 ### myget.octopus.com
@@ -13191,23 +8643,23 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### octopus.com
-- .NET
-- Bootstrap
-- ASP.NET
-- Website Testing
-- Microsoft IIS
+- ```.NET```
+- ```Bootstrap```
+- ```ASP.NET```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.octopus.com
-- Network Testing
-- API Testing
-- Website Testing
+- ```Network Testing```
+- ```API Testing```
+- ```Website Testing```
 
 
 ### Octopus Deploy Git Repo
-- Code review
-- Website Testing
-- Static Code Analysis
+- ```Code review```
+- ```Website Testing```
+- ```Static Code Analysis```
 
 
 ## Skyscanner
@@ -13215,56 +8667,56 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### *.skyscanner.net
-- ReactJS
-- jQuery
-- nginx
-- Lodash
-- Website Testing
-- Lua
+- ```ReactJS```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
+- ```Lua```
 
 
 ### skyscanner.net/*
-- ReactJS
-- jQuery
-- nginx
-- Lodash
-- Website Testing
-- Lua
+- ```ReactJS```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
+- ```Lua```
 
 
 ### gateway.skyscanner.net/*
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Skyscanner iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Skyscanner Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### partnerportal.skyscanner.net/*
-- ExpressJS
-- ReactJS
-- Website Testing
-- NodeJS
+- ```ExpressJS```
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### skyscanner.net/hotels/book/*
-- ReactJS
-- jQuery
-- nginx
-- Lodash
-- Website Testing
+- ```ReactJS```
+- ```jQuery```
+- ```nginx```
+- ```Lodash```
+- ```Website Testing```
 
 
 ## Stellantis 
@@ -13272,47 +8724,47 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### www.driveuconnect.com
-- Java
-- Adobe Experience Manager
-- ReactJS
-- jQuery
-- Lodash
-- Handlebars
-- Website Testing
+- ```Java```
+- ```Adobe Experience Manager```
+- ```ReactJS```
+- ```jQuery```
+- ```Lodash```
+- ```Handlebars```
+- ```Website Testing```
 
 
 ### www.driveuconnect.eu
-- Drupal
-- jQuery
-- Website Testing
-- PHP
+- ```Drupal```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
-- Android
+- ```Android```
 
 
 ### https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
-- iOS
+- ```iOS```
 
 
 ### https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
-- iOS
+- ```iOS```
 
 
 ### Any host/web property or products verified to be owned by Stellantis (domains/IP space/etc.) but not listed in Primary targets.
@@ -13320,52 +8772,26 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Personal Capital
 ### https://devstaging.pcapcloud.com/*
-- Java
-- jQuery
-- Website Testing
-- Static Code Analysis
-- Javascript
-
-
-## WestJet's Vulnerability Disclosure Program
-### www.westjet.com
-- Akamai CDN
-- Bootstrap
-- jQuery
-- Lodash
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### www.flyswoop.com
-- Cloudflare CDN
-- Website Testing
-- Azure
-
-
-### travel.westjet.com
-- API Testing
-- HTTP
-
-
-### biz.westjet.com
-- Website Testing
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
+- ```Static Code Analysis```
+- ```Javascript```
 
 
 ## Bitdefender
 ### *.bitdefender.com
-- jQuery
-- Website Testing
-- Newrelic
-- PHP
+- ```jQuery```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### *.bitdefender.net
-- jQuery
-- Website Testing
-- Newrelic
-- PHP
+- ```jQuery```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### Bitdefender Total Security
@@ -13385,195 +8811,195 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Mastercard SRC
 ### https://src.mastercard.com/profile/enroll
-- Vue.js
-- Website Testing
+- ```Vue.js```
+- ```Website Testing```
 
 
 ### https://src.mastercard.com/*
-- Website Testing
+- ```Website Testing```
 
 
 ### SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
-- Vue.js
-- Website Testing
+- ```Vue.js```
+- ```Website Testing```
 
 
 ### https://masterpassteststore.com/
-- Vue.js
-- Website Testing
+- ```Vue.js```
+- ```Website Testing```
 
 
 ### https://www.mastercard.us/en-us/personal/ways-to-pay/click-to-pay.html
-- Website Testing
+- ```Website Testing```
 
 
 ### https://checkout.mastercard.com/
-- Java
-- Adobe Experience Manager
-- Bootstrap
-- HTML
-- jQuery
-- Website Testing
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Bootstrap```
+- ```HTML```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### https://secure.checkout.visa.com/*
-- Akamai CDN
-- ReactJS
-- Website Testing
+- ```Akamai CDN```
+- ```ReactJS```
+- ```Website Testing```
 
 
 ## Tesla
 ### Any domains from acquisitions, such as maxwell.com
-- Website Testing
+- ```Website Testing```
 
 
 ### employeefeedback.tesla.com
-- Website Testing
+- ```Website Testing```
 
 
 ### energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)
-- Website Testing
+- ```Website Testing```
 
 
 ### engage.tesla.com
-- Website Testing
+- ```Website Testing```
 
 
 ### feedback.tesla.com
-- Website Testing
+- ```Website Testing```
 
 
 ### feedback.teslamotors.com
-- Website Testing
+- ```Website Testing```
 
 
 ### ir.teslamotors.com
-- Website Testing
+- ```Website Testing```
 
 
 ### ir.tesla.com
-- Website Testing
+- ```Website Testing```
 
 
 ### mkto.teslamotors.com
-- Website Testing
+- ```Website Testing```
 
 
 ### shop.eu.teslamotors.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any other third-party websites hosted by non-Tesla entities
-- Website Testing
+- ```Website Testing```
 
 
 ### A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)
-- Hardware Testing
+- ```Hardware Testing```
 
 
 ### *.tesla.com
-- Akamai CDN
-- Varnish
-- Drupal
-- Website Testing
-- PHP
-- Modernizr
+- ```Akamai CDN```
+- ```Varnish```
+- ```Drupal```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### *.tesla.cn
-- Akamai CDN
-- Cloudflare CDN
-- Varnish
-- Drupal
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
+- ```Akamai CDN```
+- ```Cloudflare CDN```
+- ```Varnish```
+- ```Drupal```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### *.teslamotors.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tesla.services
-- Website Testing
+- ```Website Testing```
 
 
 ### *.teslainsuranceservices.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.solarcity.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-- Website Testing
+- ```Website Testing```
 
 
 ### Official Tesla Android apps
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Official Tesla iOS apps
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ## Viator
 ### iOS Viator Tours & Activities App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Android Viator Tours & Activities App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://supplier.viator.com/
-- ReactJS
-- Lodash
-- Website Testing
+- ```ReactJS```
+- ```Lodash```
+- ```Website Testing```
 
 
 ### https://viatorapi.viator.com/service/directory
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://www.toursgds.com/
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://www.toursgds.com/ToursGdsService?wsdl
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://www.toursgds.com/SupplierService?wsdl
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://partners.viator.com
-- Bootstrap
-- Select2
-- jQuery
-- Website Testing
-- Modernizr
+- ```Bootstrap```
+- ```Select2```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### travelagents.viator.com
@@ -13586,7 +9012,7 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### *.viatorinc.com
-- Website Testing
+- ```Website Testing```
 
 
 ### selector.viator.com
@@ -13602,7 +9028,7 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### *.sandbox.viator.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.partner.viator.com
@@ -13619,1405 +9045,219 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Cloudways
 ### platform.cloudways.com
-- Angular
-- jQuery
-- Website Testing
-- Newrelic
-- PHP
+- ```Angular```
+- ```jQuery```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### api.cloudways.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### developers.cloudways.com
-- API Testing
-- Bootstrap
-- jQuery
-- HTTP
+- ```API Testing```
+- ```Bootstrap```
+- ```jQuery```
+- ```HTTP```
 
 
 ### https://support.cloudways.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.cloudways.com/
-- Website Testing
-
-
-## Unilever Vulnerability Disclosure Program
-### https://unilever.com/
-- Select2
-- jQuery
-- Handlebars
-- Website Testing
-- Newrelic
-- Microsoft IIS
-
-
-### *.glowandlovelycareers.in/en/
-- Angular
-- jQuery
-- Website Testing
-
-
-### *.pureitwater.com/IN/
-- Laravel
-- jQuery
-- Website Testing
-
-
-### *.tiendavirtual.mutual-all.com.ar/
-- jQuery
-- Website Testing
-
-
-### *.kbright.com.sg/
-- jQuery
-- Website Testing
-
-
-### https://www.unileverlife.com/
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://sedal.com.mx
-- Java
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### *.stives.com/
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### http://www.popsicle.ca/fr/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.benjerry.at
-- Akamai CDN
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### *.hellmanns.com/uk/
-- Akamai CDN
-- jQuery
-- RequireJS
-- Website Testing
-
-
-### https://www.ufs.com/
-- Akamai CDN
-- Java
-- jQuery
-- Lodash
-- Website Testing
-
-
-### *.rin.in/
-- Akamai CDN
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### *.close-up.com/
-- Java
-- jQuery
-- Website Testing
-
-
-### *.kwalitywalls.in/home.html
-- Akamai CDN
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### *.pepsodent.com/
-- Akamai CDN
-- Java
-- jQuery
-
-
-### *.tresemme.com
-- Website Testing
-
-
-### *.lifebuoy.com
-- Website Testing
-
-
-### *.axe.com
-- Website Testing
-
-
-### http://www.ponds.com.mx/
-
-
-### https://www.rexona.com/ar/
-
-
-### *.knorr.com
-
-
-### *.degreedeodorant.com
-
-
-### *.uniquelyunilever.com
-
-
-### *. magnumicecream.com
-
-
-### *. caress.us
-
-
-### *. lovehomeandplanet.com
-
-
-### *. emergebeautiful.com
-
-
-### https://www.simpleskincare.com/arabia/ar
-- Website Testing
-
-
-### *. lovebeautyandplanet.com
-
-
-### *.lipton.com
-
-
-### https://www.zendium.co.uk/
-
-
-### *.yulaenergy.com
-
-
-### *.yukmulaibijakplastik.com
-
-
-### *.YoungEntrepreneursAwards.Unilever.com
-
-
-### *.whitenow.com
-
-
-### *.whatsfordinner.co.za
-
-
-### *.weareul.com
-
-
-### *.wa-na.unileversolutions.com
-
-
-### *.wallsthailand.com
-
-
-### *.wakacjezknorr.pl
-
-
-### *.voteuntukimpianku.com
-
-
-### *.VO5.co.uk
-
-
-### *.vivaelagua.com.mx
-
-
-### https://www.vim.ca/fr-CA/home.html
-- Website Testing
-
-
-### *.veksthus.knorr.no
-
-
-### *.uttcentraldb.com
-
-
-### *.urbanmonkey.sk
-
-
-### *.Uol-maint.unilever.com
-
-
-### *.unox.nl
-
-
-### *.vazoplintirio.gr
-
-
-### kwery.unileversolutions.com/us-en
-
-
-### *.klondikebar.com/
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- Newrelic
-- PHP
-
-
-### *.jornadababydove.com.br
-- Website Testing
-
-
-### *.joko.co.za/en
-- Website Testing
-
-
-### *.unilever.ro/
-- Website Testing
-
-
-### *.getsetclean.in/in/hi
-- Website Testing
-
-
-### *.Algida.pl
-- Website Testing
-
-
-### *.unilever.com.br/
-- Website Testing
-
-
-### *.neutral.lv
-- Java
-- jQuery
-- Website Testing
-
-
-### *.missionsignal.fr
-- Java
-- jQuery
-- Website Testing
-
-
-### *.unilever.gr/
-- Website Testing
-
-
-### *.promocjeunilever.pl
-- Website Testing
-
-
-### *.folicure.com.mx
-- Website Testing
-
-
-### *.clearhaircare.com/sg/
-- Website Testing
-
-
-### *.unileverhealth.co.za
-- Website Testing
-
-
-### *.toolkithomecare.com
-
-
-### ufs.com/
-- Website Testing
-
-
-### *.sunsilk.co.id
-- Website Testing
-
-
-### *.ingman.fi/
-- Website Testing
-
-
-### *.suave.com/us/en
-- Website Testing
-
-
-### *.lovehomeandplanet.com/
-- Website Testing
-
-
-### *.zmrzlina-misa.sk/
-- Website Testing
-
-
-### *.conimex.nl
-- Website Testing
-
-
-### *.mx.recepedia.com/
-- Website Testing
-
-
-### *.elidor.com.tr
-- Website Testing
-
-
-### https://www.pukkaherbs.com/uk/en/
-- Website Testing
-
-
-### *.br.recepedia.com/
-- Website Testing
-
-
-### *.skinsei.com/
-- Website Testing
-
-
-### *.domestos.com/pl/home.html
-- Website Testing
-
-
-### *.bedhead.com/uk/
-- Website Testing
-
-
-### *.zest.com.mx/
-- Website Testing
-
-
-### https://www.zmrzlina-misa.cz/
-- Website Testing
-
-
-### http://zwitsal.be/be/fr/
-- Website Testing
-
-
-### horlicks.in
-- Website Testing
-
-
-### https://selfservices.unileversolutions.com/login.aspx
-- Website Testing
-
-
-### https://www.hellmanns.com/es/home.html
-- Website Testing
-
-
-### https://www.surfshine.co.za/
-- Website Testing
-
-
-### www.sedal.com.co/home.html
-- Website Testing
-
-
-### https://www.sedal.com.ec/home.html
-- Website Testing
-
-
-### http://www.sedal.com.pe
-- Website Testing
-
-
-### https://www.sedal.co.cr/home.html
-- Website Testing
-
-
-### https://www.sedal.com.ar/inicio.html
-- Website Testing
-
-
-### https://www.sedal.cl/home.html
-- Website Testing
-
-
-### http://www.vim.com.ar
-- Website Testing
-
-
-### https://www.vim.ca/home.html
-- Website Testing
-
-
-### http://www.popsicle.ca/en
-- Website Testing
-
-
-### https://www.popsicle.com/us/en
-- Website Testing
-
-
-### https://www.benjerry.be/
-- Website Testing
-
-
-### https://www.benjerry.ch/
-- Website Testing
-
-
-### http://www.benjerry.co.il/
-- Website Testing
-
-
-### https://www.benjerry.co.nz/
-- Website Testing
-
-
-### https://www.benjerry.co.th/
-- Website Testing
-
-
-### http://www.benjerry.co.uk
-- Akamai CDN
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### https://www.benjerry.com/
-- Website Testing
-
-
-### https://www.benjerry.com.pr/
-- Website Testing
-
-
-### https://www.benjerry.com.sg
-- Website Testing
-
-
-### https://www.benjerry.de/
-- Akamai CDN
-- jQuery
-- Website Testing
-
-
-### https://www.benjerry.dk/
-- Website Testing
-
-
-### https://www.benjerry.fi/
-- Website Testing
-
-
-### https://www.benjerry.fr/
-- Website Testing
-
-
-### https://www.benjerry.ie/
-- Website Testing
-
-
-### https://www.benjerry.it
-- Website Testing
-
-
-### https://www.benjerry.nl/
-- Website Testing
-
-
-### https://www.benjerry.no/
-- Website Testing
-
-
-### https://www.ponds.com.ar
-- Website Testing
-
-
-### https://www.ponds.com/arabia/en/home.html
-- Website Testing
-
-
-### https://www.ponds.com/co/home.html
-- Website Testing
-
-
-### https://www.ponds.com/id/home.html
-- Website Testing
-
-
-### https://www.ponds.com/pk/home.html
-- Website Testing
-
-
-### https://www.ponds.com/th/home.html
-- Website Testing
-
-
-### https://www.ponds.com/us/en/home.html
-- Website Testing
-
-
-### https://www.ponds.com/us/es/home.html
-- Website Testing
-
-
-### https://www.ponds.com/vn/home.html
-- Website Testing
-
-
-### https://www.ponds.com/pe/home.html
-- Website Testing
-
-
-### http://www.rexona.com.pe
-- Website Testing
-
-
-### https://www.rexona.com/se/home.html
-- Website Testing
-
-
-### https://www.rexona.com/arabia/ar/
-- Website Testing
-
-
-### https://www.rexona.com/arabia/en/home.html
-- Website Testing
-
-
-### https://www.rexona.com/at/home.html
-- Website Testing
-
-
-### https://www.rexona.com/au/home.html
-- Website Testing
-
-
-### https://www.rexona.com/ch/home.html
-- Website Testing
-
-
-### https://www.rexona.com/cl
-- Website Testing
-
-
-### https://www.rexona.com/co/home.html
-- Website Testing
-
-
-### https://www.rexona.com/cz/home.html
-- Website Testing
-
-
-### https://www.rexona.com/de/home.html
-- Website Testing
-
-
-### https://www.rexona.com/dk
-- Website Testing
-
-
-### https://www.rexona.com/eg/ar/
-- Website Testing
-
-
-### https://www.rexona.com/eg/en/
-- Website Testing
-
-
-### https://www.rexona.com/es/home.html
-- Website Testing
-
-
-### https://www.rexona.com/fi/home.html
-- Website Testing
-
-
-### https://www.rexona.com/hu/home.html
-- Website Testing
-
-
-### https://www.rexona.com/id/home.html
-- Website Testing
-
-
-### https://www.simpleskincare.com/arabia/en
-- Website Testing
-
-
-### https://www.simpleskincare.com/au
-- Website Testing
-
-
-### https://www.simpleskincare.com/br
-- Website Testing
-
-
-### https://www.simpleskincare.com/ca/en
-- Website Testing
-
-
-### https://www.simpleskincare.com/ca/fr
-- Website Testing
-
-
-### https://www.simpleskincare.com/id
-- Website Testing
-
-
-### https://www.simpleskincare.com/il/en
-- Website Testing
-
-
-### https://www.simpleskincare.com/il/he
-- Website Testing
-
-
-### https://www.simpleskincare.com/mx
-- Website Testing
-
-
-### https://www.simpleskincare.com/my
-- Website Testing
-
-
-### https://www.simpleskincare.com/no
-- Website Testing
-
-
-### https://www.simpleskincare.com/ph
-- Website Testing
-
-
-### https://www.simpleskincare.com/pt
-- Website Testing
-
-
-### https://www.simpleskincare.com/sg
-- Website Testing
-
-
-### https://www.simpleskincare.com/th
-- Website Testing
-
-
-### https://magento.volle-truhe.at/
-- eCommerce
-
-
-### magento.volle-truhe.at/distributor/account/
-- eCommerce
-
-
-### https://online.frisko.dk/B2B
-- eCommerce
-
-
-### https://online.frisko.dk/customer/account/login/
-- eCommerce
-
-
-### https://www.pukkaherbs.com/pl
-- Website Testing
-
-
-### https://www.pukkaherbs.com/arabia/ar
-- Website Testing
-
-
-### https://www.pukkaherbs.com/au/en
-- Website Testing
-
-
-### https://www.pukkaherbs.com/ch/fr
-- Website Testing
-
-
-### https://www.pukkaherbs.com/fr/fr
-- Website Testing
-
-
-### https://www.pukkaherbs.com/fi/fi
-- Website Testing
-
-
-### https://www.pukkaherbs.com/ch/de
-- Website Testing
-
-
-### https://www.pukkaherbs.com/se/sv
-- Website Testing
-
-
-### https://www.pukkaherbs.com/ca/en
-- Website Testing
-
-
-### https://www.pukkaherbs.com/us/en
-- Website Testing
-
-
-### https://www.pukkaherbs.com/be/nl
-- Website Testing
-
-
-### https://www.pukkaherbs.com/no/no
-- Website Testing
-
-
-### https://www.pukkaherbs.com/arabia/en
-- Website Testing
-
-
-### https://www.pukkaherbs.com/be/fr
-- Website Testing
-
-
-### https://www.pukkaherbs.com/it/it
-- Website Testing
-
-
-### yulaenergy.com/es/en
-- Website Testing
-
-
-### https://www.zest.com.mx/
-- Website Testing
-
-
-### https://www.yumos.com/home.html
-- Website Testing
-
-
-### xedex-centroamerica.com/home.html
-- Website Testing
-
-
-### https://www.winnenmetunilever.nl/
-- Website Testing
-
-
-### https://www.weis.com.au/
-- Website Testing
-
-
-### https://webmail.unileverservices.com/
-- Website Testing
-
-
-### https://www.weareul.com/
-- Website Testing
-
-
-### https://www.wallsthailand.com/home.html
-- Website Testing
-
-
-### https://www.wallsicecream.com/id/home.html
-- Website Testing
-
-
-### https://www.wallsicecream.com/uk/home.html
-- Website Testing
-
-
-### https://www.walls.com.my/home.html
-- Website Testing
-
-
-### https://www.wallpaintingunilever.com/WP/
-- Website Testing
-
-
-### https://www.visopises.com/
-- Website Testing
-
-
-### https://www.via.se/home.html
-- Website Testing
-
-
-### https://www.vasenol.com.br/
-- Website Testing
-
-
-### https://www.vaseline.jp/
-- Website Testing
-
-
-### https://www.vaseline.com/za/en
-- Website Testing
-
-
-### https://www.vaseline.com/us/es
-- Java
-- Adobe Experience Manager
-- jQuery
-- Lodash
-- Website Testing
-- Newrelic
-
-
-### vaseline.com/us/en
-- Website Testing
-
-
-### https://www.vaseline.com/th/th
-- Website Testing
-
-
-### https://www.vaseline.com/my/en
-- Website Testing
-
-
-### https://www.vaseline.com/lk/en
-- Website Testing
-
-
-### https://www.vaseline.com/in/en
-- Website Testing
-
-
-### https://www.vaseline.com/id/id
-- Java
-- Adobe Experience Manager
-- Website Testing
-- Newrelic
-
-
-### https://www.vaseline.com/ca/fr
-- Website Testing
-
-
-### https://www.vaseline.com/ca/en
-- Website Testing
-
-
-### https://www.vaseline.com/arabia/en
-- Website Testing
-
-
-### vaseline.com.tr
-- Website Testing
-
-
-### uukpf.co.uk
-- Website Testing
-
-
-### us.therollingcone.com
-- Website Testing
-
-
-### www.urbanmonkey.cz
-- Website Testing
-
-
-### unileverfll.pl
-- Website Testing
-
-
-### unicornci.unileverservices.com
-- Website Testing
-
-
-### www.ufsplusprogram.com.my
-- Website Testing
-
-
-### uni-care.shop
-- Website Testing
-
-
-### https://www.unilever-pro-nutrition-sante.fr/
-- Website Testing
-
-
-### https://www.tresemme.com/us/en/home.html
-- Website Testing
-
-
-### https://www.u-connect.co.in/
-- Website Testing
-
-
-### https://uclub.unilever.tw/
-- Website Testing
-
-
-### www.tresemmeprofissional.com.br
-- Website Testing
-
-
-### www.tresemme.com/vn/home.html
-- Website Testing
-
-
-### www.tresemme.com/uy/home.html
-- Website Testing
-
-
-### www.tresemme.com/za/home.html
-- Website Testing
-
-
-### www.tresemme.com/us/en/home.html
-- Website Testing
-
-
-### www.tresemme.com/uk/preference-center/preference-optin.html
-- Website Testing
-
-
-### www.tresemme.com/uk/home.html
-- Website Testing
-
-
-### www.tresemme.com/ua
-- Website Testing
-
-
-### https://www.tresemme.com/th/home.html
-- Website Testing
-
-
-### https://www.tresemme.com/sk/home.html
-- Website Testing
-
-
-### https://www.tresemme.com/se/home.html
-- Website Testing
-
-
-### https://www.tresemme.com/ru/home.html
-- Website Testing
-
-
-### https://www.tresemme.com/pl/home.html
-- Website Testing
-
-
-### https://www.tresemme.com/ph/home.html
-- Website Testing
-
-
-### https://nasuafesta.kibon.com.br/mcom/#/index
-- Website Testing
-
-
-### https://us.maille.com/
-- Website Testing
-
-
-### https://uk.maille.com/
-- Website Testing
-
-
-### https://fr.maille.com/
-- Website Testing
-
-
-### https://personalisedpgtips.co.uk/products/pg-tips-customisable-mug
-- Website Testing
-
-
-### https://www.tajmahalteahouse.com/
-- Website Testing
-
-
-### https://theushop.ca/
-- Website Testing
-
-
-### https://lakmeindia.com/
-- Website Testing
-
-
-### https://skinsei.com/
-- Website Testing
-
-
-### https://www.unishopturkiye.com/
-- Website Testing
-
-
-### https://www.clubdebeneficios.com/
-- Website Testing
-
-
-### https://icecreamshopus.com/
-- Website Testing
-
-
-### https://www.unileverencasa.cl
-- Website Testing
-
-
-### https://u-shop.vn/
-- Website Testing
-
-
-### https://consumer.m-mart.store/log-in/
-- Website Testing
-
-
-### https://www.u-shop.co.il
-- Website Testing
-
-
-### https://sklepfirmowyunilever.pl/access/
-- Website Testing
-
-
-### https://www.mimarketclub.com/
-- Website Testing
-
-
-### https://shopee.com.my/unishop.my
-- Website Testing
-
-
-### https://www.theushop.in/
-- Website Testing
-
-
-### https://www.whatsfordinner.co.za/
-- Website Testing
-
-
-### https://www.fissan.com/
-- Website Testing
-
-
-### https://www.fluocaril.fr/
-- Website Testing
-
-
-### https://www.pepsodent.fi/home.html/
-- Website Testing
-
-
-### https://www.findyourhappyplace.in/
-- Website Testing
-
-
-### https://sa.unidukan.com/
-- Website Testing
-
-
-### https://www.urbanmonkey.ro/
-- Website Testing
-
-
-### https://shop.marmite.co.uk/
-- Website Testing
-
-
-### https://wallsrefrigerationsolutions.com/
-- Website Testing
-
-
-### https://www.pureitwater.com/
-- Website Testing
-
-
-### https://unilever-professional.com/
-- Website Testing
-
-
-### https://vedayush.co.uk/
-- Website Testing
-
-
-### https://ferverskincare.com/
-- Website Testing
-
-
-### https://personalisedpgtips.co.uk/products/pg-tips-customisable-mug 
-- eCommerce
-
-
-### https://www.marmite.co.uk/the-marmite-shop.html
-- eCommerce
-
-
-### www.theushop.ca
-- eCommerce
-
-
-### https://magento.volle-truhe.at/	
-- eCommerce
-
-
-### https://magento.volle-truhe.at/distributor/account/login/
-- eCommerce
-
-
-### online.frisko.dk/
-- eCommerce
-
-
-### online.frisko.dk/customer/account/login/
-- eCommerce
-
-
-### https://www.regeneratenr5.co.uk/
-- eCommerce
-
-
-### https://www.regeneratenr5.fr/
-- eCommerce
-
-
-### https://regeneratenr5.it/
-- eCommerce
-
-
-### https://regeneratenr5.es/
-- eCommerce
-
-
-### https://regeneratenr5.com.br/
-- eCommerce
-
-
-### https://zendium.shop/
-- eCommerce
-
-
-### www.ustore.lk
-- eCommerce
-
-
-### https://www.unishopza.com/account/login?checkout_url=/
-- eCommerce
-
-
-### https://unileverstaff.shop/
-- eCommerce
-
-
-### https://ushop.co.ke/
-- eCommerce
-
-
-### https://tryunilever.com/
-- eCommerce
-
-
-### https://unilever.shop/
-- eCommerce
-
-
-### https://unishopus.com/account/login?checkout_url=/
-- eCommerce
-
-
-### www.ushopbd.com
-- eCommerce
-
-
-### https://shop.lakmesalon.in/
-- eCommerce
-
-
-### https://ubeautyzone.com/
-- eCommerce
+- ```Website Testing```
 
 
 ## Wise (ex-TransferWise)
 ### transferwise.com
-- Java
-- Cloudflare CDN
-- ReactJS
-- AWS
-- Javascript
+- ```Java```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```AWS```
+- ```Javascript```
 
 
 ### *.transferwise.com
-- Java
-- Cloudflare CDN
-- ReactJS
-- AWS
-- Website Testing
-- Javascript
+- ```Java```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```AWS```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### wise.com
-- Java
-- Cloudflare CDN
-- ReactJS
-- AWS
-- Javascript
+- ```Java```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```AWS```
+- ```Javascript```
 
 
 ### *.wise.com
-- Java
-- Cloudflare CDN
-- ReactJS
-- AWS
-- Website Testing
-- Javascript
+- ```Java```
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```AWS```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### Latest version of Wise iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Latest version of Wise Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### AWS infrastructure and services in use by Wise (eg: S3 buckets)
-- AWS
+- ```AWS```
 
 
 ### github.com/transferwise/*
-- Github
-- Recon
+- ```Github```
+- ```Recon```
 
 
 ### Wise Affiliate Program
-- Website Testing
+- ```Website Testing```
 
 
 ### Third party services not hosted by Wise
-- Website Testing
+- ```Website Testing```
 
 
 ### Any Github asset not under the “transferwise” organization
-- Github
-- Recon
+- ```Github```
+- ```Recon```
 
 
 ### Third party authentication services (eg: Facebook and Google)
-- Website Testing
+- ```Website Testing```
 
 
 ### https://transferwise.com/help/contact
-- Website Testing
+- ```Website Testing```
 
 
 ### https://wise.com/help/contact
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tw.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.tw.ee
-- Website Testing
+- ```Website Testing```
 
 
 ### Non-current version of the Android app
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Non-current version of the iOS app
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### *.transferwise.tech
-- Website Testing
+- ```Website Testing```
 
 
 ### brand.wise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### links.wise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### widgets.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### brand.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### bootstrap.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### links.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.wise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ### tech.transferwise.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Takeaway.com
 ### *.takeaway.com
-- Cloudflare CDN
-- Bootstrap
-- Website Testing
-- PHP
+- ```Cloudflare CDN```
+- ```Bootstrap```
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.thuisbezorgd.nl
-- Website Testing
-- PHP
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.lieferando.de
-- Moment.js
-- jQuery
-- Website Testing
-- PHP
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.lieferando.at
 
 
 ### *.yourdelivery.de
-- Website Testing
+- ```Website Testing```
 
 
 ### *.scoober.com
-- Cloudflare CDN
-- Wordpress
-- Website Testing
-- PHP
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.citymeal.com
-- Cloudflare CDN
-- Wordpress
-- Website Testing
-- PHP
+- ```Cloudflare CDN```
+- ```Wordpress```
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.just-eat.fr
@@ -15033,45 +9273,45 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://takeawaypayapi-ase.tenbis-ase.p.azurewebsites.net/api
-- API Testing
+- ```API Testing```
 
 
 ### https://takeawaypay-internal-api-ase.tenbis-ase.p.azurewebsites.net/
-- API Testing
+- ```API Testing```
 
 
 ### restaurant-api.takeaway.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### *.pyszne.pl
-- Moment.js
-- jQuery
-- Website Testing
-- PHP
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### *.bistro.sk
 
 
 ### https://takeawaypay.azurefd.net/en/takeawaypay/
-- Website Testing
+- ```Website Testing```
 
 
 ### careers.takeaway.com
@@ -15138,476 +9378,118 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://www.lieferando.at/en/vouchercode/new-customer
-- Website Testing
+- ```Website Testing```
 
 
 ### https://www.lieferando.at/gutschein/neukunde
-- Website Testing
+- ```Website Testing```
 
 
 ### www.integration-takeaway.com
 
 
-## BitDiscovery
-### *.bitdiscovery.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### Any publicly facing asset of BitDiscovery (ASNs, domains, ip addresses, etc)
-- Recon
-- DNS
-
-
-### assetinventory.bugcrowd.com
-- Moment.js
-- jQuery
-- Website Testing
-
-
-## MasterCard VDP
-### Core Priceless.com - demo.priceless.com
-- Moment.js
-- jQuery
-- nginx
-- Website Testing
-- Javascript
-
-
-### https://global-learning.mastercard.com
-- Website Testing
-- Javascript
-
-
-### https://mpos.mastercard.com
-- Java
-- Bootstrap
-- HTML
-- jQuery
-- Website Testing
-
-
-### https://pathway.mastercard.com
-- Wordpress
-- MySQL
-- Select2
-- Amazon Cloudfront
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://smartdatademo.mastercard.com
-- Java
-- jQuery
-- Website Testing
-
-
-### https://cashpickup.mastercard.com
-- Wordpress
-- Bootstrap
-- MySQL
-- HTML
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://Globalrisk.mastercard.com
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
-
-
-### https://isencaoderolha.mastercard.com.br/
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://procurement.mastercard.com
-- Bootstrap
-- HTML
-- jQuery
-- Website Testing
-
-
-### https://tasteofpremium.jp
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://graphic.mastercard.com/mastercard-innovation-forum-2018/ES/website/index.html
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### https://cocreation.mastercard.com/default
-- jQuery
-- nginx
-- Website Testing
-
-
-### https://partners.mastercard.com/en-us/issuers/
-- Bootstrap
-- jQuery
-- Website Testing
-- Javascript
-
-
-### https://lacinnovation.mastercard.com/
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
-
-
-### https://europe.priceless.com/shb
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### https://learning.mastercard.com/
-- Website Testing
-
-
-### https://www.mastercardbiz.ca/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
-
-
-### https://eu.mastercard.com/a/az/qiymetsiz
-- Wordpress
-- Bootstrap
-- MySQL
-- Moment.js
-- jQuery
-- Lodash
-- Website Testing
-- PHP
-
-
-### https://priceless.com/golf/
-- ReactJS
-- ASP.NET
-- nginx
-- Windows
-- Website Testing
-- Microsoft IIS
-- NodeJS
-
-
-### https://pricelesssurprises.com/
-- Ruby
-- Angular
-- Bootstrap
-- Ruby on Rails
-- jQuery
-- nginx
-- Website Testing
-- Modernizr
-
-
-### https://priceless.com/aa/
-- ReactJS
-- Moment.js
-- ASP.NET
-- jQuery
-- nginx
-- Website Testing
-- NodeJS
-- Modernizr
-
-
-### https://priceless.com/aviator/
-- ReactJS
-- Bootstrap
-- ASP.NET
-- jQuery
-- nginx
-- Website Testing
-- NodeJS
-- Modernizr
-
-
-### https://priceless.com/citiaadvantage/
-- ReactJS
-- Bootstrap
-- ASP.NET
-- jQuery
-- Website Testing
-- NodeJS
-- Modernizr
-
-
-### https://mastercardbiz.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
-
-
-### https://newsroom.mastercard.com/
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
-
-
-### https://citypossible.com
-- Wordpress
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- PHP
-
-
-### https://news.mastercard.com/
-- HTML
-- jQuery
-- Website Testing
-- PHP
-
-
-### https://europe.priceless.com/
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### https://cxresearch.mastercard.com
-- Website Testing
-
-
-### https://mtf.mastercard.co.za/en-za.html
-- Java
-- Adobe Experience Manager
-- jQuery
-- Website Testing
-
-
-### https://inclusivegrowthscore.com/
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### https://app.inclusivegrowthscore.com/
-- Bootstrap
-- ReactNative
-- jQuery
-- Website Testing
-- NodeJS
-
-
 ## Mettle
 ### Mettle Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Mettle iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### web-app.eevee.bbp-mettle.co.uk
-- Website Testing
+- ```Website Testing```
 
 
 ### ops-tool.internal.bbp-mettle.co.uk
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bbp-mettle.co.uk
 
 
-## Naspers
-### development.naspers.com
-- Website Testing
-
-
-### development-nasperspolicy.naspers.com
-- Website Testing
-
-
-### development-naspersbrand.naspers.com
-- Website Testing
-
-
-### development-prosus.naspers.com
-- Website Testing
-
-
-### https://52.151.73.49/
-
-
-### https://learn.myacademy.io/
-- Website Testing
-
-
-### *.naspers.com
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.naspers.fr
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.naspers.us
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.naspersventures.com
-- Website Testing
-
-
-### *.naspers.co
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.naspers.co.in
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
-### *.prosus.com
-- Cloudflare CDN
-- ASP.NET
-- jQuery
-- Website Testing
-- Microsoft IIS
-
-
 ## Atlassian
 ### Atlassian Access (https://admin.atlassian.com/atlassian-access)
-- Website Testing
+- ```Website Testing```
 
 
 ### Atlassian Admin (https://admin.atlassian.com/)
-- Website Testing
+- ```Website Testing```
 
 
 ### Atlassian Identity (https://id.atlassian.com/login)
-- API Testing
-- Website Testing
+- ```API Testing```
+- ```Website Testing```
 
 
 ### Atlassian Start (https://start.atlassian.com)
-- Website Testing
+- ```Website Testing```
 
 
 ### Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
-- Django
-- Website Testing
+- ```Django```
+- ```Website Testing```
 
 
 ### Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-- Website Testing
+- ```Website Testing```
 
 
 ### Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-- Website Testing
+- ```Website Testing```
 
 
 ### Confluence Cloud Mobile App for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Confluence Cloud Mobile App for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Jira Cloud Mobile App for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Jira Cloud Mobile App for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-- Website Testing
+- ```Website Testing```
 
 
 ### Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-- Website Testing
+- ```Website Testing```
 
 
 ### Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
-- Java
-- ReactJS
-- Redux
-- Website Testing
-- Spring
+- ```Java```
+- ```ReactJS```
+- ```Redux```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
@@ -15617,124 +9499,124 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Atlassian Marketplace (https://marketplace.atlassian.com)
-- Website Testing
+- ```Website Testing```
 
 
 ### Atlassian Atlas
-- Website Testing
+- ```Website Testing```
 
 
 ### Bitbucket Server
-- Django
-- ReactJS
-- Website Testing
-- Python
+- ```Django```
+- ```ReactJS```
+- ```Website Testing```
+- ```Python```
 
 
 ### Confluence Server
-- Java
-- jQuery
-- Website Testing
-- Spring
-- TinyMCE
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
+- ```Spring```
+- ```TinyMCE```
 
 
 ### Crowd
-- API Testing
-- Java
-- Website Testing
-- Spring
+- ```API Testing```
+- ```Java```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Jira Core Server
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-- Spring
+- ```Java```
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Jira Service Management Server
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-- Spring
+- ```Java```
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Jira Software Server
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-- Spring
+- ```Java```
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+- ```Spring```
 
 
 ### *.atlastunnel.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
-- Website Testing
+- ```Website Testing```
 
 
 ### Bamboo
-- API Testing
-- Java
-- ReactJS
-- Website Testing
-- Spring
+- ```API Testing```
+- ```Java```
+- ```ReactJS```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Confluence Companion App for macOS and Windows
 
 
 ### Confluence Server Mobile App for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Confluence Server Mobile App for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Crucible
-- Java
-- Website Testing
-- Spring
+- ```Java```
+- ```Website Testing```
+- ```Spring```
 
 
 ### FishEye
-- Java
-- Website Testing
-- Spring
+- ```Java```
+- ```Website Testing```
+- ```Spring```
 
 
 ### Jira Server Mobile App for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Jira Server Mobile App for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
-- macOS
-- Windows
-- Desktop Application Testing
+- ```macOS```
+- ```Windows```
+- ```Desktop Application Testing```
 
 
 ### Other - (all other Atlassian targets)
@@ -15744,49 +9626,49 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### Forge Platform
-- Website Testing
-- NodeJS
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
-- API Testing
-- GraphQL
+- ```API Testing```
+- ```GraphQL```
 
 
 ### https://www.npmjs.com/package/@forge/cli
-- Lodash
-- Website Testing
-- NodeJS
+- ```Lodash```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### Any repository that you are not an owner of - do not impact Atlassian customers in any way.
-- Website Testing
+- ```Website Testing```
 
 
 ### Any internal or development services.
-- Website Testing
+- ```Website Testing```
 
 
 ### First and third party apps and plugins from the marketplace are excluded from this bounty but may be in scope for https://bugcrowd.com/atlassianapps
-- Website Testing
+- ```Website Testing```
 
 
 ### shop.atlassian.com
-- Website Testing
+- ```Website Testing```
 
 
 ###  bytebucket.org
-- Website Testing
+- ```Website Testing```
 
 
 ### *.bitbucket.io
-- Recon
-- Website Testing
-- DNS
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
 
 
 ### https://blog.bitbucket.org
-- Website Testing
+- ```Website Testing```
 
 
 ### HipChat (inc. HipChat Data Center, HipChat Desktop, HipChat Mobile)
@@ -15795,71 +9677,39 @@ Updated 2023-02-12 16:48:43.634197
 ### Stride (inc. Stride Video, Stride Desktop, Stride Mobile)
 
 
-## HealthifyMe's Vulnerability Disclosure Program
-### behtarkhao.healthifyme.com 
-- Website Testing
-
-
-### *.healthifyme.com
-- Akamai CDN
-- Linux
-- jQuery
-- nginx
-- Website Testing
-
-
-### https://play.google.com/store/apps/details?id=com.healthifyme.basic&hl=en
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### https://itunes.apple.com/in/app/healthifyme-weight-loss-coach/id943712366?mt=8
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)
-- Website Testing
-
-
 ## SoundCloud
 ### soundcloud.com
-- Ruby
-- ReactJS
-- Scala
-- Website Testing
+- ```Ruby```
+- ```ReactJS```
+- ```Scala```
+- ```Website Testing```
 
 
 ### *.soundcloud.com
-- API Testing
-- Ruby
-- ReactJS
-- Scala
-- Website Testing
+- ```API Testing```
+- ```Ruby```
+- ```ReactJS```
+- ```Scala```
+- ```Website Testing```
 
 
 ### SoundCloud Android app
-- Java
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### SoundCloud iOS app
-- Objective-C
-- Swift
-- Mobile Application Testing
+- ```Objective-C```
+- ```Swift```
+- ```Mobile Application Testing```
 
 
 ### *.services.repostnetwork.com
-- API Testing
-- Java
-- jQuery
-- Website Testing
+- ```API Testing```
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.soundcloud.org
@@ -15875,518 +9725,273 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### advertising.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### blog.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ###  community.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### contest.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### copyright.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### help.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### jobs.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### press.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### playback.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### playerone.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### promote.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### scdrops.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.soundcloud.com
-- Website Testing
+- ```Website Testing```
 
 
 ### soundcloudmail.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Mastercard (VDP Extension)
 ### https://stage.services.mastercard.com/dxp/send/email
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/form/submit
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/twitter/timeline?screenName=MastercardUK
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/twitter/hashtag?hashtag=Priceless
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/search/dm-mccom
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/suggest/dm-mccom
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/captcha/generate
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/offers/getofferdetails/8e6a1d47-0489-4cd6-9263-b349b30b91fc
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dxp/offers/getofferdetails/774cc452-1f91-49d9-8a95-5c896ee70b63
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/reply
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/comment/dislike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/comment/like
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/reply/like
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/reply/dislike
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/feedback?
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/feedback
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/user/comment
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/moderator/comment
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### https://stage.services.mastercard.com/dm/ugc/moderator/comment/pending
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Mastercard Receipt Management iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Mastercard Receipt Management Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ## Opsgenie
 ### Opsgenie Production (billing systems, third parties)
-- Website Testing
+- ```Website Testing```
 
 
 ### Any internal or development services.
-- Website Testing
+- ```Website Testing```
 
 
 ### app.opsgenie.com
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Newrelic
+- ```Angular```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### mobileapp.opsgenie.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.opsgenie.com
-- Vue.js
-- Recon
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
-- Website Testing
-- DNS
+- ```Vue.js```
+- ```Recon```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```Website Testing```
+- ```DNS```
 
 
 ### Opsgenie (IoS)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Opsgenie (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-## Telefónica Germany
-### https://www.alditalk.de
-- Website Testing
-
-
-### https://www.udldigital.de
-- Website Testing
-
-
-### https://www.wayra.co.uk
-- Website Testing
-
-
-### https://mobilfunk.tchibo.de
-- Website Testing
-
-
-### https://www.think-big.org
-- Website Testing
-
-
-### *.k-classic-mobil.de
-- Bootstrap
-- jQuery
-- Website Testing
-- Zone.js
-
-
-### *.pool.telefonica.de 
-- Website Testing
-
-
-### *.telefonica.de
-- jQuery
-- nginx
-- Website Testing
-
-
-### *.o2online.de
-- Varnish
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### *.o2.de
-- Varnish
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### *.o2business.de
-- Varnish
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### *.o2service.de
-- jQuery
-- Website Testing
-
-
-### *.o2spin.de
-- ASP.NET
-- jQuery
-- Windows
-- Website Testing
-- Microsoft IIS
-
-
-### *.alditalk-kundenbetreuung.de
-- jQuery
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### *.ayyildiz.de
-- ASP.NET
-- jQuery
-- RequireJS
-- Website Testing
-- PHP
-- Modernizr
-
-
-### *.base.de
-- Cloudflare CDN
-- jQuery
-- Website Testing
-
-
-### *.blau.de
-- Varnish
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### *.einfachprepaid.de
-- jQuery
-- Website Testing
-
-
-### *.epos.vertriebspartner.de.o2.com
-- Website Testing
-
-
-### *.fonic.de
-
-
-### *.fonic-mobile.de
-- Vue.js
-- jQuery
-- Website Testing
-- Modernizr
-
-
-### *.mediamarkt.o2service.de
-- Bootstrap
-- jQuery
-- Website Testing
-- Zone.js
-
-
-### *.mein.aetkasmart.de
-- Website Testing
-
-
-### *.mein.simfinity.de
-- Bootstrap
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### *.nettokom.de
-- jQuery
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### *.netzclub.net
-- Bootstrap
-- jQuery
-- jQuery Mobile
-- Website Testing
-- PHP
-
-
-### *.norma-mobil.de
-- Website Testing
-- PHP
-
-
-### *.ortelmobile.de
-- jQuery
-- Website Testing
-
-
-### *.saturn.o2service.de
-- Bootstrap
-- jQuery
-- Zone.js
-
-
-### *.sim-karte-aktivierung.blauworld.de
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### *.turkei-sim.de
-- jQuery
-- Website Testing
-
-
-### https://vertriebspartner.de.o2.com/partos
-- Website Testing
-
-
-### *.whatsappsim.de
-- ASP.NET
-- Windows
-- RequireJS
-- Website Testing
-- Microsoft IIS
-- Modernizr
-
-
-### Mein O2 iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### Mein O2 Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### PartOS iOS Application 
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### PartOS Android Application 
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### O2 Business iOS Application
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### O2 Business Android Application
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### *.nova-mobil.de
-- Website Testing
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ## Trello
 ### First party (made-by-trello) power-ups other than those inscope are excluded from this program but can be reported to http://bugcrowd.com/atlassianapps
-- Website Testing
+- ```Website Testing```
 
 
 ### e.trello.com
-- Website Testing
+- ```Website Testing```
 
 
 ### help.trello.com
-- Website Testing
+- ```Website Testing```
 
 
 ### trello-attachments.s3.amazonaws.com
-- Website Testing
+- ```Website Testing```
 
 
 ### trello.com
-- ReactJS
-- jQuery
-- Website Testing
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### api.trello.com
-- Website Testing
+- ```Website Testing```
 
 
 ### *.trello.services
-- Recon
-- Website Testing
-- DNS
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
 
 
 ### Trello Desktop Client
-- Github
-- Recon
+- ```Github```
+- ```Recon```
 
 
 ### Trello Mobile App for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Trello Mobile App for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Butler for Trello
-- Website Testing
+- ```Website Testing```
 
 
 ### Calendar Power-Up
@@ -16404,310 +10009,189 @@ Updated 2023-02-12 16:48:43.634197
 ### Microsoft Teams Integration
 
 
-## Overstock's Vulnerability Disclosure Page!
-### www.overstock.com
-- Akamai CDN
-- ReactJS
-- Bootstrap
-- jQuery
-- Handlebars
-- RequireJS
-- Website Testing
-- Modernizr
-
-
-### http(s)://api.overstock.com
-- API Testing
-- ReactJS
-- jQuery
-- HTTP
-
-
-### Overstock Android Mobile App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### Overstock iOS Mobile App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### cars.overstock.com
-- Website Testing
-
-
-### pets.overstock.com
-- Website Testing
-
-
-### *.overstock.com
-- Akamai CDN
-- ReactJS
-- Recon
-- jQuery
-- Handlebars
-- RequireJS
-- Website Testing
-- DNS
-- Modernizr
-
-
-### *.supplieroasis.com
-- Bootstrap
-- jQuery
-- Website Testing
-
-
-### overstockgovernment.com
-- ReactJS
-- Lodash
-- Website Testing
-- NodeJS
-
-
-### *.overstockgovernment.com
-- ReactJS
-- Lodash
-- Website Testing
-- NodeJS
-
-
-### checkout.overstockgovernment.com
-- API Testing
-
-
-###  www.overstock.ca 
-- Website Testing
-
-
-### *.handmade.com 
-
-
-### financehub.overstock.com
-- Website Testing
-
-
-### investors.overstock.com
-- Drupal
-- jQuery
-- nginx
-- Website Testing
-- PHP
-- Modernizr
-
-
-### blog.overstock.com
-- Wordpress
-- nginx
-- Website Testing
-- PHP
-
-
-### help.overstock.com
-- Bootstrap
-- Website Testing
-
-
-### miq.overstock.com
-
-
-### snow.overstock.com
-- Website Testing
-
-
-### hotels.overstock.com
-- Website Testing
-
-
 ## Under Armour AppSec
 ### https://www.mapmyfitness.com
-- AWS
-- Amazon Cloudfront
-- nginx
-- NodeJS
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```NodeJS```
 
 
 ### https://www.mapmyrun.com
-- ExpressJS
-- Backbone
-- AWS
-- Amazon Cloudfront
-- nginx
-- NodeJS
+- ```ExpressJS```
+- ```Backbone```
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```NodeJS```
 
 
 ### https://www.mapmyride.com
-- Backbone
-- Amazon Cloudfront
-- jQuery
-- nginx
-- Handlebars
-- NodeJS
+- ```Backbone```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```nginx```
+- ```Handlebars```
+- ```NodeJS```
 
 
 ### https://www.mapmywalk.com
-- AWS
-- Amazon Cloudfront
-- nginx
-- NodeJS
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
+- ```NodeJS```
 
 
 ### mapmyfitness.api.ua.com
-- AWS
-- Amazon Cloudfront
-- nginx
+- ```AWS```
+- ```Amazon Cloudfront```
+- ```nginx```
 
 
 ### https://www.underarmour.com
-- ReactJS
-- Moment.js
-- jQuery
-- Website Testing
-- Newrelic
-- Modernizr
+- ```ReactJS```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Newrelic```
+- ```Modernizr```
 
 
 ### https://www.underarmour.co.uk
-- Cloudflare CDN
-- jQuery
-- Website Testing
-- Modernizr
+- ```Cloudflare CDN```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### UA HOVR Equipped running shoe that you own or have authorization to test
-- Website Testing
+- ```Website Testing```
 
 
 ### UA Shop iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### UA Shop Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### MapMyFitness  iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### MapMyFitness  Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ## Moneytree KK
 ### app-staging.getmoneytree.com
-- Ruby
-- ReactJS
-- Ruby on Rails
-- Website Testing
-- Newrelic
+- ```Ruby```
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### jp-api-staging.getmoneytree.com 
-- API Testing
-- Ruby
-- Ruby on Rails
-- jQuery
-- Newrelic
-- HTTP
+- ```API Testing```
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Newrelic```
+- ```HTTP```
 
 
 ### myaccount-staging.getmoneytree.com
-- API Testing
-- Ruby
-- ReactJS
-- Ruby on Rails
-- Newrelic
-- HTTP
+- ```API Testing```
+- ```Ruby```
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```Newrelic```
+- ```HTTP```
 
 
 ### wwws-staging.moneytree.jp/link/
-- Angular
-- Bootstrap
-- Moment.js
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
-- Website Testing
-- Modernizr
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### wwws-staging.moneytree.jp/link/mobile/
-- Angular
-- Bootstrap
-- Moment.js
-- Amazon S3
-- Amazon Cloudfront
-- jQuery
-- Website Testing
-- Modernizr
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```Amazon S3```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
-- Website Testing
+- ```Website Testing```
 
 
 ### Moneytree staging Android Mobile Application (see below)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Moneytree iOS Mobile Application (production; see below)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://engineering-staging.getmoneytree.com  
-- Website Testing
+- ```Website Testing```
 
 
 ### https://csv-uploader-staging.getmoneytree.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://vault-staging.getmoneytree.com
-- Website Testing
+- ```Website Testing```
 
 
 ### https://redash-staging.getmoneytree.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### moneytree.jp
-- Website Testing
+- ```Website Testing```
 
 
 ### Any production asset of Moneytree KK (excepting the iOS app)
-- Website Testing
+- ```Website Testing```
 
 
 ### getmoneytree.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Square Open Source
@@ -16761,60 +10245,60 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Etsy
 ### Any publicly facing host owned by Etsy, including the below:
-- API Testing
-- Java
-- Android
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- Website Testing
-- Kotlin
-- HTTP
-- iOS
+- ```API Testing```
+- ```Java```
+- ```Android```
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Website Testing```
+- ```Kotlin```
+- ```HTTP```
+- ```iOS```
 
 
 ### www.etsy.com
-- Varnish
-- jQuery
-- Google Cloud
-- Website Testing
+- ```Varnish```
+- ```jQuery```
+- ```Google Cloud```
+- ```Website Testing```
 
 
 ### Etsy Mobile Application (Android)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Etsy Mobile Application (iPhone)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Etsy API (see documentation below)
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### blog.etsy.com
-- Wordpress
-- MySQL
-- jQuery
-- Website Testing
-- PHP
+- ```Wordpress```
+- ```MySQL```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
 
 
 ### community.etsy.com
-- Angular
-- jQuery
-- Website Testing
-- Newrelic
-- PHP
+- ```Angular```
+- ```jQuery```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
 
 
 ### etsypayments.com
@@ -16824,93 +10308,93 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### icht.etsysecure.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ## Cisco Meraki
 ### *.meraki.com
-- Network Testing
-- Cloudflare CDN
-- Ruby on Rails
-- Scala
-- jQuery
-- RequireJS
-- Website Testing
-- Modernizr
+- ```Network Testing```
+- ```Cloudflare CDN```
+- ```Ruby on Rails```
+- ```Scala```
+- ```jQuery```
+- ```RequireJS```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### *.ikarem.io
-- Website Testing
+- ```Website Testing```
 
 
 ### *.network-auth.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Cisco Meraki Systems Manager
-- Network Testing
-- Linux
-- macOS
-- Windows
-- Mobile Application Testing
-- Desktop Application Testing
+- ```Network Testing```
+- ```Linux```
+- ```macOS```
+- ```Windows```
+- ```Mobile Application Testing```
+- ```Desktop Application Testing```
 
 
 ### Cisco Meraki Virtual Security Appliances
-- Network Testing
-- AWS
-- Google Cloud
-- Website Testing
-- Azure
+- ```Network Testing```
+- ```AWS```
+- ```Google Cloud```
+- ```Website Testing```
+- ```Azure```
 
 
 ### Cisco Meraki Dashboard Mobile Application (iOS and Android)
-- Android
-- Mobile Application Testing
-- iOS
+- ```Android```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Cisco Meraki MX Security Appliances
-- Network Testing
-- IoT
-- Hardware Testing
+- ```Network Testing```
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Cisco Meraki MS Switches
-- Network Testing
-- IoT
-- Hardware Testing
+- ```Network Testing```
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Cisco Meraki MR Access Points
-- Network Testing
-- IoT
-- Hardware Testing
+- ```Network Testing```
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Cisco Meraki MV Security Cameras
-- Network Testing
-- IoT
-- Surveillance and Security
-- Hardware Testing
+- ```Network Testing```
+- ```IoT```
+- ```Surveillance and Security```
+- ```Hardware Testing```
 
 
 ### Cisco Meraki Z Series (Z1,Z3(C))
-- Network Testing
-- IoT
-- Hardware Testing
+- ```Network Testing```
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### meraki.cisco.com
-- Java
-- Cloudflare CDN
-- Adobe Experience Manager
-- jQuery
-- RequireJS
-- Website Testing
-- PHP
-- Modernizr
+- ```Java```
+- ```Cloudflare CDN```
+- ```Adobe Experience Manager```
+- ```jQuery```
+- ```RequireJS```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### *.cisco.com
@@ -16918,316 +10402,219 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Bitdefender Box v2
 ### Bitdefender Central (iOS App)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Bitdefender Central (Android App)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### central.bitdefender.com
-- Website Testing
+- ```Website Testing```
 
 
 ### Bitdefender BOX v2
-- IoT
+- ```IoT```
 
 
 ## Square
 ### *.square.com
-- API Testing
-- Ruby
-- Ruby on Rails
-- jQuery
-- Website Testing
+- ```API Testing```
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### *.squareup.com
-- Ruby
-- Ruby on Rails
-- Moment.js
-- Select2
-- jQuery
-- Handlebars
-- Newrelic
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```Handlebars```
+- ```Newrelic```
 
 
 ### Square Point of Sale Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Square Point of Sale Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### *.cash.me
-- Website Testing
+- ```Website Testing```
 
 
 ### Cash App Mobile Application for Android
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Any vulnerabilities found in Third-party software
-- Website Testing
+- ```Website Testing```
 
 
 ### Cash App Mobile Application for iOS
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-## SAP Concur
-### All services officially provided by Concur are in scope and eligible for the responsible disclosure program, including mobile applications.
-
-
-### Tripit Web Application: https://www.tripit.com
-- Akamai CDN
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- PHP
-
-
-### https://m.tripit.com/  
-- Akamai CDN
-- Wordpress
-- Bootstrap
-- MySQL
-- jQuery
-- nginx
-- Website Testing
-- PHP
-
-
-### Tripit Teams: https://www.tripit.com/teams/
-- Bootstrap
-- jQuery
-- nginx
-- Website Testing
-- Newrelic
-- Modernizr
-
-
-### Tripit Mobile Web Services/Public web services used by the Tripit Mobile applications: https://api.tripit.com/ 
-- API Testing
-- HTTP
-
-
-### Tripit Mobile Application: Android (https://play.google.com/store/apps/details?id=com.tripit)
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-### Tripit Mobile Application: iOS (https://apps.apple.com/us/app/tripit-travel-planner/id311035142)
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
-
-
-### Sites and companies not owned by, maintained by, or under the control of Concur
-
-
-### www.tmcservices.net
-- Website Testing
-
-
-### tmcservices.co.in
-- Website Testing
-
-
-### forum.developer.concur.com
-- Website Testing
-
-
-### www.concurinc.com
-- Website Testing
-
-
-### help.expenseit.com
-- Website Testing
-
-
-### concurmobile.freshdesk.com
-- Website Testing
-
-
-### http://store.hipmunk.com
-- Website Testing
-
-
-### sentry.hipmunk.com
-- Website Testing
-
-
-### media.hipmunk.com
-- Website Testing
-
-
-### All Hipmunk assets are out of scope as this product line has been discontinued.
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ## NETGEAR Cash Rewards
 ### Nighthawk Pro Gaming Router
-- IoT
+- ```IoT```
 
 
 ### Nighthawk Pro Gaming Switch
-- IoT
+- ```IoT```
 
 
 ### Nighthawk Router
-- IoT
+- ```IoT```
 
 
 ### Nighthawk Switch
-- IoT
+- ```IoT```
 
 
 ### Nighthawk iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Nighthawk Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Orbi 
-- IoT
+- ```IoT```
 
 
 ### Orbi iOS App 
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Orbi Android App 
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Insight Managed Smart Cloud Wireless Access Point
-- IoT
+- ```IoT```
 
 
 ### https://api.netgear.com
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### Insight iOS App
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Insight Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### Insight Cloud Portal
-- Website Testing
+- ```Website Testing```
 
 
 ### Meural
-- IoT
+- ```IoT```
 
 
 ## InVision 
 ###  bugcrowdninja.invisionapp.com
-- API Testing
-- ReactJS
-- Go
-- Website Testing
-- NodeJS
+- ```API Testing```
+- ```ReactJS```
+- ```Go```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ###  bugcrowdninja2.invisionapp.com
 
 
 ### bugcrowd-[your_bugcrowd_username].invisionapp.com
-- API Testing
-- ReactJS
-- Go
-- Website Testing
-- NodeJS
+- ```API Testing```
+- ```ReactJS```
+- ```Go```
+- ```Website Testing```
+- ```NodeJS```
 
 
 ### https://projects.invisionapp.com
-- Website Testing
+- ```Website Testing```
 
 
 ### www.invisionapp.com
-- Website Testing
+- ```Website Testing```
 
 
 ### www.designbetter.co
-- Website Testing
+- ```Website Testing```
 
 
 ### support.invisionapp.com
-- Website Testing
+- ```Website Testing```
 
 
 ### status.invisionapp.com
-- Website Testing
+- ```Website Testing```
 
 
 ## LastPass
 ### https://support.logmeininc.com/lastpass
-- Website Testing
+- ```Website Testing```
 
 
 ### https://forums.lastpass.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### https://blog.lastpass.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### Windows Phone app
@@ -17240,209 +10627,190 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://identity.lastpass.com/
-- Website Testing
+- ```Website Testing```
 
 
 ### LastPass MFA Android App
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### LastPass MFA iOS app
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### https://lastpass.com
-- Akamai CDN
-- ASP.NET
-- jQuery
-- Windows
-- PHP
-- Microsoft IIS
-- Azure
-- Modernizr
+- ```Akamai CDN```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```PHP```
+- ```Microsoft IIS```
+- ```Azure```
+- ```Modernizr```
 
 
 ### LastPass browser extensions (Chrome / Safari / Edge / Firefox)
-- Browser Extension
+- ```Browser Extension```
 
 
 ### Local computer apps (UWP application / Windows installer (MSI))
 
 
 ### iOS Mobile app
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### Android mobile app
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### LastPass Authenticator iOS app
-- Objective-C
-- SwiftUI
-- Swift
-- Mobile Application Testing
-- iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
 ### LastPass Authenticator Android app
-- Java
-- Android
-- Mobile Application Testing
-- Kotlin
-
-
-## OWASP Java Encoder
-### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaEncoder
-- Java
-
-
-### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaEncoder/war-files
-- Java
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ## Mastercard
 ### Simplify Commerce - www.simplify.com/commerce/ 
-- Java
-- jQuery
-- Website Testing
-- PHP
-- Modernizr
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
 ### MasterCard.us - www.mastercard.us/en-us.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### MasterCard.ch - (German) - www.mastercard.ch/de-ch.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### MasterCard.ch - (French) - www.mastercard.ch/fr-ch.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### MasterCard.ru - www.mastercard.ru/ru-ru.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### MasterCard.com.au - www.mastercard.com.au/en-au.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### MasterCard.nl - www.mastercard.nl/nl-nl.html
-- Java
-- Adobe Experience Manager
-- Angular
-- Moment.js
-- jQuery
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### https://developer.mastercard.com
-- Stripe
-- Lodash
-- Website Testing
-- Javascript
+- ```Stripe```
+- ```Lodash```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### donate.mastercard.com
-- Java
-- Adobe Experience Manager
-- Angular
-- Bootstrap
-- jQuery
-- Lodash
-- Website Testing
-- Modernizr
+- ```Java```
+- ```Adobe Experience Manager```
+- ```Angular```
+- ```Bootstrap```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```Modernizr```
 
 
 ### Core Priceless.com - demo.priceless.com
-- Moment.js
-- jQuery
-- nginx
-- Website Testing
-- Javascript
+- ```Moment.js```
+- ```jQuery```
+- ```nginx```
+- ```Website Testing```
+- ```Javascript```
 
 
 ### All Available Mastercard Developer APIs
-- API Testing
-- HTTP
+- ```API Testing```
+- ```HTTP```
 
 
 ### demo.priceless.com/golf
-- Website Testing
+- ```Website Testing```
 
 
 ### demo.priceless.com/travel
-- Website Testing
+- ```Website Testing```
 
 
 ### demo.priceless.com/standup
-- Website Testing
+- ```Website Testing```
 
 
 ### Order placement on demo.priceless.com
-- Website Testing
-
-
-## OWASP CSRFGuard
-### https://github.com/OWASP/OWASPBugBounty/tree/master/CRSFGuard
-- Website Testing
-
-
-## OWASP Java HTML Sanitizer
-### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaHTMLSanitizer/war-files
-- HTML
+- ```Website Testing```
 
 
 ## OWASP® ZAP
@@ -17450,67 +10818,67 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### https://www.zaproxy.org
-- Github
-- Cloudflare CDN
-- Fastly
-- Ruby
-- Varnish
-- Ruby on Rails
+- ```Github```
+- ```Cloudflare CDN```
+- ```Fastly```
+- ```Ruby```
+- ```Varnish```
+- ```Ruby on Rails```
 
 
 ## SecureDrop
 ### https://github.com/freedomofpress/securedrop
-- Website Testing
-- Python
+- ```Website Testing```
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-workstation
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-client
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-sdk
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-proxy
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-export
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-log
-- Python
+- ```Python```
 
 
 ### https://github.com/freedomofpress/securedrop-debian-packaging
-- Shell
-- Python
+- ```Shell```
+- ```Python```
 
 
 ## FoxyCart
 ### api.foxycart.com
-- API Testing
-- AWS
-- Bootstrap
-- Amazon Cloudfront
-- jQuery
-- nginx
+- ```API Testing```
+- ```AWS```
+- ```Bootstrap```
+- ```Amazon Cloudfront```
+- ```jQuery```
+- ```nginx```
 
 
 ### https://admin.foxycart.com
-- jQuery
-- PHP
-- Modernizr
+- ```jQuery```
+- ```PHP```
+- ```Modernizr```
 
 
 ### https://foxycart-demo.foxycart.com
-- jQuery
+- ```jQuery```
 
 
 ### *-bugcrowd.foxycart.com (read below for details)
@@ -17518,29 +10886,29 @@ Updated 2023-02-12 16:48:43.634197
 
 ## Humble Bundle
 ### https://www.humblebundle.com/
-- Algolia
-- Backbone
-- Moment.js
-- Select2
-- jQuery
-- Lodash
+- ```Algolia```
+- ```Backbone```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```Lodash```
 
 
 ## Statuspage
 ### manage.statuspage.io
-- Fastly
-- Ruby on Rails
-- Moment.js
-- jQuery
-- Lodash
-- Website Testing
-- Newrelic
+- ```Fastly```
+- ```Ruby on Rails```
+- ```Moment.js```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```Newrelic```
 
 
 ### *.statuspage.io
-- Recon
-- Website Testing
-- DNS
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
 
 
 ## WHMCS Client Management Portal
@@ -17548,144 +10916,105 @@ Updated 2023-02-12 16:48:43.634197
 
 
 ### *.whmcs.com
-- Website Testing
+- ```Website Testing```
 
 
 ### www.whmcs.com
-- Bootstrap
-- jQuery
-- Website Testing
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
 
 
 ### whmcs.community
-- Website Testing
+- ```Website Testing```
 
 
 ### WHMCS iOS app
-- iOS
+- ```iOS```
 
 
 ### WHMCS Android App
-- Android
+- ```Android```
 
 
 ### WHMCS Windows mobile app
 
 
 ### Researcher owned WHMCS Instance
-- Website Testing
-
-
-## Hack Me!
-### www.bugcrowd.com
-- Wordpress
-- Website Testing
-
-
-### api.bugcrowd.com
-- API Testing
-- PostgreSQL
-- Elasticsearch
-- Ruby on Rails
-- JSON
-- HTTP
-
-
-### All IT-Managed Third-Party Services and Infrastructure
-
-
-### Crowdcontrol
-- PostgreSQL
-- ReactJS
-- Elasticsearch
-- Ruby on Rails
-- Website Testing
-
-
-### docs.bugcrowd.com
-- HTML
-- Website Testing
-
-
-### researcherdocs.bugcrowd.com
-- Website Testing
-
-
-### email.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ## Bugcrowd
 ### bugcrowd.com
-- PostgreSQL
-- ReactJS
-- Elasticsearch
-- Ruby on Rails
-- Website Testing
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### Crowdcontrol
-- PostgreSQL
-- ReactJS
-- Elasticsearch
-- Ruby on Rails
-- Website Testing
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ### api.bugcrowd.com
-- API Testing
-- PostgreSQL
-- Elasticsearch
-- Ruby on Rails
-- JSON
-- HTTP
+- ```API Testing```
+- ```PostgreSQL```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```JSON```
+- ```HTTP```
 
 
 ### docs.bugcrowd.com
-- HTML
-- Website Testing
+- ```HTML```
+- ```Website Testing```
 
 
 ### www.bugcrowd.com
-- Wordpress
-- Website Testing
+- ```Wordpress```
+- ```Website Testing```
 
 
 ### blog.bugcrowd.com
-- Wordpress
-- Website Testing
+- ```Wordpress```
+- ```Website Testing```
 
 
 ### forum.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### email.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### email.forum.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### go.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### pages.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### events.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### researcherdocs.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### assetinventory.bugcrowd.com
-- Website Testing
+- ```Website Testing```
 
 
 ### community.bugcrowd.com
