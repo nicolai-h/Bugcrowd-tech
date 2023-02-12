@@ -1,7 +1,9 @@
 # BugCrowd Tech
 ## Info
 Updated 2023-02-12 19:08:25.433863
+
 Filtered with: sort[]=promoted-desc&vdp[]=false
+
 Note: Out of scope targets is not filtered out
 
 ## Gearset: Managed Bug Bounty
