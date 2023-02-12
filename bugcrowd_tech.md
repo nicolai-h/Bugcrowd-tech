@@ -1,6 +1,6 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-02-12 15:31:31.103992
+Updated 2023-02-12 16:48:43.634197
 
 ## Gearset: Managed Bug Bounty
 ### staging.gearset.com
@@ -1187,15408 +1187,16507 @@ Updated 2023-02-12 15:31:31.103992
 - Modernizr
 
 
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
+## Bureau of Indian Affairs 
+### *.bia.gov
+
+
+## The Bureau of Indian Education Vulnerability Disclosure Program
+### www.bie.edu
+
+
+## Rarible
+### docs.rarible.com
+
+
+### feedback.rarible.com
+
+
+### guide.rarible.com
+
+
+### img.rarible.com
+
+
+### vote.rarible.com
+
+
+### rarible.com
+- Cloudflare CDN
 - ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
+- Website Testing
+- Kotlin
+- NodeJS
 
 
-### staging-api.gearset.com
+### api.rarible.com
 - API Testing
-- C#
-- .NET
 
 
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
+### admin.rarible.com
 - ReactJS
-- nginx
+- Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
+### test.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
+### temp.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://profile.indeed.com
+### static.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://account.indeed.com
+### logging.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://billing.indeed.com
+### log.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
+### links.rarible.com
 - ReactJS
-- nginx
 - Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://m5.apply.indeed.com
+### fs.rarible.com
+- ReactJS
+- Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://interviews.indeed.com
+### data.rarible.com
+- ReactJS
+- Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://apis.indeed.com/graphql
-- GraphQL
+### beta.rarible.com
+- ReactJS
+- Website Testing
+- Kotlin
+- NodeJS
 
 
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+###  https://rari.foundation
+- Cloudflare CDN
+- ReactJS
+- Website Testing
+- Kotlin
+
+
+## Chia Network
+### Chia core
+- Cryptography
+- Static Code Analysis
+- Cryptocurrency
+- Python
+
+
+### Chia desktop
+- Cryptography
+- Static Code Analysis
+- Cryptocurrency
+
+
+### Chia Plotter
+- Cryptography
+- Cryptocurrency
+- Python
+
+
+### Chia BLS Signatures
+- Cryptography
+- Static Code Analysis
+- Cryptocurrency
+
+
+### Chia Verifiable Delay Functions (VDF)
+- Static Code Analysis
+- Cryptocurrency
+- Python
+
+
+## Ibotta
+### Chrome Extension
+- Browser Extension
+
+
+### http://market.android.com/details?id=com.ibotta.android
+- Java
 - Android
 - Mobile Application Testing
+- Kotlin
 
 
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
+### http://itunes.apple.com/us/app/ibotta/id559887125
+- Objective-C
+- SwiftUI
+- Swift
 - Mobile Application Testing
 - iOS
 
 
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### https://api.thousandeyes.com/
+### https://content-server.ibotta.com/graphql
 - API Testing
 - HTTP
 
 
-### ThousandEyes Enterprise Agent
-- Linux
+### https://api.ibotta.com
+- API Testing
+- HTTP
 
 
-### ThousandEyes Endpoint Agent 
-- Windows
+### https://api.ibops.net
+- API Testing
+- HTTP
 
 
-### https://blog.thousandeyes.com/
+### https://api.int.ibops.net
+- API Testing
+- HTTP
+
+
+### https://api.int.ibops.net/customer-loyalty-service
+- API Testing
+- HTTP
+
+
+###  https://api.ibops.net/ad-management
+- API Testing
+- HTTP
+
+
+### Ibotta App Data & Memory
+
+
+### Web v2
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### http://ibotta.com
+- Wordpress
+- AWS
+- Bootstrap
+- MySQL
+- jQuery
+- nginx
+- Website Testing
+- PHP
 
 
-## Redox
-### 10x.redoxengine.com
+### https://backend.ibotta.com/
+- Website Testing
+
+
+### http://sampling.ibotta.com/
+- Website Testing
+
+
+### https://backend.ibotta.com/duplicate_receipt_moderation
+- API Testing
+- HTTP
+
+
+## Registrar.gov: Bug Bounty Program
+### https://domains.dotgov.gov
+
+
+## Verisign
+### epptool-ctld.verisign-grs.com (EPP service; DNS related)
+
+
+###  b.gtld-servers.net (DNS service; DNS related)
+
+
+### a.root-servers.net (DNS service; DNS related)
+
+
+### a1.verisigndns.com (DNS service; DNS related)
+
+
+### www.verisign.com (Website; non-DNS related)
+- Java
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### *.youcouldbe.com
+- Website Testing
+
+
+### *.domainscope.com
+- Website Testing
+
+
+### blog.verisign.com (Website; non-DNS related)
+- Website Testing
+
+
+### *.namestudioforsocial.com
+- Website Testing
+
+
+### *.namestudio.com
+- Website Testing
+
+
+### 64.6.64.6, 64.6.65.6 (DNS Service: DNS related)
+
+
+## LifterLMS
+### LifterLMS Core Plugin
 - ReactJS
+- Wordpress
+- jQuery
+- PHP
+- Javascript
+
+
+### Advanced Course Add-on Plugins (Assignments and Quizzes)
+- Wordpress
+- jQuery
+- PHP
+- Javascript
+
+
+### Advanced Videos Add-On Plugin
+- Wordpress
+- jQuery
+- PHP
+- Javascript
+
+
+### Custom Fields Add-On Plugin
+- ReactJS
+- Wordpress
+- PHP
+- Javascript
+
+
+### Distributed REST API
+- Wordpress
+- PHP
+
+
+### Groups Add-On Plugin
+- ReactJS
+- Wordpress
+- jQuery
+- PHP
+
+
+### Payment Gateway Add-On Plugins (Stripe, PayPal, and Authorize.Net)
+- Paypal
+- Stripe
+- ReactJS
+- Wordpress
+- jQuery
+- PHP
+
+
+### PDFs Add-On Plugin
+- ReactJS
+- Wordpress
+- PHP
+
+
+### Social Learning Add-On Plugin
+- Wordpress
+- jQuery
+- PHP
+- Javascript
+
+
+### https://lifterlms.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://myliftersite.com
+- API Testing
+- Wordpress
+- PHP
+
+
+### *.lifterlms.com
+
+
+### lifterlms.com/xmlrpc.php
+
+
+### *.lifterlms.com/xmlrpc.php
+
+
+### *.myliftersite.com
+
+
+### academy.lifterlms.com
+
+
+### dev.lifterlms.com
+
+
+### test.lifterlms.com
+
+
+## Telstra VDP
+### https://www.telstra.com.au/
+- Java
+- Lodash
+- Website Testing
+
+
+### https://www.telstra.com/
+- Java
+- Lodash
+- Website Testing
+
+
+### https://purple.telstra.com/
+- Java
+- Lodash
+- Website Testing
+
+
+### My Telstra Android App
+- Android
+
+
+### My Telstra iOS app
+- iOS
+
+
+### Telstra APIs
+- API Testing
+
+
+### *.mobile.telstra.com
+
+
+## Blackbaud Vulnerability Disclosure Program
+### http://community.blackbaud.com/
+
+
+### https://app.blackbaud.com/hostnet
+
+
+### https://*.blackbaud.com/*
+- ASP.NET
+- Website Testing
+- Microsoft IIS
+
+
+### https://*.justgiving.com/
+- Website Testing
+
+
+### https://*.blackbaudhosting.com/*
+- Website Testing
+
+
+### https://*.blackbaudondemand.com/*
+- Website Testing
+
+
+### https://*.blackbaud.net/*
+- Website Testing
+
+
+## NiceHash
+### NiceHash Mining Platform - Public web
+- Java
+- Apache Kafka
+- PostgreSQL
+- JSON
+- Website Testing
+- Spring
+- Javascript
+
+
+### NiceHash Mining Platform - Private web
+- Java
+- Apache Kafka
+- PostgreSQL
+- JSON
+- Website Testing
+- Spring
+- Javascript
+
+
+### NiceHash Shop web
+- Java
+- Apache Kafka
+- PostgreSQL
+- JSON
+- Website Testing
+- Spring
+- Javascript
+
+
+### NiceHash Platform API
+- API Testing
+- PostgreSQL
+- JSON
+
+
+### NiceHash Android Application
+- Android
+- ReactNative
+
+
+### NiceHash iOS Application
+- ReactNative
+- iOS
+
+
+### NiceHashMiner - Mining client
+- C#
+
+
+### NiceHashQuickMiner - Mining client
+- C#
+
+
+### NHOS - Mining operating system
+- Linux
+
+
+### NiceX Crypto Exchange - Public web
+- Java
+- Apache Kafka
+- PostgreSQL
+
+
+### NiceX Crypto Exchange - Private web
+- Java
+- Apache Kafka
+- PostgreSQL
+
+
+### NiceX Crypto Exchange - API
+- API Testing
+- PostgreSQL
+- JSON
+
+
+## StackPath
+### Any host owned by StackPath
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### Any product/service offered by StackPath
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### control.stackpath.com
+- API Testing
+- GraphQL
+- Recon
+- Website Testing
+
+
+### cp.maxcdn.com
+- API Testing
+- Recon
+- Website Testing
+
+
+### login.serverdensity.io
+- API Testing
+- Recon
+- Website Testing
+
+
+### striketracker.highwinds.com
+- API Testing
+- Recon
+- Website Testing
+
+
+### *.stackpath.com - Any host or services
+- AWS
+- Recon
+- Amazon S3
+- jQuery
+- Website Testing
+- DNS
+
+
+### *.stackpath.net - Any host or services
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.stackpath.dev - Any host or services
+- API Testing
+- Recon
+- Website Testing
+
+
+### *.highwinds.com - Any host or services
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.maxcdn.com - Any host or services
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.maxcdn.net  - Any host or services
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.serverdensity.com - Any host or services
+- API Testing
+- Recon
+- Website Testing
+
+
+### <your-instance>.serverdensity.io
+- API Testing
+- Website Testing
+
+
+### store.stackpath.com
+- Website Testing
+
+
+### <customer>.serverdensity.com
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.stackpathdns.com
+- Recon
+- Website Testing
+- DNS
+
+
+### *.hwcdn.net
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+### *.stackpathedge.net
+- API Testing
+- Recon
+- Website Testing
+- DNS
+
+
+## HostGator VDP
+### www.hostgator.com
+- ReactJS
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### vps*.hosgator.com
+
+
+### Anything not explicitly listed as in scope.	
+
+
+### *.staff.hostgator.com
+
+
+## Seagate VDP
+### *.seagate.com
+- API Testing
+- Recon
+- Website Testing
+
+
+### api.seagate.com
+
+
+### apistore.seagate.com
+
+
+### apps1.seagate.com
+
+
+### appstore.seagate.com
+
+
+### appstore-us.seagate.com
+
+
+### blog.lacie.com
+
+
+### blog.seagate.com
+
+
+### blogext.seagate.com
+
+
+### bloglacieext.seagate.com
+
+
+### branding.seagate.com/
+
+
+### charitychina.seagate.com
+
+
+### codereview.seagate.com
+
+
+### collective.lacie.com
+
+
+### computex.seagate.com
+
+
+### datapulse.seagate.com
+
+
+### drivetrust.seagate.com
+
+
+### eapps.seagate.com
+
+
+### embargoed.seagate.com
+
+
+### fs1.sts.seagate.com
+
+
+### intelligent.media.seagate.com
+
+
+### is.seagate.com
+
+
+### jira.corp.lyveminds.com
+
+
+### jts.seagate.com
+
+
+### jts-ce.seagate.com
+
+
+### jtslco.seagate.com
+
+
+### labs.seagate.com
+
+
+### lacie.com
+
+
+### lyvedogfood.seagate.com
+
+
+### lyveint.seagate.com
+
+
+### lyvetst.seagate.com
+
+
+### mapps.seagate.com
+
+
+### maxtor.seagate.com
+
+
+### meterserver.seagate.com
+
+
+### mybenefits.seagate.com
+
+
+### mypayroll.seagate.com
+
+
+### myportal.seagate.com
+
+
+### nassupport.seagate.com
+
+
+### partnerreg.seagate.com
+
+
+### pia.seagate.com
+
+
+### plm.dothill.com
+
+
+### portal-us.seagate.com
+
+
+### realtime-ext.okla.seagate.com
+
+
+### sca.seagate.com
+
+
+### seagate.com
+
+
+### seagategov.seagate.com
+
+
+### secureauth.sing.seagate.com
+
+
+### sftp.seagate.com
+
+
+### sftptest.seagate.com
+
+
+### sgbenefit.seagate.com
+
+
+### sgmedical.seagate.com
+
+
+### sgpayroll.seagate.com
+
+
+### http://solo.seagate.com/
+- Website Testing
+
+
+### solo.sing.seagate.com
+- Website Testing
+
+
+### solo-beta.seagate.com
+
+
+### ssl.seagate.com
+
+
+### tableauonline.seagate.com
+
+
+### verify.seagate.com
+
+
+## Dfinity Vulnerability Disclosure Program
+### Core Internet Computer Protocol stack
+
+
+### Network Nervous System canisters
+
+
+### Network Nervous System Frontend Dapp
+
+
+### Internet Identity: Internet Computer Authentication System
+
+
+### SDK, CDK, Candid & Motoko smart contract language
+
+
+### Internet Computer Infrastructure
+
+
+## CyberGhost
+### CyberGhost VPN servers
+- Linux
+- Cryptography
+
+
+### CyberGhost iOS application
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### CyberGhost Android application
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### CyberGhost Linux application
+- Linux
+- Desktop Application Testing
+
+
+### CyberGhost macOS application
+- macOS
+- Desktop Application Testing
+
+
+### CyberGhost Windows application
+- Windows
+- Desktop Application Testing
+
+
+### CyberGhost Firefox extension
+- Browser Extension
+
+
+### CyberGhost Chrome extension
+- Browser Extension
+
+
+### CyberGhost APIs
+- API Testing
+
+
+### CyberGhost PS3+PS4 apps
+
+
+### CyberGhost Xbox One + Xbox360 apps
+
+
+### cyberghost.com
+- AWS
+- Website Testing
+
+
+### *.cyberghost.com
+- AWS
+- Website Testing
+
+
+### cyberghost.app
+- AWS
+- Website Testing
+
+
+### *.cyberghostvpn.com
+- AWS
+- Website Testing
+
+
+## Private Internet Access
+### PIA VPN servers
+- Cryptography
+
+
+### PIA iOS application
+- Mobile Application Testing
+- iOS
+
+
+### PIA Android application
+- Android
+- Mobile Application Testing
+
+
+### PIA Linux application
+- Linux
+- Desktop Application Testing
+
+
+### PIA macOS application
+- macOS
+- Desktop Application Testing
+
+
+### PIA Windows application
+- Windows
+- Desktop Application Testing
+
+
+### PIA Firefox extension
+- Browser Extension
+
+
+### PIA Chrome extension
+- Browser Extension
+
+
+### PIA Opera extension
+- Browser Extension
+
+
+### PIA Router Firmware
+- Hardware Testing
+
+
+### PIA APIs
+- API Testing
+
+
+### privateinternetaccess.com
+- AWS
+- Website Testing
+
+
+### *.privateinternetaccess.com
+- AWS
+- Website Testing
+
+
+### piaservers.com
+- Website Testing
+
+
+## Lucid Motors Vulnerability Disclosure Program
+### www.lucidmotors.com
+- Gatsby
+- ReactJS
+- Website Testing
+
+
+### All Internal Applications
+- Website Testing
+
+
+## You Need a Budget (YNAB)
+### https://staging-app.youneedabudget.com/
+- Ruby
+- Ruby on Rails
+- jQuery
+- Heroku
+- Website Testing
+
+
+### Other youneedabudget.com domains not listed
+- Website Testing
+
+
+### https://support.youneedabudget.com
+- Website Testing
+
+
+### https://app.youneedabudget.com/
+- Website Testing
+
+
+### https://docs.youneedabudget.com/
+- Website Testing
+
+
+### https://forum.youneedabudget.com/
+- Website Testing
+
+
+### Any previous version of the desktop apps: YNAB 4, YNAB 3, YNAB Pro, YNAB Basic (Spreadsheet)
+
+
+### https://develop-app.youneedabudget.com
+- Website Testing
+
+
+## Lightspeed Retail (X-Series)
+### yourstore.vendhq.com
+- ReactJS
+- nginx
+- Website Testing
+
+
+### secure.vendhq.com
+- ReactJS
+- nginx
+- Website Testing
+
+
+###  developers.vendhq.com
+- nginx
+- Website Testing
+
+
+### www.vendhq.com
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### payment-connectors.vendhq.com
+- API Testing
+- Website Testing
+
+
+### partners.vendhq.com
+
+
+### track.api.vendhq.com
+
+
+### support.vendhq.com
+
+
+### your-store.vendecommerce.com
+
+
+### partnerportal.vendhq.com
+
+
+### vendhq.force.com
+
+
+### vendimageuploadcdn.global.ssl.fastly.net
+
+
+## Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata
+### https://opendata.test-socrata.com
+- Ruby on Rails
+- jQuery
+- nginx
+- Website Testing
+
+
+### https://opendata-demo.test-socrata.com
+- Ruby on Rails
+- jQuery
+- nginx
+- Website Testing
+
+
+### https://opendata.test-socrata.com/admin/gateway
+- Website Testing
+
+
+## BigCommerce
+### https://*.YOUR-TESTING-STORE.mybigcommerce.com/
+- Website Testing
+
+
+### *.bigcommerce.com
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+
+
+### *.bigcommerce.net
+- Angular
+- jQuery
+- Lodash
+- Website Testing
+- PHP
+
+
+### https://bigcommerce.com/make-it-big
+- Website Testing
+
+
+### https://bigcommerce.com/blog
+- Website Testing
+
+
+### https://STORE-YOURSTOREHash.mybigcommerce.com/
+- Website Testing
+
+
+### BigCommerce iOS
+- Mobile Application Testing
+- iOS
+
+
+### BigCommerce Android
+- Android
+- Mobile Application Testing
+
+
+## Rec Room Video Games
+### https://rec.net/
+- C#
+- Website Testing
+- Azure
+
+
+### https://*.rec.net/*
+- API Testing
+- Website Testing
+- Azure
+
+
+### https://api.rec.net/
+- API Testing
+
+
+### iOS
+- Games
+- Mobile Application Testing
+- iOS
+
+
+### Android
+- Games
+- Android
+- Mobile Application Testing
+
+
+### PlayStation 4
+- Games
+
+
+### PlayStation 5
+- Games
+
+
+### Xbox
+- Games
+
+
+### Oculus Quest: All-in-one gaming system for VR
+- Games
+
+
+### Oculus Rift: VR headset
+- Games
+
+
+### Steam: PC Game for Windows
+- Games
+- C#
+- Windows
+
+
+### Rec Room PC Standalone App
+- Games
+- Windows
+
+
+## Office of Natural Resources Revenue
+### *.onrr.gov
+
+
+### revenuedata.doi.gov
+
+
+## Office of Wildland Fire - Vulnerability Disclosure Program
+### *.nfpors.gov	
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
-- Website Testing
-
-
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### *.firenet.gov
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
+## Electroneum
+### https://electroneum.com/
 - Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://my.electroneum.com/
+- Bootstrap
+- jQuery
+- nginx
 - Website Testing
 
 
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
+### https://api.electroneum.com/
 - API Testing
 - HTTP
 
 
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
+### Electroneum iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
 - iOS
 
 
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
+### Electroneum Android App
+- Java
 - Android
+- Mobile Application Testing
+- Kotlin
 
 
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
+### https://www.anytask.com/
+- Vue.js
+- Amazon S3
 - Amazon Cloudfront
 - Website Testing
 
 
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### https://api.thousandeyes.com/
+### https://api.anytask.com/
 - API Testing
 - HTTP
 
 
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
+### https://anytask.thesecurityteam.rocks/
+- Vue.js
+- AWS
+- Amazon S3
+- Amazon Cloudfront
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### https://my.thesecurityteam.rocks/
+- Bootstrap
+- jQuery
+- nginx
+- Website Testing
 
 
-## Redox
-### 10x.redoxengine.com
+## Dropbox
+### *.dropbox.com    
+- Website Testing
+
+
+### *.hellosign.com
+- Website Testing
+
+
+### *.helloworks.com
+- Website Testing
+
+
+### *.hellofax.com
+- Website Testing
+
+
+### *.dropboxforum.com
+- Website Testing
+
+
+### *.docsend.com
+- Website Testing
+
+
+### Dropbox Sign (formerly HelloSign) Android App
+- Android
+- Mobile Application Testing
+
+
+### Dropbox Android App
+- Android
+- Mobile Application Testing
+
+
+### Dropbox Paper Android App
+- Android
+- Mobile Application Testing
+
+
+### Dropbox iOS app
+- Mobile Application Testing
+- iOS
+
+
+### Dropbox Paper iOS app
+- Mobile Application Testing
+- iOS
+
+
+### Dropbox EMM iOS
+- Mobile Application Testing
+- iOS
+
+
+### Dropbox Desktop Application
+- Binary Analysis
+- Desktop Application Testing
+
+
+### Paper Desktop Application
+- Binary Analysis
+- Desktop Application Testing
+
+
+### Dropbox Capture Windows Desktop App 
+- Binary Analysis
+- Desktop Application Testing
+
+
+### Dropbox Capture macOS Desktop App
+- Binary Analysis
+- Desktop Application Testing
+
+
+## Bybit
+### https://www.bybit.com/
+- Akamai CDN
 - ReactJS
+- nginx
+- Website Testing
+- Cryptocurrency
+- NodeJS
+
+
+## Sophos
+### XG Firewall - Pre-auth RCE
+- Network Testing
+- Penetration Testing
+
+
+### XG Firewall
+
+
+### Intercept X Endpoint
+
+
+### Sophos Central
+
+
+### *.sophos.com
+- Akamai CDN
+- ASP.NET
+- jQuery
+- Microsoft IIS
+
+
+### *.hitmanpro.com
+- ReactJS
+- Select2
+- ASP.NET
+- jQuery
+- Microsoft IIS
+
+
+### *.reflexion.net
+- ASP.NET
+- jQuery
+- Microsoft IIS
+
+
+### *.astaro.com
+- Akamai CDN
+- ASP.NET
+- jQuery
+- Windows
+- Lodash
+- Website Testing
+- Microsoft IIS
+
+
+### *.cyberoam.com
+- Website Testing
+
+
+### Any Other Sophos Product or Service
+
+
+### autodiscover.hitmanpro.com
+
+
+### app.reflexion.net
+- Website Testing
+
+
+### community.sophos.com
+- Website Testing
+
+
+### *.ddns.cyberoam.com
+- Website Testing
+
+
+### *eventreg.sophos.com
+- Website Testing
+
+
+### events.sophos.com
+
+
+### lyncdiscover.hitmanpro.com
+
+
+### mev.hitmanpro.com
+- Website Testing
+
+
+### tickets.reflexion.net
+- Website Testing
+
+
+### *.releaseportal.cyberoam.com
+- Website Testing
+
+
+### shop.hitmanpro.com
+
+
+### sip.hitmanpro.com
+
+
+### sophos.atlassian.net (Public service desk)
+
+
+### support.hitmanpro.com
+
+
+### surveys.sophos.com
+- Website Testing
+
+
+### SPF/DKIM/DMARC issues
+
+
+### https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
+
+
+## CoolBitX
+### CoolWallet Pro
+- Android
+- ReactNative
+- Mobile Application Testing
+
+
+### CoolWallet Pro App
+- Android
+- ReactNative
+- Cryptocurrency
+
+
+## Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program
+### *.cigie.gov
+
+
+### *.ignet.gov
+
+
+### *.oversight.gov
+
+
+### *.pandemicoversight.gov
+
+
+## National Transportation Safety Board: Vulnerability Disclosure Program
+### *.ntsb.gov
+- Website Testing
+
+
+## Federal Trade Commission: Vulnerability Disclosure Program
+### https://*.alertaenlinea.gov
+
+
+### https://*.consumer.gov
+
+
+### https://*.consumersentinel.gov
+
+
+### https://*.consumidor.gov
+
+
+### https://*.donotcall.gov
+
+
+### https://*.dontserveteens.gov
+
+
+### https://*.econsumer.gov
+
+
+### https://*.ftc.gov
+
+
+### https://*.hsr.gov
+
+
+### https://*.identitytheft.gov
+
+
+### https://*.idtheft.gov
+
+
+### https://*.militaryconsumer.gov
+
+
+### https://*.onguardonline.gov
+
+
+### https://*.protecciondelconsumidor.gov
+
+
+### https://*.robodeidentidad.gov
+
+
+### https://*.sentinel.gov
+
+
+## Netflix
+### api*.netflix.com
+- API Testing
+- HTTP
+
+
+### *.prod.ftl.netflix.com
+
+
+### *.prod.cloud.netflix.com
+
+
+### *.prod.dradis.netflix.com
+
+
+### www.netflix.com
+- Akamai CDN
+- Paypal
+- Mailchimp
+- Java
+- Amazon SES
+- ReactJS
+- Perl
+- Amazon S3
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+- PHP
+
+
+### secure.netflix.com
+- Website Testing
+
+
+### ichnaea.netflix.com
+- Website Testing
+
+
+### *.nflxvideo.net
+- Website Testing
+
+
+### *.nflxext.com
+- Website Testing
+
+
+### *.nflximg.net
+- Website Testing
+
+
+### *.nflxso.net
+
+
+### help.netflix.com
+- Backbone
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
+### dockhand.netflix.com
 - Website Testing
-- PHP
-- Python
 
 
-### https://control.web24.com.au
-- Django
+### beacon.netflix.com
 - Website Testing
-- PHP
-- Python
 
 
-### https://members.panthur.com.au
-- Django
+### presentationtracking.netflix.com
 - Website Testing
-- PHP
-- Python
 
 
-### https://billing.anchor.com.au
-- Django
+### nmtracking.netflix.com
 - Website Testing
-- PHP
-- Python
 
 
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
+### customerevents.netflix.com
 - Website Testing
-- Javascript
-- Modernizr
 
 
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
+###  meechum.netflix.com
 - Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
 
 
-### https://interviews.indeed.com
+### Open Source - Consoleme
+- Github
 
 
-### https://apis.indeed.com/graphql
-- GraphQL
+### Open Source - Weep
+- Github
 
 
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
+### Open Source - Zuul
+- Github
 
 
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
+### Netflix Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
 - Mobile Application Testing
 - iOS
 
 
-### https://*.indeed.tech
+### Netflix Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
 
 
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
+### Corporate Targets
 - Website Testing
 
 
-### CIBC FirstCaribbean International Bank (FCIB)
+### Content Authorization Findings
 
 
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
+### Secondary Targets (read below)
 - Website Testing
 
 
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
+### Microsites
 - Website Testing
 
 
-### *.rmit.edu.vn
+### Open Source - Atlas
+- Github
+
+
+### Open Source - Conductor
+- Github
+
+
+### Open Source - Dispatch
+- Github
+
+
+### Open Source - Spectator
+- Github
+
+
+## Bitget
+### *.bitget.com
+- Java
+- Apache Tomcat
 - Website Testing
 
 
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
+### Bitget Android App
+- Java
+- Android
+- Kotlin
 
 
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
+### Bitget iOS App
+- Swift
+- iOS
 
 
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
+### Bitget API
 
 
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
+### https://affiliates.bitget.com/login
 
 
-### ArubaOS-CX Wired Switches
-- Network Testing
+## Constant Contact, Inc.
+### Any asset not explicitly listed as 'In Scope' above is explicitly out of scope
+- Website Testing
+
+
+### community.constantcontact.com
+
+
+### Constant Contact mobile applications [iOS and Android]
+- Android
+- Mobile Application Testing
+- iOS
+
+
+### All Constant Contact APIs - api.constantcontact.com
 - API Testing
-- Binary Analysis
 
 
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
+### All API SDKs
 - API Testing
-- AWS
-- Binary Analysis
 
 
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
+### All Constant Contact websites - *.constantcontact.com
+- Java
+- Cloudflare CDN
+- jQuery
+- Newrelic
+- Modernizr
 
 
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
+## NameJet
+### namejet.com
+- Bootstrap
+- ASP.NET
 - jQuery
 - Website Testing
+- Modernizr
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
+## HostGator Brazil VDP
+### Hostgator.com.br 
 - Website Testing
 
 
-### https://www.thousandeyes.com/
-- Java
-- Moment.js
-- jQuery
-- Website Testing
-
-
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
-- Website Testing
-
-
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
+## USAA
+### www.usaa.com
+- Stripe
 - ReactJS
+- YUI
+- Website Testing
+
+
+### mobile.usaa.com
+- Akamai CDN
+- Java
+- ReactJS
+- RequireJS
+- YUI
+- Website Testing
+
+
+### https://api.usaa.com/
+- Akamai CDN
+- API Testing
+
+
+### partners.usaa.com
+- Akamai CDN
+- Java
+- ReactJS
+
+
+### USAA Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### USAA Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://content.usaa.com
+- Akamai CDN
+- CSS
+- Website Testing
+- Javascript
+
+
+### https://l.usaa.com/
+- Akamai CDN
+
+
+### https://login.usaa.com/
+- Akamai CDN
+- Website Testing
+
+
+### https://mapi.usaa.com/
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://mobileapps.usaa.com/
+- Akamai CDN
+
+
+### https://my.usaa.com/
+- Akamai CDN
+- Java
+- ReactJS
+- RequireJS
+- YUI
+- Website Testing
+- Javascript
+
+
+### https://s.usaa.com/
+- Akamai CDN
+
+
+### https://wsmbr.usaa.com/
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://guest.usaa.com/
+- Akamai CDN
+- Java
+- ReactJS
+- RequireJS
+- YUI
+- Website Testing
+- Javascript
+
+
+### https://mguest.usaa.com/
+- Akamai CDN
+- Java
+- ReactJS
+- RequireJS
+- YUI
+- Website Testing
+- Javascript
+
+
+### https://nvoice.usaa.com/
+- Akamai CDN
+
+
+### https://www.usaainsurance.com/
+- Akamai CDN
+- Website Testing
+
+
+### https://liveassist.usaa.com/
+- Akamai CDN
+
+
+### https://liveassist11.usaa.com/
+- Akamai CDN
+
+
+### https://liveassist12.usaa.com/
+- Akamai CDN
+
+
+### https://liveassist21.usaa.com/
+- Akamai CDN
+
+
+### https://liveassist22.usaa.com/
+- Akamai CDN
+
+
+### empauthn.usaa.com
+- Akamai CDN
+- Website Testing
+
+
+### externalconnect.usaa.com
+- Akamai CDN
+- Website Testing
+
+
+### mam-prod-dfw.usaa.com
+- Mobile Application Testing
+
+
+### mam-prod-itc.usaa.com
+- Mobile Application Testing
+
+
+### mam-vpn-itc.usaa.com
+- Mobile Application Testing
+
+
+### mdm1.usaa.com
+- Mobile Application Testing
+
+
+### mydesktop.usaa.com
+- Akamai CDN
+- SSL/TLS
+- Cryptography
+- Website Testing
+
+
+### myvpn.usaa.com
+- Akamai CDN
+- SSL/TLS
+- Cryptography
+- Website Testing
+
+
+### webmail.usaa.com
+- Akamai CDN
+
+
+### utv.usaa.com
+- Akamai CDN
+- Website Testing
+
+
+### https://api2.usaa.com/
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://b2bapi.usaa.com
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://b2blsapi.usaa.com
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://nicewfm.usaa.com
+- Akamai CDN
+
+
+### https://service2.usaa.com
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://vlagg.usaa.com
+- Akamai CDN
+
+
+### https://vlapi.usaa.com
+- Akamai CDN
+
+
+### https://ws.usaa.com
+- Akamai CDN
+- API Testing
+- Java
+
+
+### https://vendorss.usaa.com
+- Akamai CDN
+- Website Testing
+
+
+### ww2.usaa.com
+- Akamai CDN
+
+
+### vanityocp.usaa.com
+- Akamai CDN
+
+
+### utvqa.usaa.com
+- Akamai CDN
+
+
+### static.usaa.com
+- Akamai CDN
+
+
+### mstatic.usaa.com
+- Akamai CDN
+
+
+### mcontentapi.usaa.com
+- Akamai CDN
+
+
+### external.connect.usaa.com
+- Akamai CDN
+
+
+### contentapi.usaa.com
+- Akamai CDN
+
+
+### https://authn.usaa.com/
+- Akamai CDN
+- Website Testing
+
+
+### api-life.usaa.com
+- Akamai CDN
+
+
+## Octopus Deploy
+### Octopus Server
+- C#
+- .NET
+
+
+### Octopus Tentacle
+- C#
+- .NET
+
+
+## Wyze Bug Bounty
+### https://auth.wyze.com
+- Java
+- AWS
+- Website Testing
+- Spring
+
+
+### https://api.wyzecam.com
+- API Testing
+- AWS
+- ASP.NET
+
+
+### Wyze Cam V3
+- Hardware Testing
+
+
+### Wyze Cam V2
+- Hardware Testing
+
+
+## State Farm VDP
+### www.statefarm.com
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
+### State Farm Drive Safe and Save Mobile Application (iOS)
+- Objective-C
+- SwiftUI
+- Swift
 - Mobile Application Testing
 - iOS
 
 
-### https://*.indeed.tech
+### State Farm Drive Safe and Save Mobile Application (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
 
 
-### https://my.zapinfo.io (Chrome Extension)
+### State Farm Steer Clear Mobile Application (iOS)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### State Farm Steer Clear Mobile Application (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+## Blue Jeans Network
+### https://bluejeans.com/
+- AWS
+- Drupal
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### https://api.bluejeans.com/
+- API Testing
+- HTTP
+
+
+### https://a2m.bluejeans.com
+- Website Testing
+
+
+### https://huddle.bluejeans.com
+- nginx
+
+
+### https://primetime.bluejeans.com
+- AWS
+- Drupal
+- jQuery
+- nginx
+- Website Testing
+- Newrelic
+- PHP
+
+
+### https://static.bluejeans.com/
+- AWS
+- Drupal
+- jQuery
+- nginx
+- Newrelic
+- PHP
+
+
+### https://www.bluejeans.com/
+- AWS
+- jQuery
+- nginx
+- Website Testing
+- Newrelic
+- PHP
+
+
+### BlueJeans Android Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### BlueJeans iOS Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### BlueJeans Mac Client
+- macOS
+
+
+### BlueJeans Windows Client
+- Windows
+
+
+### BlueJeans Browser-based Web Meeting Clients
 - Browser Extension
 
 
-### https://employer.simplyhired-staging.com
+### https://github.com/bluejeans/android-client-sdk
+- Android
 
 
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
+### https://a.bluejeans.com/
 - Website Testing
 
 
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
+### https://community.bluejeans.com
 - Website Testing
 
 
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
+### https://hub.bluejeans.com
 - Website Testing
 
 
-### *.rmit.edu.vn
+### https://www-a.bluejeans.com/
 - Website Testing
 
 
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
+### https://www-dev.bluejeans.com/
 - Website Testing
 
 
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
+## Atlassian-Built Apps
+### Jira Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 
 
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
+### Jira Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
 
 
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
+### Jira Service Management Widget - Cloud - https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
 
 
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
+### Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
 
 
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
+### Statuspage for Jira - Cloud - https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
 
 
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
+### Spreadsheets for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
+### Opsgenie - Cloud - https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
 
 
-### https://www.thousandeyes.com/
-- Java
+### Confluence Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
+
+
+### Confluence Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
+
+
+### Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
+
+
+### Analytics for Confluence - Cloud - https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
+
+
+### Automation for Jira - Cloud - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
+
+
+### Opsgenie Incident Timeline - Cloud - https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
+
+
+### Opsgenie Incident Timeline EU - Cloud - https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
+
+
+### Jira Cloud for Outlook (Official) - Cloud - https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
+
+
+### Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
+
+
+### Automation for Jira - DataCenter - https://marketplace.atlassian.com/apps/1215460/automation-for-jira?hosting=datacenter
+
+
+### Automation for Jira - Data Center and Server - Server - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
+
+
+### Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
+
+
+### Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
+
+
+### Advanced Roadmaps (formerly Portfolio) - DataCenter - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
+
+
+### Advanced Roadmaps (formerly Portfolio) - Server - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
+
+
+### Atlassian Universal Plugin Manager - Server - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
+
+
+### Atlassian Universal Plugin Manager - DataCenter - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
+
+
+### Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
+
+
+### Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
+
+
+### Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
+
+
+### Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
+
+
+### Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
+
+
+### Troubleshooting and Support - Confluence - DataCenter - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
+
+
+### Troubleshooting and Support - Confluence - Server - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server
+
+
+### Confluence Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
+
+
+### Confluence Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
+
+
+### SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
+
+
+### SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
+
+
+### Jira Calendar Plugin - Server - https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
+
+
+### Automation for Jira - Server Lite - Server - https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
+
+
+### Jira Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
+
+
+### Jira Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
+
+
+### Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
+
+
+### Auto Unapprove for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
+
+
+### Auto Unapprove for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
+
+
+### Troubleshooting and Support - Bamboo - Server - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
+
+
+### Web Post Hooks for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
+
+
+### Look and Feel for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
+
+
+### Icons for Jira - Server - https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
+
+
+### Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
+
+
+### Jira Cloud for CRM (Official) - Cloud - https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
+
+
+### Trello Connector for Jira Server - Server - https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
+
+
+### Confluence Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
+
+
+### Confluence Server for Slack (Official) - Sever - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
+
+
+### Statuspage for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
+
+
+### Statuspage for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter
+
+
+### Statuspage for Jira Service Management - Cloud - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
+
+
+### Reviewer Suggester for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
+
+
+###  Mobile Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
+
+
+### Jira Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
+
+
+### Bitbucket Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
+
+
+### Bitbucket Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
+
+
+### Bitbucket Server Protect Unmerged Hook - Server - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
+
+
+### Advanced Roadmaps for Jira in Confluence - Server - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
+
+
+### Advanced Roadmaps for Jira in Confluence - DataCenter - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
+
+
+### Microsoft OneDrive for Business - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
+
+
+### Centralized license visibility - Server - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
+
+
+### Centralized license visibility - DataCenter - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
+
+
+### Atlassian Team Playbook blueprints - Server - https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
+
+
+### Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
+
+
+### Jet by Jira Align - Server - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
+
+
+### Jet by Jira Align - DataCenter - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
+
+
+### Jet by Jira Align - Cloud - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
+
+
+### Pre-Post Build Command Runner - Server - https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
+
+
+### Permission Lockdown for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
+
+
+### Permission Lockdown for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
+
+
+### Directory Scanning Plugin - Server - https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
+
+
+### AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
+
+
+### VFS for Git for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server
+
+
+### Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
+
+
+### Cloud Compatibility for Jira - Server - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
+
+
+### Xcode for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
+
+
+### Jira Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
+
+
+### Confluence Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
+
+
+### Jenkins integration for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
+
+
+### Atlassian Plugin SDK - Mac OS X - Server - https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
+
+
+### Atlassian Plugin SDK - TGZ - Server - https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
+
+
+### Jira Cloud Power-Up for Trello - Cloud - https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
+
+
+### Jira Cloud for Google Sheets (Official) - Cloud - https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud
+
+
+### Atlassian Plugin SDK - Windows - Server - https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
+
+
+### Bitbucket Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
+
+
+### Atlassian Plugin SDK - RPM - Server - https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
+
+
+### Atlassian Plugin SDK - DEB - Server - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
+
+
+### Atlassian Plugin SDK - DEB - Cloud - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
+
+
+### Bitbucket Server Backup Client - Server - https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
+
+
+### Jira Cloud for Excel (official) - Cloud - https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
+
+
+### Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
+
+
+### Atlassian Cloud for Gmail - Cloud - https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
+
+
+### Bitbucket Pipelines for Jira - Cloud - https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
+
+
+### Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
+
+
+### Confluence Source Editor - Server - https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
+
+
+### AutoLink Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
+
+
+### Assets Tempo Integration - Server - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=server
+
+
+### Assets - Tempo Integration - DataCenter - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=datacenter
+
+
+### Assets - Jamf Integration - Server - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=server
+
+
+### Assets - Jamf Integration - DataCenter - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=datacenter
+
+
+### JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
+
+
+### Assets - Device42 Integration - Server - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=server
+
+
+### Assets - Device42 Integration - DataCenter - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=datacenter
+
+
+### Assets - DataCenter - https://marketplace.atlassian.com/apps/1212137/assets?hosting=datacenter
+
+
+### Assets - AWS Integration - Server - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=server
+
+
+### Assets - AWS Integration - DataCenter - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=datacenter
+
+
+### Assets - Google Cloud Integration - DataCenter - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=datacenter
+
+
+### Assets - Google Cloud Integration - Server - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=server
+
+
+### Assets - NVD Integration - DataCenter - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=datacenter
+
+
+### Assets - NVD Integration - Server - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=server
+
+
+### Variable tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
+
+
+### Change Management for JSM - Server - https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
+
+
+### Microsoft Teams for Jira - Server - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
+
+
+### Microsoft Teams for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
+
+
+### Disable Referer for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
+
+
+### Assets Discovery - DataCenter - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=datacenter
+
+
+### Assets Discovery - Server - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=server
+
+
+### Jira to Jira Issue Copy - Server - https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
+
+
+### JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
+
+
+### Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
+
+
+### Confluence Issue Tab Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
+
+
+### My Reminders for Jira - Cloud - https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
+
+
+### Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
+
+
+### Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
+
+
+### Assets - ServiceNow Integration - Server - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=server
+
+
+### Assets - ServiceNow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=datacenter
+
+
+### Asana Importer Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
+
+
+### Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
+
+
+### GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
+
+
+### Assign Reviewer Groups - Server - https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
+
+
+### Mandatory Reviewers for Crucible - Server - https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
+
+
+### Release Report for Fisheye - Server - https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
+
+
+### Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
+
+
+### Rich Text Gadget for Jira - Cloud - https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
+
+
+### Tree Search for Confluence - Cloud - https://marketplace.atlassian.com/apps/1219829/tree-search-for-confluence?hosting=cloud
+
+
+### Continuous Plugin Deployment for Bamboo - Server - https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
+
+
+### Previous/next navigation - Cloud - https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
+
+
+### Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
+
+
+### Who's Looking for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
+
+
+### Predator Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
+
+
+### SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
+
+
+### Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
+
+
+### Agent Notifications for Bamboo - Server - https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
+
+
+### Conditional tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
+
+
+### Build Times for Bamboo 5.10+ - Server - https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
+
+
+### Fail Build Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
+
+
+### After Deployment Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server
+
+
+### Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
+
+
+### Assets - Confluence Macro - Server - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=server
+
+
+### Assets - Azure Integration - DataCenter - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=datacenter
+
+
+### Assets - SCCM Integration - Server - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=server
+
+
+### Assets - SCCM Integration - DataCenter - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=datacenter
+
+
+### Assets - Snow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=datacenter
+
+
+### Assets - Jira & Bitbucket Integration - DataCenter - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=datacenter
+
+
+### Assets - Snow Integration - Server - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=server
+
+
+### Assets - Confluence Macro - DataCenter - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=datacenter
+
+
+### Assets - Azure Integration - Server - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=server
+
+
+### Assets - Jira & Bitbucket Integration - Server - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=server
+
+
+###  Mobile Plugin for Confluence Data Center and Server - Server - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
+
+
+###  Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
+
+
+### Inbox Hook for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
+
+
+### Release Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
+
+
+### Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
+
+
+### Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
+
+
+### Look and Feel for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server
+
+
+### Repository QuickAdd for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
+
+
+### Review Creator for Fisheye - Server - https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
+
+
+### Bulk delete review files for Crucible - Server - https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
+
+
+### File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
+
+
+### Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
+
+
+### Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
+
+
+### Favorites Dialog for Confluence - Server - https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
+
+
+### Jira Charting Plugin  - Server - https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
+
+
+### Workflow Screenshot for Jira - Server - https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
+
+
+### Toolkit Plugin for Jira - Server - https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
+
+
+### Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
+
+
+### SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
+
+
+### Data Generator for Jira - Server - https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
+
+
+### Jira Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
+
+
+### Thready - Give Tomcat threads a name - Server - https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
+
+
+### Atlassian REST API Browser - Server - https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
+
+
+### Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
+
+
+### Sticker Printer for Jira - Cloud - https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
+
+
+### Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
+
+
+### Microsoft Teams for Bitbucket Cloud - Cloud - https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
+
+
+### Microsoft Teams for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
+
+
+### Disable Referer for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
+
+
+### opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
+
+
+### Look and Feel for Bitbucket Server - Datacenter - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
+
+
+### Assets Discovery - Cloud - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=cloud
+
+
+### Bamboo build status notifier - Server - https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
+
+
+### Crucible build status - Server - https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
+
+
+### ProForma Lite: Forms & Checklists - Server - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
+
+
+### ProForma: Forms & Checklist for Jira - Server - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
+
+
+### ProForma: Forms & Checklist for Jira - Datacenter - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
+
+
+### ProForma Lite: Forms & Checklists - Datacenter - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
+
+
+### Reconcile unknown attachments - Server - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
+
+
+### Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
+
+
+### Training for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
+
+
+### Training for Jira - Server - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
+
+
+### Reconcile unknown attachments - Data Center - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
+
+
+### Change Management Workflow for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
+
+
+### Admin Kit for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
+
+
+### Form macro builder for Confluence - Cloud - https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
+
+
+### Admin Kit for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
+
+
+### GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
+
+
+### Confluence Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams-official?hosting=cloud
+
+
+### Bitbucket Server Protect Unmerged Hook - Data Center - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
+
+
+### Change Management Workflow for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
+
+
+### Confluence recent edits overview - Cloud - https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
+
+
+### Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
+
+
+### Jira Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams-official?hosting=cloud
+
+
+### Cloud Compatibility for Jira - DataCenter - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
+
+
+### Decisions Helper for Confluence - Cloud - https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
+
+
+### Jira Enterprise Scale Assessment Tool - Server - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
+
+
+### Troubleshooting and Support - Bamboo - Data Center - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
+
+
+### Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
+
+
+### Hackathon Workflow Alan - Cloud - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
+
+
+### Hackathon Workflow Alan - Data Center - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
+
+
+### Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
+
+
+### Application tunnels - DataCenter - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
+
+
+### Comms Dashboard - Cloud - https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
+
+
+### Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
+
+
+### Atlas for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
+
+
+### Jira Enterprise Scale Assessment Tool - DataCenter - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
+
+
+### Add watchers at issue creation - Cloud - https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
+
+
+### Assets - Server - https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
+
+
+### Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
+
+
+### Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
+
+
+### Cloud Migration Planner - Cloud - https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
+
+
+### Bitbucket Cloud - https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
+
+
+### Box - https://trello.com/power-ups/55a5d915446f517774210001/box
+
+
+### Card Repeater - https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
+
+
+### Card Snooze - https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
+
+
+### Confluence Cloud - https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud
+
+
+### Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
+
+
+### Evernote - https://trello.com/power-ups/55a5d915446f517774210003/evernote
+
+
+### Giphy - https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
+
+
+### GitHub - https://trello.com/power-ups/55a5d916446f517774210004/github
+
+
+### Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
+
+
+### Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
+
+
+### Jira Align - https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
+
+
+### MailChimp - https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
+
+
+### OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
+
+
+### Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
+
+
+### Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
+
+
+### Salesforce - https://trello.com/power-ups/55a5d917446f517774210009/salesforce
+
+
+### Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
+
+
+### SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
+
+
+### Twitter - https://trello.com/power-ups/55a5d917446f51777421000b/twitter
+
+
+### Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
+
+
+### Dashcards  - https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
+
+
+### Jira - https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
+
+
+### Halp - Slack and Microsoft Teams Jira Integration - Cloud - https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=cloud
+
+
+### Confluence Slack Automation Integration by Halp - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
+
+
+### Halp - Slack and Microsoft Teams Jira Integration - Server - https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=server
+
+
+### Calendar Power-Up
+
+
+### List Limits Power-Up
+
+
+### Card Aging Power-Up
+
+
+### Voting Power-Up
+
+
+### https://marketplace.atlassian.com (Website)
+
+
+### https://trello.com/power-ups/*
+
+
+## Keeper Security Public Bounty Program
+### Keeper Security Website
+- ReactJS
+- Bootstrap
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
+### Keeper for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Binary Analysis
+- iOS
 
 
-### ThousandEyes Enterprise Agent
-- Linux
+### Keeper for Android
+- Java
+- Android
+- Mobile Application Testing
+- Binary Analysis
+- Kotlin
 
 
-### ThousandEyes Endpoint Agent 
-- Windows
+### Keeper for Mac, PC, Linux
+- Electron
+- ReactJS
+- Desktop Application Testing
 
 
-### https://blog.thousandeyes.com/
+### Keeper Web Vault (US)
+- ReactJS
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
+### Keeper Web Vault (EU)
 - ReactJS
+- Website Testing
+
+
+### Keeper Web Vault (AU)
+- ReactJS
+- Website Testing
+
+
+### Keeper Admin Console (US)
+- ReactJS
+- Website Testing
+
+
+### Keeper Admin Console (EU)
+- ReactJS
+- Website Testing
+
+
+### Keeper Browser Extension
+- ReactJS
+- Browser Extension
+
+
+### Keeper Secrets Manager
+- API Testing
+
+
+### KeeperChat for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Binary Analysis
+- iOS
+
+
+### KeeperChat for Android
+- Java
+- Android
+- Mobile Application Testing
+- Binary Analysis
+- Kotlin
+
+
+### KeeperChat for Windows
+- Windows
+- Binary Analysis
+
+
+### KeeperChat for Mac
+- macOS
+- Binary Analysis
+
+
+### Keeper SSO Connect On-Prem
+- Java
+
+
+### SSO Connect Cloud
+- ReactJS
+
+
+### Keeper AD / LDAP Bridge
+- .NET
+
+
+### Glyptodon Enterprise
+- Dockerfile
+- Apache Tomcat
+- nginx
+- Apache Guacamole
+
+
+## OneTrust
+### https://pentest-app.onetrust.com/
+- Angular
+- Lodash
+- Website Testing
+- Zone.js
+
+
+### https://*.onetrust.com
+
+
+### https://*.onetrust.de
+
+
+### https://*.onetrust.es
+
+
+### https://*.onetrust.fr
+
+
+### https://*.onetrust.it
+
+
+### https://*.onetrust.se
+
+
+### https://developer.onetrust.com
+
+
+### https://my.onetrust.com
+
+
+### https://store.onetrust.com
+
+
+### https://tv.onetrust.com/
+
+
+### https://*.convercent.com
+
+
+### https://*.dataguidance.com
+
+
+### https://*.vendorpedia.com
+
+
+### https://app.vendorpedia.com
+
+
+### https://*.preferencechoice.com
+
+
+### https://*.redacted.ai
+
+
+### https://*.sharedassessments.org
+
+
+### https://*.onetrustgrc.com
+
+
+### https://*.cookiepro.com
+
+
+### https://*.cookielaw.org
+
+
+### https://*.onetrustpro.com
+
+
+### https://*.privacyconnect.com
+
+
+### https://*.privacytech.com
+
+
+### https://*.privacypedia.com
+
+
+### https://*.esgiq.com
+
+
+### https://*.trustweek2021.com
+
+
+## NameJet VDP
+### *.namejet.com
+- API Testing
+- Website Testing
+
+
+## SnapNames VDP
+### *.snapnames.com
+- Website Testing
+
+
+## Web.com
+###  www.web.com
+- Bootstrap
+- MySQL
+- Moment.js
+- Select2
+- jQuery
+- nginx
+- Website Testing
+- PHP
+- Modernizr
+
+
+###  www.register.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### www.networksolutions.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### uk.web.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### *.web.com
+- Bootstrap
+- MySQL
+- Moment.js
+- Select2
+- jQuery
+- nginx
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.register.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### *.networksolutions.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+## Newfold Builder VDP
+### *.websitebuilder.com
+- Lodash
+- Website Testing
+
+
+### Anything not explicitly listed as in scope
+
+
+## Bluehost 
+### www.bluehost.com
+- ReactJS
+- Amazon Cloudfront
+- nginx
+- Website Testing
+- NodeJS
+
+
+### my.bluehost.com
+- Website Testing
+
+
+### helpchat.bluehost.com
+- Bootstrap
+- jQuery
+- nginx
+- Website Testing
+
+
+### kb.bluehost.com
+- ReactJS
+- Bootstrap
+- jQuery
+- Website Testing
+- NodeJS
+
+
+## Reseller Club VDP Pro
+### *.resellerclub.com
+- Java
+- jQuery
+- Website Testing
+
+
+### https://httpapi.com
+- API Testing
+- Website Testing
+
+
+### https://obmobileapp.com
+- Cloudflare CDN
+- Website Testing
+
+
+### Anything not explicitly listed as in scope
+
+
+## HostGator Latam Bug Bounty
+### Hostgator.com.br 
+- Website Testing
+
+
+### cliente.hostgator.com.br/
+- Website Testing
+
+
+### cart.hostgator.com.br
+- Website Testing
+
+
+### Anything not explicitly listed as in scope 
+
+
+## HostGator
+### www.hostgator.com
+- ReactJS
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### www.portal.hostgator.com
+- ReactJS
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### www.checkout.hostgator.com 
+- ReactJS
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### ebook.hostgator.com
+- Website Testing
+
+
+### *.staff.hostgator.com
+
+
+### vps*.hostgator.com
+
+
+## Newfold Vdeck VDP
+### ipage.com
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### www.ipage.com
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### members.ipage.com
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
+### images.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
 
 
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
+### www1.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### secure.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-www.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-secure.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-members.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-images.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### ca.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### vdeck.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### www-origin.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### mydomain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
 - NodeJS
 
 
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
+### www.mydomain.com
 - ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
 - AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### members.mydomain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### members.domain.com
+- ReactJS
+- Amazon Cloudfront
+- nginx
+- Website Testing
+- NodeJS
+
+
+### images.domain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### images.mydomain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### www1.domain.com
+- Backbone
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### www1.mydomain.com
+- Backbone
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### secure.domain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### secure.mydomain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### controlpanel.domain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### controlpanel.mydomain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### vdeck.domain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### origin.domain.com
+- ReactJS
+- AWS
+- Amazon S3
+- Website Testing
+- NodeJS
+
+
+### Anything not explicitly listed as in scope
+
+
+## Web.com VDP
+### *.web.com
+- Bootstrap
+- MySQL
+- Moment.js
+- Select2
+- jQuery
+- nginx
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.register.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### *.networksolutions.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### calltracker.web.com
+
+
+### htadmin.register.com
+
+
+### a.mx.b.e.register.com
+
+
+### a.mx.m.e.register.com
+
+
+### b.e.register.com
+
+
+### b.mx.b.e.register.com
+
+
+### b.mx.m.e.register.com
+
+
+### c.mx.b.e.register.com
+
+
+### c.mx.m.e.register.com
+
+
+### d.mx.b.e.register.com
+
+
+### d.mx.m.e.register.com
+
+
+### ebm.e.register.com
+
+
+### raf.e.register.com
+
+
+### totalchat.web.com
+
+
+### cp.web.com
+
+
+### cp.networksolutions.com
+
+
+## 1Shoppingcart.com
+### 1shoppingcart.com
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### mcssl.com
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.mcssl.com
+
+
+### http://mcssl.com/api
+
+
+### *.1shoppingcart.com
+
+
+## SnapNames
+### https://snapnames.com/
+- Java
+- jQuery
+- Website Testing
+
+
+## Newfold Vdeck Bug Bounty
+### ipage.com
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### www.ipage.com
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### members.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### images.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### www1.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### secure.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-www.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-secure.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-members.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### origin-images.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### ca.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### vdeck.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### www-origin.ipage.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+## ANZ Responsible Disclosure Program
+### anz.com
+- Website Testing
+
+
+### anz.com.au
+- Website Testing
+
+
+### ANZ Plus Android App
+- Android
+- Mobile Application Testing
+
+
+### ANZ Australia iOS App
+- Mobile Application Testing
+- iOS
+
+
+### ANZ Australia Android App
+- Android
+- Mobile Application Testing
+
+
+### ANZ Plus iOS App
+- Mobile Application Testing
+- iOS
+
+
+## Western Union
+### https://www.westernunion.com
+- Akamai CDN
+- Java
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www2.westernunion.com 
+
+
+### https://www.westernunion.fr
+- Akamai CDN
+- Vue.js
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.de
+- Akamai CDN
+- Java
+- Vue.js
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+
+
+### https://www.westernunion.no
+
+
+### https://www.westernunion.se
+
+
+### https://www.westernunion.ca
+- Akamai CDN
+- Java
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- Zone.js
+
+
+### https://www.westernunion.nl
+
+
+### https://www.westernunion.es
+
+
+### https://www.westernunion.ie
+- Akamai CDN
+- Java
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+
+
+### https://www.westernunion.ch
+- Akamai CDN
+- Java
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+
+
+### https://www.westernunion.pt
+
+
+### https://www.westernunion.be
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+
+
+### https://www.westernunion.dk
+
+
+### https://www.westernunion.fi
+
+
+### https://www.westernunion.pl
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+
+
+### https://www.westernunion.ee
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.lu
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.gr
+- Wordpress
+- MySQL
+- jQuery
+- PHP
+
+
+### https://www.westernunion.at
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.it
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.co.nz
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://www.westernunion.co.uk
+
+
+### https://www.westernunion.com.au
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://cuba.westernunion.com
+
+
+### https://egypt.westernunion.com
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://hk.westernunion.com
+
+
+### https://india.westernunion.com
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://jamaica.westernunion.com
+
+
+### https://location.westernunion.com
+- Scala
+- jQuery
+- nginx
+- Lua
+
+
+### https://m.westernunion.com
+
+
+### https://senegal.westernunion.com
+
+
+### https://sg.westernunion.com
+- Akamai CDN
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+
+
+### https://wuagentportal.westernunion.com
+- Java
+- jQuery
+- Website Testing
+
+
+### https://agentportal.westernunion.com
+- Java
+- jQuery
+- Website Testing
+
+
+### https://westernunionbank.com
+- Bootstrap
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://ebanking.westernunionbank.com
+- jQuery
+- Website Testing
+- PHP
+
+
+### transvision.westernunion.com
+- Website Testing
+
+
+### partnernet.westernunion.com
+- Java
+- Adobe Experience Manager
+- jQuery
+- Handlebars
+- RequireJS
+- Website Testing
+
+
+### iwgo.westernunion.com
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Lodash
+- Website Testing
+
+
+### https://business.westernunion.com/
+- Bootstrap
+- Select2
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### http://agenttraining.westernunion.com
+- Bootstrap
+- jQuery
+- RequireJS
+- YUI
+- Website Testing
+- PHP
+
+
+### https://paymentstatus.westernunion.com
+- Website Testing
+
+
+### https://foundation.westernunion.com
+- Akamai CDN
+- Wordpress
+- Bootstrap
+- MySQL
+- Moment.js
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://partners.westernunion.com 
+- Akamai CDN
+- Java
+- Vue.js
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Lodash
+- RequireJS
+- Website Testing
+- Zone.js
+
+
+### wucare.westernunion.com
+- Bootstrap
+- Moment.js
+- Website Testing
+
+
+### secure.westernunion.com
+- ASP.NET
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### corporate.westernunion.com
+- Akamai CDN
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### Western Union iOS app (link below)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Western Union Android app (link below)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### wuinsights.westernunion.com
+- Website Testing
+
+
+### remoteaccess.westernunion.com
+- Java
+- jQuery
+- Website Testing
+
+
+### secureauth.westernunion.com
+- ASP.NET
+- Website Testing
+
+
+### mydesktop.wu.com
+
+
+### payments.westernunion.com
+- Website Testing
+
+
+### Any asset not listed above as 'In Scope'
+- Website Testing
+
+
+### www.wuprepaid.de
+- Website Testing
+
+
+### https://rewardcircle.westernunion.com
+- Website Testing
+
+
+### https://www.wuprepaid.at/
+- Website Testing
+
+
+### https://onlinefx.westernunion.com/
+- Bootstrap
+- Select2
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### https://online.westernunion.com/mp.en/pages/loginform.aspx
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### http://globalpay.westernunion.com
+- Bootstrap
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### payee.globalpay.westernunion.com
+- ASP.NET
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### https://auth.globalpay.westernunion.com
+- Bootstrap
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### https://gpfi.globalpay.westernunion.com
+- Akamai CDN
+- Java
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- RequireJS
+- Website Testing
+
+
+### www.wuedge.com
+- Akamai CDN
+- Java
+- Bootstrap
+- Mustache
+- jQuery
+- Website Testing
+
+
+### trackpayments.westernunion.com
+- Java
+- Website Testing
+
+
+### masspay.api.westernunion.com
+- Website Testing
+
+
+### *.Convera.com
+
+
+### *.internationalpayments.com
+- Website Testing
+
+
+### *.westernunion.*
+- Java
+- Angular
+- Bootstrap
+- Recon
+- RequireJS
+- Website Testing
+- DNS
+
+
+### *.wu.*
+- Website Testing
+
+
+### Any host or verified to be owned by Western Union (domains/IP space/etc.)
+
+
+## Service NSW Vulnerability Disclosure Program
+### *service.nsw.gov.au
+- Drupal
+- Website Testing
+- DNS
+
+
+### api.service.nsw.gov.au
+- API Testing
+- HTTP
+
+
+### *.nsw.gov.au
+- Website Testing
+
+
+## Stryker
+### All public facing Stryker assets 
+- API Testing
+- Website Testing
+
+
+## Santos Vulnerability Disclosure Program
+### santos.com
+- MySQL
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### 103.252.190.0/24
+- Network Testing
+- Recon
+- Windows
+- Penetration Testing
+
+
+### 13.73.192.151
+- Network Testing
+
+
+### 13.75.189.223
+- Network Testing
+
+
+### 13.70.109.59
+- Network Testing
+
+
+### 52.243.79.77
+- Network Testing
+
+
+### 52.255.37.39
+- Network Testing
+
+
+### 103.55.32.0/24
+- Network Testing
+
+
+### 203.0.2.0/23
+- Network Testing
+
+
+### 192.84.89.0/24
+- Network Testing
+
+
+### 103.196.194.0/24
+- Network Testing
+
+
+### 121.200.234.0/29
+- Network Testing
+
+
+### 45.115.48.0/24
+- Network Testing
+
+
+### 45.115.48.5/32
+- Network Testing
+
+
+### 103.54.238.0/23
+- Network Testing
+
+
+### 103.6.116.0/24
+- Network Testing
+
+
+### 103.199.96.0/24
+- Network Testing
+
+
+### 103.199.96.236/30
+- Network Testing
+
+
+### 103.199.96.244/30
+- Network Testing
+
+
+### 103.199.96.200/29
+- Network Testing
+
+
+### 103.199.96.220/30
+- Network Testing
+
+
+### 103.199.96.128/27
+- Network Testing
+
+
+### 103.199.96.192/29
+- Network Testing
+
+
+## Monash MBB
+### www.monash.edu
+- jQuery
+- Handlebars
+- Website Testing
+- PHP
+- Lua
+
+
+### identity.monash.edu
+- Java
+- Backbone
+- Website Testing
+
+
+### VPN: vpn.monash.edu
+
+
+### eassessment.monash.edu
+- Bootstrap
+- jQuery
+- RequireJS
+- YUI
+- PHP
+
+
+### fileshare.ze.monash.edu
+- API Testing
+- Apache httpd
+- Website Testing
+
+
+### cms.mobile.monash
+- jQuery
+- Lodash
+- Website Testing
+
+
+### mobile.monash
+- Website Testing
+
+
+### status.mobile.monash
+- Website Testing
+
+
+### my.monash
+- Website Testing
+
+
+### https://monashcollege.edu.au
+- nginx
+- Website Testing
+
+
+### https://online.monash.edu/
+- Wordpress
+- jQuery
+- Website Testing
+- PHP
+
+
+### Monash Study iOS App
+- Mobile Application Testing
+- iOS
+
+
+### Monash Study Android app
+- Android
+- Mobile Application Testing
+
+
+### https://myapp.monash.edu/
+- Website Testing
+
+
+### https://alumni-friends.monash.edu
+- Website Testing
+
+
+### https://agent.apps.monash.edu/
+- Website Testing
+
+
+### https://compulsoryunits.monash.edu/
+- Website Testing
+
+
+### https://study.abroad.monash.edu/
+- Website Testing
+
+
+### monash.app.nutrip.com
+
+
+### mix.monash.edu/*
+- API Testing
+
+
+### mix-qat.monash.edu/*
+- API Testing
+
+
+### mix-dev.monash.edu/*
+- API Testing
+
+
+## ClickHouse
+### https://clickhouse.cloud/
+
+
+### ClickHouse Cloud environment hosted by ClickHouse
+
+
+### https://github.com/ClickHouse/ClickHouse
+- C++
+
+
+## Code.org
+### adhoc-bugcrowd.cdn-code.org
+- ReactJS
+- Ruby on Rails
+- nginx
+- Website Testing
+
+
+### adhoc-bugcrowd-studio.cdn-code.org
+- ReactJS
+- Ruby on Rails
+- nginx
+- Website Testing
+
+
+### advocacy.code.org
+- Website Testing
+
+
+### hourofcode.com
+- Website Testing
+
+
+## SEEK 
+### *.seek.com.au
+- ReactJS
+- AWS
+- Amazon Cloudfront
+- nginx
+- Lodash
+- Website Testing
+
+
+### *.seek.com
+- Cloudflare CDN
+- Ruby
+- ReactJS
+- AWS
+- Ruby on Rails
+- Moment.js
+- Amazon S3
+- Amazon Cloudfront
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+
+
+### https://seekcdn.com
+- Amazon S3
+
+
+### SEEK mobile app for iOS
+- Objective-C
+- Swift
+- Mobile Application Testing
+- Cocoa
+- iOS
+
+
+### SEEK mobile app for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### *.skinfra.xyz
+- Website Testing
+
+
+### *.outfra.xyz
+- Website Testing
+
+
+### *.sol-data.com
+- API Testing
+- HTTP
+
+
+### *.jobapi.net
+- API Testing
+- HTTP
+
+
+### *.jobapi.io
+- API Testing
+- HTTP
+
+
+### *.certsy.com
+- Stripe
+- ReactJS
+- Website Testing
+
+
+### *.certsynonprod.com
+- Stripe
+- Moment.js
 - Amazon Cloudfront
 - Website Testing
 
 
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
+### *.aips-internal.com
 - API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
 - Website Testing
+- HTTP
 
 
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
+### graphql.seek.com
+- API Testing
 - GraphQL
 
 
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+### auth.seek.com
+- API Testing
+
+
+## Origin Energy
+### https://www.originenergy.com.au/
+- nginx
+- Website Testing
+- Javascript
+
+
+### dataportal.originenergy.com.au
+- Website Testing
+
+
+### *.origindigital-pac.com.au
+- Website Testing
+
+
+### *.odcdn.com.au
+- Website Testing
+
+
+### *.support.originenergy.com.au
+- Website Testing
+
+
+### *.api.originenergy.com.au
+- API Testing
+
+
+### *.download.originenergy.com.au
+- Website Testing
+
+
+### https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
+- GraphQL
+
+
+### https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
+- GraphQL
+
+
+### https://api.rx.originenergy.com.au/v1/lpg/graphql
+- GraphQL
+
+
+### https://auth.api.originenergy.com.au/**
+- Website Testing
+
+
+### https://www.originenergy.com.au/moving/
+
+
+### https://origin-energy.formstack.com/**
+
+
+## Upwork
+### www.upwork.com
+- Cloudflare CDN
+- Vue.js
+- Fastly
+- Angular
+- Wordpress
+- AWS
+- Amazon Cloudfront
+- jQuery
+- nginx
+- Mailgun
+- NodeJS
+- Modernizr
+
+
+### Upwork - Android Application
+- Java
 - Android
 - Mobile Application Testing
+- Kotlin
 
 
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
+### Upwork - iOS Application
+- Objective-C
+- SwiftUI
+- Swift
 - Mobile Application Testing
 - iOS
 
 
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
+### Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
 - Desktop Application Testing
 
 
-### ArubaOS-CX Wired Switches
-- Network Testing
+### www.upwork.com/api 
 - API Testing
-- Binary Analysis
+- HTTP
 
 
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
+### Direct Contracts
 - Website Testing
 
 
-### Aruba InstantOn
-- Network Testing
+### Social media hijacking
+
+
+### Any subdomain/domain/property not listed in the 'in scope' section, is out of scope. 
+
+
+### Any Third-party Services
+- Website Testing
+
+
+### support.upwork.com
+- Website Testing
+
+
+### community.stage.upwork.com
+- Website Testing
+
+
+### community.upwork.com
+- Website Testing
+
+
+### stage.upwork.com
+- Website Testing
+
+
+### e.upwork.com
+- Website Testing
+
+
+### status.upwork.com
+- Website Testing
+
+
+### signature.upwork.com
+
+
+### careers.upwork.com
+
+
+### tip.upwork.com
+
+
+### tip.upwork.com 
+- Website Testing
+
+
+### pardot.upwork.com
+- Website Testing
+
+
+### api.upwork.com/graphql
 - API Testing
-- AWS
-- Binary Analysis
+- GraphQL
 
 
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
+## Ostrom Vulnerability Disclosure Program
+### https://www.ostrom.de/
 
 
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
+### Ostrom Android application
 
 
-### *.arubanetworks.com not in scope above - see in scope
+### Ostrom iOS Application
+
+
+## IOOF Vulnerability Disclosure Program
+### www.ioof.com.au
+- Backbone
+- Moment.js
+- ASP.NET
+- jQuery
+- Lodash
 - Website Testing
 
 
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
+### www.insigniafinancial.com.au
+- Backbone
+- Moment.js
+- ASP.NET
+- jQuery
+- Lodash
+
+
+### *.insigniafinancial.com.au
 - Website Testing
-- Cryptocurrency
 
 
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
+### *.ioof.com.au
+
+
+## MediaLab - WorldStar Hip Hop Vulnerability Disclosure Program
+### Worldstar Hip Hop iOS App
+- Objective-C
+- Swift
+- Go
+- Mobile Application Testing
+- PHP
+- iOS
+
+
+### Worldstar Hip Hop Android App
+- Android
+- Go
+- Mobile Application Testing
+- PHP
+- Kotlin
+
+
+### api.worldstarhiphop.com
+- API Testing
+
+
+### epi.worldstarhiphop.com
+- Website Testing
+- PHP
+- Javascript
+
+
+### worldstarhiphop.com
+- Go
+- Website Testing
+- PHP
+- Firebase
+- Javascript
+
+
+### live.worldstarhiphop.com
+- Bootstrap
+- Website Testing
+- PHP
+
+
+### Legacy API
+- API Testing
+
+
+### http://api-legacy.worldstar.com
+- API Testing
+
+
+### https://api-mobile.worldstar.com
+- API Testing
+
+
+### https://flagr.worldstarhiphop.com
+- API Testing
+
+
+## MediaLab - Kik Vulnerability Disclosure Program
+### www.kik.com
+- Cloudflare CDN
 - jQuery
 - Website Testing
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
+### kik.me
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### help.kik.com
+- Bootstrap
+- Website Testing
+
+
+### home.kik.com
+- Heroku
+- Website Testing
+
+
+### kinpreview.kik.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### link.kik.com
+- Website Testing
+
+
+### m.kik.com
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### meme.kik.com
+- Heroku
+- Website Testing
+
+
+### my.kik.com
+- Heroku
+- Website Testing
+
+
+### sketch.kik.com
+- Heroku
+- Website Testing
+
+
+### mobile.kik.com
+- Website Testing
+
+
+### reddit.kik.com
+- Heroku
+- Website Testing
+
+
+### youtube.kik.com
+- Heroku
+- Website Testing
+
+
+### profiles.kik.com
+- API Testing
+
+
+### Kik iOS App
 - Java
+- Objective-C
+- Go
+- Mobile Application Testing
+- iOS
+
+
+### Kik Android App
+- Java
+- Android
+- Go
+- Mobile Application Testing
+- Kotlin
+
+
+## Quizlet
+### 2.0 API
+- API Testing
+- HTTP
+
+
+###  help.quizlet.com (zendesk)
+
+
+### https://*.quizlet.com
+- Apache Kafka
+- Cloudflare CDN
+- ReactJS
+- Algolia
+- Braintree
+- Google Cloud Storage
+- jQuery
+- Website Testing
+
+
+### https://*.slader.com
+- API Testing
+- Cloud
+- Website Testing
+
+
+### IoS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### 3.0 API
+- API Testing
+- HTTP
+
+
+## Akeyless
+### https://console.akeyless.io/ - Akeyless Application
+- ReactJS
+- MySQL
+- Go
+- Website Testing
+
+
+### http://api.akeyless.io/ - API
+- API Testing
+
+
+### https://www.akeyless.io/ - Marketing pages
+- Website Testing
+
+
+## Pinterest
+### api.pinterest.com
+- API Testing
+- Flask
+
+
+### *.pinterest.com Web Apps
+- ReactJS
+- Website Testing
+
+
+### Pinterest iOS Mobile Application
+- Objective-C
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Pinterest Android Mobile Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
+- Browser Extension
+- Javascript
+
+
+### Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
+- Browser Extension
+- Javascript
+
+
+### Safari extension (download at: assets.pinterest.com/ext/Pinterest-Safari.safariextz)
+- Browser Extension
+- Javascript
+
+
+### Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
+- Browser Extension
+- Javascript
+
+
+### Open source projects listed at github.com/pinterest/
+- Static Code Analysis
+
+
+## Gusto VDP
+### api.gusto-demo.com
+- API Testing
+
+
+### https://dev.gusto.com/
+
+
+### app.gusto-demo.com
+- Ruby on Rails
+- jQuery
+- Website Testing
+
+
+### https://github.com/Gusto/apollo-federation-ruby
+- Github
+- Website Testing
+
+
+### https://github.com/Gusto/grpc-web-ruby
+- Github
+- Website Testing
+
+
+### Android App:  Gusto Wallet
+- Mobile Application Testing
+
+
+### iOS App:  Gusto Wallet
+- Mobile Application Testing
+
+
+## Contrast Security
+### Contrast TeamServer - See "Testing Instructions" below
+- Java
+- Linux
+- Amazon EC2
+
+
+### www.contrastsecurity.com
+- Website Testing
+
+
+### contrastsecurity.dev
+- Website Testing
+
+
+### Any Contrast Corporate Asset
+- Website Testing
+
+
+### *.contrast.ninja
+- Website Testing
+
+
+### runner.contrastsecurity.com
+- Website Testing
+
+
+### status.contrastsecurity.com
+
+
+### Contrast Official Facebook Account
+
+
+### Contrast Official Twitter Account
+
+
+### Contrast Official Twitter EMEA Account
+
+
+### Contrast Official Twitter Help Account
+
+
+### Contrast Official Youtube Account
+
+
+### Contrast Official Linkedin Account
+
+
+### Purposefully Vulnerable WebGoat Application
+
+
+### WebGoat with Contrast Agent 
+
+
+## Latitude Financial Services Vulnerability Disclosure Program
+### *.28degreescard.com.au
+- ReactJS
+- AWS
+- Lodash
+- Website Testing
+
+
+### *.buyersedge.com.au
+- ReactJS
+- AWS
+- Lodash
+- Website Testing
+
+
+### *.carecredit.com.au
+- AWS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### *.gemcreditline.co.nz
+- AWS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### *.gemfinance.co.nz
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.gemvisa.com.au
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.genoapay.co.nz
+- ReactJS
+- MySQL
+- Website Testing
+- PHP
+
+
+### *.genoapay.com
+- ReactJS
+- MySQL
+- Website Testing
+- PHP
+
+
+### *.gomastercard.com.au
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.interestfree.com.au
+- AWS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### *.latitudefinancial.co.nz
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.latitudefinancial.com
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.latitudefinancial.com.au
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.latitudeinfinity.com.au
+- ReactJS
+- AWS
+- Bootstrap
+- Website Testing
+
+
+### *.latitudepay.com
+- ReactJS
+- MySQL
+- Website Testing
+- PHP
+
+
+### *.latitudepay.com.au
+- ReactJS
+- MySQL
+- Website Testing
+- PHP
+
+
+### *.umiloans.com.au
+- AWS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### images.latitudepayapps.com
+- API Testing
+
+
+### app.latitudepayapps.com
+- API Testing
+
+
+### Sympleloans.com.au
+- Website Testing
+
+
+## Digistorm
+### http://app.sandbox.digistorm.com
+- Laravel
+- PostgreSQL
+- Elasticsearch
+- Moment.js
+- Amazon S3
+- nginx
+- Lodash
+- Website Testing
+- PHP
+
+
+### https://{account-code}.app.sandbox.digistorm.com-2/*
+- Website Testing
+
+
+### https://{account-code}.app.sandbox.digistorm.com-1/forms/enrol-form
+- Website Testing
+
+
+### https://app.sandbox.digistorm.com/graphql
+- API Testing
+- GraphQL
+
+
+### https://app.sandbox.digistorm.com/
+- API Testing
+
+
+### Digistorm Funnel Staging
+
+
+### Digistorm Funnel Production
+
+
+### Digistorm Website
+
+
+### Digistorm Funnel Alpha
+
+
+### DMARC Records
+
+
+### https://{account-code}-0.app.pentest.digistorm.com/admin
+- Website Testing
+
+
+### https://{account-code}-1.app.pentest.digistorm.com/admin
+- Website Testing
+
+
+### https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
+- Website Testing
+
+
+### https://{account-code}-1.app.pentest.digistorm.com/forms/enrol-form/start
+- Website Testing
+
+
+### https://{account-code}-0.app.pentest.digistorm.com/forms/group-tours
+- Website Testing
+
+
+### https://{account-code}-1.app.pentest.digistorm.com/forms/group-tours
+- Website Testing
+
+
+### https://app.pentest.digistorm.com/graphql
+- API Testing
+
+
+### https://app.pentest.digistorm.com
+- Website Testing
+
+
+## Monash University
+### *.monash.edu
+- API Testing
+- Website Testing
+
+
+### *.erc.monash.edu
+
+
+## CoinDCX Managed Bug Bounty
+### https://coindcx.com/ - Main Webapp
+- Website Testing
+
+
+### https://*.coindcx.com
+- Cloudflare CDN
+- Ruby
+- Angular
+- Cryptocurrency
+- NodeJS
+
+
+### https://*.dcxstage.com
+- Website Testing
+
+
+### api.coindcx.com
+- API Testing
+
+
+### CoinDCX: Crypto Investment
+- Mobile Application Testing
+- iOS
+
+
+### CoinDCX: Bitcoin & Crypto Investment app
+- Android
+- Mobile Application Testing
+
+
+### CoinDCX Pro:Crypto Trading App
+- Mobile Application Testing
+
+
+### Trading App For Advanced Traders: CoinDCX Pro
+- Android
+- Mobile Application Testing
+
+
+### https://dcxlearn.com/ - Crypto Investment Guide
+- Website Testing
+
+
+### https://blog.coindcx.com
+- Website Testing
+
+
+### https://info.coindcx.com
+- Website Testing
+
+
+## Bullish exchange
+### https://bugbounty.bullish-test.com
+- API Testing
+- Website Testing
+
+
+### https://api.bugbounty.bullish-test.com
+- API Testing
+
+
+### *.bullish.com/
+- API Testing
+- Cloudflare CDN
+- Website Testing
+
+
+## Asana
+### app.asana.com
+- ReactJS
+- nginx
+- Website Testing
+
+
+### asana.com
+- ReactJS
+- jQuery
+- Website Testing
+
+
+### *.asana.plus
+
+
+### *.asana.biz
+
+
+### Asana Desktop App
+- Desktop Application Testing
+
+
+### Asana iOS app
+- iOS
+
+
+### Asana Android app
+- Android
+
+
+### form.asana.com
+- Website Testing
+
+
+### *.app.asana.com
+- Website Testing
+
+
+### Other subdomains of asana.com
+
+
+### Social engineering against Asana Support or Asana Employees
+
+
+## Appliances - Barracuda Networks, Inc.
+### Barracuda Email Security Gateway
+
+
+### Barracuda Message Archiver
+
+
+### Barracuda Web Security Gateway
+
+
+### Barracuda Web Application Firewall
+
+
+### Barracuda CloudGen Firewall
+
+
+### Barracuda SSLVPN
+
+
+### Barracuda ADC
+
+
+## Kaleido
+### *.remove.bg
+- Cloudflare CDN
 - Vue.js
+- jQuery
+- Google Cloud
+- Website Testing
+
+
+### *.designify.com
+- Cloudflare CDN
+- ReactJS
+- Google Cloud
+- Website Testing
+- NodeJS
+
+
+### *.kaleido.ai
+- Cloudflare CDN
+- Website Testing
+
+
+### *.unscreen.com
+- Cloudflare CDN
+- Vue.js
+- jQuery
+- Google Cloud
+- Website Testing
+
+
+## WOO Network: Bug Bounty Program
+### https://x.woo.org/spot
+- Java
+- ReactJS
+- Website Testing
+
+
+### https://api.woo.org/
+- API Testing
+- Java
+
+
+##  1Password
+### <Your own 1Password subdomain --> https://<your account domain>.1password.com/
+- Moment.js
+- Lodash
+
+
+### <Account (Business, Family) signup page --> https://start.1password.com
+- Moment.js
+- Lodash
+
+
+### <White Box Test team --> https://bugcrowd-test.1password.com
+
+
+### *.agilebits.com
+- Website Testing
+
+
+## American Battle Monuments Commission
+### https://abmc.gov
+- Drupal
+- ASP.NET
+- jQuery
+- PHP
+- Microsoft IIS
+
+
+## Backblaze
+### Backblaze Website (*.backblaze.com)
+- API Testing
+- Recon
+- jQuery
+- Website Testing
+
+
+### B2 APIs (*.backblazeb2.com)
+- API Testing
+
+
+### Backblaze Android mobile application
+- Android
+
+
+### Backblaze iOS mobile application
+- iOS
+
+
+### Mac Personal Backup Clients
+- macOS
+- Desktop Application Testing
+
+
+### Mac Restore Downloaders
+- macOS
+- Desktop Application Testing
+
+
+### Windows Personal Backup Clients
+- Windows
+- Desktop Application Testing
+
+
+### Windows Restore Downloaders
+- Windows
+- Desktop Application Testing
+
+
+### Git Repositories (b2-sdk-java & B2 Command Line Tool)
+- Github
+- Static Code Analysis
+
+
+## Lime
+### https://apps.apple.com/us/app/lime/id1199780189
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://play.google.com/store/apps/details?id=com.limebike
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://api.lime.bike
+- API Testing
+- HTTP
+
+
+### https://webviews.lime.bike
+- API Testing
+- HTTP
+
+
+### https://juicer.lime.bike
+- API Testing
+- HTTP
+
+
+### https://admintool.lime.bike
+- Cloudflare CDN
+- ReactJS
+- Varnish
+- Amazon S3
+- Website Testing
+
+
+### proxy-production.lime.bike
+- API Testing
+- HTTP
+
+
+### https://ops.lime.bike
+- API Testing
+- HTTP
+
+
+### *.lime.bike
+- API Testing
+- HTTP
+
+
+### https://li.me (hubspot)
+- Website Testing
+
+
+### https://help.li.me (zendesk)
+- Website Testing
+
+
+### https://*.li.me
+- Website Testing
+
+
+### *.limeinternal.com
+- API Testing
+- HTTP
+
+
+### https://airflow.limeinternal.com
+- API Testing
+- HTTP
+
+
+## Gorillas
+### Gorillas Android Application
+- Android
+
+
+### Gorillas iOS Application
+- iOS
+
+
+### Gorillas.io
+- Website Testing
+
+
+### Any Gorillas asset on the Internet
+
+
+## Pretrial Services Agency for the District of Columbia
+### *.psa.gov
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+- Microsoft IIS
+
+
+### *.pretrialservices.gov
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+- Microsoft IIS
+
+
+### pretrialservices.gov
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+- Microsoft IIS
+
+
+### psa.gov
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+- Microsoft IIS
+
+
+## Flourish
+### flo.uri.sh
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### *.flourish.studio
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### *.xyzbmojn.net
+
+
+### flourish-user-templates.com
+
+
+### flourish-user-preview.com
+
+
+## Digital Shadows VDP
+### digitalshadows.com
+- Website Testing
+
+
+### portal-digitalshadows.com
+- Website Testing
+
+
+## Railroad Retirement Board - Vulnerability Disclosure Program
+### *.rrb.gov
+
+
+## Cloudinary
+### https://cloudinary.com/console
+- Ruby on Rails
+- jQuery
+- Website Testing
+
+
+### https://api.cloudinary.com
+- API Testing
+- Ruby on Rails
+- JSON
+- HTTP
+
+
+### https://res.cloudinary.com
+- API Testing
+- Ruby on Rails
+- JSON
+- HTTP
+
+
+### widget.cloudinary.com
+- AWS
+- Amazon S3
+- Website Testing
+
+
+### wiki.cloudinary.com
+- Website Testing
+
+
+### https://support.cloudinary.com
+- Website Testing
+
+
+## Elementor: Bug Bounty Program
+### https://elementor.com/*
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://my.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://go.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://translate.elementor.com/
+- Wordpress
+- MySQL
+- Website Testing
+- PHP
+
+
+### https://developers.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://he.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://code.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://library.elementor.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+###  app.strattic.com
+
+
+## Nextup.ai
+### https://marketplace.atlassian.com/apps/1219324/slack-integration-for-jira?hosting=cloud&tab=overview
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1227628/microsoft-teams-integration-for-jira?hosting=cloud&tab=overview
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1227656/docs-slack-for-confluence?hosting=cloud&tab=overview
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1224706/slack-first-support-helpdesk?hosting=cloud&tab=overview
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1224706/helpdesk-intuitive-slack-first-support?hosting=cloud&tab=overview
+- Website Testing
+
+
+## Xfinity Home & xFi
+### Home.xfinity.com (see below)
+- Website Testing
+
+
+### Internet.xfinity.com
+- API Testing
+- IoT
+- Radiofrequency Testing
+- WiFi
+- Hardware Testing
+
+
+### *-cvr-aws-*.sys.comcast.net
+- Website Testing
+
+
+### *signalservice.comcast.net
+- Website Testing
+
+
+### *.dh-commerce.com 
+- Website Testing
+
+
+### *.ssr.ccp.xcal.tv 
+- Website Testing
+
+
+### orc-xfi.com
+- Website Testing
+
+
+### *.xfiplatform.com
+- Website Testing
+
+
+### Xfinity Home iOS mobile app
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Xfinity iOS mobile app
+- API Testing
+- IoT
+- Radiofrequency Testing
+- WiFi
+- Hardware Testing
+
+
+### Xfinity Home Android mobile app
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Xfinity Android mobile app
+- Website Testing
+
+
+### xhomeapi-*.codebig2.net
+- API Testing
+
+
+### xhomeapi-*.cloud.comcast.net
+- API Testing
+
+
+### Xfinity Home Hardware (items listed below in brief)
+- API Testing
+- IoT
+- Radiofrequency Testing
+- WiFi
+- Hardware Testing
+
+
+### Xfinity Home cameras
+- API Testing
+- IoT
+- Radiofrequency Testing
+- WiFi
+- Hardware Testing
+
+
+### speedtest.xfinity.com
+- Angular
+- JSON
+- Amazon S3
+- Amazon Cloudfront
+- jQuery
+
+
+### siorc.xfinity.com
+- API Testing
+
+
+### smartinet.xfinity.com
+- Website Testing
+
+
+### gw.api.dh.comcast.com
+- API Testing
+- Website Testing
+
+
+### xFi Gateways (e.g., XB3, XB6, XB7)
+- Computer Hardware
+- Hardware Testing
+
+
+### xFi Pods
+- Computer Hardware
+- Hardware Testing
+
+
+### https://csp-prod.codebig2.net
+- API Testing
+
+
+### csp-pci.prod.codebig2.net
+- API Testing
+
+
+### aiq-prod.codebig2.net
+- API Testing
+
+
+### 3rd Party Devices (known as Works with Xfinity)
+- IoT
+
+
+### oauth.xfinity.com
+- Website Testing
+
+
+### login.xfinity.com
+- jQuery
+- Website Testing
+
+
+### *.xerxessecure.com
+
+
+### *.cimcontent.net
+
+
+### *.identity.xfinity.com
+
+
+### \*\business.comcast.com
+- Website Testing
+
+
+### *.hfc.comcastbusiness.net
+- Website Testing
+
+
+### *.hsd1.*.comcast.net
+- Website Testing
+
+
+### *.pulseinsights.com
+
+
+### *.wurfulcloud.com
+
+
+### *.appcenter.ms
+
+
+### *.kampyle.com
+
+
+### *.demdex.net
+
+
+### *.openx.net
+
+
+### *.criteo.net
+
+
+### *.webcontentassessor.com
+
+
+### *.amazon-adsystem.com
+
+
+### *.adobedtm.com
+
+
+### *.adnxs.com
+
+
+### *.fwmrm.net
+
+
+## Prosus
+### dealflow.prosus.com
+- ReactJS
+
+
+### dealflowapi.prosus.com
+- ReactJS
+
+
+### analytics-admin.prosus.com
+- ReactJS
+
+
+### analytics.prosus.com
+- Angular
+
+
+### prosus.com
+- C#
+- .NET
+
+
+### legal.prosus.com
+- PHP
+
+
+### azreporting.naspers.com/vpn/index.html
+
+
+### publicpolicy.naspers.com
+- ASP.NET
+
+
+### www.naspers.com
+- ASP.NET
+
+
+### tracker.naspers.com
+- Angular
+
+
+### brandportal.naspers.com
+- C#
+- .NET
+
+
+### dashboard.naspers.com
+- Angular
+
+
+### cfc.naspers.com
+- Django
+- Python
+
+
+### peopleview.naspers.com
+- Java
+
+
+## Dell Technologies' Products Bug Bounty Program
+### Actively Supported, Bounty Eligible Dell Products
+- Computer Hardware
+- Hardware Testing
+
+
+### Actively Supported, Non-Reward Eligible Dell Products
+- Computer Hardware
+- Hardware Testing
+
+
+### *.dell.com/*
+- Bootstrap
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### *.delltechnologies.com/*
+- Java
+- Adobe Experience Manager
+- Varnish
+- Bootstrap
+- Recon
+- jQuery
+- Website Testing
+- DNS
+- Modernizr
+
+
+## Dell Technologies Application Bug Bounty
+### *.dell.com/*
+- Bootstrap
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### *.delltechnologies.com/* 
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/administration
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/invoice
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/billing
+- Website Testing
+
+
+### Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+
+
+### https://console.delltechnologies.com/ 
+- Akamai CDN
+- ReactJS
+- nginx
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/catalog
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/support
+- Website Testing
+
+
+### https://console.delltechnologies.com/nav/subscriptions
+- Website Testing
+
+
+### prm.dell.com
+
+
+### prmdev.dell.com
+
+
+### prmstg.dell.com
+
+
+### prm-ps3dmz.dell.com
+
+
+### educate.dell.com
+
+
+### console.dell.com
+
+
+### console-test.dell.com
+
+
+## Kiteworks
+### https://bugcrowd-pub.bounty.kiteworks.dev/
+- API Testing
+- Linux
+- Flask
+- Angular
+- jQuery
+- nginx
+- Website Testing
+- PHP
+- Python
+- Javascript
+
+
+## Halp
+### Halp application for Slack
+- TypeScript
+- NodeJS
+
+
+### Halp application for Microsoft Teams
+- TypeScript
+- NodeJS
+
+
+### Atlassian Assist - Cloud - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=cloud
+- TypeScript
+- NodeJS
+
+
+### Atlassian Assist- Server - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=server
+- TypeScript
+- NodeJS
+
+
+### Confluence Slack Automation Integration by Halp - Cloud - https://marketplace.atlassian.com/apps/1222365/confluence-slack-automation-integration-by-halp?hosting=cloud
+- TypeScript
+- NodeJS
+
+
+### Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
+- TypeScript
+- NodeJS
+
+
+### Atlassian Assist - DataCenter - https://marketplace.atlassian.com/apps/1220442/atlassian-assist?hosting=datacenter
+- TypeScript
+- NodeJS
+
+
+## Northwestern Mutual VDP
+### *.northwesternmutual.com	
+- AWS
+- Amazon S3
+- Amazon Cloudfront
+- Website Testing
+- Newrelic
+
+
+### Anything Owned by Northwestern Mutual on the Public Internet
+- Website Testing
+
+
+### northwesternmutual.com/find-a-financial-advisor/
+- Website Testing
+
+
+### northwesternmutual.com/careers-apply/
+- Website Testing
+
+
+### northwesternmutual.com/financial/advisor/*
+- Website Testing
+
+
+### northwesternmutual.com/financial-professionals/?name=*
+- Website Testing
+
+
+### northwesternmutual.com/report-a-death/
+- Website Testing
+
+
+### northwesternmutual.com/notice-of-disability-form/
+- Website Testing
+
+
+### northwesternmutual.com/notice-of-group-disability-form/
+- Website Testing
+
+
+### northwesternmutual.com/notice-of-long-term-care-form/
+- Website Testing
+
+
+### Emerald Publications - Anything That Resolves to 199.59.136.0 - 199.59.139.255 (CIDR: 199.59.136.0/22)
+- Website Testing
+
+
+### *.nm.com
+- Website Testing
+
+
+## Sportradar VDP Pro
+### https://www.sportradar.com/
+- Website Testing
+
+
+## Phemex Bug Bounty
+### Phemex Website
+- ReactJS
+- Amazon Cloudfront
+- nginx
+- Website Testing
+
+
+### Phemex Android app
+- Android
+
+
+### Phemex iOS app
+- iOS
+
+
+### Phemex Blog
+
+
+### Phemex Academy
+
+
+### Phemex Testnet
+
+
+### Phemex Learn & Earn
+
+
+### Phemex User Guides
+
+
+## Just Eat - Managed Bug Bounty
+### *.just-eat.co.uk - UK food ordering
+- .NET
 - Angular
 - Website Testing
 
 
-### https://www.thousandeyes.com/
+### *.menulog.co.nz - New Zealand food ordering
+- .NET
+- Website Testing
+
+
+### *.menulog.com.au - Australia food ordering
+- .NET
+- Website Testing
+
+
+### *.just-eat.ie - Ireland food ordering
+- .NET
+- Angular
+- Website Testing
+
+
+### *.just-eat.it - Italy food ordering
+- .NET
+- Website Testing
+
+
+### *.just-eat.es - Spain food ordering
+- .NET
+- Website Testing
+
+
+### *.skipthedishes.com - Canada food ordering
+- ReactJS
+- Website Testing
+
+
+### *.je-apis.com - UK legacy API
+- API Testing
+- .NET
+
+
+### *.just-eat.com 
+- API Testing
+- .NET
+
+
+### *.justeat-int.com
+- API Testing
+- .NET
+
+
+### *.just-eat.io
+- API Testing
+- .NET
+
+
+### *.just-data.io
+- Website Testing
+
+
+### *.business.just-eat.co.uk - Just Eat for Business 
+- Google Cloud
+- Website Testing
+
+
+### api.skipthedishes.com
+
+
+### stage.practi.net
+
+
+### partneressentials.menulog.com.au
+
+
+### partneressentials.menulog.co.nz
+
+
+### restaurantawards.menulog.co.nz
+
+
+### restaurantawards.menulog.com.au
+
+
+### offers.menulog.co.nz
+
+
+### offers.menulog.com.au
+
+
+## ExpressVPN
+### VPN servers
+- Cryptography
+
+
+### ExpressVPN iOS application
+- Mobile Application Testing
+- iOS
+
+
+### ExpressVPN Android application
+- Android
+- Mobile Application Testing
+
+
+### ExpressVPN Linux application
+- Linux
+- Desktop Application Testing
+
+
+### ExpressVPN macOS application
+- macOS
+- Desktop Application Testing
+
+
+### ExpressVPN Windows application
+- Windows
+- Desktop Application Testing
+
+
+### ExpressVPN Router
+- Linux
+- Website Testing
+
+
+### ExpressVPN Firefox extension
+- Browser Extension
+
+
+### ExpressVPN Chrome extension
+- Browser Extension
+
+
+### MediaStreamer DNS servers
+- DNS
+
+
+### ExpressVPN APIs
+- API Testing
+
+
+### www.expressvpn.com
+- AWS
+- Website Testing
+
+
+### *.expressvpn.com
+- Website Testing
+
+
+### *.xvservice.net
+- Website Testing
+
+
+### *.xvtest.net
+- Website Testing
+
+
+### expressobutiolem.onion
+- Website Testing
+
+
+### Google Play (com.expressvpn.vpn)
+- Android
+- Mobile Application Testing
+
+
+### Apple App Store (886492891)
+- Mobile Application Testing
+- iOS
+
+
+### Lightway Core
+- Static Code Analysis
+
+
+### ExpressVPN Keys Browser Extension
+- Browser Extension
+
+
+## NEOGOV Public Assets
+### https://cdn.neogov.com
+
+
+### https://api.neogov.com
+
+
+### https://secure.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://login.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://performance.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://www.governmentjobs.com
+- Moment.js
+- jQuery
+- RequireJS
+
+
+### https://learn.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://analytics.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://onboard.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://unified.neogov.com
+- jQuery
+- Modernizr
+
+
+### https://eforms.neogov.com
+- jQuery
+- Modernizr
+
+
+## US Environmental Protection Agency Vulnerability Disclosure 
+### *.epa.gov
+- Drupal
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### *.airnow.gov
+- Website Testing
+
+
+### *.airknowledge.gov
+- Website Testing
+
+
+### *.energystar.gov
+- Website Testing
+
+
+### *.foiaonline.gov
+- Website Testing
+
+
+### *.FEDCENTER.GOV
+
+
+### *.FRTR.GOV
+
+
+### *.GLNPO.GOV
+
+
+### *.URBANWATERS.GOV
+
+
+### *.SUSTAINABILITY.GOV
+
+
+## Deutsche Bank Vulnerability Disclosure Program
+### Any Deutsche Bank Asset
+
+
+### Trackit DB
+- Website Testing
+
+
+## HubSpot
+### *.hubapi.com
+- API Testing
+- Cloudflare CDN
+
+
+### *.hubspot.com
 - Java
+- Cloudflare CDN
+- ReactJS
+- jQuery
+
+
+### *.hubspot.net
+- Cloudflare CDN
+- jQuery
+
+
+### *.hs-sites.com
+- Website Testing
+
+
+### *.hubspotemail.net
+
+
+### HubSpot Mobile Application: Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### HubSpot Mobile Application: iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### *.getsidekick.com
+
+
+### *.inbound.org
+
+
+### blog.hubspot.com
+
+
+### shop.hubspot.com
+
+
+### surveys.success.hubspot.com
+
+
+### integrate.hubspot.com
+
+
+### ux.hubspot.com
+
+
+### ink1001.hubspot.com
+
+
+## Under Armour Corporate
+### apphouse.underarmour.com
+- jQuery
+- Website Testing
+
+
+### ourhouse.underarmour.com
+- Website Testing
+
+
+### snc.underarmour.com
+- AWS
+- Website Testing
+
+
+### snctest-s.underarmour.com
+- AWS
+- Website Testing
+
+
+### snctest-c.underarmour.com
+- Website Testing
+
+
+### supplier.underarmour.com
+- AWS
+- Website Testing
+
+
+### transfer.underarmour.com
+- jQuery
+- Website Testing
+
+
+### vpe-us.underarmour.com
+- Website Testing
+
+
+### vtxapp9p.underarmour.com
+- Website Testing
+
+
+### vtxapp9q.underarmour.com
+- Website Testing
+
+
+### vtxapp9d.underarmour.com
+- Website Testing
+
+
+### vtxappd.underarmour.com
+- Website Testing
+
+
+### 204.29.196.0/23
+- Network Testing
+
+
+### 3.223.149.182
+- Network Testing
+
+
+### 3.230.219.249
+- Network Testing
+
+
+### 34.237.130.2
+- Network Testing
+
+
+### 34.239.5.227
+- Network Testing
+
+
+### 52.220.158.49
+- Network Testing
+
+
+### 52.76.174.107
+- Network Testing
+
+
+### 13.238.112.7
+- Network Testing
+
+
+### 52.67.69.35
+- Network Testing
+
+
+### 52.44.176.187
+- Network Testing
+
+
+### 52.86.17.52
+- Network Testing
+
+
+### 54.83.32.16
+- Network Testing
+
+
+### 13.58.121.166
+- Network Testing
+
+
+### 3.133.230.28
+- Network Testing
+
+
+### 3.19.172.158
+- Network Testing
+
+
+### underarmournext.com
+
+
+### investor.underarmour.com 
+
+
+### careers.underarmour.com
+
+
+### www.underarmour.<country> 
+
+
+### www.underarmour.com/en-us/affiliate-home
+
+
+### www.uabiz.com
+
+
+### productsafety.underarmour.com
+
+
+### uabusiness.force.com
+
+
+### www.underarmour.jobs
+
+
+### blog.underarmour.com
+
+
+### www.uateamcatalogs.com 
+
+
+### www.uaretail.com
+
+
+### uaallaccess.com
+
+
+### www.plankindustries.com
+
+
+## DICK'S Sporting Goods
+### *.dickssportinggoods.com
+- Website Testing
+
+
+### Android App:  Dicks Sporting Goods
+- Android
+
+
+### iOS App:  Dicks Sporting Goods
+- iOS
+
+
+### *.golfgalaxy.com
+- Website Testing
+
+
+### *.fieldandstreamshop.com
+- Website Testing
+
+
+### *.dcsg.com
+- Website Testing
+
+
+### *.publiclands.com
+- Website Testing
+
+
+### *.goinggoinggone.com
+- Angular
+- ReactJS
+- TypeScript
+- jQuery
+
+
+### *.vrst.com
+- Website Testing
+
+
+### *.calia.com
+- Website Testing
+
+
+## iFood: Bug Bounty Program
+### https://www.ifood.com.br
+- ReactJS
+- jQuery
+- Website Testing
+- NodeJS
+- Modernizr
+
+
+### iFood Customer iOS Application
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### iFood Customer Android Application
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://marketplace.ifood.com.br
+- Java
+- Go
+- Website Testing
+- Spring
+- Javascript
+
+
+### https://wsloja.ifood.com.br
+- Java
+- Go
+- Website Testing
+- Spring
+- Javascript
+
+
+### https://wslatam.ifood.com.br
+- Java
+- Go
+- Website Testing
+- Spring
+- Javascript
+
+
+### https://static-images.ifood.com.br
+- Java
+- Go
+- Website Testing
+- Spring
+- Javascript
+
+
+### https://shop.ifood.com.br
+- Java
+- Website Testing
+
+
+### https://api.fstr.rocks
+- API Testing
+- Website Testing
+
+
+### https://rc.fstr.rocks
+- API Testing
+- Website Testing
+
+
+### blog-empresas.ifood.com.br
+
+
+### blog-parceiros.ifood.com.br
+
+
+### *.ecomanda.com.br
+
+
+### *.ecomanda.app
+
+
+## Craft Coders Marketplace Bug Bounty
+### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
+- Java
+- AWS
+- Website Testing
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
+- Java
+- Website Testing
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
+- Java
+- Website Testing
+- Javascript
+
+
+## Caffeine
+### https://www.caffeine.tv/
+- Stripe
+- ReactJS
+- Varnish
+- AWS
+- Amazon S3
+- Website Testing
+
+
+### https://api.caffeine.tv/
+- API Testing
+- HTTP
+
+
+### https://payments.caffeine.tv
+- API Testing
+- HTTP
+
+
+### https://realtime.caffeine.tv/
+- API Testing
+- HTTP
+
+
+### https://preview.caffeine.tv/
+- Stripe
+- ReactJS
+- Varnish
+- AWS
+- Amazon S3
+- Website Testing
+
+
+### https://images.caffeine.tv/
+- API Testing
+- HTTP
+
+
+### https://static.caffeine.tv/
+
+
+### https://v-cf.caffeine.tv
+- API Testing
+- HTTP
+
+
+### https://build.caffeine.tv/
+- Website Testing
+
+
+### caffeine.exe
+- Desktop Application Testing
+
+
+### caffeine-helper.x86.exe
+- Desktop Application Testing
+
+
+### caffeine-helper.x64.exe
+- Desktop Application Testing
+
+
+### Caffeine iOS Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Caffeine Android Application	
+- Android
+
+
+### *.rtcdn.caffeine.tv
+
+
+### https://events.caffeine.tv/
+- API Testing
+- HTTP
+
+
+### Any Third Party Software Applications (Zendesk, etc)
+- Website Testing
+
+
+### Caffeine.custhelp.com
+- Website Testing
+
+
+## Geotab: VDP
+### *.geotab.com (some exceptions for out of scope)
+- C#
+- .NET
+- Javascript
+
+
+### *.geotab.ca
+
+
+### *.geotabinc.com
+
+
+### *.lat-lon.com
+
+
+### *.intendia.com
+
+
+### *.mobicorp.com
+
+
+### *.bsmtechnologies.com
+
+
+### *.smartchargerewards.com (Note: exceptions below)
+
+
+### *.bsmwireless.com
+
+
+### *.webtechwireless.com
+
+
+### *.neutralvehicle.com
+
+
+### my*.geotab.com
+
+
+### mypreview*.geotab.com
+
+
+### myadmin.geotab.com
+
+
+### *.geotabgov.us
+
+
+### gov*.geotab.com
+
+
+### gofleet*.geotab.com
+
+
+### consumersenergy.smartchargerewards.com
+
+
+### smartchargenewyork.smartchargerewards.com
+
+
+### saskatchewan.smartchargerewards.ca
+
+
+### smartchargenewbrunswick.smartchargerewards.com
+
+
+### ne-wed.smartchargerewards.com
+
+
+### ne-hmlp.smartchargerewards.com
+
+
+### *.sentinelfm.com
+
+
+## Skroutz Public Managed Bug Bounty
+### https://www.skroutz.gr/
+- ReactJS
+- Ruby on Rails
+- Website Testing
+
+
+## Imperva Bug Bounty
+### https://*.imperva.com
+- Website Testing
+- WAF/RASP Bypass
+
+
+### https://*.cloudvector.com/
+- Website Testing
+- WAF/RASP Bypass
+
+
+### https://*.incapsula.com
+- Website Testing
+- WAF/RASP Bypass
+
+
+## NAB's Responsible Disclosure Program
+### *.nab.com.au
+- Website Testing
+
+
+### *.jbwere.com.au
+- Website Testing
+
+
+### *.jbwere.co.nz
+- Website Testing
+
+
+### *.medfin.com.au
+- Website Testing
+
+
+### *.nabbroker.com.au
+- Website Testing
+
+
+### *.nabequitylending.com.au 
+- Website Testing
+
+
+### *.nabmarginlending.com.au
+- Website Testing
+
+
+### *.nabtrade.com.au
+- Website Testing
+
+
+### *.ubank.com.au
+- Website Testing
+
+
+### *.86400.com.au 
+- Website Testing
+
+
+### *.globalfintechlink.com
+- Website Testing
+
+
+### https://www.mlc.com.au/
+- Website Testing
+
+
+### https://garvan.mlc.com.au/
+- Website Testing
+
+
+### https://www.apogee.com.au/
+- Website Testing
+
+
+### https://www.godfreypembroke.com.au/
+- Website Testing
+
+
+### https://www.meritumfinancialgroup.com.au/
+- Website Testing
+
+
+### *.claiming.com.au
+- Website Testing
+
+
+### *.lanternpay.com
+- Website Testing
+
+
+### Any other assets that appear to belong to NAB Group
+
+
+### *.advantedge.com.au
+- Website Testing
+
+
+### *.hicaps.com.au
+- Website Testing
+
+
+## Hummingbird VDP
+### hummingbird.co
+- jQuery
+- Lodash
+- Website Testing
+
+
+### *.hummingbird.co
+- jQuery
+- Lodash
+- Website Testing
+
+
+### app.hummingbird.co
+- Website Testing
+
+
+## Braze Public BB
+### http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com
+- API Testing
+- Website Testing
+
+
+### https://security-testing-env-api.k8s.test-001.d-usw-2.braze.com/
+- API Testing
+
+
+### https://bug-bounty.braze.com/
+
+
+### https://bounty-allstars.braze.com/
+
+
+### *.braze.com
+
+
+### *.appboy.com
+
+
+### *.braze.eu
+
+
+### Any Braze Owned Host not listed as in Scope
+
+
+## Sisu Data
+### https://vip.sisu.ai
+- Rust
+- Java
+- ReactJS
+- Lodash
+- Website Testing
+- Python
+- Javascript
+
+
+### https://sisudata.com
+- Gatsby
+- ReactJS
+- Website Testing
+
+
+## Department of Labor
+### https://*.dol.gov
+
+
+### https://*.bls.gov
+
+
+### https://*.apprenticeship.gov
+
+
+### https://*.apprenticeships.gov
+
+
+### https://*.employer.gov
+
+
+### https://*.govloans.gov
+
+
+### https://*.hirevets.gov
+
+
+### https://*.trainingproviderresults.gov
+
+
+### https://*.unionreports.gov
+
+
+### https://*.veterans.gov
+
+
+### https://*.disability.gov
+
+
+### https://*.DOL-ESA.gov
+
+
+### https://*.DOLETA.gov
+
+
+### https://*.labor.gov
+
+
+### https://*.worker.gov
+
+
+### https://*.youthrules.gov
+
+
+### https://*.msha.gov
+
+
+### https://*.osha.gov
+
+
+### https://*.whistleblowers.gov
+
+
+### https://*.jobcorps.gov
+
+
+### https://*.wrp.gov
+
+
+### https://*.jobcorps.org
+
+
+### https://*.workforcegps.org
+
+
+### https://*.useuosh.org
+
+
+### https://*.euusosh.org
+
+
+### https://*.UI.gov
+
+
+### https://*.unemployment.gov
+
+
+### https://*.goodjobs.gov
+
+
+### https://*.jcmarketplace.com
+
+
+### https://*.joinjobcorps.com
+
+
+### https://*.backtojobcorps.com
+
+
+### https://*.jcsuccess.org
+
+
+### https://*.neapmap.com
+
+
+### https://*.jctalentworks.com
+
+
+### https://*.jcstudentsurveys.com
+
+
+### https://*.bonds4jobs.com
+
+
+### https://*.acinet.org
+
+
+### https://*.careerinfonet.org
+
+
+### https://*.careeronestop.org
+
+
+### https://*.mynextmove.org 
+
+
+### https://*.myskillsmyfuture.org
+
+
+### https://*.onetcenter.org
+
+
+### https://*.onetonline.org
+
+
+### https://*.servicelocator.org
+
+
+### https://*.ajb.org
+
+
+### https://*.askearn.org
+
+
+### https://*.askjan.org
+
+
+### https://*.epolicyworks.org
+
+
+### https://*.leadcenter.org
+
+
+### https://*.whatcanyoudocampaign.org
+
+
+### https://*.ustedquepuedehacer.org
+
+
+### https://*.capeyouth.org
+
+
+### https://*.inclusiveapprenticeship.org
+
+
+### https://*.peatworks.org
+
+
+### https://*.onetcodeconnector.org
+
+
+### https://*.miproximopaso.org 
+
+
+### https://*.benefits.gov
+
+
+### https://*.alx.org
+
+
+### https://*.persuader-reports.gov
+
+
+## Department of Interior: Vulnerability Disclosure Program
+### *.doi.gov
+- Website Testing
+
+
+## TripAdvisor 
+### api.production.cde.tamg.cloud
+- API Testing
+
+
+### partnerapi.tapayments.com
+- API Testing
+
+
+### partnerapi1.tapayments.com
+- API Testing
+
+
+### partnerapi2.tapayments.com
+- API Testing
+
+
+### walletproxy.tapayments.com
+- API Testing
+
+
+### walletproxy1.tapayments.com
+- API Testing
+
+
+### walletproxy2.tapayments.com
+- API Testing
+
+
+### www.tripadvisor.com
+- Website Testing
+
+
+### Any localized version of www.tripadvisor.com available from the site's header or footer
+- Website Testing
+
+
+### api.tripadvisor.com
+- API Testing
+
+
+### service.platform.tripadvisor.com
+- API Testing
+
+
+### gwapi.tripadvisor.com
+- API Testing
+
+
+### gwapi1.tripadvisor.com
+- API Testing
+
+
+### gwapi2.tripadvisor.com
+- API Testing
+
+
+### Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below
+- Website Testing
+
+
+### TripAdvisor Android App
+- Android
+- Kotlin
+
+
+### TripAdvisor iOS App
+- Kotlin
+- iOS
+
+
+### https://www.tripadvisor.com/Plus
+- Website Testing
+
+
+### https://www.tripadvisor.com/Hotel_Review-g52842-d730099-Reviews-Schrute_Farms-Honesdale_Pocono_Mountains_Region_Pennsylvania.html
+- Website Testing
+
+
+### rentals.tripadvisor.com
+- Website Testing
+
+
+### *.vacationhomerentals.com
+- Website Testing
+
+
+### *.holidaylettings.com
+- Website Testing
+
+
+### *.flipkey.com
+- Website Testing
+
+
+### *.niumba.com
+- Website Testing
+
+
+### *.housetrip.com
+- Website Testing
+
+
+### TripAdvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
+- Objective-C
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### marlo.ext.tripadvisor.com
+- Website Testing
+
+
+### *.bokundemo.com
+- Website Testing
+
+
+### *.bokuntest.com
+- Website Testing
+
+
+###  ir.tripadvisor.com
+- Website Testing
+
+
+### *.tripadviser.at
+- Website Testing
+
+
+### *.tripadvisor.cn
+- Website Testing
+
+
+### www.tripadvisor.*/Trips
+- Website Testing
+
+
+### www.tripadvisor.*/Mobile*
+- Website Testing
+
+
+### www.tripadvisor.*/engineering
+- Website Testing
+
+
+### spotlight-dev.tripadvisor.com
+- Website Testing
+
+
+### spotlight.tripadvisor.*
+- Website Testing
+
+
+### careers.tripadvisor.com
+- Website Testing
+
+
+### *.tripadvisoradexpress.*
+- Website Testing
+
+
+### *.tripadvisorwifi.*
+- Website Testing
+
+
+### lmt.tripadvisor.com
+- Website Testing
+
+
+### *.bokun.io
+- Website Testing
+
+
+### *.bokun.is
+- Website Testing
+
+
+### *.bokun.com
+- Website Testing
+
+
+### *.bokun.app
+- Website Testing
+
+
+### *.bokun.eu
+- Website Testing
+
+
+### *.bokun.team
+- Website Testing
+
+
+### *.bokun.tools
+- Website Testing
+
+
+### *.bokun.website
+- Website Testing
+
+
+### *.bokunmobile.website
+- Website Testing
+
+
+### *.experiences.zone
+- Website Testing
+
+
+## SpaceX/Starlink
+### SpaceX and Starlink assets (target information and rewards detailed above on the brief)
+
+
+## iRobot
+### iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
+- Hardware Testing
+
+
+### https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://play.google.com/store/apps/details?id=com.irobot.home
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+###  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
+- API Testing
+- Python
+
+
+### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
+- API Testing
+- Python
+
+
+### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
+- API Testing
+- Python
+
+
+### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+- API Testing
+- Python
+
+
+### https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
+- API Testing
+- Python
+
+
+### iRobot API Endpoint
+
+
+### https://www.irobot.com
+- Website Testing
+
+
+### https://homesupport.irobot.com
+- Website Testing
+
+
+### irobot.in
+- Website Testing
+
+
+### https://homesupport.irobot.com/app/chat/chat_launch
+- Website Testing
+
+
+### https://global.irobot.com/My%20Privacy
+- Website Testing
+
+
+## Bureau of Reclamation
+### *.usbr.gov
+- jQuery
+- Website Testing
+- Modernizr
+
+
+## Bureau of Land Management
+### *.blm.gov
+- Drupal
+- Website Testing
+- PHP
+
+
+### *.abandonedmines.gov
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+
+
+### *.nifc.gov
+- Java
+- Drupal
+- Apache Tomcat
+- jQuery
+- Website Testing
+- PHP
+
+
+## U.S. Fish and Wildlife Service 
+### *.fws.gov
+- Website Testing
+
+
+### *.rivers.gov
+- Website Testing
+
+
+## Sky Disclosure Program
+### All internet facing Sky assets
+- API Testing
+- IoT
+- Mobile Application Testing
+- Website Testing
+- Hardware Testing
+
+
+## BlueHost VDP
+### *.bluehost.in
+- ReactJS
+- nginx
+- Website Testing
+
+
+### *.bluehost.com
+- jQuery
+- nginx
+- Website Testing
+
+
+### Anything not explicitly listed as in scope
+
+
+## Arrow Electronics VDP
+### *.arrow.com
+- Akamai CDN
+- API Testing
+- SSL/TLS
+- Angular
+- Website Testing
+- Azure
+
+
+### *.verical.com
+- Akamai CDN
+- Website Testing
+- Azure
+- Javascript
+
+
+### *.richardsonrfpd.com
+- SSL/TLS
+- .NET
+- MySQL
+- ASP.NET
+- Azure DevOps Server
+- Website Testing
+- Microsoft IIS
+
+
+### *.immixgroup.com
+- Akamai CDN
+- SSL/TLS
+- ASP.NET
+- Website Testing
+- Microsoft IIS
+
+
+### *.powerandsignal.com
+- SSL/TLS
+- C#
+- .NET
+- MySQL
+- ASP.NET
+- Azure DevOps Server
+- Website Testing
+- Microsoft IIS
+
+
+### *.einfochips.com
+- Wordpress
+- Apache Tomcat
+- Website Testing
+- PHP
+
+
+### *.siliconexpert.com
+- Wordpress
+- nginx
+- Website Testing
+
+
+### *.aepetsche.com
+- nginx
+- Website Testing
+- PHP
+
+
+### *.elektroda.pl
+- Akamai CDN
+- nginx
+- Website Testing
+- PHP
+
+
+### *.xsp.arrow.com
+- AWS
+- MySQL
+- Apache Tomcat
+- jQuery
+- PHP
+
+
+### *.arrow.cn
+- eCommerce
+- Website Testing
+
+
+### *.chip1stop.com
+- Akamai CDN
+- eCommerce
+
+
+### *.transim.com
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.aspencore.com
+- Wordpress
+- Website Testing
+
+
+### *.eetimes.com
+- Akamai CDN
+- Wordpress
+- Website Testing
+- PHP
+
+
+### *.Datasheet
+- Wordpress
+- MySQL
+- Website Testing
+- PHP
+
+
+## Department of Veterans Affairs
+### *.va.gov
+- Website Testing
+
+
+### www.vets.gov
+- Website Testing
+
+
+### www.veteranscrisisline.net
+- Website Testing
+
+
+### www.reach.gov
+- Website Testing
+
+
+### www.vaitcampus.com
+- Website Testing
+
+
+### www.vavmc.com
+- Website Testing
+
+
+## Tamedia
+### https://www.derbund.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.bernerzeitung.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.tagesanzeiger.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.zuonline.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.tdg.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.zsz.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.landbote.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.bazonline.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.berneroberlaender.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.thunertagblatt.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.langenthalertagblatt.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### https://www.24heures.ch
+- MongoDB
+- Website Testing
+- NodeJS
+
+
+### Subdomain Takeover 
+
+
+### DMARC, SPF, DKIM
+
+
+### https://login.inscopedomain.ch/
+- Website Testing
+
+
+### https://auth.inscopedomain.ch/
+- Website Testing
+
+
+### https://tgt.inscopedomain.ch/
+- Website Testing
+
+
+### https://shop.inscopedomain.ch/
+- Website Testing
+
+
+### https://abo.inscopedomain.ch
+
+
+## Office of Navajo and Hopi Indian Relocation (ONHIR) - Vulnerability Disclosure Program 
+### https://www.onhir.gov/
+- AWS
+- Website Testing
+
+
+### *.onhir.gov/
+- AWS
+- Website Testing
+
+
+## EXIM - Vulnerability Disclosure Program
+### *.exim.gov
+
+
+## Rakuten VDP
+### *.rakuten.com
+- Java
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+## eazyBI
+### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
+- Website Testing
+
+
+### docs.eazybi.com
+- Java
+- Backbone
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+## The Coca-Cola Company Vulnerability Disclosure Program
+### *.coca-colacompany.com
+- Java
+- Adobe Experience Manager
+- AWS
+- Apache httpd
+- jQuery
+- Lodash
+- jQuery Mobile
+- RequireJS
+- Javascript
+- Modernizr
+
+
+### *.coke.[any ccTLD]
+- Website Testing
+
+
+### *.vebatcoke.com
+- Website Testing
+
+
+### *.coca-cola.com
+
+
+### *.coca-cola.[any ccTLD]
+- Website Testing
+
+
+### *.coca-cola.com.[any ccTLD]
+- Website Testing
+
+
+### *.coca-cola.co.[any ccTLD]
+- Website Testing
+
+
+### *.coca-colaentuhogar.com
+- Website Testing
+
+
+### *.cocacolastore.fr
+- Website Testing
+
+
+### *.cokestore.com
+- Website Testing
+
+
+### *.coca-cola-deutschland.de
+- Website Testing
+
+
+### *.cocacolabelgium.be
+- Website Testing
+
+
+### *.cocacolanederland.nl
+- Website Testing
+
+
+### *.coca-cola-france.fr
+- Website Testing
+
+
+### *.coca-colaarabia.com
+- Website Testing
+
+
+### *.cocacolaespana.es
+- Website Testing
+
+
+### *.coca-colaitalia.it
+- Website Testing
+
+
+### *.cocacola-kos.com
+- Website Testing
+
+
+### *.coca-colamaroc.ma
+- Website Testing
+
+
+### *.coca-cola-oesterreich.at
+- Website Testing
+
+
+### *.cocacolaportugal.pt
+- Website Testing
+
+
+### *.coca-colaukraine.com
+- Website Testing
+
+
+### *.powerade.com
+- Adobe Experience Manager
+- Angular
+- Backbone
+- Bootstrap
+- Amazon Cloudfront
+- jQuery
+- Handlebars
+- Modernizr
+
+
+### *.dietcoke.com
+- Adobe Experience Manager
+- Backbone
+- Bootstrap
+- Apache httpd
+- Handlebars
+- Modernizr
+
+
+### *.sprite.com
+- Java
+- Adobe Experience Manager
+- Backbone
+- AWS
+- Bootstrap
+- Apache httpd
+- Amazon S3
+- Amazon Cloudfront
+- jQuery
+- Handlebars
+- RequireJS
+- Javascript
+- Modernizr
+
+
+### *.appletiser.com
+- Java
+- Adobe Experience Manager
+- HTML
+- jQuery
+
+
+### *.drinkaha.com
+- Adobe Experience Manager
+- Angular
+- Backbone
+- Amazon Cloudfront
+- jQuery
+- Handlebars
+- Modernizr
+
+
+### *.barqs.com
+- Java
+- Adobe Experience Manager
+- Backbone
+- Bootstrap
+- HTML
+- Modernizr
+
+
+### *.dasani.com
+- Adobe Experience Manager
+- Angular
+- Backbone
+- Bootstrap
+- Amazon Cloudfront
+- jQuery
+- Handlebars
+- Modernizr
+
+
+### *.fanta.[any ccTLD]
+- Website Testing
+
+
+### *.fresca.com
+- Adobe Experience Manager
+- Angular
+- Backbone
+- Bootstrap
+- Amazon Cloudfront
+- jQuery
+- Handlebars
+- Modernizr
+
+
+### *.hi-c.com
+
+
+### *.melloyello.com
+- Java
+- Adobe Experience Manager
+- AWS
+- Amazon S3
+- Amazon Cloudfront
+- Handlebars
+- Javascript
+- Modernizr
+
+
+### *.pibb-xtra.com
+
+
+### *.surge.com
+
+
+### *.blueskysoda.com
+- Website Testing
+
+
+### *.fuzebev.com
+- Website Testing
+
+
+### *.hansens.com
+- Website Testing
+
+
+### *.honesttea.com
+- Website Testing
+
+
+### *.drinkmoxie.com
+- Website Testing
+
+
+### *.vitaminwater.com
+- Website Testing
+
+
+### *.topochico.com
+- Website Testing
+
+
+### *.innocentdrinks.[any ccTLD]
+- Website Testing
+
+
+### *.ko.com
+
+
+### *.cokeurl.com
+
+
+### tccc-aem.com
+- API Testing
+- Website Testing
+
+
+### *.testko.com
+
+
+### Coca-Cola iOS App
+- Mobile Application Testing
+- iOS
+
+
+### Coca-Cola Android App
+- Android
+- Mobile Application Testing
+
+
+### Coca-Cola Freestyle Machines
+
+
+### Dasani Purefill Water Dispensers
+
+
+### Intelligent Vending Machines
+
+
+### Connected Coolers
+
+
+## Cengage VDP
+### https://*.cengage.com
+
+
+### https://www.cengage.com/
+- Angular
+- jQuery
+- Lodash
+- Website Testing
+- Modernizr
+
+
+### https://*.cengagebrain.com/*
+- Website Testing
+
+
+### https://s-nglsync.cengage.com/rostering
+- SQL
+- .NET
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### https://s-nglsync.cengage.com/provisionapi/NglSyncSamlSsoInit.ashx?token=[%District Specific Token%]&amp;username=[%Username%]
+- SQL
+- .NET
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### https://www.ed2go.com/
+
+
+### https://milady.cengage.com/
+
+
+### http://www.chiltondiy.com/
+- Website Testing
+
+
+###  www.pmguidedreading.com
+
+
+### cengage.com.au
+
+
+### cengage.co.nz 
+
+
+### ws.cengagelearning.com.au
+
+
+### gotit.net.au/dosage-calculations
+
+
+### www.nldcomprehension.com
+
+
+### www.nelsonnet.com.au
+
+
+### video.cengagelearning.com.au
+
+
+### app.pmecollection.com.au
+
+
+### admin.iqcentral.cengage.com.au
+
+
+### api.iqcentral.cengage.com.au
+
+
+### keep-up.cengagelearning.com.au
+
+
+### pmolcards.com
+
+
+### nldcomprehension.com
+
+
+### api.nelsonhub.cengagelearning.com.au
+
+
+### examplus.cengage.com
+
+
+### pmwriting.cengagelearning.com.au
+
+
+### static.cengagelearning.com.au
+
+
+### https://www.gale.com/public/small-library-support-program/form
+
+
+### https://www.gale.com/primary-sources/digital-humanities-webinar
+
+
+### https://www.gale.com/primary-sources/need-to-know/trial-request
+
+
+### https://www.gale.com/databases/gale-analytics
+
+
+### compassprod.cengage.com
+
+
+### gpms.cengage.com
+
+
+### jobiak.cengage.com
+
+
+### 69.32.200.139
+
+
+## Okta
+### bugcrowd-%username%-1.oktapreview.com
+- Backbone
+- nginx
+
+
+### bugcrowd-%username%-2.oktapreview.com
+- Backbone
+- nginx
+
+
+### Okta MDM (iOS)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Okta MDM (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Okta Browser Plugin (IE / Firefox / Chrome)
+
+
+### Okta Verify (iOS)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Okta Verify (Android)
+- Java
+- Android
+- Mobile Application Testing
+
+
+### Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
+- Java
+- .NET
+
+
+### Okta Agent Windows
+- Windows
+
+
+## United Airlines
+### *.united.com
+- Akamai CDN
+- ReactJS
+- jQuery
+- Windows
+- Lodash
+- Handlebars
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### *.ual.com
+
+
+### United Mobile App for iOS
+- Mobile Application Testing
+- iOS
+
+
+### United Mobile App for Android
+- Android
+- Mobile Application Testing
+
+
+### MileagePlus X App for iOS
+- Mobile Application Testing
+- iOS
+
+
+### MileagePlus X App for Android
+- Android
+- Mobile Application Testing
+
+
+### Non-production environments (preview, pre-prod, dev, qa or stage/staging)
+
+
+### Onboard Wi-Fi, entertainment systems or avionics
+
+
+### 3rd party applications/services
+
+
+### hotels.united.com
+
+
+### vacations.united.com
+
+
+### cars.united.com
+
+
+### newsroom.united.com
+
+
+### ir.united.com
+
+
+### hub.united.com
+
+
+### jobparters.united.com
+
+
+### careers.united.com
+
+
+### opinions.united.com
+
+
+### globallinks.united.com
+
+
+### dutyfree.united.com
+
+
+### bigmetalbird.united.com
+
+
+### globalservices.united.com
+
+
+### uatp.united.com
+
+
+### brand.united.com
+
+
+### thanksamillion.united.com
+
+
+### unitedmileageplus.com
+
+
+### secure.unitedmileageplus.com
+
+
+### mystatus.united.com
+
+
+### newspaper-miles.com
+
+
+### *.mileageplus.com
+
+
+### cruises.united.com
+
+
+### cardmemberoffers.united.com
+
+
+### ualmiles.com
+
+
+### uma.united.com
+
+
+### unitedshop.summitmg.com
+
+
+### united-veterans.jobs
+
+
+### clubconferencerooms.united.com/unit
+
+
+### theexplorercard.com
+
+
+### mpclubcard.com
+
+
+### myexplorercard.com
+
+
+### unitedexplorecard.com
+
+
+### unitedexplorer.com
+
+
+### unitedexplorercard.com
+
+
+### mileageplusawards.com
+
+
+### mpdining.rewardsnetwork.com
+
+
+### m.mpdining.rewardsnetwork.com
+
+
+### news.united.com/responsys
+
+
+### survey.continental.com/vovici.net
+
+
+### booking.unitedcargo.com
+
+
+### chargerback.com
+
+
+### *.unitedvacationsdive.com
+
+
+### packages.united.com
+
+
+## Lbrands Victoria's Secret - VDP Pro
+### https://www.victoriassecret.com/us/
+- ReactJS
+- Lodash
+- Website Testing
+
+
+### Pink Nation iOS app
+
+
+### Pink Nation Android app
+
+
+### Victoria's Secret iOS app
+
+
+### Victoria's Secret Android app
+
+
+## Federal Communications Commission: Vulnerability Disclosure Program
+### https://www.fcc.gov/*
+- Website Testing
+
+
+### https://consumercomplaints.fcc.gov
+- Website Testing
+
+
+### https://autodiscover.fcc.gov
+- Website Testing
+
+
+### https://fccravpn.fcc.gov
+- Website Testing
+
+
+### https://xmail.fcc.gov
+- Website Testing
+
+
+### https://gbvdi.fcc.gov
+- Website Testing
+
+
+### https://osts.fcc.gov
+- Website Testing
+
+
+### https://ecfsapi.fcc.gov
+- Website Testing
+
+
+### https://apps2.fcc.gov
+- Website Testing
+
+
+### https://apps2demo.fcc.gov
+- Website Testing
+
+
+### https://apps3.fcc.gov
+- Website Testing
+
+
+### *.exploretsp.gov
+- Website Testing
+
+
+### https://auctionapplicationdemo.fcc.gov
+- Website Testing
+
+
+### https://auctionbidding.fcc.gov
+- Website Testing
+
+
+### https://auctionbidding2.fcc.gov
+- Website Testing
+
+
+### https://auctiondata.fcc.gov
+- Website Testing
+
+
+### https://auctionfiling.fcc.gov
+- Website Testing
+
+
+### https://auctionsignon.fcc.gov
+- Website Testing
+
+
+### https://auctionsignon2.fcc.gov
+- Website Testing
+
+
+### https://data.fcc.gov
+- Website Testing
+
+
+### https://dcvdi.fcc.gov
+- Website Testing
+
+
+### https://ecfsapi-prototype.fcc.gov
+- Website Testing
+
+
+### https://enterpriseefiling.fcc.gov
+- Website Testing
+
+
+### https://esupport.fcc.gov
+- Website Testing
+
+
+### https://fccdata.fcc.gov
+- Website Testing
+
+
+### https://fjallfoss.fcc.gov
+- Website Testing
+
+
+### https://opendata.fcc.gov
+- Website Testing
+
+
+### https://p2p-mic-sasentry.fcc.gov
+- Website Testing
+
+
+### https://www3.fcc.gov
+- Website Testing
+
+
+### https://paydemo.fcc.gov
+- Website Testing
+
+
+### *.fcc.gov
+
+
+## Department of Homeland Security: Vulnerability Disclosure Program
+### *.dhs.gov
+- Website Testing
+
+
+## National Labor Relations Board: Vulnerability Disclosure Program
+### *.NLRB.gov
+- Website Testing
+
+
+## Federal Retirement Thrift Investment Board : Vulnerability Disclosure Program
+### *.tsp.gov
+- Website Testing
+
+
+### *.exploretsp.gov
+- Website Testing
+
+
+### 74.113.204.0/22
+
+
+### *.frtib.gov
+- Website Testing
+
+
+## Millennium Challenge Corporation: Vulnerability Disclosure Program
+### https://www.mcc.gov/
+- Website Testing
+
+
+### *.mcc.gov/
+- Website Testing
+
+
+## United States Department of Agriculture: Vulnerability Disclosure Program
+### https://www.fsis.usda.gov/
+- Website Testing
+
+
+### https://www.fas.usda.gov/
+- Website Testing
+
+
+### https://www.aphis.usda.gov/aphis/home/
+- Website Testing
+
+
+### https://www.agcounts.usda.gov/static/cawi/layouts/cawi/breeze/index.html
+- Website Testing
+
+
+### https://www.nass.usda.gov/
+- Website Testing
+
+
+### https://ask.usda.gov/s/
+- Website Testing
+
+
+### https://www.rma.usda.gov/
+- Website Testing
+
+
+### https://oha.usda.gov/
+- Website Testing
+
+
+### https://www.farmers.gov/
+- Website Testing
+
+
+### https://www.oem.usda.gov/
+- Website Testing
+
+
+### https://www.dietaryguidelines.gov/
+- Website Testing
+
+
+### https://professionalstandards.fns.usda.gov/
+- Website Testing
+
+
+## Privacy and Civil Liberties Oversight Board: Vulnerability Disclosure Program
+### www.pclob.gov
+- Website Testing
+
+
+## Equal Employment Opportunity Commission: Vulnerability Disclosure Program
+### eeoc.gov
+- Website Testing
+
+
+### nxg.eeoc.gov
+- Website Testing
+
+
+### ims.eeoc.gov
+- Penetration Testing
+- Website Testing
+
+
+### uat-www.eeoc.gov
+- Website Testing
+
+
+### sts.eeoc.gov
+- Website Testing
+
+
+### surveys.eeoc.gov
+- Website Testing
+
+
+### youth.eeoc.gov
+- Website Testing
+
+
+### alertus.eeoc.gov
+- Website Testing
+
+
+### arcuat.eeoc.gov
+- Website Testing
+
+
+### arctrain.eeoc.gov
+- Website Testing
+
+
+### arcdev.eeoc.gov
+- Website Testing
+
+
+### https://arc.eeoc.gov
+- Penetration Testing
+- Website Testing
+
+
+## Occupational Safety and Health Review Commission: Vulnerability Disclosure Program
+### https://www.oshrc.gov/
+- Website Testing
+
+
+### oshrc.entellirak.com
+
+
+## Court Services and Offender Supervision Agency: Vulnerability Disclosure Program
+### https://www.csosa.gov/
+- Website Testing
+
+
+### *.csosa.gov
+- Website Testing
+
+
+## Bullish.com
+### https://bullish.com/
+- Cloudflare CDN
+- Website Testing
+
+
+### https://investor.bullish.com
+- Cloudflare CDN
+- Website Testing
+
+
+### *.bullish.com
+- API Testing
+- Cloudflare CDN
+- Website Testing
+
+
+### https://bugbounty.bullish-test.com
+- API Testing
+- Website Testing
+
+
+## AMEX - Global Business Travel Vulnerability Disclosure Program
+### https://register.banks-sadler.com
+- Website Testing
+
+
+### ctx.amexgbt.com
+
+
+### prod1.amexgbt.com
+
+
+### sql.amexgbt.com
+
+
+### sslvpn.amexgbt.com
+
+
+### stage.amexgbt.com
+
+
+### staging.amexgbt.com
+
+
+### test1.amexgbt.com
+
+
+### testuat.amexgbt.com
+
+
+### voip.amexgbt.com
+
+
+### wordpress.amexgbt.com
+
+
+### *.amexglobalbusinesstravel.com
+- Bootstrap
+- MySQL
+- Recon
+- jQuery
+- RequireJS
+- Website Testing
+- PHP
+- DNS
+
+
+### *.amexgbt.com
+- MySQL
+- Recon
+- jQuery
+- RequireJS
+- Website Testing
+- PHP
+- DNS
+
+
+### *.banks-sadler.com
+- Website Testing
+- PHP
+
+
+### www.bienquiries.co.uk
+- Moment.js
+- ASP.NET
+- jQuery
+- Website Testing
+
+
+### https://www.ebrdevents.co.uk/
+- Moment.js
+- ASP.NET
+- jQuery
+- Website Testing
+
+
+### *.gbtad.com
+- Recon
+- Website Testing
+- DNS
+
+
+### *.gbtexternal.com
+- Recon
+- Website Testing
+- DNS
+
+
+### *GBTNTA.com
+- Website Testing
+
+
+### *.gbtspain.com
+- MySQL
+- Recon
+- jQuery
+- RequireJS
+- Website Testing
+- PHP
+- DNS
+
+
+### *.hrgnorthamerica.com
+- Recon
+- Website Testing
+- DNS
+
+
+### *.hrgworldwide.com
+- Bootstrap
+- MySQL
+- Recon
+- jQuery
+- nginx
+- Website Testing
+- PHP
+- DNS
+
+
+### *.meetingsexpreess.com
+- Website Testing
+
+
+### *.meetingsexpress.com
+- Website Testing
+
+
+### *.meetingssource.com
+- Website Testing
+
+
+### www.mytravelsolution.com
+- Angular
+- ASP.NET
+- jQuery
+- Website Testing
+
+
+### *.mykds.com
+- Recon
+- Website Testing
+- DNS
+
+
+### https://pat.itq.in/
+- Website Testing
+
+
+### *.uathrg-isuite.com
+- Recon
+- Website Testing
+- DNS
+
+
+### *.uathrgisuite.com
+- Bootstrap
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### www.winnerscircleregistration.com
+- Website Testing
+
+
+### 203.125.28.128/28
+- Network Testing
+
+
+### *.kds.com
+- Bootstrap
+- MySQL
+- Recon
+- jQuery
+- Website Testing
+- PHP
+- DNS
+
+
+### *.ovationtravel.com
+- Website Testing
+
+
+### *.lawyerstravel.com
+
+
+### *.miclientool.com/
+
+
+### *.supplierstool.com
+
+
+### *.mieventool.com
+
+
+### *.miwebtool.com
+
+
+### *.sourcingcenteramexgbt.com
+
+
+### gbt-invoicing.com
+
+
+### https://*.neo1.com/
+
+
+## Twilio
+### api.twilio.com
+- API Testing
+- HTTP
+
+
+### Twilio APIs
+- API Testing
+- HTTP
+
+
+###  tsock.us1.twilio.com
+
+
+###  *.sip.*.twilio.com
+
+
+###  Twilio WebRTC Client
+
+
+###  Twilio Wireless
+
+
+### Twilio SDKs
+- API Testing
+- Website Testing
+
+
+### Twilio Console
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+###  Twilio Helper Libraries
+- Website Testing
+
+
+###  Twilio CDNs (static*.twilio.com)
+- Website Testing
+
+
+### twilio.com/blog
+- Django
+- jQuery
+- Website Testing
+
+
+### https://build.twilio.com/s/
+- jQuery
+- Website Testing
+
+
+### https://sendgrid.com
+- Ruby
+- ReactJS
+- Go
+- PHP
+- Python
+
+
+### https://app.sendgrid.com/
+- Amazon S3
+- jQuery
+
+
+### https://signup.sendgrid.com/
+- Amazon S3
+
+
+### api.sendgrid.com
+- Ruby
+- ReactJS
+- Go
+- PHP
+- Python
+
+
+### https://mc.sendgrid.com/
+- Amazon S3
+- jQuery
+
+
+### smtp.sendgrid.net
+- SMTP
+
+
+### Authy iOS app
+- Mobile Application Testing
+- iOS
+
+
+### Authy Android App
+- Android
+- Mobile Application Testing
+
+
+### Authy Desktop app
+- Desktop Application Testing
+
+
+### Twilio Authy - https://api.authy.com
+- Website Testing
+
+
+### Twilio Verify - https://verify.twilio.com
+- API Testing
+
+
+### Twilio Authy API
+- API Testing
+
+
+### Twilio Authy Dashboard API
+- API Testing
+
+
+### Any host/web property verified to be owned by Twilio
+
+
+### app.segment.com
+- GraphQL
+- ReactJS
+- TypeScript
+- Website Testing
+- NodeJS
+
+
+### api.segment.io
+- API Testing
+
+
+### Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
+- nginx
+
+
+### Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
+
+
+### support.twilio.com
+- Website Testing
+
+
+### s.signal.twilio.com
+- Website Testing
+
+
+### ahoy-eloqua.twilio.com
+- Website Testing
+
+
+### Ytica and its assets 
+- Website Testing
+
+
+### TwimlBins
+
+
+### store.twilio.com
+- Website Testing
+
+
+### Demo websites e.g. lab.authy.com
+- Website Testing
+
+
+### https://dashboard.authy.com
+- Website Testing
+
+
+### All Kurento domains
+- Website Testing
+
+
+### twiliotraining.com
+- Website Testing
+
+
+### www.twilio.com/labs
+- Website Testing
+
+
+### www.twilio.com/quest
+- Website Testing
+
+
+### surveys.twilio.com
+
+
+### support.sendgrid.com
+
+
+### status.sendgrid.com
+
+
+### Third-party services used by SendGrid
+
+
+### issues-sendgrid.dev.twilio.com
+
+
+### https://www.zipwhip.com/*
+
+
+### All Twilio acquisitions until explicitly noted under the in-scope targets
+
+
+### community.segment.com
+
+
+### segment.com/contact
+
+
+### segment.com/jobs	
+
+
+## Unity Technology
+### www.unity3d.com
+- Vue.js
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+
+
+### id.unity.com
+- Ruby
+- Ruby on Rails
+- jQuery
+- Website Testing
+
+
+### api.unity.com
+- API Testing
+
+
+### dashboard.unity3d.com
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### syncsketch.dev
+- Website Testing
+
+
+### store.unity.com
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### pay.unity.com
+- API Testing
+- Website Testing
+
+
+### analytics.cloud.unity3d.com
+- Ruby
+- Ruby on Rails
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### player-login.unity.com
+- API Testing
+- Go
+
+
+### Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
+- macOS
+- Windows
+
+
+### Unity Hub
+- macOS
+- Windows
+
+
+## Smartmockups
+### *.smartmockups.com/
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+## Pixabay
+### *.pixabay.com/
+- jQuery
+- Website Testing
+
+
+## Pexels
+### *.pexels.com
+- Ruby
+- Ruby on Rails
+- Website Testing
+
+
+## Lbrands Bath & Body Works - VDP Pro
+### https://www.bathandbodyworks.com/
+- jQuery
+- YUI
+- Website Testing
+
+
+### BBW Android app
+
+
+### BBW iOS app
+
+
+### https://customercare.bathandbodyworks.com/
+
+
+## Phrase Vulnerability Disclosure Program
+### https://cloud9.memsource.com/
+- Groovy
+- Java
+- Website Testing
+- Python
+- Javascript
+
+
+### https://cloud9.memsource.com/web/docs/api
+- API Testing
+- Groovy
+- Java
+
+
+### http://phrase.com/
+- Wordpress
+- PHP
+
+
+### http://app.phrase.com/
+- Vue.js
+- Ruby
+- MySQL
+- Elasticsearch
+- Ruby on Rails
+
+
+### http://api.phrase.com/
+- Ruby
+- Ruby on Rails
+
+
+## K15t
+### Any other subdomains of k15t.com, including but not limited to www.k15t.com, www.k15t.de and help.k15t.com
+
+
+### https://marketplace.atlassian.com/*
+
+
+### https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1217037/scroll-exporter-extensions?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1227131/orderly-databases-for-confluence?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/1210818/scroll-versions-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/1211616/scroll-translations-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=datacenter&tab=overview
+
+
+### https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
+
+
+### https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=datacenter&tab=overview
+
+
+### https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=cloud
+
+
+### https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=datacenter
+
+
+### https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=cloud&tab=overview
+
+
+## Stiltsoft
+### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
+- Confluence
+- ExpressJS
+- PostgreSQL
+- JSON
+- jQuery
+- Website Testing
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
+- Java
+- Confluence
+- PostgreSQL
+- ReactJS
+- AWS
+- Play
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
+- Git
+- Java
+- PostgreSQL
+- ReactJS
+- jQuery
+- Play
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=server
+- Git
+- ReactJS
+- JSON
+- jQuery
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
+- Git
+- ReactJS
+- JSON
+- jQuery
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
+- Java
+- PostgreSQL
+- ReactJS
+- AWS
+- Spring
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
+- Java
+- jQuery
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
+- Java
+- Confluence
+- jQuery
+- Javascript
+
+
+### https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hosting=cloud
+- Jira
+- Java
+- PostgreSQL
+- ReactJS
+- Spring
+
+
+### https://marketplace.atlassian.com/apps/1212531/customer-case-jira-support-feedback?hosting=cloud
+- Jira
+- PostgreSQL
+- AWS
+
+
+### https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
+- Jira
+- Java
+- PostgreSQL
+- Angular
+- Play
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
+- Java
+- Confluence
+- PostgreSQL
+- ReactJS
+- Website Testing
+- Spring
+
+
+### https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
+- Java
+- Confluence
+- PostgreSQL
+- ReactJS
+- Spring
+
+
+### https://marketplace.atlassian.com/apps/1222001/employee-performance-ratings?hosting=cloud
+- Jira
+- Java
+- PostgreSQL
+- ReactJS
+- AWS
+- Spring
+- Javascript
+
+
+### *.atlassian.com
+
+
+## Credit Karma
+### api.creditkarma.com
+- API Testing
+- HTTP
+
+
+### Credit Karma Android Mobile Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Credit Karma iOS Mobile Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Credit Karma Canada iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://*.creditkarma.com
+- ReactJS
+- Website Testing
+- Newrelic
+
+
+### https://help.creditkarma.com/
+- Bootstrap
+- Website Testing
+
+
+### https://accounts.creditkarma.com
+- ReactJS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### https://tax.creditkarma.com
+- ReactJS
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### https://blog.creditkarma.com/
+- Wordpress
+- MySQL
+- jQuery
+- nginx
+- Website Testing
+- Newrelic
+- PHP
+
+
+### https://www.creditkarma.ca/
+- Website Testing
+- Newrelic
+
+
+### https://www.creditkarma.com/all/advice
+- Website Testing
+
+
+### appsflyer.com
+- Website Testing
+
+
+### crashlytics.com
+- Website Testing
+
+
+### taplytics.com
+- Website Testing
+
+
+### https://www.creditkarma.com/article/*
+- Website Testing
+
+
+### https://www.creditkarma.com/reviews/
+- Website Testing
+
+
+### http://socialverification.creditkarma.com/
+- Website Testing
+
+
+### http://socialverification.stage.creditkarma.com/
+- Website Testing
+
+
+### https://taxhelp.creditkarma.com
+- Website Testing
+
+
+### taxsupport.creditkarma.com
+
+
+### tax.creditkarma.com
+
+
+## lululemon
+### http://www.lululemon.co.kr/
+- jQuery
+- Website Testing
+
+
+### https://fr.shop.lululemon.com
+
+
+### lululemon.cn
+- Website Testing
+
+
+### shop.lululemon.com
+- Akamai CDN
+- ExpressJS
+- ReactJS
+- AWS
+- Amazon Cloudfront
+- Website Testing
+- NodeJS
+
+
+### http://www.lululemon.co.uk
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### *.lululemon.com
+- Website Testing
+
+
+## Whatfix
+### whatfix.com/bugcrowd_pentest/
+- Java
+- Cloudflare CDN
+- Wordpress
+- MySQL
+- jQuery
+- Handlebars
+- Website Testing
+- PHP
+- Modernizr
+
+
+### whatfix.com/bugcrowd_pentest1/
+- Java
+- Cloudflare CDN
+- Wordpress
+- MySQL
+- jQuery
+- Handlebars
+- Website Testing
+- PHP
+- Modernizr
+
+
+### Whatfix Editor Extension (see below for details)
+- Website Testing
+
+
+### Whatfix Embed on website/ application (see below for details)
+- Website Testing
+
+
+### Whatfix Desktop Player
+- C#
+- .NET
+- Desktop Application Testing
+
+
+### Whatfix Desktop Editor 
+- C#
+- .NET
+- Desktop Application Testing
+
+
+### whatfix.com
+- Website Testing
+
+
+## Aruba Networks Public Program
+### *.arubanetworks.com
+- Website Testing
+
+
+### http://outdoorplanner.arubanetworks.com/
+
+
+### *.atl.arubanetworks.com
+
+
+### *.getaws.arubanetworks.com
+
+
+### asp-notifications.arubanetworks.com
+
+
+### quickconnect.arubanetworks.com
+
+
+### community.arubanetworks.com
+
+
+### *.iot.developer.arubanetworks.com
+
+
+### innovate.arubanetworks.com
+
+
+### *.isb.arubanetworks.com
+
+
+### enews.arubanetworks.com
+
+
+### sirt.arubanetworks.com
+
+
+## Regions Bank Vulnerability Disclosure Program 
+###  *.firststerling.com
+- Website Testing
+
+
+### *.regions.com
+- Finance
+- Bootstrap
+- jQuery
+- Handlebars
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### *.regions.us
+- Website Testing
+
+
+### *.regions6x.com
+- Website Testing
+
+
+### *.regionsapps.com
+- Website Testing
+
+
+### *.regionsdev.com
+- Website Testing
+
+
+### *.regionsmortgage.com
+- Website Testing
+
+
+### *.regionsqa.com
+- Website Testing
+
+
+### *.regionsretirement.com
+- Website Testing
+
+
+### *.regionssource.com
+- Website Testing
+
+
+### https://*.regions.com
+- Finance
+- Bootstrap
+- jQuery
+- Handlebars
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### *.rgbk.com
+- Website Testing
+
+
+### *.enerbank.com
+- Website Testing
+
+
+### *.sabal.com
+- Website Testing
+
+
+### *.clearsightadvisors.com
+- Website Testing
+
+
+## Acorns Grow, Inc.
+### https://app.acorns.com
+
+
+### Acorns for iOS
+- iOS
+
+
+### Acorns for Android
+- Android
+
+
+### https://signup.acorns.com/
+- Website Testing
+- Javascript
+
+
+### https://client.acorns.com
+
+
+### https://help.acorns.com
+- jQuery
+
+
+### https://graphql.acorns.com
+- GraphQL
+
+
+### *.acorns.com
+
+
+## Intercom
+### iOS SDK
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Android SDK
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://api.intercom.io
+- API Testing
+
+
+### https://app.intercom.com
+- Ruby
+- Ruby on Rails
+- Website Testing
+
+
+### https://app.intercom.io
+- Ruby
+- Ruby on Rails
+- Website Testing
+
+
+### *.intercomassets.com / *.intercomcdn.com
+
+
+## Sprout Social
+### jobboard.sproutsocial.com
+- Website Testing
+
+
+### Anything that CNAMEs to a third party
+
+
+### *.sproutsocial.com/wp-includes
+- Website Testing
+
+
+### sproutsocial.com/wp-includes
+- Website Testing
+
+
+### pagely.sproutsocial.com
+- Website Testing
+
+
+### app.sproutsocial.com
+- Cloudflare CDN
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### app.sproutsocial.com/api
+- API Testing
+- HTTP
+
+
+### media.sproutsocial.com
+- Website Testing
+
+
+### sproutsocial.com
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### sproutsocial.com/insights
+- Wordpress
+- AWS
+- MySQL
+- Amazon Cloudfront
+- Website Testing
+- PHP
+
+
+### sproutsocial.com/adapt/
+- Website Testing
+
+
+### sproutsocial.com/es/
+- Website Testing
+
+
+### sproutsocial.com/pt/
+- Website Testing
+
+
+### cms.sproutsocial.com/mktapi
+- API Testing
+- HTTP
+
+
+### Sprout Social for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Sprout Social for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### getbambu.com
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### api.sproutsocial.com
+- API Testing
+
+
+### share.sproutsocial.com
+- Website Testing
+
+
+### sprout.link
+- Website Testing
+
+
+## Cash App
+### Cash App Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Cash App Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### *.cash.app
+- Ruby
+- ReactJS
+- Ruby on Rails
+- jQuery
+- Website Testing
+
+
+### *.cashstaging.app
+- Website Testing
+
+
+### *.joinverse.com
+- API Testing
+- Website Testing
+
+
+### *.verse.me
+- API Testing
+- Website Testing
+
+
+### *.verse.events
+- API Testing
+- Website Testing
+
+
+## Kistler Vulnerability Disclosure Program
+### 217.110.71.13
+
+
+### 91.223.79.0/24
+
+
+### 165.84.187.114
+
+
+### 165.84.187.115
+
+
+### 165.84.187.117
+
+
+### 165.84.187.123
+
+
+### 108.17.0.3
+
+
+### 108.17.0.6
+
+
+### 108.17.0.8
+
+
+### 108.17.0.11
+
+
+### 108.17.0.12
+
+
+### 108.17.0.26
+
+
+### 108.17.0.30
+
+
+### *.kistudiolab.kistler.com
+
+
+### *.hub.kistler.com
+
+
+### *.dsl.kistler.com
+
+
+### 176.52.204.69
+
+
+## Jora
+### *.jora.com
+- Ruby
+- Ruby on Rails
+- Website Testing
+
+
+### *.jora.xyz
+- API Testing
+- Website Testing
+
+
+### https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### *.joralocal.com.au	
+- Website Testing
+
+
+## Opera Public Bug Bounty
+### Opera PC
+- macOS
+- Windows
+- Binary Analysis
+
+
+### Opera GX
+- macOS
+- Windows
+- Binary Analysis
+
+
+### www.opera.com
+- Django
+- Website Testing
+- Python
+
+
+### auth.opera.com
+- Django
+- Website Testing
+- Python
+
+
+### accounts.opera.com
+- API Testing
+
+
+### speeddials.opera.com
+- API Testing
+
+
+### flow.opera.com
+- API Testing
+
+
+### autoupdate.geo.opera.com
+- API Testing
+
+
+### net.geo.opera.com
+- Website Testing
+
+
+### get.geo.opera.com
+- API Testing
+- nginx
+- Website Testing
+
+
+### download.opera.com
+- Django
+- Website Testing
+- Python
+
+
+### browser-notifications.opera.com
+- API Testing
+
+
+### Opera for Android 
+- Android
+- Mobile Application Testing
+
+
+### Opera Mini
+- Android
+- Mobile Application Testing
+
+
+### Opera GX for Android
+- Android
+- Mobile Application Testing
+
+
+### Apex Football
+- Android
+- Mobile Application Testing
+
+
+### Opera News
+- Android
+- Mobile Application Testing
+
+
+### GameMaker Studio 2
+- Binary Analysis
+
+
+### Loomi.tv
+- Website Testing
+
+
+### www.gamemaker.io
+- Vue.js
+- Ruby
+- Ruby on Rails
+- Website Testing
+
+
+### bugs.opera.com
+- Website Testing
+
+
+### cashback.opera.com
+- Website Testing
+
+
+### *.osp.opera.software
+- API Testing
+- Website Testing
+
+
+### *.opera.software
+- Website Testing
+
+
+### *.opera.com
+- Website Testing
+
+
+### *.opera.technology
+- API Testing
+
+
+### *.yoyogames.com
+- API Testing
+
+
+### https://gx.games
+- Website Testing
+
+
+### https://create.gx.games
+- Website Testing
+
+
+### https://api.gx.games/gxc
+- API Testing
+
+
+### https://api.gx.games/dc
+- API Testing
+
+
+### *.sec-tunnel.com
+- API Testing
+
+
+### weather.opera-api.com
+- API Testing
+
+
+### merchandise.opera-api.com
+- API Testing
+
+
+### blocklist.opera-api.com
+- API Testing
+
+
+### marketplace.yoyogames.com
+- Website Testing
+
+
+### push.opera.com
+- API Testing
+
+
+### exchange.opera.com
+- API Testing
+
+
+### suggestions.opera-api.com
+- API Testing
+
+
+### gx.opera-api.com
+- API Testing
+
+
+### cdn-store.opera-api.com
+- API Testing
+
+
+### features.opera-api.com
+- API Testing
+
+
+### cryptowallet.opera-api.com
+- API Testing
+
+
+### *.oleads.com
+- Vue.js
+- Website Testing
+
+
+### *.dailyadvent.com
+- Website Testing
+
+
+### *.apex-football.com
+- Website Testing
+
+
+### *.operafootball.com
+- Website Testing
+
+
+### *.opera-mini.net
+- API Testing
+
+
+### *.opera.news
+- API Testing
+
+
+### *.operanewsapp.com
+- API Testing
+
+
+### *.feednews.com
+- API Testing
+
+
+### 203.89.100.0/22
+- API Testing
+
+
+### 195.189.143.0/24
+- API Testing
+
+
+### 185.26.180.0/22
+- API Testing
+
+
+### 141.0.8.0/21
+- API Testing
+
+
+### 107.167.96.0/19
+- API Testing
+
+
+### 103.83.120.0/22
+- API Testing
+
+
+### 102.23.96.0/22
+- API Testing
+
+
+### 91.203.96.0/22
+- API Testing
+
+
+### 82.145.208.0/20
+- API Testing
+
+
+### 77.111.244.0/22
+- API Testing
+
+
+### 37.228.104.0/21
+- API Testing
+
+
+### investor.opera.com
+
+
+### help.yoyogames.com
+
+
+### bugs.yoyogames.com
+
+
+### admanager.opera.com
+
+
+### accountsstage.yoyogames.com
+
+
+### certs.opera.com
+
+
+### checkout.opera.com
+
+
+### control.gx-servers.opera.com
+
+
+### help.gx-servers.opera.com
+
+
+### verizon-us-seattle.opera-mini.net
+
+
+### verizon-us-lvs-seattle.opera-mini.net
+
+
+### verizon-us-lvs-ashburn.opera-mini.net
+
+
+### s2{1,2}-05-08-v09.opera-mini.net
+
+
+### 107.167.127.4{0,1}
+
+
+### jobs.opera.com
+
+
+### interstitial.opera-mini.net
+
+
+## 20 Minuten
+### https://www.20min.ch
+- ReactJS
+- Varnish
+- AWS
+- Amazon Cloudfront
+- jQuery
+- Website Testing
+- NodeJS
+- Javascript
+
+
+### https://api.20min.ch/
+- API Testing
+- HTTP
+
+
+### https://amp.20min.ch
+- ReactJS
+- Amazon Cloudfront
+- Website Testing
+- NodeJS
+
+
+### https://comment-moderation-stats.20min.ch
+- Website Testing
+
+
+### https://coral.20min.ch/
+- ReactJS
+- nginx
+- Website Testing
+
+
+### https://partner-feeds.20min.ch
+- Website Testing
+
+
+### https://pcm-api.beta.20min.ch
+- Website Testing
+
+
+### https://pcm-admin.beta.20min.ch/
+- AWS
+- nginx
+- Website Testing
+
+
+### https://pcm-imaginary.beta.20min.ch/
+- API Testing
+
+
+### https://pcm.beta.20min.ch
+- Website Testing
+
+
+### https://pcm-api.20min.ch
+- Website Testing
+
+
+### https://pcm-admin.20min.ch
+- Website Testing
+
+
+### https://pcm-imaginary.20min.ch
+- Website Testing
+
+
+### https://pcm.20min.ch
+- Website Testing
+
+
+### https://screenplayer.20min.ch
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### https://videoplayer.20min.ch
+- AWS
+- Amazon Cloudfront
+- nginx
+- Website Testing
+
+
+### https://myshop.20min.ch
+- PHP
+- HTTP
+- Symfony
+
+
+### https://tgt.tamedia.ch
+
+
+### http://auth.20min.ch
+
+
+### https://cre-api.tamedia.ch
+
+
+### https://track.20min.ch
+
+
+### https://*.connect.ringier.ch
+
+
+### *.onelog.ch
+
+
+### *.iagentur.ch
+
+
+### *.streamboat.ch
+
+
+### Social Media Links (older than 2 years)
+
+
+### Other Domains and Subdomains not specifically in scope
+
+
+### Subdomain Takeover 
+
+
+### DMARC, SPF, DKIM
+
+
+### *.appuser.ch
+
+
+### *.streamboatserver.ch
+
+
+### *.20min-tv.ch
+
+
+### *.newsnetz.tv
+
+
+##  Comcast Xfinity Vulnerability Disclosure Program
+### *.xfinity.com	
+- ReactJS
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### *.comcast.com
+- ReactJS
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+
+
+### *.sys.comcast.net
+- Website Testing
+
+
+### https://business.comcast.com/account
+- ReactJS
+- ASP.NET
+- jQuery
+- Windows
+- Lodash
+- Website Testing
+- Microsoft IIS
+
+
+### Internet - All devices, including Broadband Gateways
+- Hardware Testing
+
+
+### TV - Xfinity hardware and services
+- Hardware Testing
+
+
+### Flex - Xfinity hardware and services
+- Hardware Testing
+
+
+### Voice - Hardware and service
+- Hardware Testing
+
+
+### Mobile Apps	iOS and Android
+- Java
+- Android
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Kotlin
+- iOS
+
+
+### Xfinity Home
+- Hardware Testing
+
+
+## 23andMe
+### you.cag.us-west-2.int.23andme.us
+- jQuery
+- Lodash
+- Website Testing
+
+
+### auth.cag.us-west-2.int.23andme.us
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### api.cag.us-west-2.int.23andme.us
+- API Testing
+- HTTP
+
+
+### store.23andme.com
+- Django
+- jQuery
+- Website Testing
+- Python
+- Modernizr
+
+
+### auth.23andme.com
+
+
+### you.23andme.com
+- Website Testing
+
+
+### api.23andme.com
+- API Testing
+
+
+### Open Source
+- Github
+
+
+### mediacenter.23andme.com
+- Cloudflare CDN
+- Wordpress
+- Bootstrap
+- MySQL
+- Select2
+- jQuery
+- Website Testing
+- PHP
+
+
+### blog.23andme.com
+- Cloudflare CDN
+- Wordpress
+- Bootstrap
+- MySQL
+- Select2
+- jQuery
+- Website Testing
+- PHP
+
+
+### therapeutics.23andme.com
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### research.23andme.com
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### education.23andme.com
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### medical.23andme.com
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### 23andme.mybrightsites.com
+- Website Testing
+
+
+### customercare.23andme.com
+- Website Testing
+
+
+### gis.us-west-2.live.23andme.us
+
+
+### gis.23andme.com
+
+
+### click.mail.23andme.com
+
+
+## SmartThings Vulnerability Disclosure
+### SmartThings Hub
+- IoT
+
+
+### SmartThings Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### SmartThings Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### SmartThings Rest APIs
+- API Testing
+- HTTP
+
+
+### SmartThings Graph Console
+- Website Testing
+
+
+## OLX Autos
+### *.olx.in
+- Akamai CDN
+- ReactJS
+- Website Testing
+- Newrelic
+
+
+### *.letgo.com
+- Website Testing
+
+
+### *.olx.id
+- Website Testing
+
+
+### *.otoplus.com
+- Akamai CDN
+
+
+### *.321sprzedane.pl
+- Website Testing
+
+
+### *.olxautos.cl
+- Akamai CDN
+- API Testing
+- Website Testing
+
+
+### *.olxautos.com.mx
+- Akamai CDN
+- Website Testing
+
+
+### *.olxautos.in
+- Website Testing
+
+
+### *.olx-autos.com.ar
+- Website Testing
+
+
+### *.olxautos.com.co
+- Website Testing
+
+
+### *.olxautos.co.id
+- Website Testing
+
+
+## codefortynine
+### https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1221733/external-data-for-confluence?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219288/comment-history-log-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1215055/slack-for-confluence?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219807/version-sync-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1220964/snipe-it-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-confluence?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1219994/external-data-for-jira-fields?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1222206/jamf-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
+- Website Testing
+
+
+### https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?hosting=cloud
+- Website Testing
+
+
+## Canva
+### *.canva.com
+- Java
+- MySQL
+- Recon
+- Website Testing
+- DNS
+- Javascript
+
+
+### Canva (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Binary Analysis
+- Kotlin
+
+
+### Canva (iOS)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Binary Analysis
+- iOS
+
+
+### Canva (Chrome Extension)
+- Browser Extension
+- Javascript
+
+
+### *.canva.cn
+- Recon
+- Website Testing
+- DNS
+
+
+### Canva Developer Platform
+
+
+### *.canva-apps.com
+
+
+### *.canva-apps.cn
+
+
+### livecast.canva.cn
+
+
+## Centrify
+### pod23.centrify.com
+- Website Testing
+
+
+### pod12.centrify.com
+- Website Testing
+
+
+###                 Centrify Privilege Service Portal
+- Website Testing
+
+
+### Centrify Service API
+- API Testing
+- HTTP
+
+
+### Centrify Agent for Windows
+
+
+### Centrify Cloud Connector
+
+
+### Local Client Launcher 
+
+
+### account.io.centrify.com	
+- Website Testing
+
+
+### account-api.io.centrify.com	
+- API Testing
+
+
+### www.centrify.com	
+- Cloudflare CDN
+- Varnish
+- Bootstrap
+- Drupal
+- MariaDB
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+- Newrelic
+- PHP
+
+
+### Centrify  iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Centrify Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Centrify Browser Extension
+
+
+## Docusign: Vulnerability Disclosure Program
+### All Docusign apps and assets not listed under the Out of Scope list 
+
+
+### https://app.docusign.com/
+
+
+### https://www.docusign.net/Signing/
+
+
+### https://admin.docusign.com
+
+
+### https://account.docusign.com/
+
+
+### https://www.docusign.net/restapi/*
+
+
+### https://www.docusign.net/api/3.0/*
+
+
+### http://www.rooms.docusign.com/*
+
+
+### Any Docusign Customer Tenant
+
+
+## Arlo Cash Rewards
+### Arlo Safe Android App
+- Java
+- Android
+- Mobile Application Testing
+
+
+### Arlo Safe iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Arlo Secure Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Arlo Secure iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Arlo
+- IoT
+
+
+### Arlo All-In-One Sensor
+- IoT
+- Hardware Testing
+
+
+### Arlo Baby
+- IoT
+
+
+### Arlo Base Station
+- IoT
+
+
+### Arlo Bridge
+- IoT
+
+
+### Arlo Essential
+- IoT
+
+
+### Arlo Floodlight
+- IoT
+
+
+### Arlo Go
+- IoT
+
+
+### Arlo Home Security System
+- IoT
+- Hardware Testing
+
+
+### Arlo Pro
+- IoT
+
+
+### Arlo Pro 2
+- IoT
+
+
+### Arlo Pro 3
+- IoT
+
+
+### Arlo Pro 4
+- IoT
+
+
+### Arlo Q
+- IoT
+
+
+### Arlo Q+
+- IoT
+
+
+### Arlo Safe Button
+- IoT
+- Hardware Testing
+
+
+### Arlo Security Light
+- IoT
+
+
+### Arlo Ultra
+- IoT
+
+
+### Arlo Video Doorbell
+- IoT
+
+
+### Arlo Wireless Video Doorbell
+
+
+### https://arlo-device.messaging.netgear.com
+- API Testing
+
+
+### https://community.arlo.com
+- API Testing
+- Website Testing
+
+
+### https://downloads.arlo.com
+- Amazon S3
+
+
+### https://mcs.arlo.com
+- API Testing
+
+
+### https://my.arlo.com
+- API Testing
+- Java
+- Angular
+- Moment.js
+- Website Testing
+- Zone.js
+
+
+### https://myapi.arlo.com
+- API Testing
+
+
+### https://www.arlo.com
+- API Testing
+- AWS
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### https://updates.arlo.com
+- API Testing
+
+
+### https://updates.netgear.com/arlo
+- API Testing
+
+
+## Kenna Security
+### Any Kenna Security Platform Subdomain Not Created By You
+- Website Testing
+
+
+### https://www.kennasecurity.com
+- ReactJS
+- Website Testing
+
+
+### https://[your-subdomain].kennasecurity.com
+- Website Testing
+
+
+### https://api.kennasecurity.com
+- API Testing
+- HTTP
+
+
+### Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)
+
+
+## eero
+### eero Node
+- Hardware Testing
+
+
+### eero iOS Mobile Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### eero Android Mobile Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### eero APIs
+- API Testing
+- HTTP
+
+
+### http://foo.eero.com/
+- Website Testing
+
+
+## PlanetHoster
+### www.planethoster.com
+- Laravel
+- Bootstrap
+- jQuery
+- Website Testing
+- PHP
+
+
+### my.planethoster.com
+- Ruby
+- Bootstrap
+- Ruby on Rails
+- jQuery
+- nginx
+- Website Testing
+
+
+###  world.planethoster.net
+- Angular
+- jQuery
+- nginx
+- Website Testing
+- Zone.js
+
+
+### api.planethoster.net
+- API Testing
+- jQuery
+- HTTP
+
+
+### https://mg.n0c.com/
+- nginx
+- Website Testing
+
+
+## Directly
+### www.directly.com
+- Website Testing
+
+
+### *.sandbox.directly.com/schedule-a-demo/* OR /product/* OR /careers/* OR /about/* OR /legal/* OR /trust/*
+- Website Testing
+
+
+### resources.directly.com/*
+- Website Testing
+
+
+### https://sandbox.directly.com/dashboard/index
+- Java
+- AWS
+- Website Testing
+
+
+### *.sandbox.directly.com/
+- Java
+- AWS
+- Website Testing
+
+
+### app.sandbox.directly.com
+- Website Testing
+
+
+## Optimizely
+### https://app.optimizely.com/
+- jQuery
+- Lodash
+- Website Testing
+- Newrelic
+
+
+### https://api.optimizely.com/
+- API Testing
+- HTTP
+
+
+### https://api.prod.optimizely.com
+- API Testing
+
+
+### https://cdn.optimizely.com/
+- jQuery
+- Website Testing
+
+
+### https://cdn-pci.optimizely.com/
+- jQuery
+- Website Testing
+
+
+### https://optimizely-edge.com
+- Website Testing
+
+
+### https://dxc.episerver.net/ 
+- API Testing
+- Javascript
+
+
+### https://paasportal.episerver.net/
+- API Testing
+- Javascript
+
+
+### https://paasportal.episerver.net/api/v1.0/
+- API Testing
+- Javascript
+
+
+### https://app.welcomesoftware.com/
+- ReactJS
+- TypeScript
+- Website Testing
+- NodeJS
+
+
+### https://accounts.welcomesoftware.com/
+- Website Testing
+
+
+### https://api.welcomesoftware.com/ 
+- API Testing
+
+
+### https://cdn-app.welcomesoftware.com/
+- Website Testing
+
+
+### https://analytics.welcomesoftware.com/
+- Website Testing
+
+
+### https://www.optimizely.com/
+- Varnish
+- Erlang
+- jQuery
+- Lodash
+- Website Testing
+
+
+## Binance
+### *.binance.com
+- ReactJS
+- AWS
+- Amazon Cloudfront
+- Website Testing
+- NodeJS
+
+
+### api.binance.com
+- API Testing
+- HTTP
+- Cryptocurrency
+
+
+### *.bnbchain.org
+- ReactJS
+- AWS
+- Amazon Cloudfront
+- Website Testing
+- NodeJS
+
+
+### dex.binance.org
+- API Testing
+- HTTP
+- Cryptocurrency
+
+
+### BNB Beacon Chain
+- Cryptocurrency
+
+
+### binance.us
+- ReactJS
+- AWS
+- Amazon Cloudfront
+- Website Testing
+- UIKit
+- Cryptocurrency
+- NodeJS
+
+
+### Binance Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+- Cryptocurrency
+
+
+### Binance Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Cryptocurrency
+- iOS
+
+
+### Binance Desktop Application
+- Cryptocurrency
+- Desktop Application Testing
+
+
+### Binance macOS Application
+- macOS
+- Cryptocurrency
+
+
+### https://github.com/bnb-chain/tss-lib
+- Cryptography
+- Cryptocurrency
+
+
+### https://github.com/bnb-chain/bep3-smartcontracts
+- Cryptocurrency
+
+
+### https://github.com/bnb-chain/bep3-deputy
+- Cryptocurrency
+
+
+### https://github.com/bnb-chain/ledger-app-binance
+- Cryptocurrency
+
+
+### Trustwallet Android App
+
+
+### Trustwallet iOS App
+
+
+### https://github.com/trustwallet/wallet-core/
+
+
+### BNB Smart Chain
+
+
+### https://github.com/bnb-chain/bsc-genesis-contract
+
+
+### https://github.com/bnb-chain/bsc-relayer
+
+
+### https://github.com/bnb-chain/oracle-relayer
+
+
+### https://github.com/bnb-chain/bsc
+
+
+### Binance Wallet - Chrome Extension
+
+
+### Binance Wallet - Firefox Extension
+
+
+### Binance Connect
+- Java
+- AWS
+- HTTP
+- Cryptocurrency
+
+
+### support.binance.*
+- Website Testing
+
+
+### community.binance.org
+- Website Testing
+
+
+### *.trustwallet.com
+
+
+### *.trustwalletapp.com
+
+
+### *.binance.org
+
+
+### *.buildnbuild.dev
+
+
+### binance.sg
+- ReactJS
+- Website Testing
+- Cryptocurrency
+- NodeJS
+
+
+## Octopus
+### *.octopus.app
+- Website Testing
+
+
+### myget.octopus.com
+
+
+### artifactorysample.octopus.com
+
+
+### bamboosample.octopus.com
+
+
+### jenkinssample.octopus.com
+
+
+### teamcitysample.octopus.com
+
+
+### nexussample.octopus.com
+
+
+### octopus.com
+- .NET
+- Bootstrap
+- ASP.NET
+- Website Testing
+- Microsoft IIS
+
+
+### *.octopus.com
+- Network Testing
+- API Testing
+- Website Testing
+
+
+### Octopus Deploy Git Repo
+- Code review
+- Website Testing
+- Static Code Analysis
+
+
+## Skyscanner
+### Corporate Email (*@skyscanner.net)
+
+
+### *.skyscanner.net
+- ReactJS
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+- Lua
+
+
+### skyscanner.net/*
+- ReactJS
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+- Lua
+
+
+### gateway.skyscanner.net/*
+- API Testing
+- HTTP
+
+
+### Skyscanner iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Skyscanner Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### partnerportal.skyscanner.net/*
+- ExpressJS
+- ReactJS
+- Website Testing
+- NodeJS
+
+
+### skyscanner.net/hotels/book/*
+- ReactJS
+- jQuery
+- nginx
+- Lodash
+- Website Testing
+
+
+## Stellantis 
+### Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
+
+
+### www.driveuconnect.com
+- Java
+- Adobe Experience Manager
+- ReactJS
+- jQuery
+- Lodash
+- Handlebars
+- Website Testing
+
+
+### www.driveuconnect.eu
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
+- Android
+
+
+### https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
+- iOS
+
+
+### https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
+- iOS
+
+
+### Any host/web property or products verified to be owned by Stellantis (domains/IP space/etc.) but not listed in Primary targets.
+
+
+## Personal Capital
+### https://devstaging.pcapcloud.com/*
+- Java
+- jQuery
+- Website Testing
+- Static Code Analysis
+- Javascript
+
+
+## WestJet's Vulnerability Disclosure Program
+### www.westjet.com
+- Akamai CDN
+- Bootstrap
+- jQuery
+- Lodash
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### www.flyswoop.com
+- Cloudflare CDN
+- Website Testing
+- Azure
+
+
+### travel.westjet.com
+- API Testing
+- HTTP
+
+
+### biz.westjet.com
+- Website Testing
+
+
+## Bitdefender
+### *.bitdefender.com
+- jQuery
+- Website Testing
+- Newrelic
+- PHP
+
+
+### *.bitdefender.net
+- jQuery
+- Website Testing
+- Newrelic
+- PHP
+
+
+### Bitdefender Total Security
+
+
+### Bitdefender GravityZone Business Security 
+
+
+### Bitdefender Antimalware Engines
+
+
+### partner-marketing.bitdefender.com/
+
+
+### *ntsa* (domains, services, apps)
+
+
+## Mastercard SRC
+### https://src.mastercard.com/profile/enroll
+- Vue.js
+- Website Testing
+
+
+### https://src.mastercard.com/*
+- Website Testing
+
+
+### SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
+- Vue.js
+- Website Testing
+
+
+### https://masterpassteststore.com/
+- Vue.js
+- Website Testing
+
+
+### https://www.mastercard.us/en-us/personal/ways-to-pay/click-to-pay.html
+- Website Testing
+
+
+### https://checkout.mastercard.com/
+- Java
+- Adobe Experience Manager
+- Bootstrap
+- HTML
+- jQuery
+- Website Testing
+
+
+### https://secure.checkout.visa.com/*
+- Akamai CDN
+- ReactJS
+- Website Testing
+
+
+## Tesla
+### Any domains from acquisitions, such as maxwell.com
+- Website Testing
+
+
+### employeefeedback.tesla.com
+- Website Testing
+
+
+### energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)
+- Website Testing
+
+
+### engage.tesla.com
+- Website Testing
+
+
+### feedback.tesla.com
+- Website Testing
+
+
+### feedback.teslamotors.com
+- Website Testing
+
+
+### ir.teslamotors.com
+- Website Testing
+
+
+### ir.tesla.com
+- Website Testing
+
+
+### mkto.teslamotors.com
+- Website Testing
+
+
+### shop.eu.teslamotors.com
+- Website Testing
+
+
+### Any other third-party websites hosted by non-Tesla entities
+- Website Testing
+
+
+### A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)
+- Hardware Testing
+
+
+### *.tesla.com
+- Akamai CDN
+- Varnish
+- Drupal
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.tesla.cn
+- Akamai CDN
+- Cloudflare CDN
+- Varnish
+- Drupal
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.teslamotors.com
+- Website Testing
+
+
+### *.tesla.services
+- Website Testing
+
+
+### *.teslainsuranceservices.com
+- Website Testing
+
+
+### *.solarcity.com
+- Website Testing
+
+
+### Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+- Website Testing
+
+
+### Official Tesla Android apps
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Official Tesla iOS apps
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+## Viator
+### iOS Viator Tours & Activities App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Android Viator Tours & Activities App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://supplier.viator.com/
+- ReactJS
+- Lodash
+- Website Testing
+
+
+### https://viatorapi.viator.com/service/directory
+- API Testing
+- HTTP
+
+
+### https://www.toursgds.com/
+- API Testing
+- HTTP
+
+
+### https://www.toursgds.com/ToursGdsService?wsdl
+- API Testing
+- HTTP
+
+
+### https://www.toursgds.com/SupplierService?wsdl
+- API Testing
+- HTTP
+
+
+### https://partners.viator.com
+- Bootstrap
+- Select2
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### travelagents.viator.com
+
+
+### https://help.supplier.viator.com/en
+
+
+### kiwi.partner.viator.com
+
+
+### *.viatorinc.com
+- Website Testing
+
+
+### selector.viator.com
+
+
+### partnerhelp.viator.com/
+
+
+### *.viator.com
+
+
+### *.rc.viator.com
+
+
+### *.sandbox.viator.com
+- Website Testing
+
+
+### *.partner.viator.com
+
+
+### agentcenter.viator.com
+
+
+### operatorresources.viator.com
+
+
+### partnerresources.viator.com
+
+
+## Cloudways
+### platform.cloudways.com
+- Angular
+- jQuery
+- Website Testing
+- Newrelic
+- PHP
+
+
+### api.cloudways.com
+- API Testing
+- HTTP
+
+
+### developers.cloudways.com
+- API Testing
+- Bootstrap
+- jQuery
+- HTTP
+
+
+### https://support.cloudways.com/
+- Website Testing
+
+
+### https://www.cloudways.com/
+- Website Testing
+
+
+## Unilever Vulnerability Disclosure Program
+### https://unilever.com/
+- Select2
+- jQuery
+- Handlebars
+- Website Testing
+- Newrelic
+- Microsoft IIS
+
+
+### *.glowandlovelycareers.in/en/
+- Angular
+- jQuery
+- Website Testing
+
+
+### *.pureitwater.com/IN/
+- Laravel
+- jQuery
+- Website Testing
+
+
+### *.tiendavirtual.mutual-all.com.ar/
+- jQuery
+- Website Testing
+
+
+### *.kbright.com.sg/
+- jQuery
+- Website Testing
+
+
+### https://www.unileverlife.com/
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://sedal.com.mx
+- Java
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### *.stives.com/
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### http://www.popsicle.ca/fr/
+- Java
+- jQuery
+- Website Testing
+
+
+### https://www.benjerry.at
+- Akamai CDN
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
+### *.hellmanns.com/uk/
+- Akamai CDN
+- jQuery
+- RequireJS
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### https://www.ufs.com/
+- Akamai CDN
+- Java
+- jQuery
+- Lodash
+- Website Testing
 
 
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### *.rin.in/
+- Akamai CDN
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
+### *.close-up.com/
 - Java
 - jQuery
 - Website Testing
 
 
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
+### *.kwalitywalls.in/home.html
+- Akamai CDN
 - MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### *.pepsodent.com/
+- Akamai CDN
+- Java
+- jQuery
+
+
+### *.tresemme.com
 - Website Testing
 
 
-### Mashable Site 
-- MySQL
+### *.lifebuoy.com
 - Website Testing
 
 
-### Other Ziff Davis assets
-
-
-### Extreme Tech
+### *.axe.com
 - Website Testing
 
 
-### Best Blackfriday
+### http://www.ponds.com.mx/
+
+
+### https://www.rexona.com/ar/
+
+
+### *.knorr.com
+
+
+### *.degreedeodorant.com
+
+
+### *.uniquelyunilever.com
+
+
+### *. magnumicecream.com
+
+
+### *. caress.us
+
+
+### *. lovehomeandplanet.com
+
+
+### *. emergebeautiful.com
+
+
+### https://www.simpleskincare.com/arabia/ar
 - Website Testing
 
 
-### PCMag AU
+### *. lovebeautyandplanet.com
+
+
+### *.lipton.com
+
+
+### https://www.zendium.co.uk/
+
+
+### *.yulaenergy.com
+
+
+### *.yukmulaibijakplastik.com
+
+
+### *.YoungEntrepreneursAwards.Unilever.com
+
+
+### *.whitenow.com
+
+
+### *.whatsfordinner.co.za
+
+
+### *.weareul.com
+
+
+### *.wa-na.unileversolutions.com
+
+
+### *.wallsthailand.com
+
+
+### *.wakacjezknorr.pl
+
+
+### *.voteuntukimpianku.com
+
+
+### *.VO5.co.uk
+
+
+### *.vivaelagua.com.mx
+
+
+### https://www.vim.ca/fr-CA/home.html
 - Website Testing
 
 
-### Managed Care
-- Website Testing
+### *.veksthus.knorr.no
 
 
-### Tech Hub Box
-- Website Testing
+### *.uttcentraldb.com
 
 
-### Red Dead Redemption 2 Map
-- Website Testing
+### *.urbanmonkey.sk
 
 
-### Offers
-- Website Testing
+### *.Uol-maint.unilever.com
 
 
-### Inside CRM
-- Website Testing
+### *.unox.nl
 
 
-### myMS Care
-- Website Testing
+### *.vazoplintirio.gr
 
 
-### MapELEMENTS
-- Website Testing
+### kwery.unileversolutions.com/us-en
 
 
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
+### *.klondikebar.com/
 - Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
+- Bootstrap
+- MySQL
 - jQuery
 - Website Testing
+- Newrelic
+- PHP
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
+### *.jornadababydove.com.br
+- Website Testing
+
+
+### *.joko.co.za/en
+- Website Testing
+
+
+### *.unilever.ro/
+- Website Testing
+
+
+### *.getsetclean.in/in/hi
+- Website Testing
+
+
+### *.Algida.pl
+- Website Testing
+
+
+### *.unilever.com.br/
+- Website Testing
+
+
+### *.neutral.lv
 - Java
-- Vue.js
-- Angular
+- jQuery
 - Website Testing
 
 
-### https://www.thousandeyes.com/
+### *.missionsignal.fr
 - Java
+- jQuery
+- Website Testing
+
+
+### *.unilever.gr/
+- Website Testing
+
+
+### *.promocjeunilever.pl
+- Website Testing
+
+
+### *.folicure.com.mx
+- Website Testing
+
+
+### *.clearhaircare.com/sg/
+- Website Testing
+
+
+### *.unileverhealth.co.za
+- Website Testing
+
+
+### *.toolkithomecare.com
+
+
+### ufs.com/
+- Website Testing
+
+
+### *.sunsilk.co.id
+- Website Testing
+
+
+### *.ingman.fi/
+- Website Testing
+
+
+### *.suave.com/us/en
+- Website Testing
+
+
+### *.lovehomeandplanet.com/
+- Website Testing
+
+
+### *.zmrzlina-misa.sk/
+- Website Testing
+
+
+### *.conimex.nl
+- Website Testing
+
+
+### *.mx.recepedia.com/
+- Website Testing
+
+
+### *.elidor.com.tr
+- Website Testing
+
+
+### https://www.pukkaherbs.com/uk/en/
+- Website Testing
+
+
+### *.br.recepedia.com/
+- Website Testing
+
+
+### *.skinsei.com/
+- Website Testing
+
+
+### *.domestos.com/pl/home.html
+- Website Testing
+
+
+### *.bedhead.com/uk/
+- Website Testing
+
+
+### *.zest.com.mx/
+- Website Testing
+
+
+### https://www.zmrzlina-misa.cz/
+- Website Testing
+
+
+### http://zwitsal.be/be/fr/
+- Website Testing
+
+
+### horlicks.in
+- Website Testing
+
+
+### https://selfservices.unileversolutions.com/login.aspx
+- Website Testing
+
+
+### https://www.hellmanns.com/es/home.html
+- Website Testing
+
+
+### https://www.surfshine.co.za/
+- Website Testing
+
+
+### www.sedal.com.co/home.html
+- Website Testing
+
+
+### https://www.sedal.com.ec/home.html
+- Website Testing
+
+
+### http://www.sedal.com.pe
+- Website Testing
+
+
+### https://www.sedal.co.cr/home.html
+- Website Testing
+
+
+### https://www.sedal.com.ar/inicio.html
+- Website Testing
+
+
+### https://www.sedal.cl/home.html
+- Website Testing
+
+
+### http://www.vim.com.ar
+- Website Testing
+
+
+### https://www.vim.ca/home.html
+- Website Testing
+
+
+### http://www.popsicle.ca/en
+- Website Testing
+
+
+### https://www.popsicle.com/us/en
+- Website Testing
+
+
+### https://www.benjerry.be/
+- Website Testing
+
+
+### https://www.benjerry.ch/
+- Website Testing
+
+
+### http://www.benjerry.co.il/
+- Website Testing
+
+
+### https://www.benjerry.co.nz/
+- Website Testing
+
+
+### https://www.benjerry.co.th/
+- Website Testing
+
+
+### http://www.benjerry.co.uk
+- Akamai CDN
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
+### https://www.benjerry.com/
+- Website Testing
+
+
+### https://www.benjerry.com.pr/
+- Website Testing
+
+
+### https://www.benjerry.com.sg
+- Website Testing
+
+
+### https://www.benjerry.de/
+- Akamai CDN
+- jQuery
+- Website Testing
+
+
+### https://www.benjerry.dk/
+- Website Testing
+
+
+### https://www.benjerry.fi/
+- Website Testing
+
+
+### https://www.benjerry.fr/
+- Website Testing
+
+
+### https://www.benjerry.ie/
+- Website Testing
+
+
+### https://www.benjerry.it
+- Website Testing
+
+
+### https://www.benjerry.nl/
+- Website Testing
+
+
+### https://www.benjerry.no/
+- Website Testing
+
+
+### https://www.ponds.com.ar
+- Website Testing
+
+
+### https://www.ponds.com/arabia/en/home.html
+- Website Testing
+
+
+### https://www.ponds.com/co/home.html
+- Website Testing
+
+
+### https://www.ponds.com/id/home.html
+- Website Testing
+
+
+### https://www.ponds.com/pk/home.html
+- Website Testing
+
+
+### https://www.ponds.com/th/home.html
+- Website Testing
+
+
+### https://www.ponds.com/us/en/home.html
+- Website Testing
+
+
+### https://www.ponds.com/us/es/home.html
+- Website Testing
+
+
+### https://www.ponds.com/vn/home.html
+- Website Testing
+
+
+### https://www.ponds.com/pe/home.html
+- Website Testing
+
+
+### http://www.rexona.com.pe
+- Website Testing
+
+
+### https://www.rexona.com/se/home.html
+- Website Testing
+
+
+### https://www.rexona.com/arabia/ar/
+- Website Testing
+
+
+### https://www.rexona.com/arabia/en/home.html
+- Website Testing
+
+
+### https://www.rexona.com/at/home.html
+- Website Testing
+
+
+### https://www.rexona.com/au/home.html
+- Website Testing
+
+
+### https://www.rexona.com/ch/home.html
+- Website Testing
+
+
+### https://www.rexona.com/cl
+- Website Testing
+
+
+### https://www.rexona.com/co/home.html
+- Website Testing
+
+
+### https://www.rexona.com/cz/home.html
+- Website Testing
+
+
+### https://www.rexona.com/de/home.html
+- Website Testing
+
+
+### https://www.rexona.com/dk
+- Website Testing
+
+
+### https://www.rexona.com/eg/ar/
+- Website Testing
+
+
+### https://www.rexona.com/eg/en/
+- Website Testing
+
+
+### https://www.rexona.com/es/home.html
+- Website Testing
+
+
+### https://www.rexona.com/fi/home.html
+- Website Testing
+
+
+### https://www.rexona.com/hu/home.html
+- Website Testing
+
+
+### https://www.rexona.com/id/home.html
+- Website Testing
+
+
+### https://www.simpleskincare.com/arabia/en
+- Website Testing
+
+
+### https://www.simpleskincare.com/au
+- Website Testing
+
+
+### https://www.simpleskincare.com/br
+- Website Testing
+
+
+### https://www.simpleskincare.com/ca/en
+- Website Testing
+
+
+### https://www.simpleskincare.com/ca/fr
+- Website Testing
+
+
+### https://www.simpleskincare.com/id
+- Website Testing
+
+
+### https://www.simpleskincare.com/il/en
+- Website Testing
+
+
+### https://www.simpleskincare.com/il/he
+- Website Testing
+
+
+### https://www.simpleskincare.com/mx
+- Website Testing
+
+
+### https://www.simpleskincare.com/my
+- Website Testing
+
+
+### https://www.simpleskincare.com/no
+- Website Testing
+
+
+### https://www.simpleskincare.com/ph
+- Website Testing
+
+
+### https://www.simpleskincare.com/pt
+- Website Testing
+
+
+### https://www.simpleskincare.com/sg
+- Website Testing
+
+
+### https://www.simpleskincare.com/th
+- Website Testing
+
+
+### https://magento.volle-truhe.at/
+- eCommerce
+
+
+### magento.volle-truhe.at/distributor/account/
+- eCommerce
+
+
+### https://online.frisko.dk/B2B
+- eCommerce
+
+
+### https://online.frisko.dk/customer/account/login/
+- eCommerce
+
+
+### https://www.pukkaherbs.com/pl
+- Website Testing
+
+
+### https://www.pukkaherbs.com/arabia/ar
+- Website Testing
+
+
+### https://www.pukkaherbs.com/au/en
+- Website Testing
+
+
+### https://www.pukkaherbs.com/ch/fr
+- Website Testing
+
+
+### https://www.pukkaherbs.com/fr/fr
+- Website Testing
+
+
+### https://www.pukkaherbs.com/fi/fi
+- Website Testing
+
+
+### https://www.pukkaherbs.com/ch/de
+- Website Testing
+
+
+### https://www.pukkaherbs.com/se/sv
+- Website Testing
+
+
+### https://www.pukkaherbs.com/ca/en
+- Website Testing
+
+
+### https://www.pukkaherbs.com/us/en
+- Website Testing
+
+
+### https://www.pukkaherbs.com/be/nl
+- Website Testing
+
+
+### https://www.pukkaherbs.com/no/no
+- Website Testing
+
+
+### https://www.pukkaherbs.com/arabia/en
+- Website Testing
+
+
+### https://www.pukkaherbs.com/be/fr
+- Website Testing
+
+
+### https://www.pukkaherbs.com/it/it
+- Website Testing
+
+
+### yulaenergy.com/es/en
+- Website Testing
+
+
+### https://www.zest.com.mx/
+- Website Testing
+
+
+### https://www.yumos.com/home.html
+- Website Testing
+
+
+### xedex-centroamerica.com/home.html
+- Website Testing
+
+
+### https://www.winnenmetunilever.nl/
+- Website Testing
+
+
+### https://www.weis.com.au/
+- Website Testing
+
+
+### https://webmail.unileverservices.com/
+- Website Testing
+
+
+### https://www.weareul.com/
+- Website Testing
+
+
+### https://www.wallsthailand.com/home.html
+- Website Testing
+
+
+### https://www.wallsicecream.com/id/home.html
+- Website Testing
+
+
+### https://www.wallsicecream.com/uk/home.html
+- Website Testing
+
+
+### https://www.walls.com.my/home.html
+- Website Testing
+
+
+### https://www.wallpaintingunilever.com/WP/
+- Website Testing
+
+
+### https://www.visopises.com/
+- Website Testing
+
+
+### https://www.via.se/home.html
+- Website Testing
+
+
+### https://www.vasenol.com.br/
+- Website Testing
+
+
+### https://www.vaseline.jp/
+- Website Testing
+
+
+### https://www.vaseline.com/za/en
+- Website Testing
+
+
+### https://www.vaseline.com/us/es
+- Java
+- Adobe Experience Manager
+- jQuery
+- Lodash
+- Website Testing
+- Newrelic
+
+
+### vaseline.com/us/en
+- Website Testing
+
+
+### https://www.vaseline.com/th/th
+- Website Testing
+
+
+### https://www.vaseline.com/my/en
+- Website Testing
+
+
+### https://www.vaseline.com/lk/en
+- Website Testing
+
+
+### https://www.vaseline.com/in/en
+- Website Testing
+
+
+### https://www.vaseline.com/id/id
+- Java
+- Adobe Experience Manager
+- Website Testing
+- Newrelic
+
+
+### https://www.vaseline.com/ca/fr
+- Website Testing
+
+
+### https://www.vaseline.com/ca/en
+- Website Testing
+
+
+### https://www.vaseline.com/arabia/en
+- Website Testing
+
+
+### vaseline.com.tr
+- Website Testing
+
+
+### uukpf.co.uk
+- Website Testing
+
+
+### us.therollingcone.com
+- Website Testing
+
+
+### www.urbanmonkey.cz
+- Website Testing
+
+
+### unileverfll.pl
+- Website Testing
+
+
+### unicornci.unileverservices.com
+- Website Testing
+
+
+### www.ufsplusprogram.com.my
+- Website Testing
+
+
+### uni-care.shop
+- Website Testing
+
+
+### https://www.unilever-pro-nutrition-sante.fr/
+- Website Testing
+
+
+### https://www.tresemme.com/us/en/home.html
+- Website Testing
+
+
+### https://www.u-connect.co.in/
+- Website Testing
+
+
+### https://uclub.unilever.tw/
+- Website Testing
+
+
+### www.tresemmeprofissional.com.br
+- Website Testing
+
+
+### www.tresemme.com/vn/home.html
+- Website Testing
+
+
+### www.tresemme.com/uy/home.html
+- Website Testing
+
+
+### www.tresemme.com/za/home.html
+- Website Testing
+
+
+### www.tresemme.com/us/en/home.html
+- Website Testing
+
+
+### www.tresemme.com/uk/preference-center/preference-optin.html
+- Website Testing
+
+
+### www.tresemme.com/uk/home.html
+- Website Testing
+
+
+### www.tresemme.com/ua
+- Website Testing
+
+
+### https://www.tresemme.com/th/home.html
+- Website Testing
+
+
+### https://www.tresemme.com/sk/home.html
+- Website Testing
+
+
+### https://www.tresemme.com/se/home.html
+- Website Testing
+
+
+### https://www.tresemme.com/ru/home.html
+- Website Testing
+
+
+### https://www.tresemme.com/pl/home.html
+- Website Testing
+
+
+### https://www.tresemme.com/ph/home.html
+- Website Testing
+
+
+### https://nasuafesta.kibon.com.br/mcom/#/index
+- Website Testing
+
+
+### https://us.maille.com/
+- Website Testing
+
+
+### https://uk.maille.com/
+- Website Testing
+
+
+### https://fr.maille.com/
+- Website Testing
+
+
+### https://personalisedpgtips.co.uk/products/pg-tips-customisable-mug
+- Website Testing
+
+
+### https://www.tajmahalteahouse.com/
+- Website Testing
+
+
+### https://theushop.ca/
+- Website Testing
+
+
+### https://lakmeindia.com/
+- Website Testing
+
+
+### https://skinsei.com/
+- Website Testing
+
+
+### https://www.unishopturkiye.com/
+- Website Testing
+
+
+### https://www.clubdebeneficios.com/
+- Website Testing
+
+
+### https://icecreamshopus.com/
+- Website Testing
+
+
+### https://www.unileverencasa.cl
+- Website Testing
+
+
+### https://u-shop.vn/
+- Website Testing
+
+
+### https://consumer.m-mart.store/log-in/
+- Website Testing
+
+
+### https://www.u-shop.co.il
+- Website Testing
+
+
+### https://sklepfirmowyunilever.pl/access/
+- Website Testing
+
+
+### https://www.mimarketclub.com/
+- Website Testing
+
+
+### https://shopee.com.my/unishop.my
+- Website Testing
+
+
+### https://www.theushop.in/
+- Website Testing
+
+
+### https://www.whatsfordinner.co.za/
+- Website Testing
+
+
+### https://www.fissan.com/
+- Website Testing
+
+
+### https://www.fluocaril.fr/
+- Website Testing
+
+
+### https://www.pepsodent.fi/home.html/
+- Website Testing
+
+
+### https://www.findyourhappyplace.in/
+- Website Testing
+
+
+### https://sa.unidukan.com/
+- Website Testing
+
+
+### https://www.urbanmonkey.ro/
+- Website Testing
+
+
+### https://shop.marmite.co.uk/
+- Website Testing
+
+
+### https://wallsrefrigerationsolutions.com/
+- Website Testing
+
+
+### https://www.pureitwater.com/
+- Website Testing
+
+
+### https://unilever-professional.com/
+- Website Testing
+
+
+### https://vedayush.co.uk/
+- Website Testing
+
+
+### https://ferverskincare.com/
+- Website Testing
+
+
+### https://personalisedpgtips.co.uk/products/pg-tips-customisable-mug 
+- eCommerce
+
+
+### https://www.marmite.co.uk/the-marmite-shop.html
+- eCommerce
+
+
+### www.theushop.ca
+- eCommerce
+
+
+### https://magento.volle-truhe.at/	
+- eCommerce
+
+
+### https://magento.volle-truhe.at/distributor/account/login/
+- eCommerce
+
+
+### online.frisko.dk/
+- eCommerce
+
+
+### online.frisko.dk/customer/account/login/
+- eCommerce
+
+
+### https://www.regeneratenr5.co.uk/
+- eCommerce
+
+
+### https://www.regeneratenr5.fr/
+- eCommerce
+
+
+### https://regeneratenr5.it/
+- eCommerce
+
+
+### https://regeneratenr5.es/
+- eCommerce
+
+
+### https://regeneratenr5.com.br/
+- eCommerce
+
+
+### https://zendium.shop/
+- eCommerce
+
+
+### www.ustore.lk
+- eCommerce
+
+
+### https://www.unishopza.com/account/login?checkout_url=/
+- eCommerce
+
+
+### https://unileverstaff.shop/
+- eCommerce
+
+
+### https://ushop.co.ke/
+- eCommerce
+
+
+### https://tryunilever.com/
+- eCommerce
+
+
+### https://unilever.shop/
+- eCommerce
+
+
+### https://unishopus.com/account/login?checkout_url=/
+- eCommerce
+
+
+### www.ushopbd.com
+- eCommerce
+
+
+### https://shop.lakmesalon.in/
+- eCommerce
+
+
+### https://ubeautyzone.com/
+- eCommerce
+
+
+## Wise (ex-TransferWise)
+### transferwise.com
+- Java
+- Cloudflare CDN
+- ReactJS
+- AWS
+- Javascript
+
+
+### *.transferwise.com
+- Java
+- Cloudflare CDN
+- ReactJS
+- AWS
+- Website Testing
+- Javascript
+
+
+### wise.com
+- Java
+- Cloudflare CDN
+- ReactJS
+- AWS
+- Javascript
+
+
+### *.wise.com
+- Java
+- Cloudflare CDN
+- ReactJS
+- AWS
+- Website Testing
+- Javascript
+
+
+### Latest version of Wise iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Latest version of Wise Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### AWS infrastructure and services in use by Wise (eg: S3 buckets)
+- AWS
+
+
+### github.com/transferwise/*
+- Github
+- Recon
+
+
+### Wise Affiliate Program
+- Website Testing
+
+
+### Third party services not hosted by Wise
+- Website Testing
+
+
+### Any Github asset not under the “transferwise” organization
+- Github
+- Recon
+
+
+### Third party authentication services (eg: Facebook and Google)
+- Website Testing
+
+
+### https://transferwise.com/help/contact
+- Website Testing
+
+
+### https://wise.com/help/contact
+- Website Testing
+
+
+### *.tw.com
+- Website Testing
+
+
+### *.tw.ee
+- Website Testing
+
+
+### Non-current version of the Android app
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Non-current version of the iOS app
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### *.transferwise.tech
+- Website Testing
+
+
+### brand.wise.com
+- Website Testing
+
+
+### links.wise.com
+- Website Testing
+
+
+### widgets.transferwise.com
+- Website Testing
+
+
+### brand.transferwise.com
+- Website Testing
+
+
+### bootstrap.transferwise.com
+- Website Testing
+
+
+### links.transferwise.com
+- Website Testing
+
+
+### status.wise.com
+- Website Testing
+
+
+### status.transferwise.com
+- Website Testing
+
+
+### tech.transferwise.com
+- Website Testing
+
+
+## Takeaway.com
+### *.takeaway.com
+- Cloudflare CDN
+- Bootstrap
+- Website Testing
+- PHP
+
+
+### *.thuisbezorgd.nl
+- Website Testing
+- PHP
+
+
+### *.lieferando.de
+- Moment.js
+- jQuery
+- Website Testing
+- PHP
+
+
+### *.lieferando.at
+
+
+### *.yourdelivery.de
+- Website Testing
+
+
+### *.scoober.com
+- Cloudflare CDN
+- Wordpress
+- Website Testing
+- PHP
+
+
+### *.citymeal.com
+- Cloudflare CDN
+- Wordpress
+- Website Testing
+- PHP
+
+
+### *.just-eat.fr
+
+
+### *.eat.ch
+
+
+### *.just-eat.no
+
+
+### *.just-eat.dk
+
+
+### https://takeawaypayapi-ase.tenbis-ase.p.azurewebsites.net/api
+- API Testing
+
+
+### https://takeawaypay-internal-api-ase.tenbis-ase.p.azurewebsites.net/
+- API Testing
+
+
+### restaurant-api.takeaway.com
 - API Testing
 - HTTP
 
 
-### ThousandEyes Enterprise Agent
-- Linux
+### https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
 
 
-### ThousandEyes Endpoint Agent 
-- Windows
+### https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
 
 
-### https://blog.thousandeyes.com/
+### *.pyszne.pl
+- Moment.js
+- jQuery
+- Website Testing
+- PHP
+
+
+### *.bistro.sk
+
+
+### https://takeawaypay.azurefd.net/en/takeawaypay/
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### careers.takeaway.com
 
 
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### www.takeaway.com/foodwiki/
+
+
+### https://www.lieferando.de/thetakeaway/
+
+
+### www.takeaway.com/drivers
+
+
+### www.takeaway.com/deals
+
+
+### www.thuisbezorgd.nl/aanmelden
+
+
+### shop.thuisbezorgd.nl
+
+
+### tv.takeaway.com
+
+
+### newsletter.thuisbezorgd.nl
+
+
+### static.thuisbezorgd.nl
+
+
+### dev.takeaway.com/html/
+
+
+### brand.takeaway.com
+
+
+### intranet.takeaway.com
+
+
+### www.status-takeaway.com/status
+
+
+### cloud.*.*.*
+
+
+### *.10bis.co.il
+
+
+### atarkasher.co.il
+
+
+### *.justeattakeaway.com
+
+
+### https://www.justeat.it/rider
+
+
+### https://*.takeawayriders.com/ 
+
+
+### https://status-takeaway.com/status.
+
+
+### https://www.lieferando.at/en/vouchercode/new-customer
+- Website Testing
+
+
+### https://www.lieferando.at/gutschein/neukunde
+- Website Testing
+
+
+### www.integration-takeaway.com
+
+
+## BitDiscovery
+### *.bitdiscovery.com
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
+### Any publicly facing asset of BitDiscovery (ASNs, domains, ip addresses, etc)
+- Recon
+- DNS
 
 
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
+### assetinventory.bugcrowd.com
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
+## MasterCard VDP
+### Core Priceless.com - demo.priceless.com
+- Moment.js
+- jQuery
+- nginx
+- Website Testing
+- Javascript
 
 
-### ThousandEyes Enterprise Agent
-- Linux
+### https://global-learning.mastercard.com
+- Website Testing
+- Javascript
 
 
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
+### https://mpos.mastercard.com
+- Java
+- Bootstrap
+- HTML
+- jQuery
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### https://pathway.mastercard.com
+- Wordpress
+- MySQL
+- Select2
+- Amazon Cloudfront
+- jQuery
+- Website Testing
+- PHP
 
 
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### https://smartdatademo.mastercard.com
+- Java
+- jQuery
+- Website Testing
+
+
+### https://cashpickup.mastercard.com
+- Wordpress
+- Bootstrap
+- MySQL
+- HTML
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://Globalrisk.mastercard.com
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://isencaoderolha.mastercard.com.br/
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://procurement.mastercard.com
+- Bootstrap
+- HTML
+- jQuery
+- Website Testing
+
+
+### https://tasteofpremium.jp
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://graphic.mastercard.com/mastercard-innovation-forum-2018/ES/website/index.html
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
+### https://cocreation.mastercard.com/default
+- jQuery
+- nginx
+- Website Testing
 
 
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
+### https://partners.mastercard.com/en-us/issuers/
+- Bootstrap
+- jQuery
+- Website Testing
+- Javascript
+
+
+### https://lacinnovation.mastercard.com/
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://europe.priceless.com/shb
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### https://learning.mastercard.com/
+- Website Testing
+
+
+### https://www.mastercardbiz.ca/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://eu.mastercard.com/a/az/qiymetsiz
+- Wordpress
+- Bootstrap
+- MySQL
+- Moment.js
+- jQuery
+- Lodash
+- Website Testing
+- PHP
+
+
+### https://priceless.com/golf/
+- ReactJS
+- ASP.NET
+- nginx
+- Windows
+- Website Testing
+- Microsoft IIS
 - NodeJS
 
 
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
+### https://pricelesssurprises.com/
+- Ruby
 - Angular
+- Bootstrap
+- Ruby on Rails
 - jQuery
-- Lodash
+- nginx
 - Website Testing
-- Javascript
 - Modernizr
 
 
-### www.safetyvideos.gov
+### https://priceless.com/aa/
+- ReactJS
+- Moment.js
+- ASP.NET
 - jQuery
-- Lodash
+- nginx
 - Website Testing
-- Javascript
+- NodeJS
 - Modernizr
 
 
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
+### https://priceless.com/aviator/
 - ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
+- Bootstrap
+- ASP.NET
+- jQuery
 - nginx
+- Website Testing
+- NodeJS
+- Modernizr
 
 
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
+### https://priceless.com/citiaadvantage/
 - ReactJS
+- Bootstrap
+- ASP.NET
+- jQuery
+- Website Testing
+- NodeJS
+- Modernizr
+
+
+### https://mastercardbiz.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://newsroom.mastercard.com/
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### https://citypossible.com
+- Wordpress
+- MySQL
+- jQuery
 - nginx
+- Website Testing
+- PHP
+
+
+### https://news.mastercard.com/
+- HTML
+- jQuery
+- Website Testing
+- PHP
+
+
+### https://europe.priceless.com/
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### https://cxresearch.mastercard.com
 - Website Testing
 
 
-### https://analytics.indeed.com
-- nginx
+### https://mtf.mastercard.co.za/en-za.html
+- Java
+- Adobe Experience Manager
+- jQuery
 - Website Testing
 
 
-### https://my.indeed.com
-- ReactJS
-- nginx
+### https://inclusivegrowthscore.com/
+- Bootstrap
+- jQuery
 - Website Testing
 
 
-### https://profile.indeed.com
-- ReactJS
-- nginx
+### https://app.inclusivegrowthscore.com/
+- Bootstrap
+- ReactNative
+- jQuery
 - Website Testing
+- NodeJS
 
 
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+## Mettle
+### Mettle Android Application
+- Java
 - Android
 - Mobile Application Testing
+- Kotlin
 
 
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
+### Mettle iOS Application
+- Objective-C
+- SwiftUI
+- Swift
 - Mobile Application Testing
 - iOS
 
 
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
+### web-app.eevee.bbp-mettle.co.uk
 - Website Testing
 
 
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
+### ops-tool.internal.bbp-mettle.co.uk
 - Website Testing
 
 
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
+### *.bbp-mettle.co.uk
+
+
+## Naspers
+### development.naspers.com
 - Website Testing
 
 
-### *.rmit.edu.vn
+### development-nasperspolicy.naspers.com
 - Website Testing
 
 
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
+### development-naspersbrand.naspers.com
+- Website Testing
 
 
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
+### development-prosus.naspers.com
+- Website Testing
 
 
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
+### https://52.151.73.49/
 
 
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
+### https://learn.myacademy.io/
+- Website Testing
+
+
+### *.naspers.com
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.naspers.fr
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.naspers.us
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.naspersventures.com
+- Website Testing
+
+
+### *.naspers.co
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.naspers.co.in
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+### *.prosus.com
+- Cloudflare CDN
+- ASP.NET
+- jQuery
+- Website Testing
+- Microsoft IIS
+
+
+## Atlassian
+### Atlassian Access (https://admin.atlassian.com/atlassian-access)
+- Website Testing
+
+
+### Atlassian Admin (https://admin.atlassian.com/)
+- Website Testing
+
+
+### Atlassian Identity (https://id.atlassian.com/login)
+- API Testing
+- Website Testing
+
+
+### Atlassian Start (https://start.atlassian.com)
+- Website Testing
+
+
+### Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
+- Django
+- Website Testing
+
+
+### Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
+- Website Testing
+
+
+### Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
+- Website Testing
+
+
+### Confluence Cloud Mobile App for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Confluence Cloud Mobile App for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Jira Cloud Mobile App for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Jira Cloud Mobile App for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
+- Website Testing
+
+
+### Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
+- Website Testing
+
+
+### Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
+- Java
+- ReactJS
+- Redux
+- Website Testing
+- Spring
+
+
+### Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+
+
+### Atlassian Compass
+
+
+### Atlassian Marketplace (https://marketplace.atlassian.com)
+- Website Testing
+
+
+### Atlassian Atlas
+- Website Testing
+
+
+### Bitbucket Server
+- Django
+- ReactJS
+- Website Testing
+- Python
+
+
+### Confluence Server
+- Java
+- jQuery
+- Website Testing
+- Spring
+- TinyMCE
+
+
+### Crowd
+- API Testing
+- Java
+- Website Testing
+- Spring
+
+
+### Jira Core Server
+- Java
+- ReactJS
+- jQuery
+- Website Testing
+- Spring
+
+
+### Jira Service Management Server
+- Java
+- ReactJS
+- jQuery
+- Website Testing
+- Spring
+
+
+### Jira Software Server
+- Java
+- ReactJS
+- jQuery
+- Website Testing
+- Spring
+
+
+### *.atlastunnel.com
+- Website Testing
+
+
+### Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
+- Website Testing
+
+
+### Bamboo
+- API Testing
+- Java
+- ReactJS
+- Website Testing
+- Spring
+
+
+### Confluence Companion App for macOS and Windows
+
+
+### Confluence Server Mobile App for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Confluence Server Mobile App for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Crucible
+- Java
+- Website Testing
+- Spring
+
+
+### FishEye
+- Java
+- Website Testing
+- Spring
+
+
+### Jira Server Mobile App for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Jira Server Mobile App for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
+- macOS
+- Windows
 - Desktop Application Testing
 
 
-### ArubaOS-CX Wired Switches
-- Network Testing
+### Other - (all other Atlassian targets)
+
+
+### Jira Product Discovery
+
+
+### Forge Platform
+- Website Testing
+- NodeJS
+
+
+### GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 - API Testing
-- Binary Analysis
+- GraphQL
 
 
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
+### https://www.npmjs.com/package/@forge/cli
+- Lodash
+- Website Testing
+- NodeJS
+
+
+### Any repository that you are not an owner of - do not impact Atlassian customers in any way.
+- Website Testing
+
+
+### Any internal or development services.
+- Website Testing
+
+
+### First and third party apps and plugins from the marketplace are excluded from this bounty but may be in scope for https://bugcrowd.com/atlassianapps
+- Website Testing
+
+
+### shop.atlassian.com
+- Website Testing
+
+
+###  bytebucket.org
+- Website Testing
+
+
+### *.bitbucket.io
+- Recon
+- Website Testing
+- DNS
+
+
+### https://blog.bitbucket.org
+- Website Testing
+
+
+### HipChat (inc. HipChat Data Center, HipChat Desktop, HipChat Mobile)
+
+
+### Stride (inc. Stride Video, Stride Desktop, Stride Mobile)
+
+
+## HealthifyMe's Vulnerability Disclosure Program
+### behtarkhao.healthifyme.com 
+- Website Testing
+
+
+### *.healthifyme.com
+- Akamai CDN
 - Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
+- jQuery
+- nginx
 - Website Testing
 
 
-### Aruba InstantOn
-- Network Testing
+### https://play.google.com/store/apps/details?id=com.healthifyme.basic&hl=en
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### https://itunes.apple.com/in/app/healthifyme-weight-loss-coach/id943712366?mt=8
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)
+- Website Testing
+
+
+## SoundCloud
+### soundcloud.com
+- Ruby
+- ReactJS
+- Scala
+- Website Testing
+
+
+### *.soundcloud.com
 - API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
+- Ruby
+- ReactJS
+- Scala
 - Website Testing
 
 
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
+### SoundCloud Android app
+- Java
+- Mobile Application Testing
+- Kotlin
 
 
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
+### SoundCloud iOS app
+- Objective-C
+- Swift
+- Mobile Application Testing
+
+
+### *.services.repostnetwork.com
+- API Testing
+- Java
 - jQuery
 - Website Testing
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
+### *.soundcloud.org
+
+
+### soundcloud.org
+
+
+### *.s-cloud.net
+
+
+### http://artists.soundcloud.com/
+
+
+### advertising.soundcloud.com
 - Website Testing
 
 
-### https://www.thousandeyes.com/
+### blog.soundcloud.com
+- Website Testing
+
+
+###  community.soundcloud.com
+- Website Testing
+
+
+### contest.soundcloud.com
+- Website Testing
+
+
+### copyright.soundcloud.com
+- Website Testing
+
+
+### help.soundcloud.com
+- Website Testing
+
+
+### jobs.soundcloud.com
+- Website Testing
+
+
+### press.soundcloud.com
+- Website Testing
+
+
+### playback.soundcloud.com
+- Website Testing
+
+
+### playerone.soundcloud.com
+- Website Testing
+
+
+### promote.soundcloud.com
+- Website Testing
+
+
+### scdrops.soundcloud.com
+- Website Testing
+
+
+### status.soundcloud.com
+- Website Testing
+
+
+### soundcloudmail.com
+- Website Testing
+
+
+## Mastercard (VDP Extension)
+### https://stage.services.mastercard.com/dxp/send/email
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/form/submit
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/twitter/timeline?screenName=MastercardUK
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/twitter/hashtag?hashtag=Priceless
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/search/dm-mccom
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/suggest/dm-mccom
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/captcha/generate
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/offers/getofferdetails/8e6a1d47-0489-4cd6-9263-b349b30b91fc
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dxp/offers/getofferdetails/774cc452-1f91-49d9-8a95-5c896ee70b63
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/reply
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/comment/dislike
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/comment/like
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/reply/like
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/reply/dislike
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/feedback?
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/feedback
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/user/comment
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/moderator/comment
+- API Testing
+- HTTP
+
+
+### https://stage.services.mastercard.com/dm/ugc/moderator/comment/pending
+- API Testing
+- HTTP
+
+
+### Mastercard Receipt Management iOS Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Mastercard Receipt Management Android Application
 - Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+## Opsgenie
+### Opsgenie Production (billing systems, third parties)
+- Website Testing
+
+
+### Any internal or development services.
+- Website Testing
+
+
+### app.opsgenie.com
+- Angular
+- jQuery
+- Lodash
+- Website Testing
+- Newrelic
+
+
+### mobileapp.opsgenie.com
+- Website Testing
+
+
+### *.opsgenie.com
+- Vue.js
+- Recon
+- Amazon S3
+- Amazon Cloudfront
+- jQuery
+- Website Testing
+- DNS
+
+
+### Opsgenie (IoS)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Opsgenie (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+## Telefónica Germany
+### https://www.alditalk.de
+- Website Testing
+
+
+### https://www.udldigital.de
+- Website Testing
+
+
+### https://www.wayra.co.uk
+- Website Testing
+
+
+### https://mobilfunk.tchibo.de
+- Website Testing
+
+
+### https://www.think-big.org
+- Website Testing
+
+
+### *.k-classic-mobil.de
+- Bootstrap
+- jQuery
+- Website Testing
+- Zone.js
+
+
+### *.pool.telefonica.de 
+- Website Testing
+
+
+### *.telefonica.de
+- jQuery
+- nginx
+- Website Testing
+
+
+### *.o2online.de
+- Varnish
+- Bootstrap
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
-- Website Testing
-
-
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### *.o2.de
+- Varnish
 - Bootstrap
-- jQuery
-- Website Testing
-
-
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
-- Website Testing
-
-
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### *.o2business.de
+- Varnish
 - Bootstrap
-- jQuery
-- Website Testing
-
-
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
-- API Testing
-- C#
-- .NET
-
-
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://analytics.indeed.com
-- nginx
-- Website Testing
-
-
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
-- jQuery
-- Website Testing
-
-
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
 - Moment.js
 - jQuery
 - Website Testing
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
+### *.o2service.de
+- jQuery
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### *.o2spin.de
+- ASP.NET
+- jQuery
+- Windows
+- Website Testing
+- Microsoft IIS
 
 
-## Redox
-### 10x.redoxengine.com
-- ReactJS
+### *.alditalk-kundenbetreuung.de
+- jQuery
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### *.ayyildiz.de
+- ASP.NET
+- jQuery
+- RequireJS
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.base.de
+- Cloudflare CDN
+- jQuery
+- Website Testing
+
+
+### *.blau.de
+- Varnish
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
+### *.einfachprepaid.de
+- jQuery
+- Website Testing
 
 
-### testapp.redoxengine.com
+### *.epos.vertriebspartner.de.o2.com
+- Website Testing
+
+
+### *.fonic.de
+
+
+### *.fonic-mobile.de
+- Vue.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### *.mediamarkt.o2service.de
+- Bootstrap
+- jQuery
+- Website Testing
+- Zone.js
+
+
+### *.mein.aetkasmart.de
+- Website Testing
+
+
+### *.mein.simfinity.de
+- Bootstrap
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### *.nettokom.de
+- jQuery
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### *.netzclub.net
+- Bootstrap
+- jQuery
+- jQuery Mobile
+- Website Testing
+- PHP
+
+
+### *.norma-mobil.de
+- Website Testing
+- PHP
+
+
+### *.ortelmobile.de
+- jQuery
+- Website Testing
+
+
+### *.saturn.o2service.de
+- Bootstrap
+- jQuery
+- Zone.js
+
+
+### *.sim-karte-aktivierung.blauworld.de
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### *.turkei-sim.de
+- jQuery
+- Website Testing
+
+
+### https://vertriebspartner.de.o2.com/partos
+- Website Testing
+
+
+### *.whatsappsim.de
+- ASP.NET
+- Windows
+- RequireJS
+- Website Testing
+- Microsoft IIS
+- Modernizr
+
+
+### Mein O2 iOS Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Mein O2 Android Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### PartOS iOS Application 
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### PartOS Android Application 
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### O2 Business iOS Application
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### O2 Business Android Application
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### *.nova-mobil.de
+- Website Testing
+
+
+## Trello
+### First party (made-by-trello) power-ups other than those inscope are excluded from this program but can be reported to http://bugcrowd.com/atlassianapps
+- Website Testing
+
+
+### e.trello.com
+- Website Testing
+
+
+### help.trello.com
+- Website Testing
+
+
+### trello-attachments.s3.amazonaws.com
+- Website Testing
+
+
+### trello.com
+- ReactJS
+- jQuery
+- Website Testing
+
+
+### api.trello.com
+- Website Testing
+
+
+### *.trello.services
+- Recon
+- Website Testing
+- DNS
+
+
+### Trello Desktop Client
+- Github
+- Recon
+
+
+### Trello Mobile App for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Trello Mobile App for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Butler for Trello
+- Website Testing
+
+
+### Calendar Power-Up
+
+
+### Card Aging Power-Up
+
+
+### List Limits Power-Up
+
+
+### Voting Power-Up
+
+
+### Microsoft Teams Integration
+
+
+## Overstock's Vulnerability Disclosure Page!
+### www.overstock.com
+- Akamai CDN
+- ReactJS
+- Bootstrap
+- jQuery
+- Handlebars
+- RequireJS
+- Website Testing
+- Modernizr
+
+
+### http(s)://api.overstock.com
 - API Testing
-- ExpressJS
+- ReactJS
+- jQuery
 - HTTP
+
+
+### Overstock Android Mobile App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Overstock iOS Mobile App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### cars.overstock.com
+- Website Testing
+
+
+### pets.overstock.com
+- Website Testing
+
+
+### *.overstock.com
+- Akamai CDN
+- ReactJS
+- Recon
+- jQuery
+- Handlebars
+- RequireJS
+- Website Testing
+- DNS
+- Modernizr
+
+
+### *.supplieroasis.com
+- Bootstrap
+- jQuery
+- Website Testing
+
+
+### overstockgovernment.com
+- ReactJS
+- Lodash
+- Website Testing
 - NodeJS
 
 
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
-- Website Testing
-
-
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
+### *.overstockgovernment.com
 - ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
-- iOS
-
-
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
-- Android
-
-
-### Step iOS app
-- Finance
-- iOS
-
-
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
-- Website Testing
-
-
-### *.otodom.pl
-- Website Testing
-
-
-### *.otomoto.pl
-- Website Testing
-
-
-### *.olx.pt
-- Website Testing
-
-
-### *.olx.pl
-- Website Testing
-
-
-### *.imovirtual.com
-- Website Testing
-
-
-### *.standvirtual.com
-- Website Testing
-
-
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
 - Lodash
 - Website Testing
-- Javascript
-- Modernizr
+- NodeJS
 
 
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
-
-
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
-
-
-### staging-api.gearset.com
+### checkout.overstockgovernment.com
 - API Testing
-- C#
-- .NET
 
 
-### api.gearset.com
-
-
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
+###  www.overstock.ca 
 - Website Testing
 
 
-### https://analytics.indeed.com
-- nginx
+### *.handmade.com 
+
+
+### financehub.overstock.com
 - Website Testing
 
 
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
-- Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
-- Desktop Application Testing
-
-
-### ArubaOS-CX Wired Switches
-- Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
-- Website Testing
-- Hardware Testing
-
-
-### Aruba EdgeConnect Enterprise
-- Network Testing
-- Linux
-- IoT
-- Website Testing
-- Binary Analysis
-
-
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
-- Network Testing
-- API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
+### investors.overstock.com
 - Drupal
 - jQuery
+- nginx
+- Website Testing
+- PHP
+- Modernizr
+
+
+### blog.overstock.com
+- Wordpress
+- nginx
+- Website Testing
+- PHP
+
+
+### help.overstock.com
+- Bootstrap
 - Website Testing
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
+### miq.overstock.com
+
+
+### snow.overstock.com
 - Website Testing
 
 
-### https://www.thousandeyes.com/
-- Java
+### hotels.overstock.com
+- Website Testing
+
+
+## Under Armour AppSec
+### https://www.mapmyfitness.com
+- AWS
+- Amazon Cloudfront
+- nginx
+- NodeJS
+
+
+### https://www.mapmyrun.com
+- ExpressJS
+- Backbone
+- AWS
+- Amazon Cloudfront
+- nginx
+- NodeJS
+
+
+### https://www.mapmyride.com
+- Backbone
+- Amazon Cloudfront
+- jQuery
+- nginx
+- Handlebars
+- NodeJS
+
+
+### https://www.mapmywalk.com
+- AWS
+- Amazon Cloudfront
+- nginx
+- NodeJS
+
+
+### mapmyfitness.api.ua.com
+- AWS
+- Amazon Cloudfront
+- nginx
+
+
+### https://www.underarmour.com
+- ReactJS
 - Moment.js
 - jQuery
 - Website Testing
+- Newrelic
+- Modernizr
 
 
-### https://api.thousandeyes.com/
-- API Testing
-- HTTP
-
-
-### ThousandEyes Enterprise Agent
-- Linux
-
-
-### ThousandEyes Endpoint Agent 
-- Windows
-
-
-### https://blog.thousandeyes.com/
-- Website Testing
-
-
-### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
-- ReactJS
-- Bootstrap
+### https://www.underarmour.co.uk
+- Cloudflare CDN
 - jQuery
 - Website Testing
+- Modernizr
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
+### UA HOVR Equipped running shoe that you own or have authorization to test
 - Website Testing
 
 
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
+### UA Shop iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
 - iOS
 
 
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
+### UA Shop Android
+- Java
 - Android
+- Mobile Application Testing
+- Kotlin
 
 
-### Step iOS app
-- Finance
+### MapMyFitness  iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
 - iOS
 
 
-## OLX EU
-### payments.olx.com
-- AWS
+### MapMyFitness  Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+## Moneytree KK
+### app-staging.getmoneytree.com
+- Ruby
+- ReactJS
+- Ruby on Rails
+- Website Testing
+- Newrelic
+
+
+### jp-api-staging.getmoneytree.com 
+- API Testing
+- Ruby
+- Ruby on Rails
+- jQuery
+- Newrelic
+- HTTP
+
+
+### myaccount-staging.getmoneytree.com
+- API Testing
+- Ruby
+- ReactJS
+- Ruby on Rails
+- Newrelic
+- HTTP
+
+
+### wwws-staging.moneytree.jp/link/
+- Angular
+- Bootstrap
+- Moment.js
+- Amazon S3
 - Amazon Cloudfront
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### wwws-staging.moneytree.jp/link/mobile/
+- Angular
+- Bootstrap
+- Moment.js
+- Amazon S3
+- Amazon Cloudfront
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 - Website Testing
 
 
-### *.otodom.pl
+### Moneytree staging Android Mobile Application (see below)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Moneytree iOS Mobile Application (production; see below)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://engineering-staging.getmoneytree.com  
 - Website Testing
 
 
-### *.otomoto.pl
+### https://csv-uploader-staging.getmoneytree.com
 - Website Testing
 
 
-### *.olx.pt
+### https://vault-staging.getmoneytree.com
 - Website Testing
 
 
-### *.olx.pl
+### https://redash-staging.getmoneytree.com/
 - Website Testing
 
 
-### *.imovirtual.com
+### moneytree.jp
 - Website Testing
 
 
-### *.standvirtual.com
+### Any production asset of Moneytree KK (excepting the iOS app)
 - Website Testing
 
 
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
+### getmoneytree.com
+- Website Testing
+
+
+## Square Open Source
+### https://github.com/square/git-fastclone
+
+
+### https://github.com/square/go-jose
+
+
+### https://github.com/square/js-jose
+
+
+### https://github.com/square/keywhiz
+
+
+### https://github.com/square/keywhiz-fs
+
+
+### https://github.com/square/keysync
+
+
+### https://github.com/square/okhttp
+
+
+### https://github.com/square/okio
+
+
+### https://github.com/square/pam_krb_cache
+
+
+### https://github.com/square/ghostunnel
+
+
+### https://github.com/square/rails-auth
+
+
+### https://github.com/square/retrofit
+
+
+### https://github.com/square/squalor
+
+
+### https://github.com/square/sudo_pair
+
+
+### https://github.com/square/valet
+
+
+### https://github.com/square/wire
+
+
+## Etsy
+### Any publicly facing host owned by Etsy, including the below:
+- API Testing
+- Java
+- Android
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- Website Testing
+- Kotlin
+- HTTP
+- iOS
+
+
+### www.etsy.com
+- Varnish
+- jQuery
+- Google Cloud
+- Website Testing
+
+
+### Etsy Mobile Application (Android)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Etsy Mobile Application (iPhone)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Etsy API (see documentation below)
+- API Testing
+- HTTP
+
+
+### blog.etsy.com
+- Wordpress
+- MySQL
+- jQuery
+- Website Testing
+- PHP
+
+
+### community.etsy.com
 - Angular
 - jQuery
-- Lodash
 - Website Testing
-- Javascript
-- Modernizr
+- Newrelic
+- PHP
 
 
-### www.safetyvideos.gov
-- jQuery
-- Lodash
-- Website Testing
-- Javascript
-- Modernizr
+### etsypayments.com
 
 
-## Gearset: Managed Bug Bounty
-### staging.gearset.com
-- PostgreSQL
-- C#
-- .NET
-- ReactJS
-- AWS
-- TypeScript
-- Redux
-- Amazon S3
-- Javascript
+### help.etsy.com
 
 
-### staging-api.gearset.com
+### icht.etsysecure.com
 - API Testing
-- C#
-- .NET
+- HTTP
 
 
-### api.gearset.com
+## Cisco Meraki
+### *.meraki.com
+- Network Testing
+- Cloudflare CDN
+- Ruby on Rails
+- Scala
+- jQuery
+- RequireJS
+- Website Testing
+- Modernizr
 
 
-## Indeed
-### https://*.indeed.com
-- ReactJS
-- nginx
-
-
-### https://www.indeed.com
-
-
-### https://employers.indeed.com/
-- ReactJS
-- nginx
+### *.ikarem.io
 - Website Testing
 
 
-### https://analytics.indeed.com
-- nginx
+### *.network-auth.com
 - Website Testing
 
 
-### https://my.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://profile.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://account.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://billing.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://resumes.indeed.com
-- nginx
-- Website Testing
-
-
-### https://secure.indeed.com
-- ReactJS
-- nginx
-- Website Testing
-
-
-### https://m5.apply.indeed.com
-
-
-### https://interviews.indeed.com
-
-
-### https://apis.indeed.com/graphql
-- GraphQL
-
-
-### https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-- Android
+### Cisco Meraki Systems Manager
+- Network Testing
+- Linux
+- macOS
+- Windows
 - Mobile Application Testing
-
-
-### https://apps.apple.com/us/app/indeed-job-search/id309735670
-- Mobile Application Testing
-- iOS
-
-
-### https://*.indeed.tech
-
-
-### https://my.zapinfo.io (Chrome Extension)
-- Browser Extension
-
-
-### https://employer.simplyhired-staging.com
-
-
-### https://wowjobs.ca
-
-
-### Any host/web property verified to be owned by Indeed
-
-
-### https://*.chatbot.indeed.com
-
-
-### https://*.simplyhired.com (Production Applications)
-
-
-### https://t.indeed.com (Open Redirects)
-
-
-## CIBC VDP
-### Anything not explicitly listed as In Scope 
-
-
-### Simplii Financial 
-- Website Testing
-
-
-### CIBC FirstCaribbean International Bank (FCIB)
-
-
-### CIBC Bank USA
-
-
-### CIBC Mellon
-
-
-## ROKT Vulnerability Disclosure
-### Any asset that belongs to ROKT
-- Website Testing
-
-
-## RMIT University Vulnerability Disclosure Program
-### *.rmit.edu.au
-- Website Testing
-
-
-### *.rmit.edu.vn
-- Website Testing
-
-
-### Australia IP Ranges: 131.170.0.0/16 and 144.205.0.0/16
-- Network Testing
-
-
-### Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23
-- Network Testing
-
-
-## Aruba Networks Product Ongoing BB
-### Aruba Wireless – ArubaOS and Aruba Instant
-- Network Testing
-- WiFi
-- Binary Analysis
-- Hardware Testing
-
-
-### Aruba ClearPass Policy Manager
-- Network Testing
-- WiFi
-- Hardware Testing
 - Desktop Application Testing
 
 
-### ArubaOS-CX Wired Switches
+### Cisco Meraki Virtual Security Appliances
 - Network Testing
-- API Testing
-- Binary Analysis
-
-
-### Aruba EdgeConnect Enterprise Orchestrator
-- Network Testing
-- Linux
+- AWS
+- Google Cloud
 - Website Testing
-- Hardware Testing
+- Azure
 
 
-### Aruba EdgeConnect Enterprise
+### Cisco Meraki Dashboard Mobile Application (iOS and Android)
+- Android
+- Mobile Application Testing
+- iOS
+
+
+### Cisco Meraki MX Security Appliances
 - Network Testing
-- Linux
 - IoT
-- Website Testing
-- Binary Analysis
+- Hardware Testing
 
 
-### *central.arubanetworks.com
-- Website Testing
-
-
-### Aruba InstantOn
+### Cisco Meraki MS Switches
 - Network Testing
+- IoT
+- Hardware Testing
+
+
+### Cisco Meraki MR Access Points
+- Network Testing
+- IoT
+- Hardware Testing
+
+
+### Cisco Meraki MV Security Cameras
+- Network Testing
+- IoT
+- Surveillance and Security
+- Hardware Testing
+
+
+### Cisco Meraki Z Series (Z1,Z3(C))
+- Network Testing
+- IoT
+- Hardware Testing
+
+
+### meraki.cisco.com
+- Java
+- Cloudflare CDN
+- Adobe Experience Manager
+- jQuery
+- RequireJS
+- Website Testing
+- PHP
+- Modernizr
+
+
+### *.cisco.com
+
+
+## Bitdefender Box v2
+### Bitdefender Central (iOS App)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Bitdefender Central (Android App)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### central.bitdefender.com
+- Website Testing
+
+
+### Bitdefender BOX v2
+- IoT
+
+
+## Square
+### *.square.com
 - API Testing
-- AWS
-- Binary Analysis
-
-
-### Aruba AirWave AMP
-- Network Testing
-- Perl
-- Hardware Testing
-
-
-### Aruba User Experience Insight Sensors
-- Network Testing
-- Linux
-- AWS
-- Binary Analysis
-- Hardware Testing
-
-
-### *.arubanetworks.com not in scope above - see in scope
-- Website Testing
-
-
-## Roobet Vulnerability Disclosure Program
-### https://roobet.com/
-- Website Testing
-- Cryptocurrency
-
-
-## United States Patent and Trademark Office - Vulnerability Disclosure Program 
-### *.uspto.gov
-- Drupal
+- Ruby
+- Ruby on Rails
 - jQuery
 - Website Testing
 
 
-## ThousandEyes Bug Bounty
-### https://app.thousandeyes.com/
-- Java
-- Vue.js
-- Angular
-- Website Testing
-
-
-### https://www.thousandeyes.com/
-- Java
+### *.squareup.com
+- Ruby
+- Ruby on Rails
 - Moment.js
+- Select2
 - jQuery
+- Handlebars
+- Newrelic
+
+
+### Square Point of Sale Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Square Point of Sale Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### *.cash.me
 - Website Testing
 
 
-### https://api.thousandeyes.com/
+### Cash App Mobile Application for Android
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Any vulnerabilities found in Third-party software
+- Website Testing
+
+
+### Cash App Mobile Application for iOS
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+## SAP Concur
+### All services officially provided by Concur are in scope and eligible for the responsible disclosure program, including mobile applications.
+
+
+### Tripit Web Application: https://www.tripit.com
+- Akamai CDN
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### https://m.tripit.com/  
+- Akamai CDN
+- Wordpress
+- Bootstrap
+- MySQL
+- jQuery
+- nginx
+- Website Testing
+- PHP
+
+
+### Tripit Teams: https://www.tripit.com/teams/
+- Bootstrap
+- jQuery
+- nginx
+- Website Testing
+- Newrelic
+- Modernizr
+
+
+### Tripit Mobile Web Services/Public web services used by the Tripit Mobile applications: https://api.tripit.com/ 
 - API Testing
 - HTTP
 
 
-### ThousandEyes Enterprise Agent
-- Linux
+### Tripit Mobile Application: Android (https://play.google.com/store/apps/details?id=com.tripit)
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
 
 
-### ThousandEyes Endpoint Agent 
-- Windows
+### Tripit Mobile Application: iOS (https://apps.apple.com/us/app/tripit-travel-planner/id311035142)
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
 
 
-### https://blog.thousandeyes.com/
+### Sites and companies not owned by, maintained by, or under the control of Concur
+
+
+### www.tmcservices.net
 - Website Testing
 
 
-### https://app.thousandeyes.com/sfdc/community
+### tmcservices.co.in
+- Website Testing
 
 
-## Redox
-### 10x.redoxengine.com
+### forum.developer.concur.com
+- Website Testing
+
+
+### www.concurinc.com
+- Website Testing
+
+
+### help.expenseit.com
+- Website Testing
+
+
+### concurmobile.freshdesk.com
+- Website Testing
+
+
+### http://store.hipmunk.com
+- Website Testing
+
+
+### sentry.hipmunk.com
+- Website Testing
+
+
+### media.hipmunk.com
+- Website Testing
+
+
+### All Hipmunk assets are out of scope as this product line has been discontinued.
+
+
+## NETGEAR Cash Rewards
+### Nighthawk Pro Gaming Router
+- IoT
+
+
+### Nighthawk Pro Gaming Switch
+- IoT
+
+
+### Nighthawk Router
+- IoT
+
+
+### Nighthawk Switch
+- IoT
+
+
+### Nighthawk iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Nighthawk Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Orbi 
+- IoT
+
+
+### Orbi iOS App 
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Orbi Android App 
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Insight Managed Smart Cloud Wireless Access Point
+- IoT
+
+
+### https://api.netgear.com
+- API Testing
+- HTTP
+
+
+### Insight iOS App
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Insight Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### Insight Cloud Portal
+- Website Testing
+
+
+### Meural
+- IoT
+
+
+## InVision 
+###  bugcrowdninja.invisionapp.com
+- API Testing
 - ReactJS
+- Go
+- Website Testing
+- NodeJS
+
+
+###  bugcrowdninja2.invisionapp.com
+
+
+### bugcrowd-[your_bugcrowd_username].invisionapp.com
+- API Testing
+- ReactJS
+- Go
+- Website Testing
+- NodeJS
+
+
+### https://projects.invisionapp.com
+- Website Testing
+
+
+### www.invisionapp.com
+- Website Testing
+
+
+### www.designbetter.co
+- Website Testing
+
+
+### support.invisionapp.com
+- Website Testing
+
+
+### status.invisionapp.com
+- Website Testing
+
+
+## LastPass
+### https://support.logmeininc.com/lastpass
+- Website Testing
+
+
+### https://forums.lastpass.com/
+- Website Testing
+
+
+### https://blog.lastpass.com/
+- Website Testing
+
+
+### Windows Phone app
+
+
+### LastPass Authenticator Windows Phone app
+
+
+### Lastpass CLI tool
+
+
+### https://identity.lastpass.com/
+- Website Testing
+
+
+### LastPass MFA Android App
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### LastPass MFA iOS app
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### https://lastpass.com
+- Akamai CDN
+- ASP.NET
+- jQuery
+- Windows
+- PHP
+- Microsoft IIS
+- Azure
+- Modernizr
+
+
+### LastPass browser extensions (Chrome / Safari / Edge / Firefox)
+- Browser Extension
+
+
+### Local computer apps (UWP application / Windows installer (MSI))
+
+
+### iOS Mobile app
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### Android mobile app
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+### LastPass Authenticator iOS app
+- Objective-C
+- SwiftUI
+- Swift
+- Mobile Application Testing
+- iOS
+
+
+### LastPass Authenticator Android app
+- Java
+- Android
+- Mobile Application Testing
+- Kotlin
+
+
+## OWASP Java Encoder
+### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaEncoder
+- Java
+
+
+### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaEncoder/war-files
+- Java
+
+
+## Mastercard
+### Simplify Commerce - www.simplify.com/commerce/ 
+- Java
+- jQuery
+- Website Testing
+- PHP
+- Modernizr
+
+
+### MasterCard.us - www.mastercard.us/en-us.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### MasterCard.ch - (German) - www.mastercard.ch/de-ch.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### MasterCard.ch - (French) - www.mastercard.ch/fr-ch.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### MasterCard.ru - www.mastercard.ru/ru-ru.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### MasterCard.com.au - www.mastercard.com.au/en-au.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### MasterCard.nl - www.mastercard.nl/nl-nl.html
+- Java
+- Adobe Experience Manager
+- Angular
+- Moment.js
+- jQuery
+- Website Testing
+- Modernizr
+
+
+### https://developer.mastercard.com
+- Stripe
+- Lodash
+- Website Testing
+- Javascript
+
+
+### donate.mastercard.com
+- Java
+- Adobe Experience Manager
+- Angular
+- Bootstrap
+- jQuery
+- Lodash
+- Website Testing
+- Modernizr
+
+
+### Core Priceless.com - demo.priceless.com
+- Moment.js
+- jQuery
+- nginx
+- Website Testing
+- Javascript
+
+
+### All Available Mastercard Developer APIs
+- API Testing
+- HTTP
+
+
+### demo.priceless.com/golf
+- Website Testing
+
+
+### demo.priceless.com/travel
+- Website Testing
+
+
+### demo.priceless.com/standup
+- Website Testing
+
+
+### Order placement on demo.priceless.com
+- Website Testing
+
+
+## OWASP CSRFGuard
+### https://github.com/OWASP/OWASPBugBounty/tree/master/CRSFGuard
+- Website Testing
+
+
+## OWASP Java HTML Sanitizer
+### https://github.com/OWASP/OWASPBugBounty/tree/master/JavaHTMLSanitizer/war-files
+- HTML
+
+
+## OWASP® ZAP
+### Latest ZAP version (2.12.0)
+
+
+### https://www.zaproxy.org
+- Github
+- Cloudflare CDN
+- Fastly
+- Ruby
+- Varnish
+- Ruby on Rails
+
+
+## SecureDrop
+### https://github.com/freedomofpress/securedrop
+- Website Testing
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-workstation
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-client
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-sdk
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-proxy
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-export
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-log
+- Python
+
+
+### https://github.com/freedomofpress/securedrop-debian-packaging
+- Shell
+- Python
+
+
+## FoxyCart
+### api.foxycart.com
+- API Testing
+- AWS
+- Bootstrap
+- Amazon Cloudfront
+- jQuery
+- nginx
+
+
+### https://admin.foxycart.com
+- jQuery
+- PHP
+- Modernizr
+
+
+### https://foxycart-demo.foxycart.com
+- jQuery
+
+
+### *-bugcrowd.foxycart.com (read below for details)
+
+
+## Humble Bundle
+### https://www.humblebundle.com/
+- Algolia
+- Backbone
+- Moment.js
+- Select2
+- jQuery
+- Lodash
+
+
+## Statuspage
+### manage.statuspage.io
+- Fastly
+- Ruby on Rails
+- Moment.js
+- jQuery
+- Lodash
+- Website Testing
+- Newrelic
+
+
+### *.statuspage.io
+- Recon
+- Website Testing
+- DNS
+
+
+## WHMCS Client Management Portal
+### Live production instance of WHMCS (Any instances not owned by you)
+
+
+### *.whmcs.com
+- Website Testing
+
+
+### www.whmcs.com
 - Bootstrap
 - jQuery
 - Website Testing
 
 
-### https://testapi.redoxengine.com
-- API Testing
-
-
-### testapp.redoxengine.com
-- API Testing
-- ExpressJS
-- HTTP
-- NodeJS
-
-
-### testftp.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://webhooks10x.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testcarequality.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testclientcert.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://test-pointclickcare.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://testblob.redoxengine.com/upload
-- API Testing
-- HTTP
-
-
-### https://testflatfileparser.redoxengine.com
-- API Testing
-- HTTP
-
-
-### https://docs.redoxengine.com/
+### whmcs.community
 - Website Testing
 
 
-### https://fhir.redoxengine.com/
-- Website Testing
-
-
-### https://explore.redoxengine.com/
-- Website Testing
-
-
-### https://www.redoxengine.com/
-- Wordpress
-- Website Testing
-
-
-### https://help.redoxengine.com
-- Website Testing
-
-
-### https://dashboard.redoxengine.com/
-- Website Testing
-
-
-### candi.redoxengine.com
-- API Testing
-- HTTP
-
-
-### api.redoxengine.com
-- API Testing
-- HTTP
-
-
-### Contact forms on https://www.redoxengine.com
-- Website Testing
-
-
-### https://sso.redoxengine.com
-- Website Testing
-
-
-### https://jobs.lever.co/redoxengine/
-- Website Testing
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Nine Entertainment Vulnerability Disclosure Program
-### Any Nine owned asset
-- API Testing
-- Website Testing
-
-
-### *.domain.com.au
-
-
-## Five9 VDP
-### api.prod.us.whendu.com
-- API Testing
-
-
-### api.prod.eu.whendu.com
-- API Testing
-
-
-### login.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### login.eu.five9.com
-- Website Testing
-
-
-### login.ps.five9.com
-- Website Testing
-
-
-### eu{x}.eu.five9.com
-- Website Testing
-
-
-### us{x}.five9.com
-- Website Testing
-
-
-### app.five9.com
-- Java
-- Website Testing
-- Spring
-
-
-### admin.five9.net
-- Website Testing
-
-
-### architect.five9.net
-- Website Testing
-
-
-### report.us.five9.net
-- Website Testing
-
-
-### us7.studioportal.io/login
-- Website Testing
-
-
-### api.us7.studioportal.io
-- Website Testing
-
-
-### usstudio.inferencecommunications.com
-- Website Testing
-
-
-## Macquarie Group Vulnerability Disclosure Program
-### macquarie.com
-- Java
-- ReactJS
-- jQuery
-- Website Testing
-
-
-### https://www.metromartinplace.com/
-- Java
-- Website Testing
-
-
-### https://www.1elizabeth.com.au/
-- Java
-- jQuery
-- Website Testing
-
-
-### https://www.fibramacquarie.com/
-- Website Testing
-
-
-###  https://www.mkif.com
-- Website Testing
-
-
-### https://www.macquarie.aero/
-- Website Testing
-
-
-### https://www.greeninvestmentgroup.com/
-- Website Testing
-
-
-### https://www.reversemortgageservices.com.au/
-- Website Testing
-
-
-### https://www.medicalstudentloantrust.com/
-- Website Testing
-
-
-### https://www.techenergytransition.com/
-- Website Testing
-
-
-### https://www.techenergytransition.ai/
-- Website Testing
-
-
-## Ziff Davis Vulnerability Disclosure Program
-### ziffdavis.com
-
-
-### PCMag
-- Website Testing
-
-
-### Daily om
-- Website Testing
-
-
-### Askmen
-- Website Testing
-
-
-### Prime inc
-- Website Testing
-
-
-### Campaigner
-- Website Testing
-
-
-### SMTP
-- Website Testing
-
-
-### IPVanish
-- Website Testing
-
-
-### Lipid Care
-- Website Testing
-
-
-### iOS: App Store	Encrypt.team
+### WHMCS iOS app
 - iOS
 
 
-### Ziff Davis Corporate Site
-- Wordpress
-- MySQL
-- Website Testing
-
-
-### Mashable Site 
-- MySQL
-- Website Testing
-
-
-### Other Ziff Davis assets
-
-
-### Extreme Tech
-- Website Testing
-
-
-### Best Blackfriday
-- Website Testing
-
-
-### PCMag AU
-- Website Testing
-
-
-### Managed Care
-- Website Testing
-
-
-### Tech Hub Box
-- Website Testing
-
-
-### Red Dead Redemption 2 Map
-- Website Testing
-
-
-### Offers
-- Website Testing
-
-
-### Inside CRM
-- Website Testing
-
-
-### myMS Care
-- Website Testing
-
-
-### MapELEMENTS
-- Website Testing
-
-
-### The Infotech Beat
-- Website Testing
-
-
-### Encrypt team
-- Website Testing
-
-
-### Division2 Map
-- Website Testing
-
-
-### Retail Me Not
-- Website Testing
-
-
-### Geek
-- Website Testing
-
-
-### Prime ce
-- Website Testing
-
-
-### Spatialbuzz UK
-- Website Testing
-
-
-### Fallout Map
-- Website Testing
-
-
-### Tech Bargains.
-- Website Testing
-
-
-### Community Spice Works
-- Website Testing
-
-
-### Retail Me Not France
-- Website Testing
-
-
-### Vipre - Safesend Software
-- Website Testing
-
-
-### MEDPAGE Today 2
-- Website Testing
-
-
-### Baby Centre UK
-- Website Testing
-
-
-### Bphope
-- Website Testing
-
-
-### Blackfriday
-- Website Testing
-
-
-### Deals of America
-- Website Testing
-
-
-### Mareduc
-- Website Testing
-
-
-### Encrypt.Me
-- Website Testing
-
-
-###  Baby Centre Germany
-- Website Testing
-
-
-### Hope to Cope
-- Website Testing
-
-
-### The Blackfriday
-- Website Testing
-
-
-### Poulpeo
-- Website Testing
-
-
-### WLVPN
-- Website Testing
-
-
-### Aberdeen 2
-- Wordpress
-
-
-### bp-hope studiolabs
-- Website Testing
-
-
-### Diabetes Daily
-- Website Testing
-
-
-### IGN
-- Website Testing
-
-
-### Line2
-- Website Testing
-
-
-### Aberdeen Strategy & Research Library
-- Website Testing
-
-
-### Retail Me Not CANADA
-- Website Testing
-
-
-### SWZD
-- Website Testing
-
-
-### How Long to Beat
-- Website Testing
-
-
-### iContact
-- Website Testing
-
-
-### Strong DNS
-- Website Testing
-
-
-### Software Insider
-- Website Testing
-
-
-### Humble Bundle
-- Website Testing
-
-
-### Ookla
-- Website Testing
-
-
-### Vipre
-- Website Testing
-
-
-### Web Mail
-- Website Testing
-
-
-### Strong VPN
-- Website Testing
-
-
-### Voucher Codes UK
-- Website Testing
-
-
-### Lose it
-- Website Testing
-
-
-### eRreceptionist UK
-- Website Testing
-
-
-### Baby Centre 
-- Website Testing
-
-
-### Baby Centre Australia
-- Website Testing
-
-
-### IGN Boards
-- Website Testing
-
-
-### Speed Test
-- Website Testing
-
-
-### UCM Mail
-- Website Testing
-
-
-### Signflow Germany
-- Website Testing
-
-
-### OMFIT
-- Website Testing
-
-
-### Down Detector
-- Website Testing
-
-
-### Med Page Today
-- Website Testing
-
-
-### Creditcards Explained
-- Website Testing
-
-
-### Oracle Cloud
-- Website Testing
-
-
-### Hope to Cope studiolabs
-- Website Testing
-
-
-### IBD Care
-- Website Testing
-
-
-### Tool Box
-- Website Testing
-
-
-### Iinspired eLearning
-- Website Testing
-
-
-### Coupon Codes
-- Website Testing
-
-
-### Aberdeen
-- Website Testing
-
-
-### Get Stat
-- Website Testing
-
-
-### Doctor Directory
-- Website Testing
-
-
-### Spice Works 
-- Website Testing
-
-
-### My Vipre
-- Website Testing
-
-
-### Inspired LMS
-- Website Testing
-
-
-### Cypher Smart Electricmail
-- Website Testing
-
-
-### MOZ
-- Website Testing
-
-
-### eVoice UK
-- Website Testing
-
-
-### Ekahau
-- Website Testing
-
-
-### PCMag UK
-- Website Testing
-
-
-### Vipre - threattrack
-- Website Testing
-
-
-### Send inc
-- Website Testing
-
-
-### Nursing ALD
-- Website Testing
-
-
-### Read it Quik
-- Website Testing
-
-
-### Endpoint Security Cloud
-
-
-### Everyday Health
-- Website Testing
-
-
-### Mail Anyone
-- Website Testing
-
-
-### Ekahau Cloud
-- Website Testing
-
-
-### Fuse Mail
-- Website Testing
-
-
-### Technology Signal
-- Website Testing
-
-
-### Live Drive
-- Website Testing
-
-
-### VPN Account
-- Website Testing
-
-
-### CME Toolkit
-- Website Testing
-
-
-### Is CSI Host
-- Website Testing
-
-
-### Network Validator
-- Website Testing
-
-
-### Sugar Sync
-- Website Testing
-
-
-### Baby Center
-- Website Testing
-
-
-### Map Genie
-- Website Testing
-
-
-### B2B Ideas
-- Website Testing
-
-
-### What to Expect
-- Website Testing
-
-
-### Technology Signals
-- Website Testing
-
-
-### B2B techhub
-- Website Testing
-
-
-### Health eCareers
-- Website Testing
-
-
-### After MD
-- Website Testing
-
-
-### Big Linker
-- Website Testing
-
-
-### Tower Source
-- Website Testing
-
-
-### Technology-signals
-- Website Testing
-
-
-### Castle Connolly
-- Website Testing
-
-
-### Cell Maps Admin
-- Website Testing
-
-
-### Signal Tech Net
-- Website Testing
-
-
-### GME Today
-- Website Testing
-
-
-### Bring over
-- Website Testing
-
-
-### Spatialbuzz
-- Website Testing
-
-
-### Migraine Again
-- Website Testing
-
-
-### IT Research Online
-- Website Testing
-
-
-### Root Metrics
-- Website Testing
-
-
-### Martech match
-- Website Testing
-
-
-### Marty Awards
-- Website Testing
-
-
-### Read it qik
-- Website Testing
-
-
-### Read it quk
-- Website Testing
-
-
-### Red it quik
-- Website Testing
-
-
-### Redit quik
-- Website Testing
-
-
-### Campaigner CRM
-- Website Testing
-
-
-### Get Open Access
-- Website Testing
-
-
-### IT Security
-- Website Testing
-
-
-### Computer Shopper
-- Website Testing
-
-
-### Martechly
-- Website Testing
-
-
-### InsideCRM
-- Website Testing
-
-
-### VOIP News
-- Website Testing
-
-
-### IT Management
-- Website Testing
-
-
-## Newfold Australias Vulnerability Disclosure Program
-### https://billing.digitalpacific.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.crucial.com.au/
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://control.web24.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://members.panthur.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### https://billing.anchor.com.au
-- Django
-- Website Testing
-- PHP
-- Python
-
-
-### Anything not explicitly listed as in scope	
-
-
-## Inter-American Foundation - Vulnerability Disclosure Program
-### *iaf.gov
-
-
-## Step Public Applications
-### Step Android App
-- Finance
+### WHMCS Android App
 - Android
 
 
-### Step iOS app
-- Finance
-- iOS
+### WHMCS Windows mobile app
 
 
-## OLX EU
-### payments.olx.com
-- AWS
-- Amazon Cloudfront
+### Researcher owned WHMCS Instance
 - Website Testing
 
 
-### *.otodom.pl
+## Hack Me!
+### www.bugcrowd.com
+- Wordpress
 - Website Testing
 
 
-### *.otomoto.pl
+### api.bugcrowd.com
+- API Testing
+- PostgreSQL
+- Elasticsearch
+- Ruby on Rails
+- JSON
+- HTTP
+
+
+### All IT-Managed Third-Party Services and Infrastructure
+
+
+### Crowdcontrol
+- PostgreSQL
+- ReactJS
+- Elasticsearch
+- Ruby on Rails
 - Website Testing
 
 
-### *.olx.pt
+### docs.bugcrowd.com
+- HTML
 - Website Testing
 
 
-### *.olx.pl
+### researcherdocs.bugcrowd.com
 - Website Testing
 
 
-### *.imovirtual.com
+### email.bugcrowd.com
 - Website Testing
 
 
-### *.standvirtual.com
+## Bugcrowd
+### bugcrowd.com
+- PostgreSQL
+- ReactJS
+- Elasticsearch
+- Ruby on Rails
 - Website Testing
 
 
-## U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
-### www.csb.gov
-- Angular
-- jQuery
-- Lodash
+### Crowdcontrol
+- PostgreSQL
+- ReactJS
+- Elasticsearch
+- Ruby on Rails
 - Website Testing
-- Javascript
-- Modernizr
 
 
-### www.safetyvideos.gov
-- jQuery
-- Lodash
+### api.bugcrowd.com
+- API Testing
+- PostgreSQL
+- Elasticsearch
+- Ruby on Rails
+- JSON
+- HTTP
+
+
+### docs.bugcrowd.com
+- HTML
 - Website Testing
-- Javascript
-- Modernizr
+
+
+### www.bugcrowd.com
+- Wordpress
+- Website Testing
+
+
+### blog.bugcrowd.com
+- Wordpress
+- Website Testing
+
+
+### forum.bugcrowd.com
+- Website Testing
+
+
+### email.bugcrowd.com
+- Website Testing
+
+
+### email.forum.bugcrowd.com
+- Website Testing
+
+
+### go.bugcrowd.com
+- Website Testing
+
+
+### pages.bugcrowd.com
+- Website Testing
+
+
+### events.bugcrowd.com
+- Website Testing
+
+
+### researcherdocs.bugcrowd.com
+- Website Testing
+
+
+### assetinventory.bugcrowd.com
+- Website Testing
+
+
+### community.bugcrowd.com
 
 
