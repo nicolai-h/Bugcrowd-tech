@@ -1,10 +1,10 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-02-12 19:08:25.433863
+Updated 2023-02-17 22:33:06.273980
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
-Note: Out of scope targets is not filtered out
+Note: Out of scope targets are not filtered out
 
 ## Gearset: Managed Bug Bounty
 ### staging.gearset.com
@@ -3045,13 +3045,6 @@ Note: Out of scope targets is not filtered out
 ### *.1shoppingcart.com
 
 
-## SnapNames
-### https://snapnames.com/
-- ```Java```
-- ```jQuery```
-- ```Website Testing```
-
-
 ## Newfold Vdeck Bug Bounty
 ### ipage.com
 - ```ReactJS```
@@ -3128,6 +3121,13 @@ Note: Out of scope targets is not filtered out
 
 ### www-origin.ipage.com
 - ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+
+
+## SnapNames
+### https://snapnames.com/
+- ```Java```
 - ```jQuery```
 - ```Website Testing```
 
@@ -3423,16 +3423,6 @@ Note: Out of scope targets is not filtered out
 - ```Website Testing```
 
 
-### https://business.westernunion.com/
-- ```Bootstrap```
-- ```Select2```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
 ### http://agenttraining.westernunion.com
 - ```Bootstrap```
 - ```jQuery```
@@ -3622,6 +3612,16 @@ Note: Out of scope targets is not filtered out
 
 ### *.internationalpayments.com
 - ```Website Testing```
+
+
+### https://business.westernunion.com/
+- ```Bootstrap```
+- ```Select2```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
 
 
 ### *.westernunion.*
@@ -4538,21 +4538,78 @@ Note: Out of scope targets is not filtered out
 
 
 ##  1Password
-### <Your own 1Password subdomain --> https://<your account domain>.1password.com/
-- ```Moment.js```
-- ```Lodash```
+### <Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+- ```API Testing```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
 
 
-### <Account (Business, Family) signup page --> https://start.1password.com
-- ```Moment.js```
-- ```Lodash```
+### <Your own 1Pasword Personal Account> --> https://my.1password.com/
+- ```API Testing```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
 
 
-### <White Box Test team --> https://bugcrowd-test.1password.com
+### <1Password signup page --> https://start.1password.com
+- ```API Testing```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+- ```Rust```
+- ```Electron```
+- ```macOS```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+- ```Rust```
+- ```Electron```
+- ```Windows```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+- ```Rust```
+- ```Linux```
+- ```Electron```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+- ```Rust```
+- ```ReactNative```
+- ```Swift```
+- ```iOS```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+- ```Rust```
+- ```Android```
+- ```ReactNative```
+- ```Kotlin```
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+
+
+### <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+
+
+### <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
+- ```API Testing```
+- ```Go```
+
+
+### <CTF Challenge Account --> https://bugcrowd-test.1password.com
 
 
 ### *.agilebits.com
 - ```Website Testing```
+
+
+### All other domains, subdomains, and 1Password Accounts that are not owned by you, including accounts where you are a user but not the owner, are out of scope.
 
 
 ## Backblaze
@@ -4798,27 +4855,6 @@ Note: Out of scope targets is not filtered out
 
 
 ###  app.strattic.com
-
-
-## Nextup.ai
-### https://marketplace.atlassian.com/apps/1219324/slack-integration-for-jira?hosting=cloud&tab=overview
-- ```Website Testing```
-
-
-### https://marketplace.atlassian.com/apps/1227628/microsoft-teams-integration-for-jira?hosting=cloud&tab=overview
-- ```Website Testing```
-
-
-### https://marketplace.atlassian.com/apps/1227656/docs-slack-for-confluence?hosting=cloud&tab=overview
-- ```Website Testing```
-
-
-### https://marketplace.atlassian.com/apps/1224706/slack-first-support-helpdesk?hosting=cloud&tab=overview
-- ```Website Testing```
-
-
-### https://marketplace.atlassian.com/apps/1224706/helpdesk-intuitive-slack-first-support?hosting=cloud&tab=overview
-- ```Website Testing```
 
 
 ## Xfinity Home & xFi
@@ -5715,6 +5751,41 @@ Note: Out of scope targets is not filtered out
 
 
 ### www.plankindustries.com
+
+
+## Comcast Xfinity Bug Bounty
+### *.xfinity.com	
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### *.comcast.com
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### Staging, QA, Dev, and Test Environments
+- ```Website Testing```
+
+
+### *.hfc.comcastbusiness.net
+- ```Website Testing```
+
+
+### *.hsd1.*.comcast.net
+- ```Website Testing```
+
+
+### *business.comcast.com
+- ```Website Testing```
 
 
 ## iFood: Bug Bounty Program
@@ -7076,10 +7147,7 @@ Note: Out of scope targets is not filtered out
 - ```Website Testing```
 
 
-### https://fr.shop.lululemon.com
-
-
-### lululemon.cn
+### *.lululemon.cn
 - ```Website Testing```
 
 
@@ -7100,6 +7168,10 @@ Note: Out of scope targets is not filtered out
 
 
 ### *.lululemon.com
+- ```Website Testing```
+
+
+### https://fr.shop.lululemon.com
 - ```Website Testing```
 
 
