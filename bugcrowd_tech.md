@@ -1,6 +1,6 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-02-17 22:33:06.273980
+Updated 2023-02-22 20:04:04.873450
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
@@ -6750,71 +6750,6 @@ Note: Out of scope targets are not filtered out
 ### segment.com/jobs	
 
 
-## Unity Technology
-### www.unity3d.com
-- ```Vue.js```
-- ```Drupal```
-- ```jQuery```
-- ```Website Testing```
-- ```PHP```
-
-
-### id.unity.com
-- ```Ruby```
-- ```Ruby on Rails```
-- ```jQuery```
-- ```Website Testing```
-
-
-### api.unity.com
-- ```API Testing```
-
-
-### dashboard.unity3d.com
-- ```jQuery```
-- ```Website Testing```
-- ```Modernizr```
-
-
-### syncsketch.dev
-- ```Website Testing```
-
-
-### store.unity.com
-- ```jQuery```
-- ```Website Testing```
-- ```PHP```
-- ```Modernizr```
-
-
-### pay.unity.com
-- ```API Testing```
-- ```Website Testing```
-
-
-### analytics.cloud.unity3d.com
-- ```Ruby```
-- ```Ruby on Rails```
-- ```jQuery```
-- ```Website Testing```
-- ```Modernizr```
-
-
-### player-login.unity.com
-- ```API Testing```
-- ```Go```
-
-
-### Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
-- ```macOS```
-- ```Windows```
-
-
-### Unity Hub
-- ```macOS```
-- ```Windows```
-
-
 ## Smartmockups
 ### *.smartmockups.com/
 - ```ReactJS```
@@ -8844,7 +8779,7 @@ Note: Out of scope targets are not filtered out
 ### Any host/web property or products verified to be owned by Stellantis (domains/IP space/etc.) but not listed in Primary targets.
 
 
-## Personal Capital
+## Empower Personal Wealth
 ### https://devstaging.pcapcloud.com/*
 - ```Java```
 - ```jQuery```
