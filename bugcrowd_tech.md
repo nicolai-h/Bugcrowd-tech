@@ -1,10 +1,246 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-02-22 20:04:04.873450
+Updated 2023-03-01 11:20:58.578774
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
 Note: Out of scope targets are not filtered out
+
+## Redox
+### 10x.redoxengine.com
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+
+
+### https://testapi.redoxengine.com
+- ```API Testing```
+
+
+### testapp.redoxengine.com
+- ```API Testing```
+- ```ExpressJS```
+- ```HTTP```
+- ```NodeJS```
+
+
+### testftp.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://webhooks10x.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testcarequality.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testclientcert.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://test-pointclickcare.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testblob.redoxengine.com/upload
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testflatfileparser.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://docs.redoxengine.com/
+- ```Website Testing```
+
+
+### https://fhir.redoxengine.com/
+- ```Website Testing```
+
+
+### https://explore.redoxengine.com/
+- ```Website Testing```
+
+
+### https://www.redoxengine.com/
+- ```Wordpress```
+- ```Website Testing```
+
+
+### https://help.redoxengine.com
+- ```Website Testing```
+
+
+### https://dashboard.redoxengine.com/
+- ```Website Testing```
+
+
+### candi.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### api.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### Contact forms on https://www.redoxengine.com
+- ```Website Testing```
+
+
+### https://sso.redoxengine.com
+- ```Website Testing```
+
+
+### https://jobs.lever.co/redoxengine/
+- ```Website Testing```
+
+
+### https://redox.slack.com
+
+
+### https://api.segment.io
+
+
+### https://docs.redoxengine.com/feedback
+
+
+## Prosus
+### dealflow.prosus.com
+- ```ReactJS```
+
+
+### dealflowapi.prosus.com
+- ```ReactJS```
+
+
+### analytics-admin.prosus.com
+- ```ReactJS```
+
+
+### analytics.prosus.com
+- ```Angular```
+
+
+### prosus.com
+- ```C#```
+- ```.NET```
+
+
+### legal.prosus.com
+- ```PHP```
+
+
+### azreporting.naspers.com/vpn/index.html
+
+
+### publicpolicy.naspers.com
+- ```ASP.NET```
+
+
+### www.naspers.com
+- ```ASP.NET```
+
+
+### tracker.naspers.com
+- ```Angular```
+
+
+### brandportal.naspers.com
+- ```C#```
+- ```.NET```
+
+
+### dashboard.naspers.com
+- ```Angular```
+
+
+### cfc.naspers.com
+- ```Django```
+- ```Python```
+
+
+### peopleview.naspers.com
+- ```Java```
+
+
+## Bybit
+### https://www.bybit.com/
+- ```Akamai CDN```
+- ```ReactJS```
+- ```nginx```
+- ```Website Testing```
+- ```Cryptocurrency```
+- ```NodeJS```
+
+
+## Step Public Applications
+### Step Android App
+- ```Finance```
+- ```Android```
+
+
+### Step iOS app
+- ```Finance```
+- ```iOS```
+
+
+## Linktree
+### *.linktr.ee
+
+
+### *.linktree.com
+
+
+### *.tr.ee
+
+
+### *.linktree-extensions.com
+
+
+### *.odesli.co
+
+
+### *.odesli.com
+
+
+### *.song.link
+
+
+### *.songlink.io
+
+
+### *.album.link
+
+
+### *.artist.link
+
+
+### *.pods.link
+
+
+### *.playlist.link
+
+
+### *.mylink.page
+
+
+### Linktree iOS app
+
+
+### Linktree Android app
+
 
 ## Gearset: Managed Bug Bounty
 ### staging.gearset.com
@@ -128,7 +364,7 @@ Note: Out of scope targets are not filtered out
 ### https://t.indeed.com (Open Redirects)
 
 
-## Aruba Networks Product Ongoing BB
+## Aruba Networks Product Public Program
 ### Aruba Wireless – ArubaOS and Aruba Instant
 - ```Network Testing```
 - ```WiFi```
@@ -226,127 +462,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### https://app.thousandeyes.com/sfdc/community
-
-
-## Redox
-### 10x.redoxengine.com
-- ```ReactJS```
-- ```Bootstrap```
-- ```jQuery```
-- ```Website Testing```
-
-
-### https://testapi.redoxengine.com
-- ```API Testing```
-
-
-### testapp.redoxengine.com
-- ```API Testing```
-- ```ExpressJS```
-- ```HTTP```
-- ```NodeJS```
-
-
-### testftp.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://webhooks10x.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testcarequality.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testclientcert.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://test-pointclickcare.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testblob.redoxengine.com/upload
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testflatfileparser.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://docs.redoxengine.com/
-- ```Website Testing```
-
-
-### https://fhir.redoxengine.com/
-- ```Website Testing```
-
-
-### https://explore.redoxengine.com/
-- ```Website Testing```
-
-
-### https://www.redoxengine.com/
-- ```Wordpress```
-- ```Website Testing```
-
-
-### https://help.redoxengine.com
-- ```Website Testing```
-
-
-### https://dashboard.redoxengine.com/
-- ```Website Testing```
-
-
-### candi.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### api.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### Contact forms on https://www.redoxengine.com
-- ```Website Testing```
-
-
-### https://sso.redoxengine.com
-- ```Website Testing```
-
-
-### https://jobs.lever.co/redoxengine/
-- ```Website Testing```
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
-## Step Public Applications
-### Step Android App
-- ```Finance```
-- ```Android```
-
-
-### Step iOS app
-- ```Finance```
-- ```iOS```
 
 
 ## Rarible
@@ -1170,16 +1285,6 @@ Note: Out of scope targets are not filtered out
 ### Dropbox Capture macOS Desktop App
 - ```Binary Analysis```
 - ```Desktop Application Testing```
-
-
-## Bybit
-### https://www.bybit.com/
-- ```Akamai CDN```
-- ```ReactJS```
-- ```nginx```
-- ```Website Testing```
-- ```Cryptocurrency```
-- ```NodeJS```
 
 
 ## Sophos
@@ -3045,6 +3150,13 @@ Note: Out of scope targets are not filtered out
 ### *.1shoppingcart.com
 
 
+## SnapNames
+### https://snapnames.com/
+- ```Java```
+- ```jQuery```
+- ```Website Testing```
+
+
 ## Newfold Vdeck Bug Bounty
 ### ipage.com
 - ```ReactJS```
@@ -3121,13 +3233,6 @@ Note: Out of scope targets are not filtered out
 
 ### www-origin.ipage.com
 - ```Bootstrap```
-- ```jQuery```
-- ```Website Testing```
-
-
-## SnapNames
-### https://snapnames.com/
-- ```Java```
 - ```jQuery```
 - ```Website Testing```
 
@@ -4489,9 +4594,6 @@ Note: Out of scope targets are not filtered out
 ### Barracuda CloudGen Firewall
 
 
-### Barracuda SSLVPN
-
-
 ### Barracuda ADC
 
 
@@ -5058,65 +5160,6 @@ Note: Out of scope targets are not filtered out
 ### *.fwmrm.net
 
 
-## Prosus
-### dealflow.prosus.com
-- ```ReactJS```
-
-
-### dealflowapi.prosus.com
-- ```ReactJS```
-
-
-### analytics-admin.prosus.com
-- ```ReactJS```
-
-
-### analytics.prosus.com
-- ```Angular```
-
-
-### prosus.com
-- ```C#```
-- ```.NET```
-
-
-### legal.prosus.com
-- ```PHP```
-
-
-### azreporting.naspers.com/vpn/index.html
-
-
-### publicpolicy.naspers.com
-- ```ASP.NET```
-
-
-### www.naspers.com
-- ```ASP.NET```
-
-
-### tracker.naspers.com
-- ```Angular```
-
-
-### brandportal.naspers.com
-- ```C#```
-- ```.NET```
-
-
-### dashboard.naspers.com
-- ```Angular```
-
-
-### cfc.naspers.com
-- ```Django```
-- ```Python```
-
-
-### peopleview.naspers.com
-- ```Java```
-
-
 ## Dell Technologies' Products Bug Bounty Program
 ### Actively Supported, Bounty Eligible Dell Products
 - ```Computer Hardware```
@@ -5485,6 +5528,7 @@ Note: Out of scope targets are not filtered out
 
 
 ### https://api.neogov.com
+- ```API Testing```
 
 
 ### https://secure.neogov.com
@@ -6750,6 +6794,71 @@ Note: Out of scope targets are not filtered out
 ### segment.com/jobs	
 
 
+## Unity Technology
+### www.unity3d.com
+- ```Vue.js```
+- ```Drupal```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+
+
+### id.unity.com
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
+
+
+### api.unity.com
+- ```API Testing```
+
+
+### dashboard.unity3d.com
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
+
+
+### syncsketch.dev
+- ```Website Testing```
+
+
+### store.unity.com
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+- ```Modernizr```
+
+
+### pay.unity.com
+- ```API Testing```
+- ```Website Testing```
+
+
+### analytics.cloud.unity3d.com
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
+- ```Modernizr```
+
+
+### player-login.unity.com
+- ```API Testing```
+- ```Go```
+
+
+### Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
+- ```macOS```
+- ```Windows```
+
+
+### Unity Hub
+- ```macOS```
+- ```Windows```
+
+
 ## Smartmockups
 ### *.smartmockups.com/
 - ```ReactJS```
@@ -7159,7 +7268,7 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 
 
-## Aruba Networks Public Program
+## Aruba Networks Infrastructure Public Program
 ### *.arubanetworks.com
 - ```Website Testing```
 
@@ -9281,12 +9390,18 @@ Note: Out of scope targets are not filtered out
 ### *.just-eat.dk
 
 
-### https://takeawaypayapi-ase.tenbis-ase.p.azurewebsites.net/api
-- ```API Testing```
+### *.bistro.sk
 
 
-### https://takeawaypay-internal-api-ase.tenbis-ase.p.azurewebsites.net/
-- ```API Testing```
+### *.pyszne.pl
+- ```Moment.js```
+- ```jQuery```
+- ```Website Testing```
+- ```PHP```
+
+
+### https://takeawaypay.azurefd.net/en/takeawaypay/
+- ```Website Testing```
 
 
 ### restaurant-api.takeaway.com
@@ -9307,20 +9422,6 @@ Note: Out of scope targets are not filtered out
 - ```Android```
 - ```Mobile Application Testing```
 - ```Kotlin```
-
-
-### *.pyszne.pl
-- ```Moment.js```
-- ```jQuery```
-- ```Website Testing```
-- ```PHP```
-
-
-### *.bistro.sk
-
-
-### https://takeawaypay.azurefd.net/en/takeawaypay/
-- ```Website Testing```
 
 
 ### careers.takeaway.com
