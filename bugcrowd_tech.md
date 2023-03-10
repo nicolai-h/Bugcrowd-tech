@@ -1,10 +1,441 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-03-01 11:20:58.578774
+Updated 2023-03-10 20:47:22.773960
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
 Note: Out of scope targets are not filtered out
+
+## VeVe
+### VeVe iOS Mobile App
+- ```GraphQL```
+- ```TypeScript```
+- ```ReactNative```
+- ```Objective-C```
+- ```iOS```
+
+
+### VeVe Android Mobile App
+- ```Java```
+- ```GraphQL```
+- ```Android```
+- ```TypeScript```
+- ```ReactNative```
+
+
+### VeVe Web Application
+- ```GraphQL```
+- ```ReactJS```
+- ```TypeScript```
+
+
+### VeVe Backend API
+- ```GraphQL```
+- ```TypeScript```
+- ```NodeJS```
+
+
+### Veve Marketing Website
+- ```Website Testing```
+
+
+### Ecomi Marketing Website
+
+
+## Bitpanda Ongoing Bug Bounty
+### https://www.bitpanda.com
+- ```Vue.js```
+- ```AWS```
+- ```Website Testing```
+
+
+### https://web.bitpanda.com
+- ```Laravel```
+- ```Django```
+- ```Angular```
+- ```Website Testing```
+- ```PHP```
+- ```Python```
+- ```NodeJS```
+
+
+### https://api.bitpanda.com
+- ```API Testing```
+
+
+### wss://socket.bitpanda.com
+- ```Website Testing```
+
+
+### Bitpanda Broker Android App
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### Bitpanda Broker iOS App
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### All the Blockchain Infrastructure
+
+
+### https://account.bitpanda.com
+- ```Website Testing```
+
+
+### https://blog.bitpanda.com
+
+
+### https://www.bitpanda.com/academy/
+
+
+### https://bitpandametals.com
+
+
+### https://bitpanda.investments
+
+
+### https://support.bitpanda.com
+
+
+### http://status.bitpanda.com
+
+
+### https://maintenance.bitpanda.com
+
+
+### https://beta.bitpanda.com
+
+
+### https://developers.bitpanda.com
+
+
+### https://requests.bitpanda.com
+
+
+### http://partners.whitelabel.bitpanda.com/
+
+
+### *.exchange.bitpanda.com
+
+
+## USAA
+### www.usaa.com
+- ```Stripe```
+- ```ReactJS```
+- ```YUI```
+- ```Website Testing```
+
+
+### mobile.usaa.com
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+
+
+### https://api.usaa.com/
+- ```Akamai CDN```
+- ```API Testing```
+
+
+### partners.usaa.com
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+
+
+### USAA Mobile Application for Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### USAA Mobile Application for iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### https://content.usaa.com
+- ```Akamai CDN```
+- ```CSS```
+- ```Website Testing```
+- ```Javascript```
+
+
+### https://l.usaa.com/
+- ```Akamai CDN```
+
+
+### https://login.usaa.com/
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### https://mapi.usaa.com/
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://mobileapps.usaa.com/
+- ```Akamai CDN```
+
+
+### https://my.usaa.com/
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
+
+
+### https://s.usaa.com/
+- ```Akamai CDN```
+
+
+### https://wsmbr.usaa.com/
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://guest.usaa.com/
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
+
+
+### https://mguest.usaa.com/
+- ```Akamai CDN```
+- ```Java```
+- ```ReactJS```
+- ```RequireJS```
+- ```YUI```
+- ```Website Testing```
+- ```Javascript```
+
+
+### https://nvoice.usaa.com/
+- ```Akamai CDN```
+
+
+### https://www.usaainsurance.com/
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### https://liveassist.usaa.com/
+- ```Akamai CDN```
+
+
+### https://liveassist11.usaa.com/
+- ```Akamai CDN```
+
+
+### https://liveassist12.usaa.com/
+- ```Akamai CDN```
+
+
+### https://liveassist21.usaa.com/
+- ```Akamai CDN```
+
+
+### https://liveassist22.usaa.com/
+- ```Akamai CDN```
+
+
+### empauthn.usaa.com
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### externalconnect.usaa.com
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### mam-prod-dfw.usaa.com
+- ```Mobile Application Testing```
+
+
+### mam-prod-itc.usaa.com
+- ```Mobile Application Testing```
+
+
+### mam-vpn-itc.usaa.com
+- ```Mobile Application Testing```
+
+
+### mdm1.usaa.com
+- ```Mobile Application Testing```
+
+
+### mydesktop.usaa.com
+- ```Akamai CDN```
+- ```SSL/TLS```
+- ```Cryptography```
+- ```Website Testing```
+
+
+### myvpn.usaa.com
+- ```Akamai CDN```
+- ```SSL/TLS```
+- ```Cryptography```
+- ```Website Testing```
+
+
+### webmail.usaa.com
+- ```Akamai CDN```
+
+
+### utv.usaa.com
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### https://api2.usaa.com/
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://b2bapi.usaa.com
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://b2blsapi.usaa.com
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://nicewfm.usaa.com
+- ```Akamai CDN```
+
+
+### https://service2.usaa.com
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://vlagg.usaa.com
+- ```Akamai CDN```
+
+
+### https://vlapi.usaa.com
+- ```Akamai CDN```
+
+
+### https://ws.usaa.com
+- ```Akamai CDN```
+- ```API Testing```
+- ```Java```
+
+
+### https://vendorss.usaa.com
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### ww2.usaa.com
+- ```Akamai CDN```
+
+
+### vanityocp.usaa.com
+- ```Akamai CDN```
+
+
+### utvqa.usaa.com
+- ```Akamai CDN```
+
+
+### static.usaa.com
+- ```Akamai CDN```
+
+
+### mstatic.usaa.com
+- ```Akamai CDN```
+
+
+### mcontentapi.usaa.com
+- ```Akamai CDN```
+
+
+### external.connect.usaa.com
+- ```Akamai CDN```
+
+
+### contentapi.usaa.com
+- ```Akamai CDN```
+
+
+### https://authn.usaa.com/
+- ```Akamai CDN```
+- ```Website Testing```
+
+
+### api-life.usaa.com
+- ```Akamai CDN```
+
+
+## HotDoc
+### https://bugcrowd.hotdoc.com.au (Patients)
+- ```Ruby on Rails```
+- ```Website Testing```
+
+
+### https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
+- ```Ruby on Rails```
+- ```Website Testing```
+
+
+### https://bugcrowd.hotdoc.com.au/api
+- ```API Testing```
+- ```HTTP```
+
+
+### IoS App
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Android App
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+## Step Public Applications
+### Step Android App
+- ```Finance```
+- ```Android```
+
+
+### Step iOS app
+- ```Finance```
+- ```iOS```
+
 
 ## Redox
 ### 10x.redoxengine.com
@@ -185,17 +616,6 @@ Note: Out of scope targets are not filtered out
 - ```NodeJS```
 
 
-## Step Public Applications
-### Step Android App
-- ```Finance```
-- ```Android```
-
-
-### Step iOS app
-- ```Finance```
-- ```iOS```
-
-
 ## Linktree
 ### *.linktr.ee
 
@@ -240,6 +660,18 @@ Note: Out of scope targets are not filtered out
 
 
 ### Linktree Android app
+
+
+### *.filestack.com
+
+
+### *.freshdesk.com
+
+
+### *.blstr.xyz
+
+
+### *.blstr.co
 
 
 ## Gearset: Managed Bug Bounty
@@ -1588,281 +2020,6 @@ Note: Out of scope targets are not filtered out
 - ```Modernizr```
 
 
-## USAA
-### www.usaa.com
-- ```Stripe```
-- ```ReactJS```
-- ```YUI```
-- ```Website Testing```
-
-
-### mobile.usaa.com
-- ```Akamai CDN```
-- ```Java```
-- ```ReactJS```
-- ```RequireJS```
-- ```YUI```
-- ```Website Testing```
-
-
-### https://api.usaa.com/
-- ```Akamai CDN```
-- ```API Testing```
-
-
-### partners.usaa.com
-- ```Akamai CDN```
-- ```Java```
-- ```ReactJS```
-
-
-### USAA Mobile Application for Android
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### USAA Mobile Application for iOS
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### https://content.usaa.com
-- ```Akamai CDN```
-- ```CSS```
-- ```Website Testing```
-- ```Javascript```
-
-
-### https://l.usaa.com/
-- ```Akamai CDN```
-
-
-### https://login.usaa.com/
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### https://mapi.usaa.com/
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://mobileapps.usaa.com/
-- ```Akamai CDN```
-
-
-### https://my.usaa.com/
-- ```Akamai CDN```
-- ```Java```
-- ```ReactJS```
-- ```RequireJS```
-- ```YUI```
-- ```Website Testing```
-- ```Javascript```
-
-
-### https://s.usaa.com/
-- ```Akamai CDN```
-
-
-### https://wsmbr.usaa.com/
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://guest.usaa.com/
-- ```Akamai CDN```
-- ```Java```
-- ```ReactJS```
-- ```RequireJS```
-- ```YUI```
-- ```Website Testing```
-- ```Javascript```
-
-
-### https://mguest.usaa.com/
-- ```Akamai CDN```
-- ```Java```
-- ```ReactJS```
-- ```RequireJS```
-- ```YUI```
-- ```Website Testing```
-- ```Javascript```
-
-
-### https://nvoice.usaa.com/
-- ```Akamai CDN```
-
-
-### https://www.usaainsurance.com/
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### https://liveassist.usaa.com/
-- ```Akamai CDN```
-
-
-### https://liveassist11.usaa.com/
-- ```Akamai CDN```
-
-
-### https://liveassist12.usaa.com/
-- ```Akamai CDN```
-
-
-### https://liveassist21.usaa.com/
-- ```Akamai CDN```
-
-
-### https://liveassist22.usaa.com/
-- ```Akamai CDN```
-
-
-### empauthn.usaa.com
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### externalconnect.usaa.com
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### mam-prod-dfw.usaa.com
-- ```Mobile Application Testing```
-
-
-### mam-prod-itc.usaa.com
-- ```Mobile Application Testing```
-
-
-### mam-vpn-itc.usaa.com
-- ```Mobile Application Testing```
-
-
-### mdm1.usaa.com
-- ```Mobile Application Testing```
-
-
-### mydesktop.usaa.com
-- ```Akamai CDN```
-- ```SSL/TLS```
-- ```Cryptography```
-- ```Website Testing```
-
-
-### myvpn.usaa.com
-- ```Akamai CDN```
-- ```SSL/TLS```
-- ```Cryptography```
-- ```Website Testing```
-
-
-### webmail.usaa.com
-- ```Akamai CDN```
-
-
-### utv.usaa.com
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### https://api2.usaa.com/
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://b2bapi.usaa.com
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://b2blsapi.usaa.com
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://nicewfm.usaa.com
-- ```Akamai CDN```
-
-
-### https://service2.usaa.com
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://vlagg.usaa.com
-- ```Akamai CDN```
-
-
-### https://vlapi.usaa.com
-- ```Akamai CDN```
-
-
-### https://ws.usaa.com
-- ```Akamai CDN```
-- ```API Testing```
-- ```Java```
-
-
-### https://vendorss.usaa.com
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### ww2.usaa.com
-- ```Akamai CDN```
-
-
-### vanityocp.usaa.com
-- ```Akamai CDN```
-
-
-### utvqa.usaa.com
-- ```Akamai CDN```
-
-
-### static.usaa.com
-- ```Akamai CDN```
-
-
-### mstatic.usaa.com
-- ```Akamai CDN```
-
-
-### mcontentapi.usaa.com
-- ```Akamai CDN```
-
-
-### external.connect.usaa.com
-- ```Akamai CDN```
-
-
-### contentapi.usaa.com
-- ```Akamai CDN```
-
-
-### https://authn.usaa.com/
-- ```Akamai CDN```
-- ```Website Testing```
-
-
-### api-life.usaa.com
-- ```Akamai CDN```
-
-
 ## Octopus Deploy
 ### Octopus Server
 - ```C#```
@@ -3075,22 +3232,6 @@ Note: Out of scope targets are not filtered out
 - ```NodeJS```
 
 
-## HostGator Latam Bug Bounty
-### Hostgator.com.br 
-- ```Website Testing```
-
-
-### cliente.hostgator.com.br/
-- ```Website Testing```
-
-
-### cart.hostgator.com.br
-- ```Website Testing```
-
-
-### Anything not explicitly listed as in scope 
-
-
 ## HostGator
 ### www.hostgator.com
 - ```ReactJS```
@@ -3124,6 +3265,22 @@ Note: Out of scope targets are not filtered out
 
 
 ### vps*.hostgator.com
+
+
+## HostGator Latam Bug Bounty
+### Hostgator.com.br 
+- ```Website Testing```
+
+
+### cliente.hostgator.com.br/
+- ```Website Testing```
+
+
+### cart.hostgator.com.br
+- ```Website Testing```
+
+
+### Anything not explicitly listed as in scope 
 
 
 ## 1Shoppingcart.com
@@ -4628,13 +4785,24 @@ Note: Out of scope targets are not filtered out
 
 
 ## WOO Network: Bug Bounty Program
-### https://x.woo.org/spot
+### https://x.woo.org/
 - ```Java```
 - ```ReactJS```
 - ```Website Testing```
 
 
 ### https://api.woo.org/
+- ```API Testing```
+- ```Java```
+
+
+### https://x.wootr.com/
+- ```Java```
+- ```ReactJS```
+- ```Website Testing```
+
+
+### https://api.wootr.com/
 - ```API Testing```
 - ```Java```
 
@@ -5311,6 +5479,16 @@ Note: Out of scope targets are not filtered out
 - ```NodeJS```
 
 
+## ForgeRock BB
+### https://backstage.forgerock.com/
+- ```Angular```
+- ```TypeScript```
+- ```nginx```
+- ```Website Testing```
+- ```Kotlin```
+- ```Spring```
+
+
 ## Phemex Bug Bounty
 ### Phemex Website
 - ```ReactJS```
@@ -5841,16 +6019,9 @@ Note: Out of scope targets are not filtered out
 - ```Modernizr```
 
 
-### iFood Customer iOS Application
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### iFood Customer Android Application
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
+### https://shop.ifood.com.br
+- ```Java```
+- ```Website Testing```
 
 
 ### https://marketplace.ifood.com.br
@@ -5859,6 +6030,11 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 - ```Spring```
 - ```Javascript```
+
+
+### https://separador.ifood.com.br
+- ```ReactJS```
+- ```Website Testing```
 
 
 ### https://wsloja.ifood.com.br
@@ -5885,9 +6061,16 @@ Note: Out of scope targets are not filtered out
 - ```Javascript```
 
 
-### https://shop.ifood.com.br
-- ```Java```
-- ```Website Testing```
+### iFood Customer iOS Application
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### iFood Customer Android Application
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
 
 
 ### https://api.fstr.rocks
@@ -5900,6 +6083,51 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 
 
+### https://www.sitemercado.com.br
+- ```Angular```
+- ```TypeScript```
+- ```Website Testing```
+
+
+### https://extranet.sitemercado.com.br
+- ```Angular```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### https://smr.sitemercado.com.br
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### https://service.sitemercado.com.br
+- ```Cloudflare CDN```
+- ```Angular```
+- ```ReactJS```
+- ```Website Testing```
+
+
+### https://api.sitemercado.com.br
+- ```API Testing```
+- ```Website Testing```
+
+
+### https://apismr.sitemercado.com.br
+- ```API Testing```
+- ```Website Testing```
+
+
+### https://apismi.sitemercado.com.br
+- ```API Testing```
+- ```Website Testing```
+
+
+### *.movilepay.com
+
+
+### *.movilepay.com.br
+
+
 ### blog-empresas.ifood.com.br
 
 
@@ -5910,6 +6138,12 @@ Note: Out of scope targets are not filtered out
 
 
 ### *.ecomanda.app
+
+
+### *.allin.movilepay.com
+
+
+### *.starsoft.movilepay.com
 
 
 ## Craft Coders Marketplace Bug Bounty
@@ -6471,6 +6705,29 @@ Note: Out of scope targets are not filtered out
 ### https://abo.inscopedomain.ch
 
 
+## ForgeRock Identity Platform
+### Access Management (AM)
+- ```Java```
+- ```C++```
+- ```C#```
+- ```Javascript```
+
+
+### Directory Service (DS/DJ)
+- ```Java```
+- ```Javascript```
+
+
+### Identity Management (IDM)
+- ```Java```
+- ```Javascript```
+
+
+### Identity Gateway (IG)
+- ```Java```
+- ```Javascript```
+
+
 ## eazyBI
 ### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
 - ```Website Testing```
@@ -6554,6 +6811,25 @@ Note: Out of scope targets are not filtered out
 
 ### Okta Agent Windows
 - ```Windows```
+
+
+## FIS
+### Any FIS asset is in scope
+
+
+### fisglobal.gpcloudservice.com
+
+
+### login6.fisglobal.com/idp/elogin
+
+
+### portal.efdservices.com/efgportal/Portal/login
+
+
+### Any site related to Sedgwick
+
+
+### Any site relating to Sungard Availability Services
 
 
 ## Bullish.com
@@ -8374,6 +8650,10 @@ Note: Out of scope targets are not filtered out
 ### Arlo Wireless Video Doorbell
 
 
+### https://*-prod.arlo.com
+- ```API Testing```
+
+
 ### https://arlo-device.messaging.netgear.com
 - ```API Testing```
 
@@ -8738,6 +9018,26 @@ Note: Out of scope targets are not filtered out
 
 
 ## Octopus
+### octopus.com
+- ```.NET```
+- ```Bootstrap```
+- ```ASP.NET```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### *.octopus.com
+- ```Network Testing```
+- ```API Testing```
+- ```Website Testing```
+
+
+### Octopus Deploy Git Repo
+- ```Code review```
+- ```Website Testing```
+- ```Static Code Analysis```
+
+
 ### *.octopus.app
 - ```Website Testing```
 
@@ -8758,26 +9058,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### nexussample.octopus.com
-
-
-### octopus.com
-- ```.NET```
-- ```Bootstrap```
-- ```ASP.NET```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### *.octopus.com
-- ```Network Testing```
-- ```API Testing```
-- ```Website Testing```
-
-
-### Octopus Deploy Git Repo
-- ```Code review```
-- ```Website Testing```
-- ```Static Code Analysis```
 
 
 ## Skyscanner
@@ -9735,6 +10015,9 @@ Note: Out of scope targets are not filtered out
 ### Jira Product Discovery
 
 
+### Beacon
+
+
 ### Forge Platform
 - ```Website Testing```
 - ```NodeJS```
@@ -10510,6 +10793,38 @@ Note: Out of scope targets are not filtered out
 ### *.cisco.com
 
 
+### meraki.cisco.com/form/contact
+- ```Website Testing```
+
+
+### merakipartners.com
+- ```Website Testing```
+
+
+### smhelp.meraki.com
+- ```Website Testing```
+
+
+### community.meraki.com
+- ```Website Testing```
+
+
+### community-staging.meraki.com
+- ```Website Testing```
+
+
+### developers.meraki.com
+- ```Website Testing```
+
+
+### Customer API Keys
+- ```API Testing```
+- ```Website Testing```
+
+
+### Meraki MC Phones
+
+
 ## Bitdefender Box v2
 ### Bitdefender Central (iOS App)
 - ```Objective-C```
@@ -10692,10 +11007,6 @@ Note: Out of scope targets are not filtered out
 - ```Go```
 - ```Website Testing```
 - ```NodeJS```
-
-
-### https://projects.invisionapp.com
-- ```Website Testing```
 
 
 ### www.invisionapp.com
@@ -10992,141 +11303,5 @@ Note: Out of scope targets are not filtered out
 
 
 ### *-bugcrowd.foxycart.com (read below for details)
-
-
-## Humble Bundle
-### https://www.humblebundle.com/
-- ```Algolia```
-- ```Backbone```
-- ```Moment.js```
-- ```Select2```
-- ```jQuery```
-- ```Lodash```
-
-
-## Statuspage
-### manage.statuspage.io
-- ```Fastly```
-- ```Ruby on Rails```
-- ```Moment.js```
-- ```jQuery```
-- ```Lodash```
-- ```Website Testing```
-- ```Newrelic```
-
-
-### *.statuspage.io
-- ```Recon```
-- ```Website Testing```
-- ```DNS```
-
-
-## WHMCS Client Management Portal
-### Live production instance of WHMCS (Any instances not owned by you)
-
-
-### *.whmcs.com
-- ```Website Testing```
-
-
-### www.whmcs.com
-- ```Bootstrap```
-- ```jQuery```
-- ```Website Testing```
-
-
-### whmcs.community
-- ```Website Testing```
-
-
-### WHMCS iOS app
-- ```iOS```
-
-
-### WHMCS Android App
-- ```Android```
-
-
-### WHMCS Windows mobile app
-
-
-### Researcher owned WHMCS Instance
-- ```Website Testing```
-
-
-## Bugcrowd
-### bugcrowd.com
-- ```PostgreSQL```
-- ```ReactJS```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```Website Testing```
-
-
-### Crowdcontrol
-- ```PostgreSQL```
-- ```ReactJS```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```Website Testing```
-
-
-### api.bugcrowd.com
-- ```API Testing```
-- ```PostgreSQL```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```JSON```
-- ```HTTP```
-
-
-### docs.bugcrowd.com
-- ```HTML```
-- ```Website Testing```
-
-
-### www.bugcrowd.com
-- ```Wordpress```
-- ```Website Testing```
-
-
-### blog.bugcrowd.com
-- ```Wordpress```
-- ```Website Testing```
-
-
-### forum.bugcrowd.com
-- ```Website Testing```
-
-
-### email.bugcrowd.com
-- ```Website Testing```
-
-
-### email.forum.bugcrowd.com
-- ```Website Testing```
-
-
-### go.bugcrowd.com
-- ```Website Testing```
-
-
-### pages.bugcrowd.com
-- ```Website Testing```
-
-
-### events.bugcrowd.com
-- ```Website Testing```
-
-
-### researcherdocs.bugcrowd.com
-- ```Website Testing```
-
-
-### assetinventory.bugcrowd.com
-- ```Website Testing```
-
-
-### community.bugcrowd.com
 
 
