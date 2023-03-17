@@ -1,10 +1,21 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-03-10 20:47:22.773960
+Updated 2023-03-17 09:37:20.488815
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
 Note: Out of scope targets are not filtered out
+
+## 1Password Bug Bounty CTF
+### https://bugbounty-ctf.1password.com/
+- ```API Testing```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
+
+
+### All other domains, subdomains, and 1Password Accounts outside of the above URL are out of scope.
+
 
 ## VeVe
 ### VeVe iOS Mobile App
@@ -424,6 +435,9 @@ Note: Out of scope targets are not filtered out
 - ```Android```
 - ```Mobile Application Testing```
 - ```Kotlin```
+
+
+###  https://try.hotdoc.com.au/hotdoc-profiles
 
 
 ## Step Public Applications
@@ -2567,9 +2581,6 @@ Note: Out of scope targets are not filtered out
 ### Rich Text Gadget for Jira - Cloud - https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
 
 
-### Tree Search for Confluence - Cloud - https://marketplace.atlassian.com/apps/1219829/tree-search-for-confluence?hosting=cloud
-
-
 ### Continuous Plugin Deployment for Bamboo - Server - https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
 
 
@@ -3232,6 +3243,22 @@ Note: Out of scope targets are not filtered out
 - ```NodeJS```
 
 
+## HostGator Latam Bug Bounty
+### Hostgator.com.br 
+- ```Website Testing```
+
+
+### cliente.hostgator.com.br/
+- ```Website Testing```
+
+
+### cart.hostgator.com.br
+- ```Website Testing```
+
+
+### Anything not explicitly listed as in scope 
+
+
 ## HostGator
 ### www.hostgator.com
 - ```ReactJS```
@@ -3265,22 +3292,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### vps*.hostgator.com
-
-
-## HostGator Latam Bug Bounty
-### Hostgator.com.br 
-- ```Website Testing```
-
-
-### cliente.hostgator.com.br/
-- ```Website Testing```
-
-
-### cart.hostgator.com.br
-- ```Website Testing```
-
-
-### Anything not explicitly listed as in scope 
 
 
 ## 1Shoppingcart.com
@@ -4012,6 +4023,7 @@ Note: Out of scope targets are not filtered out
 
 ## ClickHouse
 ### https://clickhouse.cloud/
+- ```Website Testing```
 
 
 ### ClickHouse Cloud environment hosted by ClickHouse
@@ -4128,6 +4140,19 @@ Note: Out of scope targets are not filtered out
 - ```API Testing```
 - ```Website Testing```
 - ```HTTP```
+
+
+### Certsy Mobile App for iOS
+- ```Objective-C```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Certsy Mobile App for Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
 
 
 ### graphql.seek.com
@@ -4872,9 +4897,6 @@ Note: Out of scope targets are not filtered out
 - ```Go```
 
 
-### <CTF Challenge Account --> https://bugcrowd-test.1password.com
-
-
 ### *.agilebits.com
 - ```Website Testing```
 
@@ -5256,6 +5278,10 @@ Note: Out of scope targets are not filtered out
 
 ### aiq-prod.codebig2.net
 - ```API Testing```
+
+
+### *.xfinityhome.com
+- ```Website Testing```
 
 
 ### 3rd Party Devices (known as Works with Xfinity)
@@ -7462,15 +7488,6 @@ Note: Out of scope targets are not filtered out
 
 
 ## lululemon
-### http://www.lululemon.co.kr/
-- ```jQuery```
-- ```Website Testing```
-
-
-### *.lululemon.cn
-- ```Website Testing```
-
-
 ### shop.lululemon.com
 - ```Akamai CDN```
 - ```ExpressJS```
@@ -7492,6 +7509,15 @@ Note: Out of scope targets are not filtered out
 
 
 ### https://fr.shop.lululemon.com
+- ```Website Testing```
+
+
+### http://www.lululemon.co.kr/
+- ```jQuery```
+- ```Website Testing```
+
+
+### *.lululemon.cn
 - ```Website Testing```
 
 
@@ -11303,5 +11329,15 @@ Note: Out of scope targets are not filtered out
 
 
 ### *-bugcrowd.foxycart.com (read below for details)
+
+
+## Humble Bundle
+### https://www.humblebundle.com/
+- ```Algolia```
+- ```Backbone```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```Lodash```
 
 
