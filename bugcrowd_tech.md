@@ -1,10 +1,187 @@
 # BugCrowd Tech
 ## Info
-Updated 2023-03-17 09:37:20.488815
+Updated 2023-03-24 09:23:16.323361
 
 Filtered with: sort[]=promoted-desc&vdp[]=false
 
 Note: Out of scope targets are not filtered out
+
+## Lemonade - Ongoing 
+### Account Management
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### Login
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Wordpress```
+- ```Website Testing```
+- ```NodeJS```
+- ```Modernizr```
+
+
+### Lemonade.com
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### Files Service
+- ```Cloudflare CDN```
+- ```Amazon S3```
+- ```Website Testing```
+
+
+### Life
+- ```Cloudflare CDN```
+- ```ReactJS```
+- ```TypeScript```
+- ```Website Testing```
+- ```NodeJS```
+- ```Javascript```
+
+
+### https://lemonade.com/car
+
+
+### http://agents-master.public.lmndstaging.com
+- ```Website Testing```
+
+
+### iOS Mobile
+- ```Java```
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### https://www.lemonade.com/blog/ - Lemonade Blog
+- ```Cloudflare CDN```
+- ```Wordpress```
+
+
+## Redox
+### 10x.redoxengine.com
+- ```ReactJS```
+- ```Bootstrap```
+- ```jQuery```
+- ```Website Testing```
+
+
+### https://testapi.redoxengine.com
+- ```API Testing```
+
+
+### testapp.redoxengine.com
+- ```API Testing```
+- ```ExpressJS```
+- ```HTTP```
+- ```NodeJS```
+
+
+### testftp.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://webhooks10x.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testcarequality.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testclientcert.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://test-pointclickcare.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testblob.redoxengine.com/upload
+- ```API Testing```
+- ```HTTP```
+
+
+### https://testflatfileparser.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### https://docs.redoxengine.com/
+- ```Website Testing```
+
+
+### https://fhir.redoxengine.com/
+- ```Website Testing```
+
+
+### https://explore.redoxengine.com/
+- ```Website Testing```
+
+
+### https://www.redoxengine.com/
+- ```Wordpress```
+- ```Website Testing```
+
+
+### https://help.redoxengine.com
+- ```Website Testing```
+
+
+### https://dashboard.redoxengine.com/
+- ```Website Testing```
+
+
+### candi.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### api.redoxengine.com
+- ```API Testing```
+- ```HTTP```
+
+
+### Contact forms on https://www.redoxengine.com
+- ```Website Testing```
+
+
+### https://sso.redoxengine.com
+- ```Website Testing```
+
+
+### https://jobs.lever.co/redoxengine/
+- ```Website Testing```
+
+
+### https://redox.slack.com
+
+
+### https://api.segment.io
+
+
+### https://docs.redoxengine.com/feedback
+
 
 ## 1Password Bug Bounty CTF
 ### https://bugbounty-ctf.1password.com/
@@ -451,116 +628,6 @@ Note: Out of scope targets are not filtered out
 - ```iOS```
 
 
-## Redox
-### 10x.redoxengine.com
-- ```ReactJS```
-- ```Bootstrap```
-- ```jQuery```
-- ```Website Testing```
-
-
-### https://testapi.redoxengine.com
-- ```API Testing```
-
-
-### testapp.redoxengine.com
-- ```API Testing```
-- ```ExpressJS```
-- ```HTTP```
-- ```NodeJS```
-
-
-### testftp.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://webhooks10x.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testcarequality.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testclientcert.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://test-pointclickcare.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testblob.redoxengine.com/upload
-- ```API Testing```
-- ```HTTP```
-
-
-### https://testflatfileparser.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### https://docs.redoxengine.com/
-- ```Website Testing```
-
-
-### https://fhir.redoxengine.com/
-- ```Website Testing```
-
-
-### https://explore.redoxengine.com/
-- ```Website Testing```
-
-
-### https://www.redoxengine.com/
-- ```Wordpress```
-- ```Website Testing```
-
-
-### https://help.redoxengine.com
-- ```Website Testing```
-
-
-### https://dashboard.redoxengine.com/
-- ```Website Testing```
-
-
-### candi.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### api.redoxengine.com
-- ```API Testing```
-- ```HTTP```
-
-
-### Contact forms on https://www.redoxengine.com
-- ```Website Testing```
-
-
-### https://sso.redoxengine.com
-- ```Website Testing```
-
-
-### https://jobs.lever.co/redoxengine/
-- ```Website Testing```
-
-
-### https://redox.slack.com
-
-
-### https://api.segment.io
-
-
-### https://docs.redoxengine.com/feedback
-
-
 ## Prosus
 ### dealflow.prosus.com
 - ```ReactJS```
@@ -686,6 +753,9 @@ Note: Out of scope targets are not filtered out
 
 
 ### *.blstr.co
+
+
+### community.linktr.ee
 
 
 ## Gearset: Managed Bug Bounty
@@ -3243,22 +3313,6 @@ Note: Out of scope targets are not filtered out
 - ```NodeJS```
 
 
-## HostGator Latam Bug Bounty
-### Hostgator.com.br 
-- ```Website Testing```
-
-
-### cliente.hostgator.com.br/
-- ```Website Testing```
-
-
-### cart.hostgator.com.br
-- ```Website Testing```
-
-
-### Anything not explicitly listed as in scope 
-
-
 ## HostGator
 ### www.hostgator.com
 - ```ReactJS```
@@ -3292,6 +3346,22 @@ Note: Out of scope targets are not filtered out
 
 
 ### vps*.hostgator.com
+
+
+## HostGator Latam Bug Bounty
+### Hostgator.com.br 
+- ```Website Testing```
+
+
+### cliente.hostgator.com.br/
+- ```Website Testing```
+
+
+### cart.hostgator.com.br
+- ```Website Testing```
+
+
+### Anything not explicitly listed as in scope 
 
 
 ## 1Shoppingcart.com
@@ -4516,6 +4586,38 @@ Note: Out of scope targets are not filtered out
 - ```Static Code Analysis```
 
 
+## ImageKit's Bug Bounty Program 
+### https://imagekit.io/
+- ```Gatsby```
+- ```ReactJS```
+- ```Website Testing```
+
+
+### https://imagekit.io/dashboard
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### https://ik.imagekit.io/
+- ```Amazon Cloudfront```
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### https://api.imagekit.io/
+- ```API Testing```
+- ```JSON```
+- ```NodeJS```
+
+
+### https://upload.imagekit.io/
+- ```JSON```
+- ```Website Testing```
+- ```NodeJS```
+
+
 ## Contrast Security
 ### Contrast TeamServer - See "Testing Instructions" below
 - ```Java```
@@ -4716,6 +4818,12 @@ Note: Out of scope targets are not filtered out
 
 
 ## Asana
+### Other subdomains of asana.com
+
+
+### Social engineering against Asana Support or Asana Employees
+
+
 ### app.asana.com
 - ```ReactJS```
 - ```nginx```
@@ -4752,12 +4860,6 @@ Note: Out of scope targets are not filtered out
 
 ### *.app.asana.com
 - ```Website Testing```
-
-
-### Other subdomains of asana.com
-
-
-### Social engineering against Asana Support or Asana Employees
 
 
 ## Appliances - Barracuda Networks, Inc.
@@ -5513,37 +5615,6 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 - ```Kotlin```
 - ```Spring```
-
-
-## Phemex Bug Bounty
-### Phemex Website
-- ```ReactJS```
-- ```Amazon Cloudfront```
-- ```nginx```
-- ```Website Testing```
-
-
-### Phemex Android app
-- ```Android```
-
-
-### Phemex iOS app
-- ```iOS```
-
-
-### Phemex Blog
-
-
-### Phemex Academy
-
-
-### Phemex Testnet
-
-
-### Phemex Learn & Earn
-
-
-### Phemex User Guides
 
 
 ## Just Eat - Managed Bug Bounty
@@ -9086,6 +9157,9 @@ Note: Out of scope targets are not filtered out
 ### nexussample.octopus.com
 
 
+###  partners.octopus.com
+
+
 ## Skyscanner
 ### Corporate Email (*@skyscanner.net)
 
@@ -11329,15 +11403,5 @@ Note: Out of scope targets are not filtered out
 
 
 ### *-bugcrowd.foxycart.com (read below for details)
-
-
-## Humble Bundle
-### https://www.humblebundle.com/
-- ```Algolia```
-- ```Backbone```
-- ```Moment.js```
-- ```Select2```
-- ```jQuery```
-- ```Lodash```
 
 
