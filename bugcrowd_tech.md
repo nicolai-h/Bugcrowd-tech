@@ -1,10 +1,216 @@
 # BugCrowd Tech
 ## Info
-Updated 2024-03-02 10:27:15.378017
+Updated 2024-03-14 23:49:13.679868
 
-Filtered with: sort[]=promoted-desc&vdp[]=false
+Filtered with: sort_by=promoted&sort_direction=desc
 
 Note: Out of scope targets are not filtered out
+
+## American Systems Managed Bug Bounty
+### *.americansystems.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### *.alexamerican.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### *.ddlomni.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### *.nhaero.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### *.alex-as.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### *.autodiscover.americansystems.com
+- ```Linux```
+- ```Azure```
+
+
+### *.lyncdiscover.americansystems.com
+- ```Linux```
+- ```Azure```
+
+
+### sip.americansystems.com/
+- ```Linux```
+- ```Azure```
+
+
+### nhaero.com
+- ```Linux```
+- ```HTML```
+- ```Website Testing```
+
+
+### 52.222.49.247
+- ```Network Testing```
+- ```Linux```
+
+
+### 20.232.23.221
+- ```Network Testing```
+- ```Azure```
+
+
+### 52.186.150.247
+- ```Network Testing```
+- ```Azure```
+
+
+### 52.170.60.107
+- ```Network Testing```
+- ```Azure```
+
+
+### 52.234.233.118
+- ```Network Testing```
+- ```Azure```
+
+
+### 3.30.140.112
+- ```Network Testing```
+
+
+### 20.242.203.0
+- ```Network Testing```
+- ```Azure```
+
+
+### 20.115.124.105
+- ```Network Testing```
+- ```Azure```
+
+
+### 20.81.2.124
+- ```Network Testing```
+- ```Azure```
+
+
+### 52.170.60.116
+- ```Network Testing```
+- ```Azure```
+
+
+### enterpriseenrollment.americansystems.com
+- ```Linux```
+- ```Website Testing```
+- ```Azure```
+- ```OAuth```
+
+
+### connect.americansystems.com
+- ```Linux```
+- ```Website Testing```
+- ```Azure```
+- ```OAuth```
+
+
+## Viator
+### iOS Viator Tours & Activities App
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Android Viator Tours & Activities App
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### https://supplier.viator.com/
+- ```ReactJS```
+- ```Lodash```
+- ```Website Testing```
+
+
+### https://viatorapi.viator.com/service/directory
+- ```API Testing```
+- ```HTTP```
+
+
+### https://www.toursgds.com/
+- ```API Testing```
+- ```HTTP```
+
+
+### https://www.toursgds.com/ToursGdsService?wsdl
+- ```API Testing```
+- ```HTTP```
+
+
+### https://www.toursgds.com/SupplierService?wsdl
+- ```API Testing```
+- ```HTTP```
+
+
+### https://partners.viator.com
+- ```ReactJS```
+- ```Website Testing```
+
+
+### travelagents.viator.com
+- ```ReactJS```
+- ```jQuery```
+- ```Website Testing```
+
+
+### https://help.supplier.viator.com/en
+
+
+### kiwi.partner.viator.com
+
+
+### *.viatorinc.com
+- ```Website Testing```
+
+
+### selector.viator.com
+
+
+### partnerhelp.viator.com/
+
+
+### *.viator.com
+
+
+### *.rc.viator.com
+
+
+### *.sandbox.viator.com
+- ```Website Testing```
+
+
+### *.partner.viator.com
+
+
+### agentcenter.viator.com
+
+
+### operatorresources.viator.com
+
+
+### partnerresources.viator.com
+
 
 ## Rapyd
 ### api.rapyd.net
@@ -100,10 +306,6 @@ Note: Out of scope targets are not filtered out
 - ```API Testing```
 - ```Cloudflare CDN```
 - ```Website Testing```
-
-
-## Worldpay
-### Any Worldpay asset is in scope
 
 
 ## Monash University Bug Bounty
@@ -260,10 +462,6 @@ Note: Out of scope targets are not filtered out
 
 ### formative.eassessment.monas.edu
 - ```Cloud```
-- ```Website Testing```
-
-
-### mymonashsport.com.au
 - ```Website Testing```
 
 
@@ -701,7 +899,7 @@ Note: Out of scope targets are not filtered out
 - ```Java```
 
 
-## Lightspeed Restaurant U-Series
+## Lightspeed Hospitality Private
 ### https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 - ```Ruby```
 - ```Backbone```
@@ -1188,7 +1386,7 @@ Note: Out of scope targets are not filtered out
 - ```Java```
 
 
-## Lightspeed Retail (X-Series)
+## Lightspeed Retail
 ### yourstore.retail.lightspeed.app
 - ```ReactJS```
 - ```nginx```
@@ -1734,11 +1932,20 @@ Note: Out of scope targets are not filtered out
 ### Stride (inc. Stride Video, Stride Desktop, Stride Mobile)
 
 
-## Lightspeed Restaurant (K-Series) 
+## Lightspeed Hospitality
 ### https://manager.trial.lsk.lightspeed.app/
 - ```Java```
 - ```ReactJS```
 - ```jQuery```
+- ```Website Testing```
+
+
+### https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
+- ```Ruby```
+- ```Backbone```
+- ```Select2```
+- ```jQuery```
+- ```Handlebars```
 - ```Website Testing```
 
 
@@ -2388,6 +2595,9 @@ Note: Out of scope targets are not filtered out
 
 
 ### github.com/Aiven-Labs
+
+
+### events.aiven.io
 
 
 ## Backblaze
@@ -4378,6 +4588,28 @@ Note: Out of scope targets are not filtered out
 ### All other domains, subdomains, and 1Password Accounts outside of the above URL are out of scope.
 
 
+## Certinia (formerly FinancialForce)
+### *.financialforce.com
+- ```Cloud```
+- ```Wordpress```
+- ```AWS```
+- ```Website Testing```
+
+
+### *.certinia.com
+- ```Cloudflare CDN```
+- ```Cloud```
+- ```Wordpress```
+- ```AWS```
+- ```Website Testing```
+
+
+### gslink.financialforce.com
+
+
+### CVE-2021-26086 Limited Remote File Read/Include on Jir
+
+
 ## HotDoc
 ### https://bugcrowd.hotdoc.com.au (Patients)
 - ```Ruby on Rails```
@@ -4845,66 +5077,6 @@ Note: Out of scope targets are not filtered out
 ### 64.6.64.6, 64.6.65.6 (DNS Service: DNS related)
 
 
-## Private Internet Access
-### PIA VPN servers
-- ```Cryptography```
-
-
-### PIA iOS application
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### PIA Android application
-- ```Android```
-- ```Mobile Application Testing```
-
-
-### PIA Linux application
-- ```Linux```
-- ```Desktop Application Testing```
-
-
-### PIA macOS application
-- ```macOS```
-- ```Desktop Application Testing```
-
-
-### PIA Windows application
-- ```Windows```
-- ```Desktop Application Testing```
-
-
-### PIA Firefox extension
-- ```Browser Extension```
-
-
-### PIA Chrome extension
-- ```Browser Extension```
-
-
-### PIA Opera extension
-- ```Browser Extension```
-
-
-### PIA APIs
-- ```API Testing```
-
-
-### privateinternetaccess.com
-- ```AWS```
-- ```Website Testing```
-
-
-### *.privateinternetaccess.com
-- ```AWS```
-- ```Website Testing```
-
-
-### piaservers.com
-- ```Website Testing```
-
-
 ## CyberGhost
 ### CyberGhost VPN servers
 - ```Linux```
@@ -4973,6 +5145,66 @@ Note: Out of scope targets are not filtered out
 
 ### *.cyberghostvpn.com
 - ```AWS```
+- ```Website Testing```
+
+
+## Private Internet Access
+### PIA VPN servers
+- ```Cryptography```
+
+
+### PIA iOS application
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### PIA Android application
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### PIA Linux application
+- ```Linux```
+- ```Desktop Application Testing```
+
+
+### PIA macOS application
+- ```macOS```
+- ```Desktop Application Testing```
+
+
+### PIA Windows application
+- ```Windows```
+- ```Desktop Application Testing```
+
+
+### PIA Firefox extension
+- ```Browser Extension```
+
+
+### PIA Chrome extension
+- ```Browser Extension```
+
+
+### PIA Opera extension
+- ```Browser Extension```
+
+
+### PIA APIs
+- ```API Testing```
+
+
+### privateinternetaccess.com
+- ```AWS```
+- ```Website Testing```
+
+
+### *.privateinternetaccess.com
+- ```AWS```
+- ```Website Testing```
+
+
+### piaservers.com
 - ```Website Testing```
 
 
@@ -5063,89 +5295,6 @@ Note: Out of scope targets are not filtered out
 ### BigCommerce Android
 - ```Android```
 - ```Mobile Application Testing```
-
-
-## Dropbox
-### *.dropbox.com    
-- ```Website Testing```
-
-
-### *.hellosign.com
-- ```Website Testing```
-
-
-### *.helloworks.com
-- ```Website Testing```
-
-
-### *.hellofax.com
-- ```Website Testing```
-
-
-### *.dropboxforum.com
-- ```Website Testing```
-
-
-### *.docsend.com
-- ```Website Testing```
-
-
-### *.dropboxer.net
-- ```Website Testing```
-
-
-### api.dropboxapi.com
-- ```API Testing```
-
-
-### Dropbox Sign (formerly HelloSign) Android App
-- ```Android```
-- ```Mobile Application Testing```
-
-
-### Dropbox Android App
-- ```Android```
-- ```Mobile Application Testing```
-
-
-### Dropbox Paper Android App
-- ```Android```
-- ```Mobile Application Testing```
-
-
-### Dropbox iOS app
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Dropbox Paper iOS app
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Dropbox EMM iOS
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Dropbox Desktop Application
-- ```Binary Analysis```
-- ```Desktop Application Testing```
-
-
-### Paper Desktop Application
-- ```Binary Analysis```
-- ```Desktop Application Testing```
-
-
-### Dropbox Capture Windows Desktop App 
-- ```Binary Analysis```
-- ```Desktop Application Testing```
-
-
-### Dropbox Capture macOS Desktop App
-- ```Binary Analysis```
-- ```Desktop Application Testing```
 
 
 ## Sophos
@@ -6432,6 +6581,20 @@ Note: Out of scope targets are not filtered out
 - ```Apache Guacamole```
 
 
+## Newfold Vdeck Bug Bounty
+### www.domain.com
+- ```Website Testing```
+- ```Javascript```
+
+
+### http://www1.domain.com/
+- ```Website Testing```
+- ```Javascript```
+
+
+### Domain.com 
+
+
 ## HostGator Latam Bug Bounty
 ### hostgator.com.br/
 - ```Website Testing```
@@ -6450,20 +6613,6 @@ Note: Out of scope targets are not filtered out
 - ```Java```
 - ```jQuery```
 - ```Website Testing```
-
-
-## Newfold Vdeck Bug Bounty
-### www.domain.com
-- ```Website Testing```
-- ```Javascript```
-
-
-### http://www1.domain.com/
-- ```Website Testing```
-- ```Javascript```
-
-
-### Domain.com 
 
 
 ## Western Union
@@ -6888,76 +7037,6 @@ Note: Out of scope targets are not filtered out
 - ```Microsoft IIS```
 
 
-### http://globalpay.westernunion.com
-- ```Bootstrap```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### payee.globalpay.westernunion.com
-- ```ASP.NET```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### https://auth.globalpay.westernunion.com
-- ```Bootstrap```
-- ```ASP.NET```
-- ```jQuery```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### https://gpfi.globalpay.westernunion.com
-- ```Akamai CDN```
-- ```Java```
-- ```Angular```
-- ```Bootstrap```
-- ```Moment.js```
-- ```jQuery```
-- ```RequireJS```
-- ```Website Testing```
-
-
-### www.wuedge.com
-- ```Akamai CDN```
-- ```Java```
-- ```Bootstrap```
-- ```Mustache```
-- ```jQuery```
-- ```Website Testing```
-
-
-### trackpayments.westernunion.com
-- ```Java```
-- ```Website Testing```
-
-
-### masspay.api.westernunion.com
-- ```Website Testing```
-
-
-### *.Convera.com
-
-
-### *.internationalpayments.com
-- ```Website Testing```
-
-
-### https://business.westernunion.com/
-- ```Bootstrap```
-- ```Select2```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
 ### *.westernunion.*
 - ```Java```
 - ```Angular```
@@ -7372,38 +7451,6 @@ Note: Out of scope targets are not filtered out
 - ```Static Code Analysis```
 
 
-## ImageKit's Bug Bounty Program 
-### https://imagekit.io/
-- ```Gatsby```
-- ```ReactJS```
-- ```Website Testing```
-
-
-### https://imagekit.io/dashboard
-- ```ReactJS```
-- ```Website Testing```
-- ```NodeJS```
-
-
-### https://ik.imagekit.io/
-- ```Amazon Cloudfront```
-- ```MongoDB```
-- ```Website Testing```
-- ```NodeJS```
-
-
-### https://api.imagekit.io/
-- ```API Testing```
-- ```JSON```
-- ```NodeJS```
-
-
-### https://upload.imagekit.io/
-- ```JSON```
-- ```Website Testing```
-- ```NodeJS```
-
-
 ## Contrast Security
 ### www.contrastsecurity.com
 - ```Website Testing```
@@ -7662,6 +7709,12 @@ Note: Out of scope targets are not filtered out
 ### https://api.woo.org/
 - ```API Testing```
 - ```Java```
+
+
+### WOO X: Buy Crypto & BTC (Android)
+
+
+### WOO X: Buy Crypto & BTC (IOS)
 
 
 ## Flourish
@@ -7996,7 +8049,7 @@ Note: Out of scope targets are not filtered out
 ### *.fwmrm.net
 
 
-### 10.0.0.0/
+### 10.0.0.0/8
 
 
 ### 50.128.0.0/12
@@ -8069,18 +8122,6 @@ Note: Out of scope targets are not filtered out
 
 ### https://console.delltechnologies.com/nav/subscriptions
 - ```Website Testing```
-
-
-### prm.dell.com
-
-
-### prmdev.dell.com
-
-
-### prmstg.dell.com
-
-
-### prm-ps3dmz.dell.com
 
 
 ### educate.dell.com
@@ -8498,68 +8539,6 @@ Note: Out of scope targets are not filtered out
 ### www.plankindustries.com
 
 
-## Comcast Xfinity Bug Bounty
-### *.xfinity.com	
-- ```ReactJS```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### *.comcast.com
-- ```ReactJS```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### Staging, QA, Dev, and Test Environments
-- ```Website Testing```
-
-
-### *.hfc.comcastbusiness.net
-- ```Website Testing```
-
-
-### *.hsd1.*.comcast.net
-- ```Website Testing```
-
-
-### *business.comcast.com
-- ```Website Testing```
-
-
-### 10.0.0.0/
-
-
-### 50.128.0.0/12
-
-
-### 50.152.0.0/13
-
-
-### 96.201.0.0/16
-
-
-### 96.202.128.0/17
-
-
-### 96.203.0.0/16
-
-
-### 172.26.128.0/18
-
-
-### 184.112.0.0/13
-
-
-### 184.122.0.0/15
-
-
 ## iFood: Bug Bounty Program
 ### https://www.ifood.com.br
 - ```ReactJS```
@@ -8781,13 +8760,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### Caffeine.custhelp.com
-- ```Website Testing```
-
-
-## Skroutz Public Managed Bug Bounty
-### https://www.skroutz.gr/
-- ```ReactJS```
-- ```Ruby on Rails```
 - ```Website Testing```
 
 
@@ -9103,29 +9075,6 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 
 
-## ForgeRock Identity Platform
-### Access Management (AM)
-- ```Java```
-- ```C++```
-- ```C#```
-- ```Javascript```
-
-
-### Directory Service (DS/DJ)
-- ```Java```
-- ```Javascript```
-
-
-### Identity Management (IDM)
-- ```Java```
-- ```Javascript```
-
-
-### Identity Gateway (IG)
-- ```Java```
-- ```Javascript```
-
-
 ## eazyBI
 ### https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
 - ```Website Testing```
@@ -9157,13 +9106,6 @@ Note: Out of scope targets are not filtered out
 - ```Bootstrap```
 - ```jQuery```
 - ```Website Testing```
-
-
-## FIS
-### Any FIS asset is in scope
-
-
-### Reference above out of scope targets
 
 
 ## Bullish.com
@@ -9874,6 +9816,9 @@ Note: Out of scope targets are not filtered out
 ### lms.arubanetworks.com
 
 
+### afp.arubanetworks.com
+
+
 ## Acorns Grow, Inc.
 ### https://app.acorns.com
 
@@ -10492,24 +10437,6 @@ Note: Out of scope targets are not filtered out
 
 
 ##  Comcast Xfinity Vulnerability Disclosure Program
-### *.xfinity.com	
-- ```ReactJS```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
-### *.comcast.com
-- ```ReactJS```
-- ```ASP.NET```
-- ```jQuery```
-- ```Windows```
-- ```Website Testing```
-- ```Microsoft IIS```
-
-
 ### *.sys.comcast.net
 - ```Website Testing```
 
@@ -10522,10 +10449,6 @@ Note: Out of scope targets are not filtered out
 - ```Lodash```
 - ```Website Testing```
 - ```Microsoft IIS```
-
-
-### Internet - All devices, including Broadband Gateways
-- ```Hardware Testing```
 
 
 ### TV - Xfinity hardware and services
@@ -10549,10 +10472,6 @@ Note: Out of scope targets are not filtered out
 - ```Mobile Application Testing```
 - ```Kotlin```
 - ```iOS```
-
-
-### Xfinity Home
-- ```Hardware Testing```
 
 
 ## codefortynine
@@ -10726,35 +10645,52 @@ Note: Out of scope targets are not filtered out
 
 ### Arlo
 - ```IoT```
+- ```Hardware Testing```
 
 
-### Arlo All-In-One Sensor
+### Arlo All-In-One Sensor (Home Security System)
 - ```IoT```
 - ```Hardware Testing```
 
 
 ### Arlo Baby
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Base Station
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Bridge
 - ```IoT```
+- ```Hardware Testing```
+
+
+### Arlo Cellular & Battery Backup (Home Security System)
+- ```IoT```
+- ```Hardware Testing```
+
+
+### Arlo Chime / Chime 2
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Essential
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Floodlight
 - ```IoT```
+- ```Hardware Testing```
 
 
-### Arlo Go
+### Arlo Go / Go 2
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Home Security System
@@ -10764,26 +10700,32 @@ Note: Out of scope targets are not filtered out
 
 ### Arlo Pro
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Pro 2
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Pro 3
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Pro 4
 - ```IoT```
+- ```Hardware Testing```
 
 
-### Arlo Q
+### Arlo Pro 5S
 - ```IoT```
+- ```Hardware Testing```
 
 
-### Arlo Q+
+### Arlo Q / Q+
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Safe Button
@@ -10793,17 +10735,27 @@ Note: Out of scope targets are not filtered out
 
 ### Arlo Security Light
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Ultra
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Video Doorbell
 - ```IoT```
+- ```Hardware Testing```
 
 
 ### Arlo Wireless Video Doorbell
+- ```IoT```
+- ```Hardware Testing```
+
+
+### Arlo Wire-Free Outdoor Siren (Home Security System)
+- ```IoT```
+- ```Hardware Testing```
 
 
 ### *.arlo.com (production servers only)
@@ -10948,50 +10900,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### app.sandbox.directly.com
-- ```Website Testing```
-
-
-## Luno Bug Bounty Program
-### Luno Android Application
-- ```Java```
-- ```Android```
-- ```Kotlin```
-
-
-### Luno iOS Application
-- ```Swift```
-- ```iOS```
-
-
-### https://mobileapi.staging.luno.com/
-- ```API Testing```
-- ```Mobile Application Testing```
-
-
-### https://staging.luno.com/
-- ```Angular```
-- ```TypeScript```
-- ```Go```
-- ```Website Testing```
-
-
-### https://ajax.staging.luno.com/
-- ```Angular```
-- ```TypeScript```
-- ```Go```
-- ```Website Testing```
-
-
-### https://api.staging.luno.com/
-- ```API Testing```
-- ```nginx```
-- ```Go```
-
-
-### https://app.staging.luno.com/
-- ```Angular```
-- ```TypeScript```
-- ```Go```
 - ```Website Testing```
 
 
@@ -11375,97 +11283,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### oemresources.bitdefender.com
-
-
-## Viator
-### iOS Viator Tours & Activities App
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Android Viator Tours & Activities App
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### https://supplier.viator.com/
-- ```ReactJS```
-- ```Lodash```
-- ```Website Testing```
-
-
-### https://viatorapi.viator.com/service/directory
-- ```API Testing```
-- ```HTTP```
-
-
-### https://www.toursgds.com/
-- ```API Testing```
-- ```HTTP```
-
-
-### https://www.toursgds.com/ToursGdsService?wsdl
-- ```API Testing```
-- ```HTTP```
-
-
-### https://www.toursgds.com/SupplierService?wsdl
-- ```API Testing```
-- ```HTTP```
-
-
-### https://partners.viator.com
-- ```ReactJS```
-- ```Website Testing```
-
-
-### travelagents.viator.com
-- ```ReactJS```
-- ```jQuery```
-- ```Website Testing```
-
-
-### https://help.supplier.viator.com/en
-
-
-### kiwi.partner.viator.com
-
-
-### *.viatorinc.com
-- ```Website Testing```
-
-
-### selector.viator.com
-
-
-### partnerhelp.viator.com/
-
-
-### *.viator.com
-
-
-### *.rc.viator.com
-
-
-### *.sandbox.viator.com
-- ```Website Testing```
-
-
-### *.partner.viator.com
-
-
-### agentcenter.viator.com
-
-
-### operatorresources.viator.com
-
-
-### partnerresources.viator.com
 
 
 ## Wise (ex-TransferWise)
@@ -11941,104 +11758,6 @@ Note: Out of scope targets are not filtered out
 - ```Website Testing```
 
 
-## Majid Al Futtaim Lifestyle
-### www.crateandbarrel.me
-- ```Cloudflare CDN```
-- ```MySQL```
-- ```jQuery```
-- ```RequireJS```
-- ```Website Testing```
-- ```PHP```
-- ```Modernizr```
-
-
-### https://lego.yellowblocks.me/
-- ```Angular```
-- ```TypeScript```
-- ```Website Testing```
-- ```Zone.js```
-- ```NodeJS```
-
-
-### https://api-prod.thatconceptstore.com/
-- ```API Testing```
-
-
-### THAT Concept Store iOS
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### THAT Concept Store Android
-- ```Android```
-- ```Mobile Application Testing```
-
-
-### https://thatconceptstore.com
-- ```API Testing```
-- ```Website Testing```
-
-
-### https://www.cb2.ae/en
-- ```Akamai CDN```
-- ```Angular```
-- ```Website Testing```
-- ```Zone.js```
-
-
-### https://www.allsaints.me/
-- ```Akamai CDN```
-- ```Angular```
-- ```Website Testing```
-- ```Zone.js```
-
-
-### www.lululemon.me
-- ```Akamai CDN```
-- ```Angular```
-- ```Website Testing```
-- ```Zone.js```
-
-
-### lapi.yellowblocks.me
-- ```Akamai CDN```
-
-
-### https://www.shiseido.me/
-- ```Akamai CDN```
-
-
-### www.americangirlmena.com
-- ```Website Testing```
-
-
-## Mettle
-### Mettle Android Application
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### Mettle iOS Application
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### web-app.eevee.bbp-mettle.co.uk
-- ```Website Testing```
-
-
-### ops-tool.internal.bbp-mettle.co.uk
-- ```Website Testing```
-
-
-### *.bbp-mettle.co.uk
-
-
 ## SoundCloud
 ### soundcloud.com
 - ```Ruby```
@@ -12154,81 +11873,6 @@ Note: Out of scope targets are not filtered out
 
 
 ### support.soundcloud.org
-
-
-## Majid Al Futtaim Entertainment
-### Vox Cinemas iOS
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Vox Cinemas Android
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### https://uae.voxcinemas.com/
-- ```Akamai CDN```
-- ```Cloudflare CDN```
-- ```Website Testing```
-
-
-### https://www.skidxb.com/
-- ```Akamai CDN```
-- ```Laravel```
-- ```Website Testing```
-- ```Newrelic```
-- ```PHP```
-
-
-### https://www.magicplanetmena.com/
-- ```Akamai CDN```
-- ```Website Testing```
-- ```Newrelic```
-- ```PHP```
-
-
-### http://www.theplaymania.com/
-
-
-## Majid Al Futtaim Retail
-### Carrefour UAE iOS
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Carrefour UAE Android
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### cdnst.mafretailproxy.com
-- ```Website Testing```
-
-
-### carrefouruae.com
-- ```ReactJS```
-- ```Website Testing```
-- ```NodeJS```
-- ```NextJS```
-
-
-### uat2.carrefouruae.com
-- ```Java```
-- ```ReactJS```
-- ```Website Testing```
-- ```NodeJS```
-- ```NextJS```
 
 
 ## Opsgenie
@@ -12464,85 +12108,229 @@ Note: Out of scope targets are not filtered out
 - ```AWS```
 
 
-## Square Open Source
-### https://github.com/square/git-fastclone
-
-
-### https://github.com/square/go-jose
-
-
-### https://github.com/square/js-jose
-
-
-### https://github.com/square/keywhiz
-
-
-### https://github.com/square/keywhiz-fs
-
-
-### https://github.com/square/keysync
-
-
-### https://github.com/square/okhttp
-
-
-### https://github.com/square/okio
-
-
-### https://github.com/square/pam_krb_cache
-
-
-### https://github.com/square/ghostunnel
-
-
-### https://github.com/square/rails-auth
-
-
-### https://github.com/square/retrofit
-
-
-### https://github.com/square/squalor
-
-
-### https://github.com/square/sudo_pair
-
-
-### https://github.com/square/valet
-
-
-### https://github.com/square/wire
-
-
-## Etsy
-### Any publicly facing host owned by Etsy, including the below:
-- ```API Testing```
-- ```Java```
-- ```Android```
+## Bitdefender Box v2
+### Bitdefender Central (iOS App)
 - ```Objective-C```
 - ```SwiftUI```
 - ```Swift```
 - ```Mobile Application Testing```
-- ```Website Testing```
-- ```Kotlin```
-- ```HTTP```
 - ```iOS```
 
 
-### www.etsy.com
-- ```Varnish```
+### Bitdefender Central (Android App)
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### central.bitdefender.com
+- ```Website Testing```
+
+
+### Bitdefender BOX v2
+- ```IoT```
+
+
+## ForgeRock Identity Platform
+### Access Management (AM)
+- ```Java```
+- ```C++```
+- ```C#```
+- ```Javascript```
+
+
+### Directory Service (DS/DJ)
+- ```Java```
+- ```Javascript```
+
+
+### Identity Management (IDM)
+- ```Java```
+- ```Javascript```
+
+
+### Identity Gateway (IG)
+- ```Java```
+- ```Javascript```
+
+
+## Bugcrowd
+### bugcrowd.com
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```Website Testing```
+
+
+### Crowdcontrol
+- ```PostgreSQL```
+- ```ReactJS```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```Website Testing```
+
+
+### api.bugcrowd.com
+- ```API Testing```
+- ```PostgreSQL```
+- ```Elasticsearch```
+- ```Ruby on Rails```
+- ```JSON```
+- ```HTTP```
+
+
+### docs.bugcrowd.com
+- ```HTML```
+- ```Website Testing```
+
+
+### https://identity.bugcrowd.com/ 
+- ```API Testing```
+- ```Website Testing```
+- ```Kotlin```
+- ```Docker```
+
+
+### *.bugcrowd.com/auth/*
+- ```API Testing```
+- ```Website Testing```
+- ```Kotlin```
+- ```Docker```
+
+
+### www.bugcrowd.com
+- ```Wordpress```
+- ```Website Testing```
+
+
+### blog.bugcrowd.com
+- ```Wordpress```
+- ```Website Testing```
+
+
+### forum.bugcrowd.com
+- ```Website Testing```
+
+
+### email.bugcrowd.com
+- ```Website Testing```
+
+
+### email.forum.bugcrowd.com
+- ```Website Testing```
+
+
+### go.bugcrowd.com
+- ```Website Testing```
+
+
+### pages.bugcrowd.com
+- ```Website Testing```
+
+
+### events.bugcrowd.com
+- ```Website Testing```
+
+
+### researcherdocs.bugcrowd.com
+- ```Website Testing```
+
+
+### assetinventory.bugcrowd.com
+- ```Website Testing```
+
+
+### community.bugcrowd.com
+- ```Website Testing```
+
+
+### bugcrowd*.freshdesk.com
+- ```Website Testing```
+
+
+## Worldpay
+### Any Worldpay asset is in scope
+
+
+## FIS
+### Any FIS asset is in scope
+
+
+### Reference above out of scope targets
+
+
+## SecureDrop
+### https://github.com/freedomofpress/securedrop
+- ```Website Testing```
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-workstation
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-client
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-sdk
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-proxy
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-export
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-log
+- ```Python```
+
+
+### https://github.com/freedomofpress/securedrop-debian-packaging
+- ```Shell```
+- ```Python```
+
+
+## WHMCS Client Management Portal
+### Researcher owned WHMCS Instance
+- ```Website Testing```
+
+
+### Live production instance of WHMCS (Any instances not owned by you)
+
+
+### *.whmcs.com
+- ```Website Testing```
+
+
+### www.whmcs.com
+- ```Bootstrap```
 - ```jQuery```
-- ```Google Cloud```
 - ```Website Testing```
 
 
-### Etsy Mobile Application (Android)
-- ```Java```
+### whmcs.community
+- ```Website Testing```
+
+
+### WHMCS iOS app
+- ```iOS```
+
+
+### WHMCS Android App
 - ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
 
 
-### Etsy Mobile Application (iPhone)
+### WHMCS Windows mobile app
+
+
+## Majid Al Futtaim Entertainment
+### Vox Cinemas iOS
 - ```Objective-C```
 - ```SwiftUI```
 - ```Swift```
@@ -12550,37 +12338,534 @@ Note: Out of scope targets are not filtered out
 - ```iOS```
 
 
-### Etsy API (see documentation below)
+### Vox Cinemas Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### https://uae.voxcinemas.com/
+- ```Akamai CDN```
+- ```Cloudflare CDN```
+- ```Website Testing```
+
+
+### https://www.skidxb.com/
+- ```Akamai CDN```
+- ```Laravel```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
+
+
+### https://www.magicplanetmena.com/
+- ```Akamai CDN```
+- ```Website Testing```
+- ```Newrelic```
+- ```PHP```
+
+
+### http://www.theplaymania.com/
+
+
+## Statuspage
+### manage.statuspage.io
+- ```Fastly```
+- ```Ruby on Rails```
+- ```Moment.js```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```Newrelic```
+
+
+### *.statuspage.io
+- ```Recon```
+- ```Website Testing```
+- ```DNS```
+
+
+## Square
+### *.square.com
+- ```API Testing```
+- ```Ruby```
+- ```Ruby on Rails```
+- ```jQuery```
+- ```Website Testing```
+
+
+### *.squareup.com
+- ```Ruby```
+- ```Ruby on Rails```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```Handlebars```
+- ```Newrelic```
+
+
+### Square Point of Sale Mobile Application for Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Square Point of Sale Mobile Application for iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### https://www.weebly.com/
+- ```MySQL```
+- ```Mustache```
+- ```jQuery```
+- ```Lodash```
+- ```Website Testing```
+- ```PHP```
+
+
+### *.cash.me
+- ```Website Testing```
+
+
+### Cash App Mobile Application for Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Any vulnerabilities found in Third-party software
+- ```Website Testing```
+
+
+### Cash App Mobile Application for iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+## NETGEAR Cash Rewards
+### Nighthawk Pro Gaming Router
+- ```IoT```
+
+
+### Nighthawk Pro Gaming Switch
+- ```IoT```
+
+
+### Nighthawk Router
+- ```IoT```
+
+
+### Nighthawk Switch
+- ```IoT```
+
+
+### Nighthawk iOS App
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Nighthawk Android App
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Orbi 
+- ```IoT```
+
+
+### Orbi iOS App 
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Orbi Android App 
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Insight Managed Smart Cloud Wireless Access Point
+- ```IoT```
+
+
+### https://api.netgear.com
 - ```API Testing```
 - ```HTTP```
 
 
-### etsypayments.com
+### Insight iOS App
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
 
 
-### http://blog.etsy.com/
+### Insight Android App
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Insight Cloud Portal
 - ```Website Testing```
 
 
-### http://community.etsy.com/
+### Meural
+- ```IoT```
+
+
+## Mettle
+### Mettle Android Application
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### Mettle iOS Application
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### web-app.eevee.bbp-mettle.co.uk
 - ```Website Testing```
 
 
-### http://careers.etsy.com/
+### ops-tool.internal.bbp-mettle.co.uk
 - ```Website Testing```
 
 
-### help.etsy.com
+### *.bbp-mettle.co.uk
+
+
+## Majid Al Futtaim Lifestyle
+### www.crateandbarrel.me
+- ```Cloudflare CDN```
+- ```MySQL```
+- ```jQuery```
+- ```RequireJS```
 - ```Website Testing```
+- ```PHP```
+- ```Modernizr```
 
 
-### *.etsy.com
+### https://lego.yellowblocks.me/
+- ```Angular```
+- ```TypeScript```
 - ```Website Testing```
+- ```Zone.js```
+- ```NodeJS```
 
 
-### icht.etsysecure.com
+### https://api-prod.thatconceptstore.com/
 - ```API Testing```
-- ```HTTP```
+
+
+### THAT Concept Store iOS
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### THAT Concept Store Android
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### https://thatconceptstore.com
+- ```API Testing```
+- ```Website Testing```
+
+
+### https://www.cb2.ae/en
+- ```Akamai CDN```
+- ```Angular```
+- ```Website Testing```
+- ```Zone.js```
+
+
+### https://www.allsaints.me/
+- ```Akamai CDN```
+- ```Angular```
+- ```Website Testing```
+- ```Zone.js```
+
+
+### www.lululemon.me
+- ```Akamai CDN```
+- ```Angular```
+- ```Website Testing```
+- ```Zone.js```
+
+
+### lapi.yellowblocks.me
+- ```Akamai CDN```
+
+
+### https://www.shiseido.me/
+- ```Akamai CDN```
+
+
+### www.americangirlmena.com
+- ```Website Testing```
+
+
+## Humble Bundle
+### https://www.humblebundle.com/
+- ```Algolia```
+- ```Backbone```
+- ```Moment.js```
+- ```Select2```
+- ```jQuery```
+- ```Lodash```
+
+
+## Dropbox
+### *.dropbox.com    
+- ```Website Testing```
+
+
+### *.hellosign.com
+- ```Website Testing```
+
+
+### *.helloworks.com
+- ```Website Testing```
+
+
+### *.hellofax.com
+- ```Website Testing```
+
+
+### *.dropboxforum.com
+- ```Website Testing```
+
+
+### *.docsend.com
+- ```Website Testing```
+
+
+### *.dropboxer.net
+- ```Website Testing```
+
+
+### api.dropboxapi.com
+- ```API Testing```
+
+
+### Dropbox Sign (formerly HelloSign) Android App
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### Dropbox Android App
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### Dropbox Paper Android App
+- ```Android```
+- ```Mobile Application Testing```
+
+
+### Dropbox iOS app
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Dropbox Paper iOS app
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Dropbox EMM iOS
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Dropbox Desktop Application
+- ```Binary Analysis```
+- ```Desktop Application Testing```
+
+
+### Paper Desktop Application
+- ```Binary Analysis```
+- ```Desktop Application Testing```
+
+
+### Dropbox Capture Windows Desktop App 
+- ```Binary Analysis```
+- ```Desktop Application Testing```
+
+
+### Dropbox Capture macOS Desktop App
+- ```Binary Analysis```
+- ```Desktop Application Testing```
+
+
+## Comcast Xfinity Bug Bounty
+### *.xfinity.com	
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### *.comcast.com
+- ```ReactJS```
+- ```ASP.NET```
+- ```jQuery```
+- ```Windows```
+- ```Website Testing```
+- ```Microsoft IIS```
+
+
+### Staging, QA, Dev, and Test Environments
+- ```Website Testing```
+
+
+### *.hfc.comcastbusiness.net
+- ```Website Testing```
+
+
+### *.hsd1.*.comcast.net
+- ```Website Testing```
+
+
+### *business.comcast.com
+- ```Website Testing```
+
+
+### 10.0.0.0/8
+
+
+### 50.128.0.0/12
+
+
+### 50.152.0.0/13
+
+
+### 96.201.0.0/16
+
+
+### 96.202.128.0/17
+
+
+### 96.203.0.0/16
+
+
+### 172.26.128.0/18
+
+
+### 184.112.0.0/13
+
+
+### 184.122.0.0/15
+
+
+## ZAP
+### Latest ZAP version (2.14.0)
+
+
+### https://www.zaproxy.org
+- ```Github```
+- ```Cloudflare CDN```
+- ```Fastly```
+- ```Ruby```
+- ```Varnish```
+- ```Ruby on Rails```
+
+
+## ImageKit's Bug Bounty Program 
+### https://imagekit.io/
+- ```Gatsby```
+- ```ReactJS```
+- ```Website Testing```
+
+
+### https://imagekit.io/dashboard
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### https://ik.imagekit.io/
+- ```Amazon Cloudfront```
+- ```MongoDB```
+- ```Website Testing```
+- ```NodeJS```
+
+
+### https://api.imagekit.io/
+- ```API Testing```
+- ```JSON```
+- ```NodeJS```
+
+
+### https://upload.imagekit.io/
+- ```JSON```
+- ```Website Testing```
+- ```NodeJS```
+
+
+## Majid Al Futtaim Retail
+### Carrefour UAE iOS
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```iOS```
+
+
+### Carrefour UAE Android
+- ```Java```
+- ```Android```
+- ```Mobile Application Testing```
+- ```Kotlin```
+
+
+### cdnst.mafretailproxy.com
+- ```Website Testing```
+
+
+### carrefouruae.com
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+- ```NextJS```
+
+
+### uat2.carrefouruae.com
+- ```Java```
+- ```ReactJS```
+- ```Website Testing```
+- ```NodeJS```
+- ```NextJS```
 
 
 ## Cisco Meraki
@@ -12717,57 +13002,36 @@ Note: Out of scope targets are not filtered out
 ### Meraki MC Phones
 
 
-## Bitdefender Box v2
-### Bitdefender Central (iOS App)
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Bitdefender Central (Android App)
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### central.bitdefender.com
-- ```Website Testing```
-
-
-### Bitdefender BOX v2
-- ```IoT```
-
-
-## Square
-### *.square.com
+## Etsy
+### Any publicly facing host owned by Etsy, including the below:
 - ```API Testing```
-- ```Ruby```
-- ```Ruby on Rails```
+- ```Java```
+- ```Android```
+- ```Objective-C```
+- ```SwiftUI```
+- ```Swift```
+- ```Mobile Application Testing```
+- ```Website Testing```
+- ```Kotlin```
+- ```HTTP```
+- ```iOS```
+
+
+### www.etsy.com
+- ```Varnish```
 - ```jQuery```
+- ```Google Cloud```
 - ```Website Testing```
 
 
-### *.squareup.com
-- ```Ruby```
-- ```Ruby on Rails```
-- ```Moment.js```
-- ```Select2```
-- ```jQuery```
-- ```Handlebars```
-- ```Newrelic```
-
-
-### Square Point of Sale Mobile Application for Android
+### Etsy Mobile Application (Android)
 - ```Java```
 - ```Android```
 - ```Mobile Application Testing```
 - ```Kotlin```
 
 
-### Square Point of Sale Mobile Application for iOS
+### Etsy Mobile Application (iPhone)
 - ```Objective-C```
 - ```SwiftUI```
 - ```Swift```
@@ -12775,110 +13039,172 @@ Note: Out of scope targets are not filtered out
 - ```iOS```
 
 
-### *.cash.me
-- ```Website Testing```
-
-
-### Cash App Mobile Application for Android
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### Any vulnerabilities found in Third-party software
-- ```Website Testing```
-
-
-### Cash App Mobile Application for iOS
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-## NETGEAR Cash Rewards
-### Nighthawk Pro Gaming Router
-- ```IoT```
-
-
-### Nighthawk Pro Gaming Switch
-- ```IoT```
-
-
-### Nighthawk Router
-- ```IoT```
-
-
-### Nighthawk Switch
-- ```IoT```
-
-
-### Nighthawk iOS App
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Nighthawk Android App
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### Orbi 
-- ```IoT```
-
-
-### Orbi iOS App 
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
-
-
-### Orbi Android App 
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### Insight Managed Smart Cloud Wireless Access Point
-- ```IoT```
-
-
-### https://api.netgear.com
+### Etsy API (see documentation below)
 - ```API Testing```
 - ```HTTP```
 
 
-### Insight iOS App
-- ```Objective-C```
-- ```SwiftUI```
-- ```Swift```
-- ```Mobile Application Testing```
-- ```iOS```
+### etsypayments.com
 
 
-### Insight Android App
-- ```Java```
-- ```Android```
-- ```Mobile Application Testing```
-- ```Kotlin```
-
-
-### Insight Cloud Portal
+### http://blog.etsy.com/
 - ```Website Testing```
 
 
-### Meural
-- ```IoT```
+### http://community.etsy.com/
+- ```Website Testing```
+
+
+### http://careers.etsy.com/
+- ```Website Testing```
+
+
+### help.etsy.com
+- ```Website Testing```
+
+
+### icht.etsysecure.com
+- ```API Testing```
+- ```HTTP```
+
+
+### *.etsy.com
+- ```Website Testing```
+
+
+## FoxyCart
+### api.foxycart.com
+- ```API Testing```
+- ```OAuth```
+- ```Authentication Systems```
+
+
+### admin.foxycart.com
+- ```eCommerce```
+- ```Website Testing```
+- ```Authentication Systems```
+
+
+### foxycart-demo.foxycart.com
+- ```API Testing```
+- ```eCommerce```
+- ```Website Testing```
+
+
+### *-bugcrowd.foxycart.com (read below for details)
+
+
+### admin.foxy.io
+- ```API Testing```
+- ```Website Testing```
+- ```OAuth```
+- ```Authentication Systems```
+
+
+### auth.foxy.io
+- ```Website Testing```
+- ```OAuth```
+- ```Authentication Systems```
+
+
+## Square Open Source
+### https://github.com/square/git-fastclone
+
+
+### https://github.com/square/go-jose
+
+
+### https://github.com/square/js-jose
+
+
+### https://github.com/square/keywhiz
+
+
+### https://github.com/square/keywhiz-fs
+
+
+### https://github.com/square/keysync
+
+
+### https://github.com/square/okhttp
+
+
+### https://github.com/square/okio
+
+
+### https://github.com/square/pam_krb_cache
+
+
+### https://github.com/square/ghostunnel
+
+
+### https://github.com/square/rails-auth
+
+
+### https://github.com/square/retrofit
+
+
+### https://github.com/square/squalor
+
+
+### https://github.com/square/sudo_pair
+
+
+### https://github.com/square/valet
+
+
+### https://github.com/square/wire
+
+
+## Luno Bug Bounty Program
+### Luno Android Application
+- ```Java```
+- ```Android```
+- ```Kotlin```
+
+
+### Luno iOS Application
+- ```Swift```
+- ```iOS```
+
+
+### https://mobileapi.staging.luno.com/
+- ```API Testing```
+- ```Mobile Application Testing```
+
+
+### https://staging.luno.com/
+- ```Angular```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
+
+
+### https://ajax.staging.luno.com/
+- ```Angular```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
+
+
+### https://api.staging.luno.com/
+- ```API Testing```
+- ```nginx```
+- ```Go```
+
+
+### https://app.staging.luno.com/
+- ```Angular```
+- ```TypeScript```
+- ```Go```
+- ```Website Testing```
+
+
+## Skroutz Public Managed Bug Bounty
+### https://www.skroutz.gr/
+- ```ReactJS```
+- ```Ruby on Rails```
+- ```Website Testing```
 
 
 ## LastPass
@@ -12999,243 +13325,5 @@ Note: Out of scope targets are not filtered out
 
 
 ### Lastpass CLI tool
-
-
-## ZAP
-### Latest ZAP version (2.14.0)
-
-
-### https://www.zaproxy.org
-- ```Github```
-- ```Cloudflare CDN```
-- ```Fastly```
-- ```Ruby```
-- ```Varnish```
-- ```Ruby on Rails```
-
-
-## SecureDrop
-### https://github.com/freedomofpress/securedrop
-- ```Website Testing```
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-workstation
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-client
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-sdk
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-proxy
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-export
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-log
-- ```Python```
-
-
-### https://github.com/freedomofpress/securedrop-debian-packaging
-- ```Shell```
-- ```Python```
-
-
-## FoxyCart
-### api.foxycart.com
-- ```API Testing```
-- ```OAuth```
-- ```Authentication Systems```
-
-
-### admin.foxycart.com
-- ```eCommerce```
-- ```Website Testing```
-- ```Authentication Systems```
-
-
-### foxycart-demo.foxycart.com
-- ```API Testing```
-- ```eCommerce```
-- ```Website Testing```
-
-
-### *-bugcrowd.foxycart.com (read below for details)
-
-
-### admin.foxy.io
-- ```API Testing```
-- ```Website Testing```
-- ```OAuth```
-- ```Authentication Systems```
-
-
-### auth.foxy.io
-- ```Website Testing```
-- ```OAuth```
-- ```Authentication Systems```
-
-
-## Humble Bundle
-### https://www.humblebundle.com/
-- ```Algolia```
-- ```Backbone```
-- ```Moment.js```
-- ```Select2```
-- ```jQuery```
-- ```Lodash```
-
-
-## Statuspage
-### manage.statuspage.io
-- ```Fastly```
-- ```Ruby on Rails```
-- ```Moment.js```
-- ```jQuery```
-- ```Lodash```
-- ```Website Testing```
-- ```Newrelic```
-
-
-### *.statuspage.io
-- ```Recon```
-- ```Website Testing```
-- ```DNS```
-
-
-## WHMCS Client Management Portal
-### Researcher owned WHMCS Instance
-- ```Website Testing```
-
-
-### Live production instance of WHMCS (Any instances not owned by you)
-
-
-### *.whmcs.com
-- ```Website Testing```
-
-
-### www.whmcs.com
-- ```Bootstrap```
-- ```jQuery```
-- ```Website Testing```
-
-
-### whmcs.community
-- ```Website Testing```
-
-
-### WHMCS iOS app
-- ```iOS```
-
-
-### WHMCS Android App
-- ```Android```
-
-
-### WHMCS Windows mobile app
-
-
-## Bugcrowd
-### bugcrowd.com
-- ```PostgreSQL```
-- ```ReactJS```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```Website Testing```
-
-
-### Crowdcontrol
-- ```PostgreSQL```
-- ```ReactJS```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```Website Testing```
-
-
-### api.bugcrowd.com
-- ```API Testing```
-- ```PostgreSQL```
-- ```Elasticsearch```
-- ```Ruby on Rails```
-- ```JSON```
-- ```HTTP```
-
-
-### docs.bugcrowd.com
-- ```HTML```
-- ```Website Testing```
-
-
-### https://identity.bugcrowd.com/ 
-- ```API Testing```
-- ```Website Testing```
-- ```Kotlin```
-- ```Docker```
-
-
-### *.bugcrowd.com/auth/*
-- ```API Testing```
-- ```Website Testing```
-- ```Kotlin```
-- ```Docker```
-
-
-### www.bugcrowd.com
-- ```Wordpress```
-- ```Website Testing```
-
-
-### blog.bugcrowd.com
-- ```Wordpress```
-- ```Website Testing```
-
-
-### forum.bugcrowd.com
-- ```Website Testing```
-
-
-### email.bugcrowd.com
-- ```Website Testing```
-
-
-### email.forum.bugcrowd.com
-- ```Website Testing```
-
-
-### go.bugcrowd.com
-- ```Website Testing```
-
-
-### pages.bugcrowd.com
-- ```Website Testing```
-
-
-### events.bugcrowd.com
-- ```Website Testing```
-
-
-### researcherdocs.bugcrowd.com
-- ```Website Testing```
-
-
-### assetinventory.bugcrowd.com
-- ```Website Testing```
-
-
-### community.bugcrowd.com
-- ```Website Testing```
-
-
-### bugcrowd*.freshdesk.com
-- ```Website Testing```
 
 

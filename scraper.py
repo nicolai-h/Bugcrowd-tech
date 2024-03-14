@@ -1,11 +1,11 @@
 import requests
-import time
 from datetime import datetime
 
-def scrape_program_urls(page):
-    url = f"https://bugcrowd.com/programs.json?sort[]=promoted-desc&vdp[]=false&page[]={page}"
-    r = requests.get(url)
 
+def scrape_program_urls(page):
+    url = f"https://bugcrowd.com/engagements.json?category=bug_bounty&page={page}&sort_by=promoted&sort_direction=desc"
+    r = requests.get(url)
+    
     return r.json()
 
 
@@ -42,6 +42,7 @@ def scrape_program_target_tech(target_urls):
             continue
 
         for target in targets:
+            print(target)
             tech_used = []
             sub_domain = target['name']
             for tech in target['target']['tags']:
@@ -52,18 +53,21 @@ def scrape_program_target_tech(target_urls):
 
 
 def main():
-    total_pages = scrape_program_urls(1)['meta']['totalPages']
     program_urls = []
+    page = 1
 
-    for page in range(1,total_pages+1):
-        programs = scrape_program_urls(page)['programs']
+    while True:
+        programs = scrape_program_urls(page)['engagements']
+        page += 1
+        if len(programs) == 0:
+            break
 
         for program in programs:
             prog = ""
             name = ""
 
             try:
-                prog = program['program_url']
+                prog = program['briefUrl']
                 name = program['name']
               
             except:
@@ -74,28 +78,29 @@ def main():
     target_urls = scrape_program_target_groups(program_urls)
     tech = scrape_program_target_tech(target_urls)
     
-    # write content to md
+    # write content to markdown file
     with open("bugcrowd_tech.md", "w") as f:
         f.write("# BugCrowd Tech\n")
         f.write("## Info\n")
 
         dt = datetime.now()
         f.write(f"Updated {dt}\n\n")
-        f.write("Filtered with: sort[]=promoted-desc&vdp[]=false\n\n")
+        f.write("Filtered with: sort_by=promoted&sort_direction=desc\n\n")
         f.write("Note: Out of scope targets are not filtered out\n\n")
 
-        curr_site = tech[0][2]
-        f.write(f"## {curr_site}\n")
+        current_site = tech[0][2]
+        f.write(f"## {current_site}\n")
 
         for site in tech:
-            if (site[2] != curr_site):
-                curr_site = site[2]
-                f.write(f"## {curr_site}\n")
+            if (site[2] != current_site):
+                current_site = site[2]
+                f.write(f"## {current_site}\n")
 
             f.write(f"### {site[0]}\n")
             for t in site[1]:
                 f.write(f"- ```{t}```\n")
             f.write("\n\n")
+
 
 if __name__ == '__main__':
     main()
